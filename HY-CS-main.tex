@@ -1,0 +1,210 @@
+%% Follow comments to support use.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% STEP 1: Choose options for MSc / BSc / seminar layout and your bibliographic style
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%  Language: 
+%%      finnish, swedish, or english
+%%  Pagination (use twoside by default)  
+%%      oneside or twoside,
+%%  Study programme / kind of report
+%%      csm  = Master's thesis in Computer Science Master's Programme;
+%%      tkt = Bachelor's thesis in Computer Science Bachelor's Programme;
+%%      seminar = seminar report
+%%  For Master's thesis choose your line or track:
+%%      (30 cr thesis, 2020 onwards, Master's Programme in Computer Science = csm)
+%%      software-track-2020 = Software study track
+%%      algorithms-track-2020 = Algorithms study track
+%%      networking-track-2020 = Networking study track
+
+\documentclass[english,twoside,censored,csm,software-track-2020]{HYthesisML} 
+
+
+% If wanted, open new chapters only at right page.
+% By default, "openany".
+%\PassOptionsToClass{openright,twoside,a4paper}{report}
+\PassOptionsToClass{openany,twoside,a4paper}{report}
+
+\usepackage{csquotes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% REFERENCES
+%% Some notes on bibliography usage and options:
+%% natbib -> you can use, e.g., \citep{} or \parencite{} for (Einstein, 1905); with APA \cite -> Einstein, 1905 without ()
+%% maxcitenames=2 -> only 2 author names in text citations, if more -> et al. is used
+%% maxbibnames=99 as no great need to suppress the biliography list in a thesis
+%% for more information see biblatex package documentation, e.g., from https://ctan.org/pkg/biblatex 
+
+%% Reference style: select one 
+%% for APA = Harvard style = authoryear -> (Einstein, 1905) use:
+\usepackage[style=authoryear,bibstyle=authoryear,backend=biber,natbib=true,maxnames=99,maxcitenames=2,uniquelist=minyear,giveninits=true,uniquename=mininit]{biblatex}
+%% for numeric = Vancouver style -> [1] use:
+%\usepackage[style=numeric,bibstyle=numeric,backend=biber,natbib=true,maxbibnames=99,giveninits=true,uniquename=init]{biblatex}
+%% for alpahbetic -> [Ein05] use:
+%\usepackage[style=alphabetic,bibstyle=alphabetic,backend=biber,natbib=true,maxbibnames=99,giveninits=true,uniquename=init]{biblatex}
+%
+
+\addbibresource{bibliography.bib}
+% in case you want the final delimiter between authors & -> (Einstein & Zweistein, 1905) 
+% \renewcommand{\finalnamedelim}{ \& }
+% List the authors in the Bibilipgraphy as Lastname F, Familyname G,
+\DeclareNameAlias{sortname}{family-given}
+% remove the punctuation between author names in Bibliography 
+%\renewcommand{\revsdnamepunct}{ }
+
+
+%% Block of definitions for fonts and packages for picture management.
+%% In some systems, the figure packages may not be happy together.
+%% Choose the ones you need.
+
+%\usepackage[utf8]{inputenc} % For UTF8 support, in some systems. Use UTF8 when saving your file.
+
+\usepackage{lmodern}         % Font package, again in some systems.
+\usepackage{textcomp}        % Package for special symbols
+\usepackage[pdftex]{color, graphicx} % For pdf output and jpg/png graphics
+\usepackage{epsfig}
+\usepackage{subfigure}
+\usepackage[pdftex, plainpages=false]{hyperref} % For hyperlinks and pdf metadata
+\usepackage{fancyhdr}        % For nicer page headers
+\usepackage{tikz}            % For making vector graphics (hard to learn but powerful)
+%\usepackage{wrapfig}        % For nice text-wrapping figures (use at own discretion)
+\usepackage{amsmath, amssymb} % For better math
+
+\singlespacing               %line spacing options; normally use single
+
+\fussy
+%\sloppy                      % sloppy and fussy commands can be used to avoid overlong text lines
+% if you want to see which lines are too long or have too little stuff, comment out the following lines
+% \overfullrule=1mm
+% to see more info in the detailed log about under/overfull boxes...
+% \showboxbreadth=50 
+% \showboxdepth=50
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% STEP 2:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Set up personal information for the title page and the abstract form.
+%% Replace parameters with your information.
+\title{Title}
+
+\author{Firstname Lastname}
+\date{\today}
+
+% Set supervisors, use the titles according to the thesis language
+% in English Prof. or Dr., or in Finnish toht. or tri or FT, TkT, Ph.D. or in Swedish... 
+\supervisors{Prof.~D.U.~Mind, Dr.~O.~Why}
+
+\keywords{algorithms, data structures}
+\additionalinformation{\translate{\track}}
+
+%% For seminar reports:
+%%\additionalinformation{Name of the seminar}
+
+%% Provide classification terms, to appear on the abstract page.
+%% Replace the classification terms below with the ones that match your work.
+%% ACM Digital library provides a taxonomy and a tool for classification
+%% in computer science. Use 1-3 paths, and use right arrows between the
+%% about three levels in the path; each path requires a new line.
+
+\classification{\protect{\ \\
+\  General and reference $\rightarrow$ Document types  $\rightarrow$ Surveys and overviews\  \\
+\  Applied computing  $\rightarrow$ Document management and text processing  $\rightarrow$ Document management $\rightarrow$ Text editing
+}}
+
+%% If you want to quote someone special. You can comment this line out and there will be nothing on the document.
+%\quoting{Bachelor's degrees make pretty good placemats if you get them laminated.}{Jeph Jacques}
+
+
+%% OPTIONAL STEP: Set up properties and metadata for the pdf file that pdfLaTeX makes.
+%% Your name, work title, and keywords are recommended.
+\hypersetup{
+    unicode=true,           % to show non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={},            % title
+    pdfauthor={},           % author
+    pdfsubject={},          % subject of the document
+    pdfcreator={},          % creator of the document
+    pdfproducer={pdfLaTeX}, % producer of the document
+    pdfkeywords={something} {something else}, % list of keywords for
+    pdfnewwindow=true,      % links in new window
+    colorlinks=true,        % false: boxed links; true: colored links
+    linkcolor=black,        % color of internal links
+    citecolor=black,        % color of links to bibliography
+    filecolor=magenta,      % color of file links
+    urlcolor=cyan           % color of external links
+}
+
+%%-----------------------------------------------------------------------------------
+
+\begin{document}
+
+% Generate title page.
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% STEP 3:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Write your abstract in the separate file, to be positioned here.
+%% You can make several abstract pages (if you want it in different languages),
+%% in which case you should also define the language of the abstract,
+%% as below.
+
+\include{Ch.00_Abstract}
+
+% Place ToC
+%\newpage
+\mytableofcontents
+
+\mainmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% STEP 4: Write the thesis.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Your actual text starts here. You shouldn't mess with the code above the line except
+%% to change the parameters. Removing the abstract and ToC commands will mess up stuff.
+%%
+%% Command \include{file} includes the file of name file.tex.
+%% A new page will be created at every \include command, 
+%% which makes it appropriate to use it for large entities such as book chapters. Cannot be nested.
+%% It is useful for a big project, as changing one of the include targets 
+%% won't force the regeneration of the outputs of all the rest.
+%% Alternatively, \input is a more lower level macro 
+%% which simply inputs the content of the given file like it was copy&pasted there manually.
+
+\include{Ch.10_Introduction}
+\include{Ch.20_Methods}
+\include{Ch.30_Results}
+\include{Ch.40_Discussion}
+\include{Ch.50_Conclusions}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\cleardoublepage                          %fixes the position of bibliography in bookmarks
+%\phantomsection
+\addcontentsline{toc}{chapter}{\bibname}  % This lines adds the bibliography to the ToC
+\printbibliography
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\backmatter
+\begin{appendices}
+
+%% A sample Appendix
+\include{Ch.90_Appendix_1}
+%% another appendix
+\include{instructions/instructions_english}
+%% yet another appendix
+\include{instructions/instructions_finnish}
+
+% BSc instructions
+%\include{instructions/bsc_finnish_contents}
+%\include{instructions/bsc_english_contents}
+
+
+\end{appendices}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

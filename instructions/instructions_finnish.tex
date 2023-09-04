@@ -1,0 +1,159 @@
+
+\appendix{Tutkielmapohjan käyttöohjeet}
+\label{appendix:instructions_finnish}
+
+\section{Ensiaslkeleet}
+
+\texttt{HY-CS-main.tex} tiedosto sisältää viisi askelta STEPS 0--5. Alla on kuvattu, mitä nämä askeleet tarkoittavat ja miten niitä seuraamalla luot pohjan tutkielmallesi.
+\vspace{0.5cm}
+
+\textbf{STEP 0 -- Kopioi tutkielmapohja}
+
+\begin{itemize}
+\item Hae tutkielmapohja uuteen Overleaf-projektiin. Tämä käy helpoiten seuraavasti:
+\begin{itemize}
+    \item Lataa Latex-pohjan zip-tiedosto koulutusohjelman sivuilta.
+    \item Mene osoitteeseen \url{www.overleaf.com/edu/helsinki} ja kirjaudu Overleafiin yli\-opiston tunnuksillasi.
+    \item Overleafissa (\url{https://www.overleaf.com/project}), klikkaa ``New Project'' and ``Upload Project''.
+    \item Valitse lataamasi tutkielmapohjan zip-tiedosto.
+    \item Nyt voit lähteä kirjoittamaan tutkielmaasi suoraan pohjaan, voit aloittaa esim. vaihtamalla projektin nimen.
+\end{itemize}
+\end{itemize}
+
+
+{\textbf{STEP 1 -- BSc vai MSc tutkielma?}}
+\begin{enumerate}
+\item Valitse (tiedostossa \texttt{HY-CS-main.tex}) oletko tekemässä BSc (tkt) vai MSc (csm tietojenkäsittely) tutkielmaa.
+\item Valitse kieli jolla kirjoitat tutkielman: \texttt{finnish}, \texttt{english} tai \texttt{swedish}.
+\item Jos olet kirjoittamassa maisterintutkielmaa, valitse linja/opintosuunta.
+\end{enumerate}
+
+
+{\textbf{STEP 2 -- Aseta henkilökohtaiset tietosi}}
+
+\begin{enumerate}
+\item Kirjoita alustava otsikko tutkielmallesi: \texttt{\textbackslash title\{\}}.
+\item Kirjoita oma nimesi kohtaan \texttt{\textbackslash author\{\}}.
+\item Lisää ohjaajien nimet \texttt{\textbackslash supervisors\{\}}.
+\item Määrittele avainsanat \texttt{\textbackslash keywords\{\}}.
+\item Määritä tutkielmasi ACM luokittelutermit \texttt{\textbackslash classification\{\}}. Ks. lisätietoa: \url{https://dl.acm.org/ccs}.
+\end{enumerate}
+
+{\textbf{STEP 3 -- Kirjoita tiivistelmä}}
+
+%\begin{itemize}
+%\item 
+Voit kirjoittaa tiivistelmän (koko tiivistelmäsivu) eri kielillä \texttt{otherlanguages}-ym\-pä\-ris\-tön avulla. Alla esimerkki jolla kirjoitat englanninkielisen tiivistelmän muulla kuin englannin kielellä kirjoitettuun tutkielmaan:
+
+\begin{verbatim}
+\begin{otherlanguage}{english} 
+\begin{abstract}
+Your abstract text goes here. 
+\end{abstract} 
+\end{otherlanguage}
+\end{verbatim}
+
+%\end{itemize}
+
+{\textbf{STEP 4 -- Kirjoita tutkielma}}
+
+\begin{enumerate}
+\item Kirjoittamisesta Latexilla löydät hieman ohjeita alempaa.
+\item Poista tämä liite ja muu ohjeistus tutkielmastasi, esim. kommentoimalla.
+\end{enumerate}
+
+{\textbf{STEP 5 -- Aseta kirjallisuuslähdeluettelon tyyli}}
+
+\begin{itemize}
+\item Oletustyylin tekijä-vuosi, eli (Einstein, 1905), voit vaihtaa viittaustyylin (tiedostossa \texttt{HY-CS-main.tex}) helposti (eri mallit kommentoituna) esim. numeroituun [1], tai aakkostyyliin [Ein05].
+Lisää ohjeita liittyen viittaustyylin säätämiseen {Bib}\TeX issä löytyy verkosta: \url{https://ctan.org/pkg/biblatex}
+\item Sovi käytettävä tyyli ohjaajasi kanssa. 
+\end{itemize}
+
+\section{Kirjallisuusviitteet Latexissa}
+
+Kirjallisuuslähteet ylläpidetään erillisessä .bib-tiedostossa. Tässä tutkielmapohjassa käy\-te\-tyt kirjallisuuslähteet, joista esimerkkejä kuvassa~\ref{bibexamples-fi}, löytyvät tiedostosta\newline \texttt{bibliography.bib}.
+
+\begin{figure}[ht]
+    \centering
+    \begin{scriptsize}
+\begin{verbatim}
+
+@article{einstein,
+    author =       "Albert Einstein",
+    title =        "{Zur Elektrodynamik bewegter K{\"o}rper}. ({German})
+        [{On} the electrodynamics of moving bodies]",
+    journal =      "Annalen der Physik",
+    volume =       "322",
+    number =       "10",
+    pages =        "891--921",
+    year =         "1905",
+    DOI =          "http://dx.doi.org/10.1002/andp.19053221004"
+}
+
+@book{latexcompanion,
+    author    = "Michel Goossens and Frank Mittelbach and Alexander Samarin",
+    title     = "The \LaTeX\ Companion",
+    year      = "1993",
+    publisher = "Addison-Wesley",
+    address   = "Reading, Massachusetts"
+}
+
+@book{knuth99,
+    author    = "Donald E. Knuth",
+    title     = "Digital Typography",
+    year      = "1999",
+    publisher = "The Center for the Study of Language and Information",
+    series    = "CLSI Lecture Notes (78)"
+}
+\end{verbatim}
+\end{scriptsize}
+    \caption{Esimerkkejä kirjallisuuslähteiden kuvaamisesta .bib-tiedostossa.}
+    \label{bibexamples-fi}
+\end{figure}
+
+Viitteet kirjallisuuslähteisiin muodostetaan komennolla \texttt{\textbackslash citep\{einstein\}}, josta generoituu tekstiin valitun viittaustyylin mukaisesti muotoiltu viite \citep{einstein}, tai \texttt{\textbackslash citep\{latexcompanion,knuth99\}}, josta tekstiin puolestaan generoituu \citep{latexcompanion,knuth99}. 
+Voit esimerkiksi kirjoittaa \citep{einstein} viitataksesi julkaisuun, jonka on kirjoittanut \citeauthor{einstein} vuonna \citeyear{einstein}, kun vain lähde \citet{einstein} on oikein lisättynä kirjallisuuslähdetiedostossa (katso miltä nämä näyttävät Latex lähdekoodissa).
+
+Tekstissä viitatut kirjallisuuslähteet tulevat automaattisesti viiteluetteloon. Kirjallisuuslähteiden tietojen oikeellisuus ja yhdenmukaisuus .bib-tiedostossa vaikuttavat luonnollisesti siihen, miten tiedot tutkielmassa näyttäytyvät. Tämä on syytä huomioida, sillä esim.\ verkosta valmiiksi {Bib\TeX} muodossa löytyvien tietojen täydellisyyten tai samanmuotoisuuteen ei pidä sokeasti luottaa.  
+
+
+Keskustele viittaustyylin valinnasta ohjaajan kanssa. 
+%Joitain vaihtoehtoja on osoitteessa:\\ 
+%\url{https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles}.
+%\url{https://www.sharelatex.com/learn/Bibtex_bibliography_styles}.
+
+\section{Joitain ohjeita Latexilla kirjoittamiseen}
+
+Seuraavassa on joitain ohjeita tämän tutkielmapohjan käyttöön maisterintutkielmassa. Kirjoittamisohjeita löytyy useasta eri lähteestä. Voit esimerkiksi tutustua kandidaatintutkielman ohjeisiin. 
+Ohjaajan kanssa on hyvä keskustella aikaisessa vaiheessa työn rakenteesta.
+
+Yksityiskohtaisia ohjeita Latexin käyttämäsestä saa parhaiten hakemalla verkosta, esim. haku englanniksi "Overleaf table positioning" tuottaa oletettavasti aika toimivan vastauksen.
+
+\section{Kuvat}
+Kuva~\ref{fig:logo-fi} toimii esimerkkinä kuvan lisäämisestä työhön (katso tarkemmin mallia Latex lähdekoodista). Muista myös viitata jokaiseen kuvaan tekstissä. 
+
+\begin{figure}[ht] % remove [h!] for automatic placement, which is probably better for a thesis with more text on page
+\centering 
+\includegraphics[width=0.3\textwidth]{template/figures/HY-logo-ml.png}
+\caption{Helsingin yliopiston logo matemaattis-luonnontieteellisen tiedekunnan värein.\label{fig:logo-fi}}
+\end{figure}
+
+\newpage % just to keep the table on the same page with the short piece of text
+\section{Taulukot}
+
+Taulukossa~\ref{table:results-fi} on esimerkki kokeellisten tulosten raportoinnista taulukkona. Muista myös viitata jokaiseen taulukkoon tekstissä.
+\begin{table}[ht]
+\centering
+\caption{Kokeelliset tulokset.\label{table:results-fi}}
+\begin{tabular}{l||l c r} 
+Koe & 1 & 2 & 3 \\ 
+\hline \hline 
+$A$ & 2.5 & 4.7 & -11 \\
+$B$ & 8.0 & -3.7 & 12.6 \\
+$A+B$ & 10.5 & 1.0 & 1.6 \\
+\hline
+%
+\end{tabular}
+\end{table}
+

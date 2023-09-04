@@ -1,0 +1,48 @@
+\ProvidesDictionary{translator-UHCSthesis-coverpage-dictionary}{Finnish}
+\providetranslation{translation-UHCSthesis-coverpage-dictionary}{Finnish}
+
+
+\providetranslation{tkt-bsc-level}{Kanditutkielma}
+\providetranslation{tktl-bsc-level}{Kandidaatintutkielma}
+\providetranslation{msc-level-2020}{Maisterintutkielma}
+\providetranslation{msc-level-2018}{Maisterintutkielma}
+\providetranslation{msc-level-2017}{Pro gradu -tutkielma}
+\providetranslation{dsm-level}{MSc thesis}
+\providetranslation{sw-line}{Ohjelmistoj\"arjestelmien erikoistumislinja}
+\providetranslation{alko-line}{Algoritmien, data-analytiikan ja koneoppimisen erikoistumislinja}
+\providetranslation{bio-line}{Algoritmisen bioinformatiikan erikoistumislinja}
+\providetranslation{nodes-line}{Hajautettujen j\"arjestelmien ja tietoliikenteen erikoistumislinja}
+
+\providetranslation{sw-line-2017}{Ohjelmistoj\"arjestelmien erikoistumislinja}
+\providetranslation{alko-line-2017}{Algoritmien, data-analytiikan ja koneoppimisen erikoistumislinja}
+\providetranslation{bio-line-2017}{Algoritmisen bioinformatiikan erikoistumislinja}
+\providetranslation{nodes-line-2017}{Hajautettujen j\"arjestelmien ja tietoliikenteen erikoistumislinja}
+
+\providetranslation{sw-track-2018}{Ohjelmistoj\"arjestelmien opintosuunta}
+\providetranslation{alko-track-2018}{Algoritmien opintosuunta}
+\providetranslation{nodes-track-2018}{Hajautettujen j\"arjestelmien ja tietoliikenteen opintosuunta}
+
+\providetranslation{software-track-2020}{Ohjelmistojen opintosuunta}
+\providetranslation{algorithms-track-2020}{Algoritmien opintosuunta}
+\providetranslation{networking-track-2020}{Tietoverkkojen opintosuunta}
+
+\providetranslation{tktl-programme}{Tietojenk\"asittelytiede}
+\providetranslation{tkt-programme}{Tietojenk\"asittelytieteen kandiohjelma}
+\providetranslation{csm-programme}{Tietojenk\"asittelytieteen maisteriohjelma}
+\providetranslation{cs-programme}{Tietojenk\"asittelytiede}
+\providetranslation{dsm-programme}{Master's Programme in Data Science}
+\providetranslation{department2017}{Tietojenk\"asittelytieteen laitos}
+\providetranslation{department2018}{Tietojenk\"asittelytieteen osasto}
+\providetranslation{uh}{Helsingin yliopisto}
+\providetranslation{helsinki}{Helsinki}
+\providetranslation{faculty}{Matemaattis-luonnontieteellinen tiedekunta}
+\providetranslation{address}{PL 68 (Pietari Kalmin katu 5)\newline 00014 Helsingin yliopisto}
+\providetranslation{eaddress}{S\"ahkopostiosoite: info@cs.helsinki.fi\newline URL: http://www.cs.helsinki.fi/}
+\providetranslation{ytiedot}{Yhteystiedot}
+\providetranslation{supervisors}{Ohjaaja(t)}
+\providetranslation{examiner}{Tarkastaja(t)}
+\providetranslation{library}{Helsingin yliopiston kirjasto}
+\providetranslation{appendices}{liitett\"a}
+\providetranslation{appendice pages}{liitesivua}
+\providetranslation{pp}{sivua}
+\providetranslation{seminar}{Seminaariraportti}

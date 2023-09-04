@@ -1,0 +1,165 @@
+
+\appendix{Instructions for LaTex}
+
+\section{General Setup}
+
+In the HY-CS-main.tex file you will find the following STEPS 0--5. Below you can find related instructions.
+\vspace{0.5cm}
+
+\textbf{STEP 0 -- Access the thesis template}
+
+\begin{itemize}
+\item Import the thesis template into a new Overleaf project. The easiest way to do it is to:
+\begin{itemize}
+    \item Obtain a zip file of the LaTeX template from the webpage of your programme.
+    \item Go to \url{https://www.overleaf.com/edu/helsinki} and login to Overleaf with your university credentials.
+    \item Go to the list of your projects at \url{https://www.overleaf.com/project}, click ``New Project'' and ``Upload Project''.,  the projects under your account 
+    \item Then upload the zip with the template.
+    \item You are now ready to write your thesis in Overleaf by editing the template, you can start by renaming the project.
+\end{itemize}
+\end{itemize}
+
+
+{\textbf{STEP 1 -- BSc or MSc thesis?}}
+\begin{enumerate}
+\item Select whether your are writing BSc (tkt) or MSc (csm for CS) thesis.
+\item Select your language: \texttt{finnish}, \texttt{english}, or \texttt{swedish}.
+\item If you are writing MSc select your line / track.
+\end{enumerate}
+
+
+{\textbf{STEP 2 -- Set up your personal information}}
+
+\begin{enumerate}
+\item Specify the title of your thesis with \texttt{\textbackslash title\{\}}.
+\item Specify your name to the author field with \texttt{\textbackslash author\{\}}.
+\item Specify the names of your supervisors of the thesis with \texttt{\textbackslash supervisors\{\}}.
+\item Specify the keywords of the thesis with \texttt{\textbackslash keywords\{\}}.
+\item Specify the ACM classification terms of the thesis with \texttt{\textbackslash classification\{\}}. See \url{https://dl.acm.org/ccs} for more information.
+\end{enumerate}
+
+{\textbf{STEP 3 -- Write your abstract}}
+
+\begin{itemize}
+\item You can have the abstract in multiple languages with the \texttt{otherlanguages} environment. The example below shows how to provide an English abstract: 
+
+\begin{verbatim}
+\begin{otherlanguage}{english} 
+\begin{abstract}
+Your abstract text goes here. 
+\end{abstract} 
+\end{otherlanguage}
+\end{verbatim}
+
+\end{itemize}
+
+{\textbf{STEP 4 -- Writing your thesis}}
+
+\begin{enumerate}
+\item There are some minimal contents and instructions below 
+\item Remove, or comment out, this appendix from your thesis.
+\end{enumerate}
+
+{\textbf{STEP 5 -- Set your bibliography style}}
+
+\begin{itemize}
+\item The default is Author-Year style (Einstein, 1905), but it can be easily changed to numbered [1] or alphabetical [Ein05] , as the examples of these are in comments.
+\item Discuss the style to use with your supervisor.
+\end{itemize}
+
+\section{Bibliography in Latex}
+
+The bibliography is defined in a separate \texttt{.bib} file. For this template, it is named \texttt{bibliography.bib} and includes the content show in Figure~\ref{bibexamples}.
+
+Chapter Bibliography lists all the works that you refer to in your text. You refer to the works in the bibliography using an appropriate \emph{citation key}.
+%
+%This thesis template contains an example of a bibliography.
+
+
+References are done using \texttt{\textbackslash citep\{einstein\}}, which generates in text a citation formatted according to the selected style \citep{einstein}, or \texttt{\textbackslash citep\{latexcompanion,knuth99\}}, which generates \citep{latexcompanion,knuth99}. 
+As examples of a different kinds of citations (see how these look in the Latex source), we can write \citep{einstein} to refer to the work written by \citeauthor{einstein} in \citeyear{einstein}, because the work by \citet{einstein} appears in the bilbliography included in this template.
+
+Note that there are different possible styles for the bibliography and citation keys.
+%
+Consult your supervisors on the chosen style -- and once you arrive at a preferred style, use it consistently throughout the thesis.
+
+\begin{figure}[ht]
+    \centering
+    \begin{scriptsize}
+\begin{verbatim}
+@article{einstein,
+    author =       "Albert Einstein",
+    title =        "{Zur Elektrodynamik bewegter K{\"o}rper}. ({German})
+        [{On} the electrodynamics of moving bodies]",
+    journal =      "Annalen der Physik",
+    volume =       "322",
+    number =       "10",
+    pages =        "891--921",
+    year =         "1905",
+    DOI =          "http://dx.doi.org/10.1002/andp.19053221004"
+}
+ 
+@book{latexcompanion,
+    author    = "Michel Goossens and Frank Mittelbach and Alexander Samarin",
+    title     = "The \LaTeX\ Companion",
+    year      = "1993",
+    publisher = "Addison-Wesley",
+    address   = "Reading, Massachusetts"
+}
+
+@book{knuth99,
+    author    = "Donald E. Knuth",
+    title     = "Digital Typography",
+    year      = "1999",
+    publisher = "The Center for the Study of Language and Information",
+    series    = "CLSI Lecture Notes (78)"
+}\end{verbatim}
+\end{scriptsize}
+    \caption{Examples of bibliographic reference in .bib file.}
+    \label{bibexamples}
+\end{figure}
+
+%In the last reference url field the code \verb+%7E+ will translate into \verb+~+ once clicked in the final pdf.
+
+\section{Some instructions about writing in Latex}
+
+The following gives some superficial instructions for using this template for a Master's thesis. For guidelines on thesis writing you can consult various sources, such as university courses on scientific writing or your supervisors.
+
+For more detailed instructions, just google, e.g., "Overleaf table positioning", and your chances of finding good info are pretty good.  
+
+
+\section{Figures}
+Besides text, here are simple examples how you can add figures and tables in your thesis.
+Remember always to refer to each figure in the main text and provide them with a descriptive caption.
+
+Figure~\ref{fig:logo} is an example of a figure in the document (see the source about how to add them). 
+%Using figures is particularly useful to display plots of experimental results.
+
+\begin{figure}[ht] 
+\begin{center}
+\includegraphics[width=0.3\textwidth]{template/figures/HY-logo-ml.png}
+\caption{University of Helsinki flame-logo for Faculty of Science.\label{fig:logo}}
+\end{center}
+\end{figure}
+
+\section{Tables}
+
+Table~\ref{table:results} gives an example of a table.
+Remember always to cite the table in the main text, table captions go on top of the table. 
+
+\begin{table}[h] % h positions the table here, t! would force on top of the page, or example.
+\begin{center}
+\caption{Experimental results.\label{table:results}} % caption is here to make it on top
+\begin{tabular}{l||l c r} 
+Experiment & 1 & 2 & 3 \\ 
+\hline \hline 
+$A$ & 2.5 & 4.7 & -11 \\
+$B$ & 8.0 & -3.7 & 12.6 \\
+$A+B$ & 10.5 & 1.0 & 1.6 \\
+\hline
+%
+\end{tabular}
+\end{center}
+\end{table}
+
+

@@ -1,0 +1,49 @@
+\ProvidesDictionary{translator-UHCSthesis-coverpage-dictionary}{English}
+\providetranslation{translation-UHCSthesis-coverpage-dictionary}{English}
+
+\providetranslation{tkt-bsc-level}{Bachelor's thesis}
+\providetranslation{tktl-bsc-level}{Bachelor's thesis}
+\providetranslation{msc-level-2020}{Master's thesis}
+\providetranslation{msc-level-2018}{Master's thesis}
+\providetranslation{msc-level-2017}{Master's thesis}
+\providetranslation{dsm-level}{Master's thesis}
+\providetranslation{sw-line}{Software Systems specialisation line}
+\providetranslation{alko-line}{Algorithms specialisation line}
+\providetranslation{bio-line}{Algorithmic bioinformatics specialisation line}
+\providetranslation{nodes-line}{Networking and Services specialisation line}
+\providetranslation{dsm-level}{Master's thesis}
+
+\providetranslation{sw-line-2017}{Software systems subprogramme}
+\providetranslation{alko-line-2017}{Algorithms, Data Analytics and Machine Learning subprogramme}
+\providetranslation{bio-line-2017}{Algorithmic Bioinformatics subprogramme}
+\providetranslation{nodes-line-2017}{Networking and Services subprogramme}
+
+\providetranslation{sw-track-2018}{Software Systems study track}
+\providetranslation{alko-track-2018}{Algorithms study track}
+\providetranslation{nodes-track-2018}{Networking and Services study track}
+
+\providetranslation{software-track-2020}{Software study track}
+\providetranslation{algorithms-track-2020}{Algorithms study track}
+\providetranslation{networking-track-2020}{Networking study track}
+
+
+\providetranslation{tktl-programme}{Computer Science}
+\providetranslation{tkt-programme}{Batchelor's Programme in Computer Science}
+\providetranslation{csm-programme}{Master's Programme in Computer Science}
+\providetranslation{cs-programme}{Computer Science}
+\providetranslation{dsm-programme}{Master's Programme in Data Science}
+\providetranslation{department2017}{Department of Computer Science}
+\providetranslation{department2018}{Department of Computer Science}
+\providetranslation{uh}{University of Helsinki}
+\providetranslation{helsinki}{Helsinki}
+\providetranslation{faculty}{Faculty of Science}
+\providetranslation{address}{P. O. Box 68 (Pietari Kalmin katu 5)\newline 00014 University of Helsinki,Finland}
+\providetranslation{eaddress}{Email address: info@cs.helsinki.fi\newline URL: http://www.cs.helsinki.fi/}
+\providetranslation{ytiedot}{Contact information}
+\providetranslation{library}{Helsinki University Library}
+\providetranslation{supervisors}{Supervisor(s)}
+\providetranslation{examiner}{Examiner(s)}
+\providetranslation{appendices}{appendices}
+\providetranslation{appendice pages}{appendix pages}
+\providetranslation{pp}{pages}
+\providetranslation{seminar}{Seminar report}

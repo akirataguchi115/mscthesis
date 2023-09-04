@@ -1,0 +1,47 @@
+\ProvidesDictionary{translator-UHCSthesis-coverpage-dictionary}{Swedish}
+\providetranslation{translation-UHCSthesis-coverpage-dictionary}{Swedish}
+
+\providetranslation{tkt-bsc-level}{Kandidatavhandling}
+\providetranslation{tktl-bsc-level}{Kandidatavhandling}
+\providetranslation{msc-level-2020}{Magisteravhandling}
+\providetranslation{msc-level-2018}{Magisteravhandling}
+\providetranslation{msc-level-2017}{Magisteravhandling}
+\providetranslation{dsm-level}{Magisteravhandling}
+\providetranslation{sw-line}{Studier i programvara}
+\providetranslation{alko-line}{Studier i artificiell intelligens}
+\providetranslation{bio-line}{Studier i artificiellt bioinformatik}
+\providetranslation{nodes-line}{Studier i informationsn\"atverk}
+\providetranslation{dsm-level}{MSc thesis}
+\providetranslation{sw-line-2017}{Studier i programvara}
+\providetranslation{alko-line-2017}{Studier i algoritmer, data-analys ock maskinl\"arning}
+\providetranslation{bio-line-2017}{Studier i algorimiska bioinformatik}
+\providetranslation{nodes-line-2017}{Studier i distribuerade system ock datan\"at}
+
+\providetranslation{sw-track-2018}{Studier i programvara}
+\providetranslation{alko-track-2018}{Studier i algoritmer}
+\providetranslation{nodes-track-2018}{Studier i distribuerade system ock datan\"at}
+
+\providetranslation{software-track-2020}{Studier i programvara}
+\providetranslation{algorithms-track-2020}{Studier i algoritmer}
+\providetranslation{networking-track-2020}{Studier i datan\"at}
+
+\providetranslation{tktl-programme}{Datavetenskap}
+\providetranslation{tkt-programme}{Kandidatprogrammet i Datavetenskap}
+\providetranslation{csm-programme}{Datavetenskap}
+\providetranslation{cs-programme}{Magisterprogrammet i datavetenskap}
+\providetranslation{dsm-programme}{Master's Programme in Data Science}
+\providetranslation{department2017}{Avdelningen f\"r datavetenskap}
+\providetranslation{department2018}{Avdelningen f\"r datavetenskap}
+\providetranslation{uh}{Helsingfors Universitet}
+\providetranslation{helsinki}{Helsingfors}
+\providetranslation{faculty}{Matematisk-naturvetenskapliga fakulteten}
+\providetranslation{address}{PB 68 (Pehr Kalms gata 5)\newline\indent 00014 Helsingfors Universitet, Finland}
+\providetranslation{eaddress}{E-postadress: info@cs.helsinki.fi\newline\indent URL: http://www.cs.helsinki.fi/}
+\providetranslation{ytiedot}{Kontaktinformation}
+\providetranslation{library}{Helsingfors universitets bibliotek}
+\providetranslation{supervisors}{Handledare}
+\providetranslation{examiner}{Examinatorer}
+\providetranslation{appendices}{Bilagor}
+\providetranslation{appendice pages}{bilagesidor}
+\providetranslation{pp}{sidor}
+\providetranslation{seminar}{Seminarierapport}
