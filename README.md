@@ -16,25 +16,25 @@ week 6 supervisor meeting, plan review
 
 week 7 plan review
 
-week 8 plan review *
+week 8 write Introduction *
 
-week 9 conduct review
+week 9 finish Introduction and the beginning of Methods, ask hints from supervisor
 
-week 10 conduct review
+week 10 start conducting SLR
 
-week 11 conduct review
+week 11 conduct SLR
 
-week 12 conduct review
+week 12 conduct SLR
 
-week 13 conduct review
+week 13 conduct SLR
 
-week 14 conduct review
+week 14 start Results
 
-week 15 conduct review
+week 15 finish Results
 
-week 16 document review
+week 16 start Discussion and Conclusions
 
-week 17 document review
+week 17 finish Discussion and Conclussions
 
 week 18 first draft, wait for comments
 
@@ -55,20 +55,14 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 
 ## General notes
-Smaller tasks for days
-
-Create better deadlines for timing
-
-Write titles to latex chapter
-
-Get another SLR paper from maybe IEEE
-
-Git (cherry-picking) in RHEL incident
+Git (cherry-picking) in RHEL incident (hacker news)
 
 Is redistributing mongodb practically possible under sspl?
 
 How to make CLAs easier to use? Use GPG as verification?
 ## Diary
+### week 8
+mon: moved smaller tasks to joplin from here. keeping this only for diary type logging. feels good to start a new week. i think i did two pomodoros. could have done three but im still happy about the progress. got a second slr to take some example from. also reached out to simo kähönen for a copy of their slr thesis, because they have the third thesis out of three theses in helda that are tagged with slr. 2 pages in and rising yayy. ill have to adjust the research questions during the conduction of the slr itself. i hope this is normal.
 
 ### week 7
 fri fix latex, find another slr study: fixed latex, read wikipedia articles on cla, easycla, project harmony and got an idea to sign clas with gpg keys
@@ -219,7 +213,7 @@ thesis structure
 - efforts to inclusion
 - as with all slr all licenses cannot be reviewed manually
 - license selection was done in sufficient manner
-##### 4.3.2 Limitation in data extraction
+##### 4.3.2 Limitations in data extraction
 - importance of data extraction
 - lack of measurements and tooling
 ### 5 Conclusions 1 pages
