@@ -4,7 +4,6 @@ Repository for my MSc thesis
 `sudo apt install texlive-full`
 
 `latexmk`
-
 ## Timing
 week 3 plan review
 
@@ -16,7 +15,7 @@ week 6 supervisor meeting, plan review
 
 week 7 plan review
 
-week 8 write Introduction *
+week 8 continue Introduction *
 
 week 9 finish Introduction and the beginning of Methods, ask hints from supervisor
 
@@ -53,15 +52,29 @@ week 24
 mon: supervisor sends to grappa first thing on monday
 
 wed: student submits thesis to E-thesis
-
 ## General notes
-Git (cherry-picking) in RHEL incident (hacker news)
+### Pomodoros
+- write 1.3 state of current terminology
+- write 1.3 terms of non-focus areas of thesis
+- write 1.3 examples of these terms
+- write 1.3 acknowledge some other essential but non-focus
 
-Is redistributing mongodb practically possible under sspl?
+### Break activity
+- meditate
+- create linkedin cv
+- apply to napa
+- aku ankka
 
-How to make CLAs easier to use? Use GPG as verification?
+### TODO
+- How to make CLAs faster to use? Use GPG as verification?
+- Docker SLA, SSPL CLA and what can we learn from those?
+
 ## Diary
 ### week 8
+wed: started reading about how docker licenses their products. it's crazyyyy. apparentl docker desktop is the that has SLA **and** the only one that has proprietary support for windows and mac, well mac has colima, but for windows this is the only way. moved smaller tasks back here cuz i couldn't be asked to switch between joplin and vscode. 3 pomodoros today. 2 pages out of 30 done lets go babyy.
+
+tue: checking plagiarism against nurmivaara's thesis with some open source software would be a good idea since i have borrowed many of the structures of sentence regarding the slr process from them. i should also check this with my supervisor.
+
 mon: moved smaller tasks to joplin from here. keeping this only for diary type logging. feels good to start a new week. i think i did two pomodoros. could have done three but im still happy about the progress. got a second slr to take some example from. also reached out to simo kähönen for a copy of their slr thesis, because they have the third thesis out of three theses in helda that are tagged with slr. 2 pages in and rising yayy. ill have to adjust the research questions during the conduction of the slr itself. i hope this is normal.
 
 ### week 7
@@ -117,7 +130,7 @@ thu 18.1 fix latex
 mon 22.1 read about slr: I read the SLR slideshow through. The title is now multivocal slr on software licenses in software engineering. The research questions are not clear yet. I am scared again.
 
 ## Thesis design
-### 1 Introduction 3 pages
+### 1 Introduction 7 pages
 - setting
 - definition
 - problem
@@ -127,7 +140,9 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - primary object of this research (rqs)
 - 1.2 will examine terms
 - viewpoints
-#### 1.2 Background and terminology of public copyright licenses
+#### 1.2 Thesis structure
+thesis structure
+#### 1.3 Background and terminology of public copyright licenses
 - state of current terminology
 - terms of non-focus areas of thesis
 - examples of these terms
@@ -139,9 +154,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - define public copyright licenses in se
 - the connection in terms figure
 - acknowledge the topic is complex
-#### 1.3 Thesis structure
-thesis structure
-### 2 Methods 10 pages
+### 2 Methods 8 pages
 - aim of the chapter
 - explain slr
 - study follows kitchenham 2007
@@ -178,7 +191,7 @@ thesis structure
 - aim of scope and evidence levels (alves et al)
 - categorization of results
 - nex chapter presents outcomes
-### 3 Results 10 pages
+### 3 Results 8 pages
 - information about chapter
 - how many licenses and why
 - statistical overview with figures (mapping study)
