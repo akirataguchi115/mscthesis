@@ -54,7 +54,7 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- write 1.3 state of current terminology
+- write 1.3 state of current terminology (insert wayback machine cites)
 - write 1.3 terms of non-focus areas of thesis
 - write 1.3 examples of these terms
 - write 1.3 acknowledge some other essential but non-focus
@@ -63,14 +63,20 @@ wed: student submits thesis to E-thesis
 - meditate
 - create linkedin cv
 - apply to napa
-- aku ankka
+- Aku Ankka
+- Kaiju No. 8
 
 ### TODO
 - How to make CLAs faster to use? Use GPG as verification?
 - Docker SLA, SSPL CLA and what can we learn from those?
+- LICENSE highlighting.js?
 
 ## Diary
 ### week 8
+fri: the plan to get out of bed immediately does not work if one is sleepy. go earlier to sleep and only practice mindful activities while relaxing. from nurmivaara's slr it seems that you need to define an abbrevation only once in the thesis (even in abstract).
+
+thu: the whole day was pretty cucked from the get go since i overslept. from now on i should just get out of bed the second my smooth brain spawns into this existence in the bed.
+
 wed: started reading about how docker licenses their products. it's crazyyyy. apparentl docker desktop is the that has SLA **and** the only one that has proprietary support for windows and mac, well mac has colima, but for windows this is the only way. moved smaller tasks back here cuz i couldn't be asked to switch between joplin and vscode. 3 pomodoros today. 2 pages out of 30 done lets go babyy.
 
 tue: checking plagiarism against nurmivaara's thesis with some open source software would be a good idea since i have borrowed many of the structures of sentence regarding the slr process from them. i should also check this with my supervisor.
@@ -144,7 +150,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 thesis structure
 #### 1.3 Background and terminology of public copyright licenses
 - state of current terminology
-- terms of non-focus areas of thesis
+- terms of other interest areas of the thesis
 - examples of these terms
 - acknowledge some other essential but non-focus
 - efforts of terminology standardization
