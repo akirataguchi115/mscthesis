@@ -7,7 +7,7 @@ Public copyright license is defined by Wikipedia with the following words \citep
 	''A public copyright license is a copyright license where the licensees are not limited. Examples include free content, open content, Creative Commons, free software and open source licences.''
 \end{quote}
 
-Understanding public copyright licenses can be difficult. This could stem from the legal nature of the license texts and the large number of already-existing public copyright licenses. The license texts usually favors correctedness over the readability for the developer. This is because the license text has to act as a valid legal instrument otherwise it cannot be endorsed \citep{ferguson2006gpl}. The lack of understanding of public copyright licenses leaves too much room for interpretation. In June 21, 2023 International Business Machines' (IBM) Red Hat seemingly violated a public copyright license, the GNU General Public License version 2 (GPL-2.0) \citep{sfc:rhel} \citep{ibm:rhel}. This was an unpleasant surprise to the public since the project behind GNU General Public License (GPL), GNU initially attempted to ensure the users via the GPL have to the following three freedoms \citep{gnu:free}:
+Understanding public copyright licenses can be difficult. This could stem from the legal nature of the license texts and the large number of already-existing public copyright licenses. The license texts usually favors correctedness over the readability for the developer. This is because the license text has to act as a valid legal instrument otherwise it cannot be endorsed \citep{ferguson2006gpl}. The lack of understanding of public copyright licenses leaves too much room for interpretation. In June 21, 2023 International Business Machines' (IBM) Red Hat seemingly violated a public copyright license, the GNU General Public License version 2 (GPL-2.0) \citep{sfc:rhel} \citep{ibm:rhel}. This was an unpleasant surprise to the public since the project behind GNU General Public License (GPL), GNU Project initially attempted to ensure the users via the GPL have to the following three freedoms \citep{gnu:free}:
 \begin{itemize}
 	\item Freedom 1:	The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
 	\item Freedom2: The freedom to redistribute copies so you can help others
@@ -38,26 +38,38 @@ This thesis follows the IMRaD structure. Chapter 1 introduces the problem, this 
 
 \section{Background and terminology of public copyright licenses}
 \label{sec:bg}
-state of the current terminology
+The current terminology is used with different definitions which leads to inconsistencies in the field of software engineering. For example The Open Source Initiative (OSI) classifies GPL-3.0 under the term ''open source'' whereas the Free Software Foundation (FSF) classifies GPL-3.0 under the term ''free software'' \citep{osi:gplv3}\citep{rms:opensource}. This is because their definitions on open source and free software differ from each other. Some parts of the two definitions are even mutually exclusive. This is rarely mentioned when people talk about Free and Open Source Software (FOSS) or Free / Libre and Open Source Software (FLOSS) which leads to misunderstanding that the two approaches are the same. This is why our focus will be public copyright licenses in software engineering, which distinguishes our investigation from the broader topic of public copyright licenses or the copyright law. This includs also the public copyright licenses that are not approved by the FSF nor OSI hence not falling under the group of FLOSS licenses. In this section we aim to increase the accessibility of our discussion by providing  a concise overview of the background of the field of public copyright licenses and the terms we employ.
 
-The current terminology is used with different definitions which leads to inconsistencies in the field of software engineering. For example The Open Source Initiative (OSI) classifies GPL-3.0 under the term ''open source'' whereas the Free Software Foundation (FSF) classifies GPL-3.0 under the term ''free software''. This is because their definitions on open source and free software differ from each other. Some parts of the two definitions are even mutually exclusive. This is rarely mentioned when people talk about Free and Open Source Software (FOSS) or Free / Libre and Open Source Software (FLOSS) which leads to misunderstanding that the two approaches are the same.
+To explain our emphasis on public copyright licenses in software engineering, it is essential to examine the other possible areas of interest in public copyright licenses. Our study eight domains as mentioned by the GNU Project \citep{gnu:licenselist}.
 
-- terms of other interest areas of thesis
+These domains include:
+\begin{itemize}
+	\item Public copyright licenses in software engineering
+	\item Public copyright licenses in documentation for example architecture documentation of a project that may or may not be software or even publicly licensed
+	\item Public copyright licenses in artistic works for example digital art, music or videos
+	\item Public copyright licenses in educational works
+	\item Public copyright licenses in fonts
+	\item Public copyright licenses in viewpoints
+	\item Public copyright licenses in physical objects
+	\item Public copyright licenses in other works
+\end{itemize}
 
-- examples of these terms
+The primary aim of this study is to investigate public copyright licenses in software engineering process. However, it is important to acknowledge that public copyright licenses in software engineering are only aspect of public copyright licenses. These additional dimensions are crucial in adoption and implementation of public copyright licenses in software engineering, but they are not the focus of this thesis.
 
-- acknowledge some other essential but non-focus
+For example, including artistic works such as music would require us to understand the basics of music theory and what sets apart distinct pieces of music from one another, something that could be outside the skillset of the author. While developing a comprehensive theory, framework, and tooling for public copyright licenses as a whole is a gargantuan task beyond the scope of a single thesis, narrowing our focus to software engineering enables us to examine a more concise and complete aspect of the main topic of this thesis. 
 
-- efforts of terminology standardization
+As significant point of clarification, it is essential to acknowledge that the public copyright licenses are generally meant to be used as valid legal instruments. The question whether or not a public copyright license can act as a legal instrument is critical to the main function of these licenses. However, this thesis will not focus on the legal doctrine aspects either. The enforceability of the public copyright licenses has seen discussion in the academic field of law since the dawn of the public copyright licenses and since there's already an academic base for research it is likely the discussion will continue on with a healthy amount of activity \citep{duisburg2011gpl}.
 
-- figure to demonstrate terms
+Since the most recognized public copyright licenses in software engineering in public are either open-source licenses or free-software licenses and since both paradigms are driven by different organizations with very different goals and values, it is understandable how non-standardized the terminology in the scope of PCL in SE is. The example given in the first section of this sub-chapter illustrates the challenges involved in maintaining consistency in the use of terminology in this emerging field and further warrants a closer inspection of the terminology to emphasize our own standing in the field.
 
-- grammar specifications
+figure to demonstrate terms
 
-- figure from grammar
+grammar specifications
 
-- define public copyright licenses in se
+figure from grammar
 
-- the connection in terms figure
+define public copyright licenses in se
 
-- acknowledge the topic is complex
+the connection in terms figure
+
+acknowledge the topic is complex

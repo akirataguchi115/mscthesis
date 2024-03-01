@@ -15,11 +15,11 @@ week 6 supervisor meeting, plan review
 
 week 7 plan review
 
-week 8 continue Introduction *
+week 8 continue Introduction
 
 week 9 finish Introduction and the beginning of Methods, ask hints from supervisor
 
-week 10 start conducting SLR
+week 10 finish introduction, start conducting SLR *
 
 week 11 conduct SLR
 
@@ -54,24 +54,24 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- write 1.3 state of current terminology (insert wayback machine cites)
-- write 1.3 terms of non-focus areas of thesis
-- write 1.3 examples of these terms
-- write 1.3 acknowledge some other essential but non-focus
-
+- abbreviate public copyright licenses to PCL
+- 1.3 figure to demonstrate terms
+- 1.3 grammar specs
+- 1.3 figure from grammar
 ### Break activity
 - meditate
-- create linkedin cv
-- apply to napa
-- Aku Ankka
-- Kaiju No. 8
-
-### TODO
-- How to make CLAs faster to use? Use GPG as verification?
-- Docker SLA, SSPL CLA and what can we learn from those?
-- LICENSE highlighting.js?
-
+- watch mha
 ## Diary
+### week 9
+fri: high school presentation. had to help pitkänen with the laptop and phone. no advancements.
+
+thu: had to plan next day high school presentation. no advancements.
+
+wed: move day of my partner's sister. no advancements.
+
+tue: first pomodoro down and two sections written already!!! im a beast 666. eh two pomodori only today but still some good progress. according to suvi i need to be doing the review itself during the writing process of 2. methods so maybe that's ahead of me already after im done writing the introduction.
+
+mon: this week i should finish the introduction. wild thought but maybe i can do this. 3 pomodori. i think i did well today. almost 4 pages out of 30 done.
 ### week 8
 fri: the plan to get out of bed immediately does not work if one is sleepy. go earlier to sleep and only practice mindful activities while relaxing. from nurmivaara's slr it seems that you need to define an abbrevation only once in the thesis (even in abstract).
 
@@ -82,7 +82,6 @@ wed: started reading about how docker licenses their products. it's crazyyyy. ap
 tue: checking plagiarism against nurmivaara's thesis with some open source software would be a good idea since i have borrowed many of the structures of sentence regarding the slr process from them. i should also check this with my supervisor.
 
 mon: moved smaller tasks to joplin from here. keeping this only for diary type logging. feels good to start a new week. i think i did two pomodoros. could have done three but im still happy about the progress. got a second slr to take some example from. also reached out to simo kähönen for a copy of their slr thesis, because they have the third thesis out of three theses in helda that are tagged with slr. 2 pages in and rising yayy. ill have to adjust the research questions during the conduction of the slr itself. i hope this is normal.
-
 ### week 7
 fri fix latex, find another slr study: fixed latex, read wikipedia articles on cla, easycla, project harmony and got an idea to sign clas with gpg keys
 
@@ -93,7 +92,6 @@ wed: did nothing. recovering from yesterday.
 tue finish 1.0: did nothing. had a depression attack. read one pomodoro worth about gplv3 changes compared to gplv2.
 
 mon finish 1.0 & title1 1.1,-2,-3 paragraphs: rms responded to me saying they'll take a look at the sspl if it actually would be considered free. titled all paragaphs. did not finish 1.0. will do that tomorrow.
-
 ### week 6
 fri title 1.1, 1.2 and 1.3 paragraphs: did nothing cuz i had to look after the baby at home the whole day.
 
@@ -104,7 +102,6 @@ wed -: took a break from mental health reasons. finished the sudoku and learned 
 tue continue writing 1.0: basically just tried to figure out what's the deal with sspl and is it any good.
 
 mon continue writing 1.0: the morning started pretty good in the 3rd floor with a pomodoro. we'll see how long this drive lasts.
-
 ### week 5
 fri try to get motivated: no motivation. added thesis diary and study plan to readme. tried to solve sudoku all day. this is how far i got.
 ![Alt text](images/sudoku.jpg)
@@ -116,7 +113,6 @@ wed finish 1.0: continued writing 1.0 but very slowly. idk if i can even do this
 tue write 1.1, finish 1.0: organize chrome tabs
 
 mon write 1.0, send email to supervisor: started writing 1.0. sent email to supervisor.
-
 ### week 4
 fri 26.1 write introduction 1.0, send email to supervisor: didn't write introduction nor send email to supervisor. had to take baby to nutritional therapist.
 
@@ -127,14 +123,12 @@ wed 24.1 write introduction: didn't manage to write any introduction. instead fo
 tue 23.1 think about research questions: I started taking a model from Nurmivaara's systematic literature review on green software. I now have my first set of 4 research questions.
 
 mon 22.1 think about research questions
-
 ### week 3
 fri 19.1 read about slr
 
 thu 18.1 fix latex
 
 mon 22.1 read about slr: I read the SLR slideshow through. The title is now multivocal slr on software licenses in software engineering. The research questions are not clear yet. I am scared again.
-
 ## Thesis design
 ### 1 Introduction 7 pages
 - setting
@@ -151,9 +145,9 @@ thesis structure
 #### 1.3 Background and terminology of public copyright licenses
 - state of current terminology
 - terms of other interest areas of the thesis
-- examples of these terms
+- why the scope is so narrow
 - acknowledge some other essential but non-focus
-- efforts of terminology standardization
+- state of terminology standardization
 - figure to demonstrate terms
 - grammar specifications
 - figure from grammar
@@ -240,5 +234,8 @@ thesis structure
 - conclusions from each rq
 #### 5.1 Future research
 - adopting a clear baseline
+- Docker CLA, SSPL
+- make cla easier maybe with gpg
+- LICENSE highlighting.js
 - what kind of efforts and why
 - what this thesis has provided
