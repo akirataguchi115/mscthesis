@@ -1,13 +1,13 @@
 \chapter{Introduction\label{intro}}
 
-Public copyright licenses play a major part in software engineering. For example in open source there must be an appropriate public copyright license attached to the source code in order for open-source software to be freely available for possible modification and redistribution. Because open source is central to software engineering the licenses enabling open source must also be considered important in the same context.
+PCLs play a major part in software engineering. For example in open source there must be an appropriate PCL attached to the source code in order for open-source software to be freely available for possible modification and redistribution. Because open source is central to software engineering the licenses enabling open source must also be considered important in the same context.
 
 Public copyright license is defined by Wikipedia with the following words \citep{wiki:publiclicenses}:
 \begin{quote}
-	''A public copyright license is a copyright license where the licensees are not limited. Examples include free content, open content, Creative Commons, free software and open source licences.''
+	''A PCL is a copyright license where the licensees are not limited. Examples include free content, open content, Creative Commons, free software and open source licences.''
 \end{quote}
 
-Understanding public copyright licenses can be difficult. This could stem from the legal nature of the license texts and the large number of already-existing public copyright licenses. The license texts usually favors correctedness over the readability for the developer. This is because the license text has to act as a valid legal instrument otherwise it cannot be endorsed \citep{ferguson2006gpl}. The lack of understanding of public copyright licenses leaves too much room for interpretation. In June 21, 2023 International Business Machines' (IBM) Red Hat seemingly violated a public copyright license, the GNU General Public License version 2 (GPL-2.0) \citep{sfc:rhel} \citep{ibm:rhel}. This was an unpleasant surprise to the public since the project behind GNU General Public License (GPL), GNU Project initially attempted to ensure the users via the GPL have to the following three freedoms \citep{gnu:free}:
+Understanding PCLs can be difficult. This could stem from the legal nature of the license texts and the large number of already-existing PCLs. The license texts usually favors correctedness over the readability for the developer. This is because the license text has to act as a valid legal instrument otherwise it cannot be endorsed \citep{ferguson2006gpl}. The lack of understanding of PCLs leaves too much room for interpretation. In June 21, 2023 International Business Machines' (IBM) Red Hat seemingly violated a PCL, the GNU General Public License version 2 (GPL-2.0) \citep{sfc:rhel} \citep{ibm:rhel}. This was an unpleasant surprise to the public since the project behind GNU General Public License (GPL), GNU Project initially attempted to ensure the users via the GPL have to the following three freedoms \citep{gnu:free}:
 \begin{itemize}
 	\item Freedom 1:	The freedom to study how the program works, and change it so it does your computing as you wish. Access to the source code is a precondition for this.
 	\item Freedom2: The freedom to redistribute copies so you can help others
@@ -16,59 +16,66 @@ Understanding public copyright licenses can be difficult. This could stem from t
 
 Regardless, IBM's Red Hat essentially rendered the previously public Red Hat Enterprise Linux (RHEL) into proprietary software. If the licenses would be more easily understood the proprietarization of RHEL would have been less of a surprise to the users.
 
-On top of public copyright license details, software engineers in general have a tough time understanding the basic goals of public copyright licenses used in software engineering. In the instance of the RHEL incident it would not have been a big surprise to software engineers if they would have known about other licenses and what they try to achieve or how old is GPLv2 and why it has been succeeded by GNU General Public License version 3 (GPL-3.0).
+On top of PCL details, software engineers in general have a tough time understanding the basic goals of PCLs used in software engineering. In the instance of the RHEL incident it would not have been a big surprise to software engineers if they would have known about other licenses and what they try to achieve or how old is GPLv2 and why it has been succeeded by GNU General Public License version 3 (GPL-3.0).
 
-This thesis' goal is to contribute into the solving these problems in a structured manner. First we state definitions and terminology used in the scope of this thesis. We go over the reasons why there does not exist consistent terminology in this area and why the conversely the definitions are the most stabile ones in this area. Second we take a deep dive into the multivocal literature through a systematic literature review. To make more information available, a mapping study connected to the terminology scope defined in the first step is needed. Third includes our own suggestions and basic knowledge for professionals and academics in the industry to enhance the understanding of public copyright licenses in software engineering. This step also includes discussion of the future research and contributes to stablizing the terminology and reinforcing the already-existing definitions in the academic field.
+This thesis' goal is to contribute into the solving these problems in a structured manner. First we state definitions and terminology used in the scope of this thesis. We go over the reasons why there does not exist consistent terminology in this area and why the conversely the definitions are the most stabile ones in this area. Second we take a deep dive into the multivocal literature through a systematic literature review. To make more information available, a mapping study connected to the terminology scope defined in the first step is needed. Third includes our own suggestions and basic knowledge for professionals and academics in the industry to enhance the understanding of PCLs in software engineering. This step also includes discussion of the future research and contributes to stablizing the terminology and reinforcing the already-existing definitions in the academic field.
 
 \section{Research goal, questions and contributions}
-The secondary goal of this research is to conduct a systematic multivocal literature review of the current state of the public copyright licenses in software engineering, the evaluation of the them and the evidence level of the research. The research aims to provide a novel perspective on relevant licenses and to extract key findings through a rigorous literature review process. The research questions of the review are:
+The secondary goal of this research is to conduct a systematic multivocal literature review of the current state of the PCLs in software engineering, the evaluation of the them and the evidence level of the research. The research aims to provide a novel perspective on relevant licenses and to extract key findings through a rigorous literature review process. The research questions of the review are:
 \begin{itemize}
-	\item RQ1: How often do public copyright licenses in software engineering change?
-	\item RQ2: How have the public copyright licenses in software engineering changed?
-	\item RQ3: How long is the average public copyright license in software engineering?
-	\item RQ4: What are the common reasons for version changes to public copyright licenses in software engineering?
+	\item RQ1: How often do PCLs in software engineering change?
+	\item RQ2: How have the PCLs in software engineering changed?
+	\item RQ3: How long is the average PCL in software engineering?
+	\item RQ4: What are the common reasons for version changes to PCLs in software engineering?
 \end{itemize}
 
 Terms such as open source, source code, software freedom and other vocabulary must be defined in the scope of this thesis. Section \ref{sec:bg} will examine this plethora of of terminology and definitions and will be used to establish a sound basis for discussing this broad subject.
 
-This study has two goals: to provide rigorous research on public copyright licenses to the academic field and to provide insights to the professional field of software engineering on public copyright licenses. The grand goal of this thesis is to raise awareness of the importance of public copyright licenses so that more licensers would make the correct choices based on their situations and needs in a mindful way.
+This study has two goals: to provide rigorous research on PCLs to the academic field and to provide insights to the professional field of software engineering on PCLs. The grand goal of this thesis is to raise awareness of the importance of PCLs so that more licensers would make the correct choices based on their situations and needs in a mindful way.
 
 \section{Thesis structure}
 This thesis follows the IMRaD structure. Chapter 1 introduces the problem, this thesis' possible contributions and some further background. Chapter 2 goes over the process and the methods of the systematic multivocal literature review. Biggest part of the research happens here. Chapter 3 presents results to the research questions. Chapter 4 discusses implications for research. The chapter also discusses software engineering professionals in the thesis' context and the validity of the thesis' research. Chapter 5 concludes this thesis with the help of the research questions and the future of the research.
 
-\section{Background and terminology of public copyright licenses}
+\section{Background and terminology of PCLs}
 \label{sec:bg}
-The current terminology is used with different definitions which leads to inconsistencies in the field of software engineering. For example The Open Source Initiative (OSI) classifies GPL-3.0 under the term ''open source'' whereas the Free Software Foundation (FSF) classifies GPL-3.0 under the term ''free software'' \citep{osi:gplv3}\citep{rms:opensource}. This is because their definitions on open source and free software differ from each other. Some parts of the two definitions are even mutually exclusive. This is rarely mentioned when people talk about Free and Open Source Software (FOSS) or Free / Libre and Open Source Software (FLOSS) which leads to misunderstanding that the two approaches are the same. This is why our focus will be public copyright licenses in software engineering, which distinguishes our investigation from the broader topic of public copyright licenses or the copyright law. This includs also the public copyright licenses that are not approved by the FSF nor OSI hence not falling under the group of FLOSS licenses. In this section we aim to increase the accessibility of our discussion by providing  a concise overview of the background of the field of public copyright licenses and the terms we employ.
+The current terminology is used with different definitions which leads to inconsistencies in the field of software engineering. For example The Open Source Initiative (OSI) classifies GPL-3.0 under the term ''open source'' whereas the Free Software Foundation (FSF) classifies GPL-3.0 under the term ''free software'' \citep{osi:gplv3}\citep{rms:opensource}. This is because their definitions on open source and free software differ from each other. Some parts of the two definitions are even mutually exclusive. This is rarely mentioned when people talk about Free and Open Source Software (FOSS) or Free / Libre and Open Source Software (FLOSS) which leads to misunderstanding that the two approaches are the same. This is why our focus will be PCLs in software engineering, which distinguishes our investigation from the broader topic of PCLs or the copyright law. This includs also the PCLs that are not approved by the FSF nor OSI hence not falling under the group of FLOSS licenses. In this section we aim to increase the accessibility of our discussion by providing  a concise overview of the background of the field of PCLs and the terms we employ.
 
-To explain our emphasis on public copyright licenses in software engineering, it is essential to examine the other possible areas of interest in public copyright licenses. Our study eight domains as mentioned by the GNU Project \citep{gnu:licenselist}.
+To explain our emphasis on PCLs in software engineering, it is essential to examine the other possible areas of interest in PCLs. Our study classifies such efforts into eight domains as mentioned by the GNU Project \citep{gnu:licenselist}.
 
 These domains include:
 \begin{itemize}
-	\item Public copyright licenses in software engineering
-	\item Public copyright licenses in documentation for example architecture documentation of a project that may or may not be software or even publicly licensed
-	\item Public copyright licenses in artistic works for example digital art, music or videos
-	\item Public copyright licenses in educational works
-	\item Public copyright licenses in fonts
-	\item Public copyright licenses in viewpoints
-	\item Public copyright licenses in physical objects
-	\item Public copyright licenses in other works
+	\item PCLs in software engineering
+	\item PCLs in documentation for example architecture documentation of a project that may or may not be software or even publicly licensed
+	\item PCLs in artistic works for example digital art, music or videos
+	\item PCLs in educational works
+	\item PCLs in fonts
+	\item PCLs in viewpoints
+	\item PCLs in physical objects
+	\item PCLs in other works
 \end{itemize}
 
-The primary aim of this study is to investigate public copyright licenses in software engineering process. However, it is important to acknowledge that public copyright licenses in software engineering are only aspect of public copyright licenses. These additional dimensions are crucial in adoption and implementation of public copyright licenses in software engineering, but they are not the focus of this thesis.
+The primary aim of this study is to investigate PCLs in software engineering process. However, it is important to acknowledge that PCLs in software engineering are only aspect of PCLs. These additional dimensions are crucial in adoption and implementation of PCLs in software engineering, but they are not the focus of this thesis.
 
-For example, including artistic works such as music would require us to understand the basics of music theory and what sets apart distinct pieces of music from one another, something that could be outside the skillset of the author. While developing a comprehensive theory, framework, and tooling for public copyright licenses as a whole is a gargantuan task beyond the scope of a single thesis, narrowing our focus to software engineering enables us to examine a more concise and complete aspect of the main topic of this thesis. 
+For example, including artistic works such as music would require us to understand the basics of music theory and what sets apart distinct pieces of music from one another, something that could be outside the skillset of the author. While developing a comprehensive theory, framework, and tooling for PCLs as a whole is a gargantuan task beyond the scope of a single thesis, narrowing our focus to software engineering enables us to examine a more concise and complete aspect of the main topic of this thesis. 
 
-As significant point of clarification, it is essential to acknowledge that the public copyright licenses are generally meant to be used as valid legal instruments. The question whether or not a public copyright license can act as a legal instrument is critical to the main function of these licenses. However, this thesis will not focus on the legal doctrine aspects either. The enforceability of the public copyright licenses has seen discussion in the academic field of law since the dawn of the public copyright licenses and since there's already an academic base for research it is likely the discussion will continue on with a healthy amount of activity \citep{duisburg2011gpl}.
+As significant point of clarification, it is essential to acknowledge that the PCLs are generally meant to be used as valid legal instruments. The question whether or not a PCL can act as a legal instrument is critical to the main function of these licenses. However, this thesis will not focus on the legal doctrine aspects either. The enforceability of the PCLs has seen discussion in the academic field of law since the dawn of the PCLs and since there's already an academic base for research it is likely the discussion seems to continue on with a healthy amount of activity \citep{duisburg2011gpl}.
 
-Since the most recognized public copyright licenses in software engineering in public are either open-source licenses or free-software licenses and since both paradigms are driven by different organizations with very different goals and values, it is understandable how non-standardized the terminology in the scope of PCL in SE is. The example given in the first section of this sub-chapter illustrates the challenges involved in maintaining consistency in the use of terminology in this emerging field and further warrants a closer inspection of the terminology to emphasize our own standing in the field.
+Since the most recognized PCLs in software engineering in public are either open-source licenses or free-software licenses and since both paradigms are driven by different organizations with very different goals and values, it is understandable how non-standardized the terminology in the scope of PCL in SE is. The example given in the first section of this sub-chapter illustrates the challenges involved in maintaining consistency in the use of terminology in this emerging field and further warrants a closer inspection of the terminology to emphasize our own standing in the field.
 
-figure to demonstrate terms
+To provide an understanding of the terminology used in this thesis, a Venn diagram is presented in Figure \ref{fig:terms}, which contextualizes the non-standardized terminology within the PCL scope as a whole. This perspective provides an increased understanding of where different subdomains fall in the larger picture of PCLs. Furthermore it is essential to note that PCLs in software engineering encompasses different aspects that require a closer examination.
+
+\begin{figure}[t]
+	\centering
+	\includegraphics[scale=1.5]{figures/terms-diagram.pdf}
+	\caption{PCLs in software engineering}
+	\label{fig:terms}
+\end{figure}
 
 grammar specifications
 
 figure from grammar
 
-define public copyright licenses in se
+define PCLs in se
 
 the connection in terms figure
 

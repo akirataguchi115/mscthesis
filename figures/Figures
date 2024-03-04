@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-03-04T14:31:54.969Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-Lzr2IS2x46Uvb0KkGgp" version="24.0.1" type="browser">
+  <diagram name="Sivu-1" id="JalUmfeEbt0fBnljzWAW">
+    <mxGraphModel dx="819" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w8A77t5zq4rvhwaZjv2n-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="294" y="519.0899999999999" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="w8A77t5zq4rvhwaZjv2n-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;" parent="1" vertex="1">
+          <mxGeometry x="354" y="519.0899999999999" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="294" y="489.09" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-2" value="Other software PCLs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="489" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-3" value="PCLs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="383" y="459.09" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-4" value="Free software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="314" y="584.0899999999999" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-6" value="Open source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="474" y="594.0899999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MFdASzOD7zx1UJcUAin_-7" value="FLOSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="384" y="594.0899999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -54,14 +54,16 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- abbreviate public copyright licenses to PCL
-- 1.3 figure to demonstrate terms
+- miten olla rikkomatta npm pakettien lisenssejä
 - 1.3 grammar specs
 - 1.3 figure from grammar
 ### Break activity
 - meditate
+- linus
 - watch mha
 ## Diary
+### week 10
+mon: this week surely ill finish introduction.
 ### week 9
 fri: high school presentation. had to help pitkänen with the laptop and phone. no advancements.
 
@@ -142,7 +144,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - viewpoints
 #### 1.2 Thesis structure
 thesis structure
-#### 1.3 Background and terminology of public copyright licenses
+#### 1.3 Background and terminology of PCLs
 - state of current terminology
 - terms of other interest areas of the thesis
 - why the scope is so narrow
@@ -151,7 +153,7 @@ thesis structure
 - figure to demonstrate terms
 - grammar specifications
 - figure from grammar
-- define public copyright licenses in se
+- define PCLs in se
 - the connection in terms figure
 - acknowledge the topic is complex
 ### 2 Methods 8 pages
