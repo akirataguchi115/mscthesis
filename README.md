@@ -17,11 +17,11 @@ week 7 plan review
 
 week 8 continue Introduction
 
-week 9 finish Introduction and the beginning of Methods, ask hints from supervisor
+week 9 continue introduction, ask hints from supervisor
 
-week 10 finish introduction, start conducting SLR *
+week 10 finish introduction
 
-week 11 conduct SLR
+week 11 conduct SLR *
 
 week 12 conduct SLR
 
@@ -54,16 +54,27 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- miten olla rikkomatta npm pakettien lisenssejä
-- 1.3 grammar specs
-- 1.3 figure from grammar
+- 1.3 define PCLs in se
+- 1.3 acknowledge the topic is complex
 ### Break activity
 - meditate
-- linus
-- watch mha
+- tekken 5
 ## Diary
+### week 11
+mon: 
+
 ### week 10
-mon: this week surely ill finish introduction.
+fri: 2 pomodori. managed to finish introduction. so glad now ill get to read some licenses in a systematic way. luckily i have 3 whole weeks to do that. 7 pages in. hopefully the rest 23 pages come out as easily or more easily than the introuction came to be in 8 weeks.
+
+thu: 1 pomodoro. ohhh boy im sure i can begin methods only next week.
+
+wed: babysitting time.
+
+tue: interesting comment from stackexchange:
+> But for server side code, it is very rare that copies of that code are given out. The GPL requirements do not trigger on ordinary server side use. The AGPL license may then be a better choice because the AGPL already triggers when users interact with the modified software over a network, not just when the users receive a copy of the software.
+til isc license which is deprecated already it seems and classpath exceptions and lgpl. even with classpath exception github recognizes the license. there is no need for algpl since usage over network and usage as linked library are different things. gpl + classpath doesn't allow reverse engineering whereas lgpl does allow that.i should be able to answer to all of the questions asked in opensource.stackexchange.com. mit licensed library usage doesn't need the license attached to the using project. not much progress on the thesis. 2 pomodori.
+
+mon: this week surely ill finish introduction. first figure yay! a semi-long way to go for completing introduction though. maybe on wed ill have this thing completed. 3 pomodori today.
 ### week 9
 fri: high school presentation. had to help pitkänen with the laptop and phone. no advancements.
 
@@ -132,7 +143,7 @@ thu 18.1 fix latex
 
 mon 22.1 read about slr: I read the SLR slideshow through. The title is now multivocal slr on software licenses in software engineering. The research questions are not clear yet. I am scared again.
 ## Thesis design
-### 1 Introduction 7 pages
+### 1 Introduction 6 pages
 - setting
 - definition
 - problem
@@ -151,10 +162,8 @@ thesis structure
 - acknowledge some other essential but non-focus
 - state of terminology standardization
 - figure to demonstrate terms
-- grammar specifications
-- figure from grammar
+- free vs open
 - define PCLs in se
-- the connection in terms figure
 - acknowledge the topic is complex
 ### 2 Methods 8 pages
 - aim of the chapter
@@ -206,7 +215,7 @@ thesis structure
 - figures and study identifier tables
 #### 3.3 RQ3
 - figures and study identifier tables
-### 4 Discussion 6 pages
+### 4 Discussion 7 pages
 - indications
 - follow-up observation
 - observation 1
