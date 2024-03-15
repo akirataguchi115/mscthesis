@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T14:31:54.969Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-Lzr2IS2x46Uvb0KkGgp" version="24.0.1" type="browser">
+<mxfile host="app.diagrams.net" modified="2024-03-14T12:25:25.011Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ltFMXmenPNwWZivv_a5N" version="24.0.5" type="device">
   <diagram name="Sivu-1" id="JalUmfeEbt0fBnljzWAW">
-    <mxGraphModel dx="819" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,75 @@
         </mxCell>
         <mxCell id="MFdASzOD7zx1UJcUAin_-7" value="FLOSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="384" y="594.0899999999999" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-1" value="Planning the review" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="280" width="200" height="220" as="geometry">
+            <mxRectangle x="330" y="50" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-2" value="Specifying research question(s)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="szfZGKSBhG8P9hH3hN4g-1" vertex="1">
+          <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-3" value="Developing a review protocol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="szfZGKSBhG8P9hH3hN4g-1" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="szfZGKSBhG8P9hH3hN4g-1" source="szfZGKSBhG8P9hH3hN4g-2" target="szfZGKSBhG8P9hH3hN4g-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="130" as="sourcePoint" />
+            <mxPoint x="200" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-5" value="Conducting the review" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="540" width="200" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="szfZGKSBhG8P9hH3hN4g-5" source="szfZGKSBhG8P9hH3hN4g-7" target="szfZGKSBhG8P9hH3hN4g-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-7" value="Identification of research" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="szfZGKSBhG8P9hH3hN4g-5" vertex="1">
+          <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="szfZGKSBhG8P9hH3hN4g-5" source="szfZGKSBhG8P9hH3hN4g-11" target="VcCANqTs0pHH_2cwpIVe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-11" value="Selection of studies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="szfZGKSBhG8P9hH3hN4g-5" vertex="1">
+          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="szfZGKSBhG8P9hH3hN4g-5" source="VcCANqTs0pHH_2cwpIVe-1" target="VcCANqTs0pHH_2cwpIVe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-1" value="Study quality assesment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="szfZGKSBhG8P9hH3hN4g-5">
+          <mxGeometry x="40" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-3" value="Data extraction and synthesis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="szfZGKSBhG8P9hH3hN4g-5">
+          <mxGeometry x="40" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-6" value="Reporting the review" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="960" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="szfZGKSBhG8P9hH3hN4g-6" source="VcCANqTs0pHH_2cwpIVe-5" target="VcCANqTs0pHH_2cwpIVe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-5" value="Specifying dissemination methods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="szfZGKSBhG8P9hH3hN4g-6">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-6" value="Formatting and evaluating the report" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="szfZGKSBhG8P9hH3hN4g-6">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szfZGKSBhG8P9hH3hN4g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="szfZGKSBhG8P9hH3hN4g-3" target="szfZGKSBhG8P9hH3hN4g-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="440" />
+              <mxPoint x="800" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VcCANqTs0pHH_2cwpIVe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VcCANqTs0pHH_2cwpIVe-3" target="VcCANqTs0pHH_2cwpIVe-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="860" />
+              <mxPoint x="800" y="1050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -21,7 +21,7 @@ week 9 continue introduction, ask hints from supervisor
 
 week 10 finish introduction
 
-week 11 conduct SLR *
+week 11 conduct SLR
 
 week 12 conduct SLR
 
@@ -47,22 +47,28 @@ week 22 wait for review
 
 week 23 wait for review
 
-week 24
+week 24:
 
 mon: supervisor sends to grappa first thing on monday
 
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- 1.3 define PCLs in se
-- 1.3 acknowledge the topic is complex
+- 
 ### Break activity
 - meditate
 - tekken 5
 ## Diary
 ### week 11
-mon: 
+fri: 1 cigarette. i smell like death. figure 2.1 finished yesterday. idk what to do with the license notes and license exceptions. 2 pomodori. maybe ill just mention the notes and exceptions outside the scope but important never the less. 10 pages done out of 30.
 
+thu: had an episode yesterday. tired. 0 pomodori today. i smoke 2 cigarettes and drink coffee. i want to perish.
+
+wed: 0 pomodoro. new dish washer leaks water and i cry. nothing done.
+
+tue: 1 pomodoro. chapter 2 is pretty much just copy paste from nurmivaara so that the process is standardized.
+
+mon: linux kernel is licensed under the Linux Syscall Note. This essentially means that you can distribute the kernel with proprietary programs as long as you don't tamper the kernel itself. broo gpl3 or even gplv2 would be great on their own. always distribute in aplv3 cuz it has extra protection in server use. hosting gpl licensed code on the proprietary github pages is ok since github pages doesn't modify the gpl licensed code. 1 pomodoro.
 ### week 10
 fri: 2 pomodori. managed to finish introduction. so glad now ill get to read some licenses in a systematic way. luckily i have 3 whole weeks to do that. 7 pages in. hopefully the rest 23 pages come out as easily or more easily than the introuction came to be in 8 weeks.
 

@@ -1,17 +1,37 @@
 \chapter{Methods\label{methods}}
 This chapter aims to establish a precisely defined and rigorous research approach to enhance transparency and repeatability. We will take the steps required to ensure that every phase and decision is thoroughly documented, enabling the reader to retrace the research process. In a thesis made by a single researcher the lack of cross-examination of results with multiple researchers and the validation of evaluation criteria for opinion bias pose threats to validity, as will be clarified further in Chapter \ref{discussion}. Therefore, special attention will be paid to address these concerns. By following this approach, this research endeavors to contribute to the existing body of knowledge in the field of computer science in a robust and reliable manner.
 
-The systematic literature review method is a well-established approach for conducting a comprehensive and rigorous analysis of the existing research on specific research question or subject kitchenham2007refhere.
+The systematic literature review method is a well-established approach for conducting a comprehensive and rigorous analysis of the existing research on specific research question or subject \citep{kitchenham2007}. This method was selected for this study to facilitate a thorough and scientifically interdisciplinary examination of PCLs in software engineering. The existing literature consists of PCLs and as such are considered gray literature, making the thesis a multivocal literature review. The method of a systematic literature review is still conducted the same way.
 
- explain slr kitchenham and charters 2007
+This study follows the guideslines outlined by \cite{kitchenham2007}, to ensure its quality. The systematic review method consists of three distinct phases: planning, conducting and reporting the review. This study stricly adhered to this structure. The phases can be further broken down into a research protocol, as illustrated in Figure \ref{fig:slrphases}. Adhering to the protocol is the first step in ensuring a well-documented and rigorous process, which increases the validity and auditability of the study.
 
- study follows kitchenham 2007
- 
- how the review process came to be
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.9]{figures/slr-phases.pdf}
+	\caption{Three phases of a systematic literature review}
+	\label{fig:slrphases}
+\end{figure}
 
- reliability and validity
+The systematic literature review process began with the formulation of research questions and the establishment of a comprehensive search strategy and scope. The search process was conducted by employing a quasi-gold standard (QGS) approach based on the implementation by \cite{qgs}. After the completion of the search process, the inclusion and exclusion criteria were defined, and a strategy was developed for assessing the quality of the multivocal literature that met these criteria. To ensure a structured evaluation of the literature, a data extraction form was created. Finally, a strategy for analyzing the extracted data from the literature was designed.
+
+ To ensure the reliability and validity of the research protocol, it was validated against similar systematic literature reviews in computer science, the aforementioned guidelines by \cite{kitchenham2007}, and was further refined through an iterative process. Specifically, a subset of the data was tested on (The QGS) and any identified issues or problems were recorded and addressed. The details of this process are explained and thoroughly documented in the following sections. Similarly, the same approach was followed for the data extraction process, whereby a subset of literature was tested to refine the data extraction form. The revision of the form was undertaken as necessary to guarantee the completeness and accuracy of the extracted data.
 
 \section{Research questions}
+The research questions in this study served two primary purposes. Firstly, they aimed to provide an anaylsis of the existing multivocal literature on PCLs in software engineering for the researchers interested about the field. Secondly, the questions were designed to cater a secondary audience of professional software engineering practicioners. As discussed in the Chapter \ref{intro}, the following research questions were addressed in this thesis:
+
+\begin{itemize}
+	\item RQ1: How many PCLs are there in software engineering?
+	\item RQ2: What is the average length of a PCL in software engineering?
+	\item RQ3: How often do PCLs in software engineering change?
+	\item RQ4: How have PCLs in software engineering changed?
+	\item RQ5: Why do PCLs in software engineering get new versions?
+\end{itemize}
+
+The systematic literature review in this thesis begins with addressing RQ1, which aims to provide the amount of PCLs that exist in software engineering. The review takes into account attributes like versions, supersedences to a different license family, formal or otherwise and recognizability. These attributes give us different amounts to existing PCLs in software engineering. This information could be most valuable for the practicioners out of all the research questions in the thesis since it could give some sense of the scale when picking a PCL that would serve the practicioners' needs the best.
+
+Next RQ2 seeks to find the average length of the text of a PCL in software engineering. This research question has attributes like the number of characters, sentences, distinct sections and the size of the license on a computer screen. This information could be valuable for the practicioners working directly within the meta plane of PCLs in software engineering.
+
+Finally RQs 3 to 5 review changes related to PCLs in software engineering. 
 \section{Search stragey}
 \subsection{Search method}
 \subsection{Search scope and terms}
