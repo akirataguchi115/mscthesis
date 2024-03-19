@@ -54,11 +54,15 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- 
+- add data extraction form table 3.1 under 3.6
 ### Break activity
-- meditate
-- tekken 5
+- pride and prejudice
+- anime
 ## Diary
+### week 12
+tue: replaced cites with citehs, citeps with citephs and made crossreferences fully clickable texts instead of just the numbers. 2 pomodori. the real science part begins. i can feel it.
+
+mon: 0 cigarette. made citations more easily clickable. should improve validity. finished chapter 2.1. soon begins my literature gathering. 2 pomodori.
 ### week 11
 fri: 1 cigarette. i smell like death. figure 2.1 finished yesterday. idk what to do with the license notes and license exceptions. 2 pomodori. maybe ill just mention the notes and exceptions outside the scope but important never the less. 10 pages done out of 30.
 
