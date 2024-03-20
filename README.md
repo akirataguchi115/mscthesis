@@ -54,12 +54,14 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- add data extraction form table 3.1 under 3.6
+- 
 ### Break activity
-- pride and prejudice
+- aku ankka
 - anime
 ## Diary
 ### week 12
+wed: 1st pomodoro felt a bit hard in the beginning but now i have the start of my data extraction form yayyyy. for rq1 i should maybe give two numbers: one for the actual amount of pcls existing and the second for the number of remarkably different choices for pcls. 2 pomodori. apparently its fine and a default that only the year of citation is clickable. whatever then switching away from the citeh convention.
+
 tue: replaced cites with citehs, citeps with citephs and made crossreferences fully clickable texts instead of just the numbers. 2 pomodori. the real science part begins. i can feel it.
 
 mon: 0 cigarette. made citations more easily clickable. should improve validity. finished chapter 2.1. soon begins my literature gathering. 2 pomodori.
