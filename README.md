@@ -54,12 +54,15 @@ mon: supervisor sends to grappa first thing on monday
 wed: student submits thesis to E-thesis
 ## General notes
 ### Pomodoros
-- 
+- install deb chrome
+- adjust timing
 ### Break activity
 - aku ankka
 - anime
 ## Diary
 ### week 12
+thu: i think i did almost 3 pomodoros. the progress pretty much stopped when i realized i can't replicate the search string part from nurmivaara due to google search limitations. ill have to contact the master of mlr, mika mäntylä. one more week dedicated to the search process nahhhhh. ill have to adjust that.
+
 wed: 1st pomodoro felt a bit hard in the beginning but now i have the start of my data extraction form yayyyy. for rq1 i should maybe give two numbers: one for the actual amount of pcls existing and the second for the number of remarkably different choices for pcls. 2 pomodori. apparently its fine and a default that only the year of citation is clickable. whatever then switching away from the citeh convention.
 
 tue: replaced cites with citehs, citeps with citephs and made crossreferences fully clickable texts instead of just the numbers. 2 pomodori. the real science part begins. i can feel it.
