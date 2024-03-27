@@ -21,45 +21,60 @@ week 9 continue introduction, ask hints from supervisor
 
 week 10 finish introduction
 
-week 11 conduct SLR
+week 11 find MLR literature
 
-week 12 conduct SLR
+week 12 find MLR literature
 
-week 13 conduct SLR
+week 13 (25.3 - 31.3) gather MLR literature *
 
-week 14 start Results
+week 14 (1.4 - 7.4) 	gather MLR literature
 
-week 15 finish Results
+week 15 (8.4 - 14.4) 	write results
 
-week 16 start Discussion and Conclusions
+week 16 (15.4 - 21.4) finish results
 
-week 17 finish Discussion and Conclussions
+week 17 (22.4 - 28.4) write Discussion and Conclussions
 
-week 18 first draft, wait for comments
+week 18 (29.4 - 5.5)	first draft, wait for comments
 
-week 19 second draft, wait for comments
+week 19 (6.5 - 12.5) 	second draft, wait for comments
 
-week 20 send final draft, wait for final comments
+week 20 (13.5 - 19.5) send final draft, wait for final comments
 
-week 21 read final comments, student sends final version, supervisor requests review
+week 21 (20.5 - 26.5) read final comments, student sends final version, supervisor requests review
 
-week 22 wait for review
+week 22 (27.5 - 2.3) 	wait for review
 
-week 23 wait for review
+week 23 (3.6 - 9.6) 	wait for review
 
 week 24:
+mon 10.6: supervisor sends to grappa first thing on monday
+wed 12.6: student submits thesis to E-thesis
 
-mon: supervisor sends to grappa first thing on monday
-
-wed: student submits thesis to E-thesis
-## General notes
+If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
+## General
 ### Pomodoros
-- install deb chrome
-- adjust timing
+- read kuutila et al 2020 and title paragraphs
+- compare kuutila et al. 2020 and nurmivaara 2023 paragraphs
+- write new paragraph titles
+- replace "literature" and "studies" with "sources"
+- write abstract until results
+- make other necessary changes to existing text to reflect the mlr nature instead of pure slr nature
+- start describing literature gathering process from the wikipedia mit license
 ### Break activity
-- aku ankka
-- anime
+- pride and prejudice
+### Notes
+write paragraph comparisons here
+<details>
+<summary>Diary</summary>
+
 ## Diary
+### week 13
+wed: 3 pomodoros. i should start reading kuutila et al. 2020 and the paragraphization. long task but what are you gonna do. read the abstract. tomorrow maybe introduction if im strong enough :joy: (cope). actually managed to install chrome .deb version today and managed to collapse diary on readme and add detailed dates to timing (although im prolly not gonna finish this thesis this spring).
+
+tue: if god wills it i won't have to include wikipedia nor choosealicense.com to the literature if they have duplicates from the replicable license lists. 0 pomodoro since i've been experiencing dizziness. created good pomodoros though for tomorrow.
+
+mon: 2 pomodoros. met the mlr master. i might have to do some drastic changes to the rhytm of the paper which means more required time but hopefully this'll go fine. tomorrow'll be an interesting day.
 ### week 12
 thu: i think i did almost 3 pomodoros. the progress pretty much stopped when i realized i can't replicate the search string part from nurmivaara due to google search limitations. ill have to contact the master of mlr, mika mäntylä. one more week dedicated to the search process nahhhhh. ill have to adjust that.
 
@@ -157,6 +172,8 @@ fri 19.1 read about slr
 thu 18.1 fix latex
 
 mon 22.1 read about slr: I read the SLR slideshow through. The title is now multivocal slr on software licenses in software engineering. The research questions are not clear yet. I am scared again.
+</details>
+
 ## Thesis design
 ### 1 Introduction 6 pages
 - setting
@@ -169,7 +186,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - 1.2 will examine terms
 - viewpoints
 #### 1.2 Thesis structure
-thesis structure
+- thesis structure
 #### 1.3 Background and terminology of PCLs
 - state of current terminology
 - terms of other interest areas of the thesis
@@ -195,7 +212,7 @@ thesis structure
 ##### 2.2.1 Search method
 - more on where was search process conducted in
 ##### 2.2.2 Search scope and terms
-- how were search terms determined
+- how were search terms determined (end condition)
 - search string
 - how many results
 - finalized search string
@@ -205,7 +222,7 @@ thesis structure
 - second stage inclusion exclusion criteria (quality assesment incl/excl, manual excl in appendix b)
 - third stage manual review (final list of licenses in appendix c (maybe in hosted javascript githubpages as well))
 #### 2.4 Inclusion and exclusion criteria
-- inclusion criterias
+- inclusion criterias (second phase from github /licenses api)
 - exclusion criterias
 - comments on applying
 #### 2.5 Quality and evidence criteria
