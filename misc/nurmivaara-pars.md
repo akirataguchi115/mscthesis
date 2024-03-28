@@ -1,5 +1,4 @@
-## Thesis design
-### 1 Introduction 6 pages
+### 1 Introduction
 - setting
 - definition
 - problem
@@ -10,7 +9,7 @@
 - 1.2 will examine terms
 - viewpoints
 #### 1.2 Thesis structure
-thesis structure
+- thesis structure
 #### 1.3 Background and terminology of PCLs
 - state of current terminology
 - terms of other interest areas of the thesis
@@ -21,7 +20,8 @@ thesis structure
 - free vs open
 - define PCLs in se
 - acknowledge the topic is complex
-### 2 Methods 8 pages
+
+### 2 Methods
 - aim of the chapter
 - explain slr
 - study follows kitchenham 2007
@@ -58,7 +58,8 @@ thesis structure
 - aim of scope and evidence levels (alves et al)
 - categorization of results
 - nex chapter presents outcomes
-### 3 Results 8 pages
+
+### 3 Results
 - information about chapter
 - how many licenses and why
 - statistical overview with figures (mapping study)
@@ -71,7 +72,8 @@ thesis structure
 - figures and study identifier tables
 #### 3.3 RQ3
 - figures and study identifier tables
-### 4 Discussion 7 pages
+
+### 4 Discussion
 - indications
 - follow-up observation
 - observation 1
@@ -96,7 +98,8 @@ thesis structure
 ##### 4.3.2 Limitations in data extraction
 - importance of data extraction
 - lack of measurements and tooling
-### 5 Conclusions 1 pages
+
+### 5 Conclusions
 - primary objective of this study
 - conclusions from each rq
 #### 5.1 Future research

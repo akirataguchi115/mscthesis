@@ -25,9 +25,9 @@ week 11 find MLR literature
 
 week 12 find MLR literature
 
-week 13 (25.3 - 31.3) gather MLR literature *
+week 13 (25.3 - 31.3) gather MLR literature
 
-week 14 (1.4 - 7.4) 	gather MLR literature
+week 14 (1.4 - 7.4) 	gather MLR literature *
 
 week 15 (8.4 - 14.4) 	write results
 
@@ -64,7 +64,7 @@ If 10.6 grappa deadline is missed the next grappa deadline is in the beginning o
 ### Break activity
 - pride and prejudice
 ### Notes
-write paragraph comparisons here
+ad hoc notes place reserved here
 <details>
 <summary>Diary</summary>
 
@@ -197,6 +197,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - free vs open
 - define PCLs in se
 - acknowledge the topic is complex
+
 ### 2 Methods 8 pages
 - aim of the chapter
 - explain slr
@@ -234,6 +235,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - aim of scope and evidence levels (alves et al)
 - categorization of results
 - nex chapter presents outcomes
+
 ### 3 Results 8 pages
 - information about chapter
 - how many licenses and why
@@ -247,6 +249,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - figures and study identifier tables
 #### 3.3 RQ3
 - figures and study identifier tables
+
 ### 4 Discussion 7 pages
 - indications
 - follow-up observation
@@ -272,6 +275,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 ##### 4.3.2 Limitations in data extraction
 - importance of data extraction
 - lack of measurements and tooling
+
 ### 5 Conclusions 1 pages
 - primary objective of this study
 - conclusions from each rq
