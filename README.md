@@ -29,15 +29,15 @@ week 13 (25.3 - 31.3) gather MLR literature
 
 week 14 (1.4 - 7.4) 	gather MLR literature *
 
-week 15 (8.4 - 14.4) 	write results
+week 15 (8.4 - 14.4) 	gather MLR literature
 
-week 16 (15.4 - 21.4) finish results
+week 16 (15.4 - 21.4) Gather MLR literature
 
-week 17 (22.4 - 28.4) write Discussion and Conclussions
+week 17 (22.4 - 28.4) write Results
 
-week 18 (29.4 - 5.5)	first draft, wait for comments
+week 18 (29.4 - 5.5)	write Discussion and Conclusions
 
-week 19 (6.5 - 12.5) 	second draft, wait for comments
+week 19 (6.5 - 12.5) 	first draft, wait for comments
 
 week 20 (13.5 - 19.5) send final draft, wait for final comments
 
@@ -54,8 +54,6 @@ wed 12.6: student submits thesis to E-thesis
 If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
 ## General
 ### Pomodoros
-- read kuutila et al 2020 and title paragraphs
-- compare kuutila et al. 2020 and nurmivaara 2023 paragraphs
 - write new paragraph titles
 - replace "literature" and "studies" with "sources"
 - write abstract until results
@@ -63,13 +61,22 @@ If 10.6 grappa deadline is missed the next grappa deadline is in the beginning o
 - start describing literature gathering process from the wikipedia mit license
 ### Break activity
 - pride and prejudice
+- tekken
 ### Notes
 ad hoc notes place reserved here
 <details>
 <summary>Diary</summary>
 
 ## Diary
+### week 14
+thu: i'm not completely sure if i should write a systematic mapping study or a systematic literature review. ask about this from supervisor.
+
+wed: 2 pomodoros. finished paragraphizing kuutila et al. 2020. tomorrow should happen something
+
+tue: like 0.3 pomodoro or something like that. this is going reaaally slow.
 ### week 13
+thu: 3 pomodoros. it's hard. i know what to do but this thing still takes a lot of time. might not be able to finish the thesis this semester.
+
 wed: 3 pomodoros. i should start reading kuutila et al. 2020 and the paragraphization. long task but what are you gonna do. read the abstract. tomorrow maybe introduction if im strong enough :joy: (cope). actually managed to install chrome .deb version today and managed to collapse diary on readme and add detailed dates to timing (although im prolly not gonna finish this thesis this spring).
 
 tue: if god wills it i won't have to include wikipedia nor choosealicense.com to the literature if they have duplicates from the replicable license lists. 0 pomodoro since i've been experiencing dizziness. created good pomodoros though for tomorrow.
