@@ -54,21 +54,24 @@ wed 12.6: student submits thesis to E-thesis
 If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
 ## General
 ### Pomodoros
-- write new paragraph titles
-- replace "literature" and "studies" with "sources"
-- write abstract until results
-- make other necessary changes to existing text to reflect the mlr nature instead of pure slr nature
+- remove any connections to google search or scholar
 - start describing literature gathering process from the wikipedia mit license
 ### Break activity
 - pride and prejudice
 - tekken
+- meditation
 ### Notes
 ad hoc notes place reserved here
 <details>
 <summary>Diary</summary>
 
 ## Diary
+### week 15
+mon: 3 pomodoros. nice.
+
 ### week 14
+fri: not much done. sent an email to supervisor regarding the sms but ill continue working on the slr style.
+
 thu: i'm not completely sure if i should write a systematic mapping study or a systematic literature review. ask about this from supervisor.
 
 wed: 2 pomodoros. finished paragraphizing kuutila et al. 2020. tomorrow should happen something
