@@ -54,10 +54,8 @@ wed 12.6: student submits thesis to E-thesis
 If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
 ## General
 ### Pomodoros
-- remove any connections to google search or scholar
-- start describing literature gathering process from the wikipedia mit license
+- 
 ### Break activity
-- pride and prejudice
 - tekken
 - meditation
 ### Notes
@@ -67,8 +65,15 @@ ad hoc notes place reserved here
 
 ## Diary
 ### week 15
-mon: 3 pomodoros. nice.
+fri: 3 pomodoro. good progress.
 
+thu: 1 pomodoro.
+
+wed: 1 pomodoro. making some good progress.
+
+tue: 4 pomodori. idk if i can do this consistently.
+
+mon: 3 pomodoros. nice.
 ### week 14
 fri: not much done. sent an email to supervisor regarding the sms but ill continue working on the slr style.
 
@@ -207,7 +212,6 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - free vs open
 - define PCLs in se
 - acknowledge the topic is complex
-
 ### 2 Methods 8 pages
 - aim of the chapter
 - explain slr
@@ -245,7 +249,6 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - aim of scope and evidence levels (alves et al)
 - categorization of results
 - nex chapter presents outcomes
-
 ### 3 Results 8 pages
 - information about chapter
 - how many licenses and why
@@ -259,7 +262,6 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - figures and study identifier tables
 #### 3.3 RQ3
 - figures and study identifier tables
-
 ### 4 Discussion 7 pages
 - indications
 - follow-up observation
@@ -285,7 +287,6 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 ##### 4.3.2 Limitations in data extraction
 - importance of data extraction
 - lack of measurements and tooling
-
 ### 5 Conclusions 1 pages
 - primary objective of this study
 - conclusions from each rq

@@ -34,19 +34,53 @@ Next RQ2 seeks to find the average length of the text of a PCL in software engin
 Finally RQs 3 to 5 review changes related to PCLs in software engineering. The research questions go over the average length of time between new changes to the licenses and their corresponding versions, the content of the changes and the implied and expressed reasons for making the changes. The answers to these three research questions could again be useful for the researchers. The results can be used to introduce some notable background of the current PCLs in software engineering and enabling focus to more specific areas inside this PCLs in software engineering.
 
 \section{Search stragey}
-The search process was conducted in Google Search. The selection criteria for the literature were defined after the search process and the selection process was based on inclusion and exclusion criteria. The inclusion and exclusion criteria and each step of exclusion on the literature found was documented and is available as \hyperref[appendix:a]{Appendix A}. The used criteria are presented later in this chapter.
+The search process was conducted on various PCL listing websites. The selection criteria for the literature were defined after the search process and the selection process was based on inclusion and exclusion criteria. The inclusion and exclusion criteria and each step of exclusion on the literature found was documented and is available as \hyperref[appendix:a]{Appendix A}. The used criteria are presented later in this chapter.
 
-The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining all relevant information from the selected literature. The data extraction form used included information such as license name, release year, text length and inferred purpose and is available  \hyperref[table:extraction]{Table 2.1}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
+The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining all relevant information from the selected literature. The data extraction form used included information such as license name, release year, text length and inferred purpose and is available  \hyperref[table:extraction]{Table 2.2}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
 \subsection{Search method}
-The search was conducted on Google Search, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using exclusion and quality criteria presented later in this chapter. Manual searching of databases with thousands of PCLs is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
+The search was conducted on various PCL listing websites, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using exclusion and quality criteria presented later in this chapter. Manual searching of databases with thousands of PCLs is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
 \subsection{Search scope and terms}
-EPLAIN WHY THIS DID NOT HAPPEN EITHER
-The search terms for this study were determined through an iterative process that took into account the research questions and topic.
+Originally the search terms would have been present just like in a normal MLR or SLR. Keywords however produced highly varying and non-reproducabe results in Google Scholar and Google Search. Some PCL listing websites such as FSF's list of pages categorized as licenses could not be found from Google Search even with the \texttt{site} operator: \texttt{site:https://directory.fsf.org/wiki/Category:License}. Although the page has been up since 2013 for some reason Google has not crawled the page in 10 years \citep{fsf:licenselist}. Hence why this thesis does not include search terms per se.
 
-EXPLAIN WHY QGS SEARCH STRING COULD NOT BE DONE BUT WIKIPEDIA INSTEAD
-The search string was established on a basis of a quasi-gold standard as proposed by \cite{qgs}. For establishing a QGS we employed a manually crafted search string based on the topic and research questions of this study. As we defined PCLs in software engineering as copyright licenses where the licensees are not limited and the copyright license in question is meant be used in licensing software source code in \hyperref[methods]{Chapter 2} and our research questions focus on finding measurements and reasonings to the PCLs' various attributes, we manually formulated the search string:
+Instead, for establishing a QGS we started defining our search scope from the Wikipedia page of one of the most used open source license according to \cite{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.1}.
+
+\begin{table}[t]
+	\begin{center}
+		\begin{tabular}{||c c||}
+			\hline
+			Field & Value \\
+			\hline
+			Publisher & Massachusetts Insitute of Technology \\
+			SPDX identifier & MIT \\
+			Debian FSG compatible & Yes \\
+			FSF approved & Yes \\
+			OSI approved & 	Yes \\
+			GPL compatible & Yes \\
+			Copyleft & No \\
+			Linking from code with a different license & Yes \\
+			\hline
+		\end{tabular}
+		\caption{MIT License Wikipedia page infobox}
+		\label{table:infobox}
+	\end{center}
+\end{table}
+
+As we defined PCLs in software engineering as copyright licenses where the licensees are not limited and the copyright license in question is meant be used in licensing software source code in \hyperref[methods]{Chapter 2} and our research questions focus on finding measurements and reasonings to the PCLs' various attributes, we decided to gather PCLs from the related web pages of the aforementioned categorizers: SPDX, FSF, OSI and GNU. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful PCL listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of PCL listing websites.
+
+With the search for the initial PCL listing websites completed we moved onto the search process itself.
 
 \section{Search process}
+The literature selection process was divided into multiple stages, as outlined in \hyperref[fig:search-process]{Figure 2.2}. The initial step involved the formation of the first PCL listing websites through which the first literature would be acquired from.
+
+In the first stage, the search was conducted using the ''SPDX License List'', ''DFSGLicenses'', "FSF's ''Category:License'' Wiki page, GNU's ''Various Licenses and Comments about Them'' web page and "OSI Approved licenses"
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.85]{figures/search-process.pdf}
+	\caption{Search process divided into stages}
+	\label{fig:search-process}
+\end{figure}
+
 \section{Inclusion and exclusion criteria}
 \section{Quality and evidence criteria}
 \section{Data collection and data analysis}
