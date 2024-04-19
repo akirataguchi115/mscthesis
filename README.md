@@ -21,21 +21,21 @@ week 9 continue introduction, ask hints from supervisor
 
 week 10 finish introduction
 
-week 11 find MLR literature
+week 11 find literature
 
-week 12 find MLR literature
+week 12 find literature
 
-week 13 (25.3 - 31.3) gather MLR literature
+week 13 (25.3 - 31.3) gather literature
 
-week 14 (1.4 - 7.4) 	gather MLR literature *
+week 14 (1.4 - 7.4) 	gather literature
 
-week 15 (8.4 - 14.4) 	gather MLR literature
+week 15 (8.4 - 14.4) 	gather literature
 
-week 16 (15.4 - 21.4) Gather MLR literature
+week 16 (15.4 - 21.4) gather literature
 
-week 17 (22.4 - 28.4) write Results
+week 17 (22.4 - 28.4) gather literature *
 
-week 18 (29.4 - 5.5)	write Discussion and Conclusions
+week 18 (29.4 - 5.5)	write Results, Discussion and Conclusions
 
 week 19 (6.5 - 12.5) 	first draft, wait for comments
 
@@ -64,6 +64,16 @@ ad hoc notes place reserved here
 <summary>Diary</summary>
 
 ## Diary
+### week 16
+fri: 1 pomodoro. started gathering literature to google sheets.
+
+thu: 1 pomodoro
+
+wed: 1 pomodoro. quality and evidence criteria section removed.
+
+tue: 0 pomodoro.
+
+mon: 1 pomodoro great success. after first search process stage inclusion and exclusion criteria are formed.
 ### week 15
 fri: 3 pomodoro. good progress.
 
@@ -248,7 +258,7 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - what was done to answer rq (table data extraction form)
 - aim of scope and evidence levels (alves et al)
 - categorization of results
-- nex chapter presents outcomes
+- next chapter presents outcomes
 ### 3 Results 8 pages
 - information about chapter
 - how many licenses and why

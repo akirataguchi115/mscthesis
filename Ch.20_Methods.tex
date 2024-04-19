@@ -12,7 +12,7 @@ This study follows the guidelines outlined by \cite{kitchenham2007}, to ensure i
 	\label{fig:slrphases}
 \end{figure}
 
-The multivocal literature review process began with the formulation of research questions and the establishment of a comprehensive search strategy and scope. The search process was conducted by employing a quasi-gold standard (QGS) approach based on the implementation by \cite{qgs}. After the completion of the search process, the inclusion and exclusion criteria were defined, and a strategy was developed for assessing the quality of the multivocal literature that met these criteria. To ensure a structured evaluation of the literature, a data extraction form was created. Finally, a strategy for analyzing the extracted data from the literature was designed.
+The multivocal literature review process began with the formulation of research questions and the establishment of a comprehensive search strategy and scope. The search process was conducted by employing a quasi-gold standard (QGS) approach based on the implementation by \cite{qgs}. After the completion of the search process, the inclusion and exclusion criteria were defined. To ensure a structured evaluation of the literature, a data extraction form was created. Finally, a strategy for analyzing the extracted data from the literature was designed.
 
  To ensure the reliability and validity of the research protocol, it was validated against similar systematic literature reviews in computer science, the aforementioned guidelines by \cite{kitchenham2007}, and was further refined through an iterative process. Specifically, a subset of the data was tested on (The QGS) and any identified issues or problems were recorded and addressed. The details of this process are explained and thoroughly documented in the following sections. Similarly, the same approach was followed for the data extraction process, whereby a subset of literature was tested to refine the data extraction form. The revision of the form was undertaken as necessary to guarantee the completeness and accuracy of the extracted data.
 
@@ -72,8 +72,6 @@ With the search for the initial PCL listing websites completed we moved onto the
 \section{Search process}
 The literature selection process was divided into multiple stages, as outlined in \hyperref[fig:search-process]{Figure 2.2}. The initial step involved the formation of the first PCL listing websites through which the first literature would be acquired from.
 
-In the first stage, the search was conducted using the ''SPDX License List'', ''DFSGLicenses'', "FSF's ''Category:License'' Wiki page, GNU's ''Various Licenses and Comments about Them'' web page and "OSI Approved licenses"
-
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.85]{figures/search-process.pdf}
@@ -81,9 +79,37 @@ In the first stage, the search was conducted using the ''SPDX License List'', ''
 	\label{fig:search-process}
 \end{figure}
 
+
+In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}.
+
+In the second stage, the inclusion and exclusion criteria were applied to further filter the literature and reduce the number of licenses to be reviewed. The exclusion reason as a shortcode (e.g. I1 = failed to meet inclusion criteria 1 or E2 = met exclusion criteria 2) is provided in \hyperref[appendix:a]{Appendix A}
+
+The third stage was the most time-consuming and involved a manual review of the full licenses. After reading and evaluating each paper, a final round of exclusions was completed and documented. The remaining licenses were used for data collection and analysis in the final part of the study. The final list of licenses is available in \hyperref[appendix:b]{Appendix B}.
+
 \section{Inclusion and exclusion criteria}
-\section{Quality and evidence criteria}
+To be eligible for the data collection and analysis, a paper had to meet all of the following inclusion criteria:
+
+\begin{itemize}
+	\item I1: The license focuses mostly on the copyright of software source code
+	\item I2: \textcolor{red}{inclusion criteria 2}
+\end{itemize}
+
+Additionally, licenses were excluded if they met any of the following criteria:
+
+\begin{itemize}
+	\item E1: \textcolor{red}{exclusion criteria here}
+	\item E2: \textcolor{red}{exclusion criteria here}
+	\item E3: \textcolor{red}{exclusion criteria here}
+	\item E4: \textcolor{red}{exclusion criteria here}
+\end{itemize}
+
+The relevance of each piece of literature was evaluated based on inclusion and exclusion criteria stated above. In cases where there was doubt about the suitability of a license, a more in-depth manual examination of its content was performed. The reason for exclusion was documented for each license that failed to meet the criteria, and when it was unclear, the license was included by default.
+
+Another relevant criteria related to the ones of inclusion and exclusion are the quality and evidence criteria. These criteria used by \cite{dyba2007} were not put into practice in this thesis since individual PCLs per se might not be meaningful in a results, evidence nor quality perspective. This puts more emphasis on the inclusion and exclusion criteria so that is something we must be mindful about.
+
 \section{Data collection and data analysis}
+To answer the research questions of this thesis, a thorough examination of the selected primary literature was conducted and the necessary data was collected using data extraction form presented in \hyperref[table:extraction]{Table 2.2}. A record of extracted data was kept for anaysis and is available as \hyperref[appendix:b]{Appendix B}.
+
 \begin{table}[t]
 	\begin{center}
 		\begin{tabular}{||c c c||} 
@@ -102,3 +128,7 @@ In the first stage, the search was conducted using the ''SPDX License List'', ''
 		\label{table:extraction}
 	\end{center}
 \end{table}
+
+The categorization was divided into three categories: general, limited, and specific. The limited approaches were specified by their limitations, such as being meant for \textcolor{red}{limitation example here}. The general approaches were considered to be generally applicable in the field of software engineering, but it is acknowledged that there may be more complex limitations in real-world scenarios.
+
+The subsequent chapter presents the outcomes of the steps taken in the study, as discussed above.
