@@ -54,7 +54,12 @@ wed 12.6: student submits thesis to E-thesis
 If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
 ## General
 ### Pomodoros
-- 
+- stage 1 of search process
+- stage 2 of search process
+- stage 3 of search process
+- results
+- discussion
+- conclusions
 ### Break activity
 - tekken
 - meditation
@@ -64,6 +69,14 @@ ad hoc notes place reserved here
 <summary>Diary</summary>
 
 ## Diary
+### week 18
+fri: 1 pomodoro.
+
+### week 17
+fri: 1 pomodoro. refactoring rqs and adjusting the search process diagram.
+
+mon: 2 pomodoro.
+
 ### week 16
 fri: 1 pomodoro. started gathering literature to google sheets.
 
@@ -307,3 +320,4 @@ mon 22.1 read about slr: I read the SLR slideshow through. The title is now mult
 - LICENSE highlighting.js
 - what kind of efforts and why
 - what this thesis has provided
+- how has each license fared in the court in real life?

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T10:23:59.695Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cg0_S7G_eUs2mHkGBR3n" version="24.2.3" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:48:57.437Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VsRMRLsWe5qxLqzirkqI" version="24.3.1" type="device">
   <diagram name="Sivu-1" id="JalUmfeEbt0fBnljzWAW">
-    <mxGraphModel dx="1147" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,26 +135,26 @@
           <mxGeometry x="840" y="-0.08999999999999658" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bxhx5Rng9wyngggRCBLE-4" value="Record (per search source):&lt;div&gt;&lt;ol&gt;&lt;li&gt;PCL listing websites&lt;/li&gt;&lt;li&gt;Search results&lt;/li&gt;&lt;li&gt;Number of literature returned&lt;/li&gt;&lt;li&gt;Metadata of literature returned&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="180.05" width="160" height="150" as="geometry" />
+          <mxGeometry x="840" y="180.05" width="230" height="139.95" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-2" value="Stage 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="560" y="450" width="200" height="230" as="geometry">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-2" value="Stage 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="560" y="450" width="200" height="250" as="geometry">
             <mxRectangle x="330" y="50" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-3" value="Apply inclusion / exclusion criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="u-fK5fAdBzHKxq82xRCe-2">
-          <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-3" value="Retrieve and read full pieces of literature, apply inclusion / exclusion criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="u-fK5fAdBzHKxq82xRCe-2" vertex="1">
+          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-5" value="Set of filtered literature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="u-fK5fAdBzHKxq82xRCe-2">
-          <mxGeometry x="40" y="140" width="120" height="50" as="geometry" />
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-5" value="Set of filtered literature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="u-fK5fAdBzHKxq82xRCe-2" vertex="1">
+          <mxGeometry x="40" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-6" value="Results in" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="u-fK5fAdBzHKxq82xRCe-2" source="u-fK5fAdBzHKxq82xRCe-3" target="u-fK5fAdBzHKxq82xRCe-5">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-6" value="Results in" style="endArrow=classic;html=1;rounded=0;" parent="u-fK5fAdBzHKxq82xRCe-2" source="u-fK5fAdBzHKxq82xRCe-3" target="u-fK5fAdBzHKxq82xRCe-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="130" as="sourcePoint" />
             <mxPoint x="200" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxhx5Rng9wyngggRCBLE-1" target="u-fK5fAdBzHKxq82xRCe-3">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bxhx5Rng9wyngggRCBLE-1" target="u-fK5fAdBzHKxq82xRCe-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="800" y="350" />
@@ -162,28 +162,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-9" value="Record (per piece of literature):&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;&quot;&gt;Record (in general):&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="529.95" width="210" height="150.05" as="geometry" />
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-9" value="Record (per piece of literature):&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Record (in general):&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="484" width="230" height="200.01" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-12" value="Stage 3" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="560" y="720" width="200" height="250" as="geometry">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-12" value="Stage 3" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="560" y="740" width="200" height="250" as="geometry">
             <mxRectangle x="330" y="50" width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-13" value="Retrieve and read full pieces of literature, last round of exclusion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="u-fK5fAdBzHKxq82xRCe-12">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-13" value="Reread full pieces of literature, last round of exclusion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="u-fK5fAdBzHKxq82xRCe-12" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-14" value="Set of filtered literature used for data collection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="u-fK5fAdBzHKxq82xRCe-12">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-14" value="Set of filtered literature used for data collection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="u-fK5fAdBzHKxq82xRCe-12" vertex="1">
           <mxGeometry x="40" y="160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-15" value="Results in" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="u-fK5fAdBzHKxq82xRCe-12" source="u-fK5fAdBzHKxq82xRCe-13" target="u-fK5fAdBzHKxq82xRCe-14">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-15" value="Results in" style="endArrow=classic;html=1;rounded=0;" parent="u-fK5fAdBzHKxq82xRCe-12" source="u-fK5fAdBzHKxq82xRCe-13" target="u-fK5fAdBzHKxq82xRCe-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="130" as="sourcePoint" />
             <mxPoint x="200" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-20" value="Record:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="769.99" width="160" height="150.03" as="geometry" />
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-20" value="Record:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="790.06" width="230" height="150.03" as="geometry" />
+        </mxCell>
+        <mxCell id="FoHN8XGaP04GAPq_3NRo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-fK5fAdBzHKxq82xRCe-5" target="u-fK5fAdBzHKxq82xRCe-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="635" />
+              <mxPoint x="800" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

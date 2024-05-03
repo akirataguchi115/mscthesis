@@ -20,18 +20,17 @@ The multivocal literature review process began with the formulation of research 
 The research questions in this study served two primary purposes. Firstly, they aimed to provide an anaylsis of the existing multivocal literature on PCLs in software engineering for the researchers interested about the field. Secondly, the questions were designed to cater a secondary audience of professional software engineering practicioners. As discussed in the \hyperref[intro]{Chapter 1}, the following research questions were addressed in this thesis:
 
 \begin{itemize}
-	\item RQ1: How many PCLs are there in software engineering?
-	\item RQ2: What is the average length of a PCL in software engineering?
-	\item RQ3: How often do PCLs in software engineering change?
-	\item RQ4: How have PCLs in software engineering changed?
-	\item RQ5: Why do PCLs in software engineering get new versions?
+	\item RQ1: How many PCLs in software engineering does there exist?
+	\item RQ3: What is the average length of a PCL in software engineering?
+	\item RQ3: What are the most common components seen in PCLs in software engineering?
+	\item RQ4: What are the most common changes made to PCLS in software engineering?
 \end{itemize}
 
 The multivocal literature review in this thesis begins with addressing RQ1, which aims to provide the amount of PCLs that exist in software engineering. The review takes into account attributes like versions, supersedences to a different license family, formal or otherwise and recognizability. These attributes give us different amounts to existing PCLs in software engineering. This information could be most valuable for the practicioners out of all the research questions in the thesis since it could give some sense of the scale when picking a PCL that would serve the practicioners' needs the best.
 
 Next RQ2 seeks to find the average length of the text of a PCL in software engineering. This research question has attributes like the number of characters, sentences, distinct sections and the size of the license on a computer screen. This information could be valuable for the practicioners mentioned in the previous parapgrah for the same reasons of getting a better overview of the PCLs in software engineering. The research questions could also be beneficial for the practicioners working directly within the meta plane of PCLs in software engineering. Let us refer to the latter as researchers.
 
-Finally RQs 3 to 5 review changes related to PCLs in software engineering. The research questions go over the average length of time between new changes to the licenses and their corresponding versions, the content of the changes and the implied and expressed reasons for making the changes. The answers to these three research questions could again be useful for the researchers. The results can be used to introduce some notable background of the current PCLs in software engineering and enabling focus to more specific areas inside this PCLs in software engineering.
+Finally RQ3 and RQ4 attempt to distinguish the top level paragraphs and other components of the PCLS in software engineering and what are the common reasons for the changes made to them throughout the years. The research questions go over the content of the changes and the implied and expressed reasons for making the changes. The answers to these last two research questions could again be useful for the researchers. The results can be used to introduce some notable background of the current PCLs in software engineering and enabling focus to more specific areas inside this PCLs in software engineering.
 
 \section{Search stragey}
 The search process was conducted on various PCL listing websites. The selection criteria for the literature were defined after the search process and the selection process was based on inclusion and exclusion criteria. The inclusion and exclusion criteria and each step of exclusion on the literature found was documented and is available as \hyperref[appendix:a]{Appendix A}. The used criteria are presented later in this chapter.
@@ -74,7 +73,7 @@ The literature selection process was divided into multiple stages, as outlined i
 
 \begin{figure}
 	\centering
-	\includegraphics[scale=0.85]{figures/search-process.pdf}
+	\includegraphics[scale=0.67]{figures/search-process.pdf}
 	\caption{Search process divided into stages}
 	\label{fig:search-process}
 \end{figure}
@@ -84,10 +83,10 @@ In the first stage, the search was conducted using the ''SPDX License List'' \ci
 
 In the second stage, the inclusion and exclusion criteria were applied to further filter the literature and reduce the number of licenses to be reviewed. The exclusion reason as a shortcode (e.g. I1 = failed to meet inclusion criteria 1 or E2 = met exclusion criteria 2) is provided in \hyperref[appendix:a]{Appendix A}
 
-The third stage was the most time-consuming and involved a manual review of the full licenses. After reading and evaluating each paper, a final round of exclusions was completed and documented. The remaining licenses were used for data collection and analysis in the final part of the study. The final list of licenses is available in \hyperref[appendix:b]{Appendix B}.
+The third stage was the most time-consuming and involved a manual review of the full licenses. After reading and evaluating each license, a final round of exclusions was completed and documented. The remaining licenses were used for data collection and analysis in the final part of the study. The final list of licenses is available in \hyperref[appendix:b]{Appendix B}.
 
 \section{Inclusion and exclusion criteria}
-To be eligible for the data collection and analysis, a paper had to meet all of the following inclusion criteria:
+To be eligible for the data collection and analysis, a license had to meet all of the following inclusion criteria:
 
 \begin{itemize}
 	\item I1: The license focuses mostly on the copyright of software source code
@@ -97,7 +96,7 @@ To be eligible for the data collection and analysis, a paper had to meet all of 
 Additionally, licenses were excluded if they met any of the following criteria:
 
 \begin{itemize}
-	\item E1: \textcolor{red}{exclusion criteria here}
+	\item E1: The piece of literature is a license exception
 	\item E2: \textcolor{red}{exclusion criteria here}
 	\item E3: \textcolor{red}{exclusion criteria here}
 	\item E4: \textcolor{red}{exclusion criteria here}
@@ -117,18 +116,15 @@ To answer the research questions of this thesis, a thorough examination of the s
 			\# & Field & Concern/Research question \\
 			\hline
 			F1 & Name & Documentation \\
-			F2 & Year & RQ3, RQ4, RQ5 \\
-			F3 & Length & RQ2 \\
-			F4 & Inferred purpose & RQ1, RQ5 \\
+			F2 & Length & RQ3 \\
 			F3 & FSF approval &  Documentation\\
 			F4 & OSI approval & Documentation \\
+			F5 & Inferred purpose & RQ1, RQ2, RQ4 \\
 			\hline
 		\end{tabular}
 		\caption{Data extraction form}
 		\label{table:extraction}
 	\end{center}
 \end{table}
-
-The categorization was divided into three categories: general, limited, and specific. The limited approaches were specified by their limitations, such as being meant for \textcolor{red}{limitation example here}. The general approaches were considered to be generally applicable in the field of software engineering, but it is acknowledged that there may be more complex limitations in real-world scenarios.
 
 The subsequent chapter presents the outcomes of the steps taken in the study, as discussed above.
