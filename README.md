@@ -5,53 +5,21 @@ Repository for my MSc thesis
 
 `latexmk`
 ## Timing
-week 3 plan review
+week 1 send first draft, wait for comments, revise
 
-week 4 plan review
+week 2 send final draft, wait for final comments, revise
 
-week 5 plan review
+week 3 ead final comments, student sends final version, supervisor requests review
 
-week 6 supervisor meeting, plan review
+week 4 wait for review
 
-week 7 plan review
+week 5	wait for review
 
-week 8 continue Introduction
+week 6:
 
-week 9 continue introduction, ask hints from supervisor
+mon: supervisor sends thesis to grappa
 
-week 10 finish introduction
-
-week 11 find literature
-
-week 12 find literature
-
-week 13 (25.3 - 31.3) gather literature
-
-week 14 (1.4 - 7.4) 	gather literature
-
-week 15 (8.4 - 14.4) 	gather literature
-
-week 16 (15.4 - 21.4) gather literature
-
-week 17 (22.4 - 28.4) gather literature *
-
-week 18 (29.4 - 5.5)	write Results, Discussion and Conclusions
-
-week 19 (6.5 - 12.5) 	first draft, wait for comments
-
-week 20 (13.5 - 19.5) send final draft, wait for final comments
-
-week 21 (20.5 - 26.5) read final comments, student sends final version, supervisor requests review
-
-week 22 (27.5 - 2.3) 	wait for review
-
-week 23 (3.6 - 9.6) 	wait for review
-
-week 24:
-mon 10.6: supervisor sends to grappa first thing on monday
-wed 12.6: student submits thesis to E-thesis
-
-If 10.6 grappa deadline is missed the next grappa deadline is in the beginning of september.
+wed: student submits thesis to E-thesis
 ## General
 ### Pomodoros
 - stage 1 of search process
@@ -61,22 +29,22 @@ If 10.6 grappa deadline is missed the next grappa deadline is in the beginning o
 - discussion
 - conclusions
 ### Break activity
-- tekken
 - meditation
+- tekken
 ### Notes
 ad hoc notes place reserved here
 <details>
 <summary>Diary</summary>
 
 ## Diary
+### week 21
+mon: 
 ### week 18
 fri: 1 pomodoro.
-
 ### week 17
 fri: 1 pomodoro. refactoring rqs and adjusting the search process diagram.
 
 mon: 2 pomodoro.
-
 ### week 16
 fri: 1 pomodoro. started gathering literature to google sheets.
 
