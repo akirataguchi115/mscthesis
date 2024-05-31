@@ -5,10 +5,7 @@ Repository for my MSc thesis
 
 `latexmk`
 ## Timing
-- remove full name from others than spdx licenses
-- modify xlookup so that it returns if duplicate
-- modify xlookup to use array of multiple sheets
-- remove alphabets and empty lines from sheets fsf licenses
+- gather identifiers from gnu using regexr
 
 week 22 stage 1
 
