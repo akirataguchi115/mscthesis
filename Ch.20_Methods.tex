@@ -79,7 +79,9 @@ The literature selection process was divided into multiple stages, as outlined i
 \end{figure}
 
 
-In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}. The initial list of PCLs excluding duplicates is provided in \hyperref[appendix:a]{Appendix A}
+In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}. The PCLs appear in the same order as decribed above: SPDX, DFSG, FSF, OSI and GNU. The appendix was also crafted in a spreadsheet software so that only the initial hit source was documented in the order described above. For example even if MIT license would be found on SPDX and DFSG \hyperref[appendix:a]{Appendix A} would only display MIT license with the ''First hit from'' value being SPDX. The initial list of 789 PCLs excluding duplicates is provided in \hyperref[appendix:a]{Appendix A}. 
+
+Some things must be mentioned about the process of the first stage. First, the FSF outputted a ''license'' named ''other''. This ''license'' included at the time of observation 5282 known programs to FSF whose PCLs were not documented yet by the FSF. Although some of the programs had straightforward PCLs such as GPL-2.0-only we decided to leave these PCLs out of the scope of this thesis due to the large amount of the programs. The second note is about GNU's PCLs. Since we had the most trouble scraping the identifiers automatically from this website we decided to limit the PCLs only to ''Software Licenses'' as defined by the table of contents on the website.
 
 In the second stage, the inclusion and exclusion criteria were applied to further filter the literature and reduce the number of licenses to be reviewed. This involved a manual review of the full licenses. The exclusion reason as a shortcode (e.g. I1 = failed to meet inclusion criteria 1 or E2 = met exclusion criteria 2) is provided in \hyperref[appendix:b]{Appendix B}
 
@@ -136,3 +138,12 @@ The subsequent chapter presents the outcomes of the steps taken in the study, as
 \textcolor{orange}{week 22 mon: we are not going to include fsf:license:other. for example babl seems to be in that category but is actually licensed under gplv3.}
 
 \textcolor{orange}{week 22 tue: definitely not including fsf:license:other. there are a whopping 5282 programs whose license fsf just hasn't put up yet. i don't know what im going to do when i have to review the full licenses. for stage 3 licenses i should create a spreadsheet that doesn't allow duplicate attribute-having licenses. ok do stage inside spreadsheet as well and so that there is a simple clickable url to the license text. wayback machine in the end all of the urls via api or something.}
+
+\textcolor{orange}{week 23 mon: only software applicable licenses were chosen from gnu licenses since that's the only place that already categorized them and the only place with incredibly difficult to choose the license identifiers without manually writing them down}
+
+\textcolor{orange}{week 23 wed: choosealicense appendix has "duplicates" but ig for stage 3 i could do the same kinda thing. maybe even justify with the appendix why agplv3re is the best license. i should make the stage 1 table so that it would have every place where the license was found from.}
+
+\textcolor{orange}{week 23 thu: noo the appendix might not work. like where does json license stand in.}
+
+remove the dates from this thingy and remove all the unnecessary thinking
+

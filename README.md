@@ -5,11 +5,9 @@ Repository for my MSc thesis
 
 `latexmk`
 ## Timing
-- gather identifiers from gnu using regexr
-
 week 22 stage 1
 
-week 23 stage 2
+week 23 stage 1
 
 week 24 stage 2
 
