@@ -5,33 +5,27 @@ Repository for my MSc thesis
 
 `latexmk`
 ## Timing
-week 22 stage 1
-
-week 23 stage 1
-
-week 24 stage 2
+week 25 stage 2
 
 week 26 stage 3
 
-week 27 - 32 vacay
+week 27 results
 
-week 33 results
+week 28 discussion
 
-week 34 discussion
+week 29 conclusions
 
-week 35 conclusions
+week 30 send first draft, wait for comments, revise
 
-week 36 send first draft, wait for comments, revise
+week 31 send final draft, wait for final comments, revise
 
-week 37 send final draft, wait for final comments, revise
+week 32 read final comments, student sends final version, supervisor requests review
 
-week 38 read final comments, student sends final version, supervisor requests review
+week 33 wait for review
 
-week 39 wait for review
+week 34	wait for review
 
-week 40	wait for review
-
-week 41:
+week 35:
 
 mon: supervisor sends thesis to grappa
 
