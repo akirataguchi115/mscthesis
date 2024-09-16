@@ -5,27 +5,18 @@ Repository for my MSc thesis
 
 `latexmk`
 ## Timing
-week 25 stage 2
 
-week 26 stage 3
+week n send first draft, wait for comments, revise
 
-week 27 results
+week n+1 send final draft, wait for final comments, revise
 
-week 28 discussion
+week n+2 read final comments, student sends final version, supervisor requests review
 
-week 29 conclusions
+week n+3 wait for review
 
-week 30 send first draft, wait for comments, revise
+week n+4	wait for review
 
-week 31 send final draft, wait for final comments, revise
-
-week 32 read final comments, student sends final version, supervisor requests review
-
-week 33 wait for review
-
-week 34	wait for review
-
-week 35:
+week n+5:
 
 mon: supervisor sends thesis to grappa
 
@@ -81,11 +72,7 @@ wed: student submits thesis to E-thesis
 - inclusion criterias (second phase from github /licenses api)
 - exclusion criterias
 - comments on applying
-#### 2.5 Quality and evidence criteria
-- quality criteria was also taken into consideration
-- quality criteria
-- quality assesment and figure
-#### 2.6 Data collection and data analysis
+#### 2.5 Data collection and data analysis
 - what was done to answer rq (table data extraction form)
 - aim of scope and evidence levels (alves et al)
 - categorization of results
