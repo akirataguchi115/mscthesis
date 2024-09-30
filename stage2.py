@@ -1,22 +1,35 @@
-import yaml
-import re
+import re, json
 from os import listdir
 
 with open('stage1') as file:
   stage_1_identifiers = file.read().splitlines()
 
+json_file_names = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\\.json').match(f))]
 
-license_ymls = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\.yml').match(f))]
+json_file_names.remove('index.json')
+json_file_names.sort()
 
-scancode_keys = [f for yaml.safe_load(f)['spdx_license_key'] in license_ymls]
+def get_spdx_license_key(json_file_name):
+  with open ('scancode-licensedb/docs/' + json_file_name, 'r') as file:
+    json_loader = json.load(file)
+    spdx_license_key = ''
+    try:
+      spdx_license_key = json_loader['spdx_license_key']
+    except:
+      print('doesnt have spdx: ' + json_loader['key'])
+  return spdx_license_key
 
-
-with open ('scancode-licensedb/docs/' + license_ymls[0], 'r') as file:
-  license_service = yaml.safe_load(file)
-
-print(stage_1_identifiers[0])
-
-print(license_service['spdx_license_key'])
+scancode_keys = list(map(lambda json_file_name: get_spdx_license_key(json_file_name),json_file_names))
 
 counter = 0
-for study_identifier in stage_1_identifiers:
+for identifier in stage_1_identifiers:
+  for key in scancode_keys:
+    if identifier == key:
+      counter += 1
+
+print(counter)
+
+# fetch full license texts to licenses/
+# manually fetch licenses to manual-licenses/
+# remove and document duplicates
+# create a dockerfile for testing purposes
