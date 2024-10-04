@@ -3,42 +3,38 @@ from os import listdir, path
 from pathlib import Path
 from shutil import rmtree
 
-with open('stage1') as file:
-  stage_1_identifiers = file.read().splitlines()
-
-json_file_names = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\\.json').match(f))]
-
-json_file_names.remove('index.json')
-json_file_names.sort()
-
 if path.exists('licensedb-licenses'):
   rmtree('licensedb-licenses')
 Path('licensedb-licenses').mkdir(parents=True, exist_ok=True)
 
-def get_spdx_license_key(json_file_name):
+with open('stage1.txt') as file:
+  stage_1_identifiers = file.read().splitlines()
+
+json_filenames = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\\.json').match(f))]
+json_filenames.remove('index.json')
+
+manually_fetchable_licenses = stage_1_identifiers
+
+for json_file_name in json_filenames:
   with open ('scancode-licensedb/docs/' + json_file_name, 'r') as file:
     json_loader = json.load(file)
-    spdx_license_key = ''
     try:
       spdx_license_key = json_loader['spdx_license_key']
-
-      file_object = open('licensedb-licenses/' + json_loader['key'] + '.txt', 'w')
-      file_object.write(json_loader['text'])
+      if spdx_license_key in stage_1_identifiers:
+        file_object = open('licensedb-licenses/' + json_loader['key'] + '.txt', 'w')
+        file_object.write(json_loader['text'])
+        manually_fetchable_licenses.remove(spdx_license_key)
     except:
       print('doesnt have spdx: ' + json_loader['key'])
-  return spdx_license_key
 
-scancode_keys = list(map(lambda json_file_name: get_spdx_license_key(json_file_name),json_file_names))
+manual_filenames = [f.removesuffix('.txt') for f in listdir('manual-licenses/') if (re.compile('^.*\\.txt').match(f))]
 
-counter = 0
-for identifier in stage_1_identifiers:
-  for key in scancode_keys:
-    if identifier == key:
-      counter += 1
+for license_key in manual_filenames: manually_fetchable_licenses.remove(license_key)
 
-print(counter)
+with open('fetch_these_licenses_manually.txt', 'w') as file_object:
+  file_object.write('\n'.join(manually_fetchable_licenses))
 
-# fetch full license texts to licenses/
+# fetch full license texts to licensedb-licenses/
 # manually fetch licenses to manual-licenses/
 # remove and document duplicates
-# create a dockerfile for testing purposes
+# document ccby4 scancode in thesis

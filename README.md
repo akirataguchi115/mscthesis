@@ -1,5 +1,7 @@
 # Master's thesis
 Repository for my MSc thesis
+
+ScanCode LicenseDB data is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0) by nexB Inc. and others
 ## Build instructions
 `sudo apt install texlive-full`
 
