@@ -1,8 +1,3 @@
-AcademicFreeLicense
-ACDL-1.0
-ACEL
-AGPL
-Aladdin-9
 ANTI-1.3
 ANTI-1.4
 anticapitalist

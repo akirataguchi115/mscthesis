@@ -21,20 +21,34 @@ for json_file_name in json_filenames:
     try:
       spdx_license_key = json_loader['spdx_license_key']
       if spdx_license_key in stage_1_identifiers:
-        file_object = open('licensedb-licenses/' + json_loader['key'] + '.txt', 'w')
+        file_object = open('licensedb-licenses/' + spdx_license_key + '.txt', 'w')
         file_object.write(json_loader['text'])
         manually_fetchable_licenses.remove(spdx_license_key)
     except:
-      print('doesnt have spdx: ' + json_loader['key'])
+      pass
 
 manual_filenames = [f.removesuffix('.txt') for f in listdir('manual-licenses/') if (re.compile('^.*\\.txt').match(f))]
 
-for license_key in manual_filenames: manually_fetchable_licenses.remove(license_key)
+for license_key in manual_filenames:
+  manually_fetchable_licenses.remove(license_key)
+
+with open ('license-exceptions.json', 'r') as file_object:
+  json_loader = json.load(file_object)
+  for license_key in json_loader:
+    manually_fetchable_licenses.remove(license_key)
 
 with open('fetch_these_licenses_manually.txt', 'w') as file_object:
   file_object.write('\n'.join(manually_fetchable_licenses))
 
+all_licenses = manual_filenames
+
+# plan your stage 2 here so that you can code it more easily and document it more easily (include code for exclusion in license-exceptions.json)
+
+# tee duplikaattien printtaus, niin saat overall kuvaa jo nyt
+
 # fetch full license texts to licensedb-licenses/
 # manually fetch licenses to manual-licenses/
-# remove and document duplicates
+# add exceptions to missing licenses
+# remove and document duplicates in license texts
+# add regex to filter out non-software licenses
 # document ccby4 scancode in thesis
