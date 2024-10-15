@@ -1,3 +1,9 @@
 {
-  "AGPL": "duplicate"
+  "AGPL": ["AGPL-1.0-only", "AGPL-1.0-or-later", "AGPL-3.0-only", "AGPL-3.0-or-later"],
+  "anticapitalist": ["ANTI-1.3", "ANTI-1.4"],
+  "apache1": ["Apache-1.0"],
+  "apache2": ["Apache-2.0"],
+  "apsl1": ["APSL-1.0", "APSL-1.1", "APSL-1.2"],
+  "apsl2": ["APSL-2.0"],
+  "APSLv1.x": ["APSL-1.0", "APSL-1.1", "APSL-1.2"]
 }
