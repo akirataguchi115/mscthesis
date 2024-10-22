@@ -3,21 +3,18 @@ from os import listdir, path
 from pathlib import Path
 from shutil import rmtree
 
-if path.exists('licensedb-licenses'):
-  rmtree('licensedb-licenses')
-Path('licensedb-licenses').mkdir(parents=True, exist_ok=True)
-
 with open('stage1.txt') as file:
-  stage_1_identifiers = file.read().splitlines()
+  licenses = dict.fromkeys(file.read().splitlines())
 
 json_filenames = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\\.json').match(f))]
 json_filenames.remove('index.json')
 
-manually_fetchable_licenses = stage_1_identifiers
-license_texts = []
+for license_id in stage_1_identifiers:
+  
 
-for json_file_name in json_filenames:
-  with open ('scancode-licensedb/docs/' + json_file_name, 'r') as file:
+
+for json_filename in json_filenames:
+  with open ('scancode-licensedb/docs/' + json_filename, 'r') as file:
     json_loader = json.load(file)
     try:
       spdx_license_key = json_loader['spdx_license_key']
