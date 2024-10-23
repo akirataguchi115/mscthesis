@@ -6,25 +6,14 @@ from shutil import rmtree
 with open('stage1.txt') as file:
   licenses = dict.fromkeys(file.read().splitlines())
 
-json_filenames = [f for f in listdir('scancode-licensedb/docs/') if (re.compile('^.*\\.json').match(f))]
-json_filenames.remove('index.json')
-
-for license_id in stage_1_identifiers:
-  
-
-
-for json_filename in json_filenames:
-  with open ('scancode-licensedb/docs/' + json_filename, 'r') as file:
-    json_loader = json.load(file)
-    try:
-      spdx_license_key = json_loader['spdx_license_key']
-      if spdx_license_key in stage_1_identifiers:
-        file_object = open('licensedb-licenses/' + spdx_license_key + '.txt', 'w')
-        file_object.write(json_loader['text'])
-        license_texts.append((spdx_license_key, json_loader['text']))
-        manually_fetchable_licenses.remove(spdx_license_key)
-    except:
-      pass
+scancode_jsons = [json.load(open('./scancode-licensedb/docs/' + f ,'r')) for f in listdir('scancode-licensedb/docs/') if (re.compile('^(?!index\\.json$).+\\.json$').match(f))]
+for json_loader in scancode_jsons:
+  try:
+    spdx_license_key = json_loader['spdx_license_key']
+    if spdx_license_key in licenses.keys:
+      licenses[spdx_license_key] = json_loader['text']
+  except:
+    pass
 
 manual_filenames = [f.removesuffix('.txt') for f in listdir('manual-licenses/') if (re.compile('^.*\\.txt').match(f))]
 
