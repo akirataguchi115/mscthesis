@@ -25,4 +25,8 @@ with open ('license-exceptions.json', 'r') as file_object:
   for license_key in json_loader:
     licenses.pop(license_key)
 
-print(len(licenses))
+count = 0
+for key, value in licenses.items():
+  if value == None:
+    count += 1
+print(count)
