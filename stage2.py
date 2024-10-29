@@ -30,3 +30,27 @@ for key, value in licenses.items():
   if value == None:
     count += 1
 print(count)
+
+search_string = ""
+for key in licenses:
+  print(key)
+
+# are there going to be any None values at this point anyway?
+if path.exists('duplicate-finding'):
+  rmtree('duplicate-finding')
+Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
+number = 0
+text_list = [x for x in list(licenses.values()) if x is not None]
+text_list.sort()
+for license_text in text_list:
+  if license_text:
+    file_object = open('duplicate-finding/' + str(number) + '.txt', 'w')
+    file_object.write(license_text)
+    number += 1
+
+if path.exists('thesis-licenses'):
+  rmtree('thesis-licenses')
+Path('thesis-licenses').mkdir(parents=True, exist_ok=True)
+for key in licenses:
+  file_object = open('thesis-licenses/' + key + '.txt', 'w')
+  file_object.write(licenses[key])
