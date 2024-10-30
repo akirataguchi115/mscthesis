@@ -31,9 +31,17 @@ for key, value in licenses.items():
     count += 1
 print(count)
 
-search_string = ""
+if path.exists('excluded-licenses'):
+  rmtree('excluded-licenses')
+Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
+search_string = r'\bsource\b | \bsoftware\b | \bprogram\b | \b(public license)\b'
 for key in licenses:
-  print(key)
+  if licenses[key] and re.compile(search_string).search(licenses[key]):
+    print(key + ' is included!')
+  elif licenses[key]:
+    file_object = open('excluded-licenses/' + key + '.txt', 'w')
+    file_object.write(licenses[key])
+    print(key + ' is excluded')
 
 # are there going to be any None values at this point anyway?
 if path.exists('duplicate-finding'):
@@ -52,5 +60,6 @@ if path.exists('thesis-licenses'):
   rmtree('thesis-licenses')
 Path('thesis-licenses').mkdir(parents=True, exist_ok=True)
 for key in licenses:
-  file_object = open('thesis-licenses/' + key + '.txt', 'w')
-  file_object.write(licenses[key])
+  if licenses[key]:
+    file_object = open('thesis-licenses/' + key + '.txt', 'w')
+    file_object.write(licenses[key])
