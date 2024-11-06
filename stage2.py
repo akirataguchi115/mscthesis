@@ -34,9 +34,10 @@ print(count)
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
-search_string = r'\bsource\b | \bsoftware\b | \bprogram\b | \b(public license)\b'
+# 613 is problematic why is it included
+search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
 for key in licenses:
-  if licenses[key] and re.compile(search_string).search(licenses[key]):
+  if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
     print(key + ' is included!')
   elif licenses[key]:
     file_object = open('excluded-licenses/' + key + '.txt', 'w')
