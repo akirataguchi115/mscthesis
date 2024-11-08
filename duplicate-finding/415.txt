@@ -1,6 +1,9 @@
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that this notice is preserved.
-The names of the copyright holders may not be used to endorse or
-promote products derived from this software without their specific
-prior written permission.  This software is provided ``as is''
-without express or implied warranty.
+THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
+OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
+
+Permission is hereby granted to use or copy this program for any
+purpose, provided the above notices are retained on all copies.
+
+Permission to modify the code and to distribute modified code is
+granted, provided the above notices are retained, and a notice that
+the code was modified is included with the above copyright notice.

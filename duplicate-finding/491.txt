@@ -1,30 +1,45 @@
-The United States Government has rights in this work pursuant
-to contract no. DE-AC03-76SF00098 between the United States
-Department of Energy and the University of California.
+This license applies to all portions of TMate SVNKit library, which 
+are not externally-maintained libraries (e.g. Ganymed SSH library).
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
+All the source code and compiled classes in package org.tigris.subversion.javahl
+except SvnClient class are covered by the license in JAVAHL-LICENSE file
 
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
+Copyright (c) 2004-2009 TMate Software. All rights reserved.
 
-Neither the name of the University nor the names of its contributors
-may be used to endorse or promote products derived from this software
-without specific prior written permission.
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE.
+    * Redistributions of source code must retain the above copyright notice, 
+      this list of conditions and the following disclaimer.
+      
+    * Redistributions in binary form must reproduce the above copyright notice, 
+      this list of conditions and the following disclaimer in the documentation 
+      and/or other materials provided with the distribution.
+      
+    * Redistributions in any form must be accompanied by information on how to 
+      obtain complete source code for the software that uses SVNKit and any 
+      accompanying software that uses the software that uses SVNKit. The source 
+      code must either be included in the distribution or be available for no 
+      more than the cost of distribution plus a nominal fee, and must be freely 
+      redistributable under reasonable conditions. For an executable file, complete 
+      source code means the source code for all modules it contains. It does not 
+      include source code for modules or files that typically accompany the major 
+      components of the operating system on which the executable file runs.
+      
+    * Redistribution in any form without redistributing source code for software 
+      that uses SVNKit is possible only when such redistribution is explictly permitted 
+      by TMate Software. Please, contact TMate Software at support@svnkit.com to 
+      get such permission.
 
-This basically says "do whatever you please with this software except
-remove this notice or take advantage of the University's (or the flex
-authors') name".
+THIS SOFTWARE IS PROVIDED BY TMATE SOFTWARE ``AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE 
+DISCLAIMED. 
 
-Note that the "flex.skl" scanner skeleton carries no copyright notice.
-You are free to do whatever you please with scanners generated using flex;
-for them, you are not even bound by the above copyright.
+IN NO EVENT SHALL TMATE SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT 
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE 
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF 
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

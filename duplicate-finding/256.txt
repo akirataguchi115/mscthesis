@@ -1,104 +1,416 @@
-NASA OPEN SOURCE AGREEMENT VERSION 1.3
+Open Data Commons Attribution License (ODC-By) v1.0
+ODC Attribution License (ODC-By)
+Preamble
 
-THIS OPEN SOURCE AGREEMENT ("AGREEMENT") DEFINES THE RIGHTS OF USE, REPRODUCTION, DISTRIBUTION, MODIFICATION AND REDISTRIBUTION OF CERTAIN COMPUTER SOFTWARE ORIGINALLY RELEASED BY THE UNITED STATES GOVERNMENT AS REPRESENTED BY THE GOVERNMENT AGENCY LISTED BELOW ("GOVERNMENT AGENCY"). THE UNITED STATES GOVERNMENT, AS REPRESENTED BY GOVERNMENT AGENCY, IS AN INTENDED THIRD-PARTY BENEFICIARY OF ALL SUBSEQUENT DISTRIBUTIONS OR REDISTRIBUTIONS OF THE SUBJECT SOFTWARE. ANYONE WHO USES, REPRODUCES, DISTRIBUTES, MODIFIES OR REDISTRIBUTES THE SUBJECT SOFTWARE, AS DEFINED HEREIN, OR ANY PART THEREOF, IS, BY THAT ACTION, ACCEPTING IN FULL THE RESPONSIBILITIES AND OBLIGATIONS CONTAINED IN THIS AGREEMENT.
+The Open Data Commons Attribution License is a license agreement
+intended to allow users to freely share, modify, and use this Database
+subject only to the attribution requirements set out in Section 4.
 
-Government Agency:  
-Government Agency Original Software Designation:  
-Government Agency Original Software Title:  
-User Registration Requested. Please Visit http:// 
-Government Agency Point of Contact for Original Software:    
+Databases can contain a wide variety of types of content (images,
+audiovisual material, and sounds all in the same database, for example),
+and so this license only governs the rights over the Database, and not
+the contents of the Database individually. Licensors may therefore wish
+to use this license together with another license for the contents.
 
-1. DEFINITIONS
+Sometimes the contents of a database, or the database itself, can be
+covered by other rights not addressed here (such as private contracts,
+trademark over the name, or privacy rights / data protection rights
+over information in the contents), and so you are advised that you may
+have to consult other documents or clear other rights before doing
+activities not covered by this License.
 
-A. "Contributor" means Government Agency, as the developer of the Original Software, and any entity that makes a Modification.
-B. "Covered Patents" mean patent claims licensable by a Contributor that are necessarily infringed by the use or sale of its Modification alone or when combined with the Subject Software.
-C. "Display" means the showing of a copy of the Subject Software, either directly or by means of an image, or any other device.
-D. "Distribution" means conveyance or transfer of the Subject Software, regardless of means, to another.
-E. "Larger Work" means computer software that combines Subject Software, or portions thereof, with software separate from the Subject Software that is not governed by the terms of this Agreement.
-F. "Modification" means any alteration of, including addition to or deletion from, the substance or structure of either the Original Software or Subject Software, and includes derivative works, as that term is defined in the Copyright Statute, 17 USC 101. However, the act of including Subject Software as part of a Larger Work does not in and of itself constitute a Modification.
-G. "Original Software" means the computer software first released under this Agreement by Government Agency with Government Agency designation   and entitled  , including source code, object code and accompanying documentation, if any.
-H. "Recipient" means anyone who acquires the Subject Software under this Agreement, including all Contributors.
-I. "Redistribution" means Distribution of the Subject Software after a Modification has been made.
-J. "Reproduction" means the making of a counterpart, image or copy of the Subject Software.
-K. "Sale" means the exchange of the Subject Software for money or equivalent value.
-L. "Subject Software" means the Original Software, Modifications, or any respective parts thereof.
-M. "Use" means the application or employment of the Subject Software for any purpose.
+The Licensor (as defined below)
 
-2. GRANT OF RIGHTS
+and
 
-A. Under Non-Patent Rights: Subject to the terms and conditions of this Agreement, each Contributor, with respect to its own contribution to the Subject Software, hereby grants to each Recipient a non-exclusive, world-wide, royalty-free license to engage in the following activities pertaining to the Subject Software:
+You (as defined below)
 
-1. Use
-2. Distribution
-3. Reproduction
-4. Modification
-5. Redistribution
-6. Display
+agree as follows:
+1.0 Definitions of Capitalised Words
 
-B. Under Patent Rights: Subject to the terms and conditions of this Agreement, each Contributor, with respect to its own contribution to the Subject Software, hereby grants to each Recipient under Covered Patents a non-exclusive, world-wide, royalty-free license to engage in the following activities pertaining to the Subject Software: 
+"Collective Database" – Means this Database in unmodified form as part
+of a collection of independent databases in themselves that together are
+assembled into a collective whole. A work that constitutes a Collective
+Database will not be considered a Derivative Database.
 
-1. Use
-2. Distribution
-3. Reproduction
-4. Sale
-5. Offer for Sale
+"Convey" – As a verb, means Using the Database, a Derivative Database,
+or the Database as part of a Collective Database in any way that enables
+a Person to make or receive copies of the Database or a Derivative
+Database. Conveying does not include interaction with a user through a
+computer network, or creating and Using a Produced Work, where no
+transfer of a copy of the Database or a Derivative Database occurs.
 
-C. The rights granted under Paragraph B. also apply to the combination of a Contributor's Modification and the Subject Software if, at the time the Modification is added by the Contributor, the addition of such Modification causes the combination to be covered by the Covered Patents. It does not apply to any other combinations that include a Modification.
+"Contents" – The contents of this Database, which includes the
+information, independent works, or other material collected into the
+Database. For example, the contents of the Database could be factual
+data or works such as images, audiovisual material, text, or sounds.
 
-D. The rights granted in Paragraphs A. and B. allow the Recipient to sublicense those same rights. Such sublicense must be under the same terms and conditions of this Agreement.
+"Database" – A collection of material (the Contents) arranged in a
+systematic or methodical way and individually accessible by electronic
+or other means offered under the terms of this License.
 
-3. OBLIGATIONS OF RECIPIENT
+"Database Directive" – Means Directive 96/9/EC of the European
+Parliament and of the Council of 11 March 1996 on the legal protection
+of databases, as amended or succeeded.
 
-A. Distribution or Redistribution of the Subject Software must be made under this Agreement except for additions covered under paragraph 3H.
+"Database Right" – Means rights resulting from the Chapter III ("sui
+generis") rights in the Database Directive (as amended and as transposed
+by member states), which includes the Extraction and Re-utilisation of
+the whole or a Substantial part of the Contents, as well as any similar
+rights available in the relevant jurisdiction under Section 10.4.
 
-1. Whenever a Recipient distributes or redistributes the Subject Software, a copy of this Agreement must be included with each copy of the Subject Software; and
-2. If Recipient distributes or redistributes the Subject Software in any form other than source code, Recipient must also make the source code freely available, and must provide with each copy of the Subject Software information on how to obtain the source code in a reasonable manner on or through a medium customarily used for software exchange.
+"Derivative Database" – Means a database based upon the Database, and
+includes any translation, adaptation, arrangement, modification, or any
+other alteration of the Database or of a Substantial part of the
+Contents. This includes, but is not limited to, Extracting or
+Re-utilising the whole or a Substantial part of the Contents in a new
+Database.
 
-B. Each Recipient must ensure that the following copyright notice appears prominently in the Subject Software:
+"Extraction" – Means the permanent or temporary transfer of all or a
+Substantial part of the Contents to another medium by any means or in
+any form.
 
-[Government Agency will insert the applicable copyright notice in each agreement accompanying the initial distribution of original software and remove this bracketed language.]
+"License" – Means this license agreement and is both a license of rights
+such as copyright and Database Rights and an agreement in contract.
 
-[The following copyright notice will be used if created by a contractor pursuant to Government Agency contract and rights obtained from creator by assignment. Government Agency will insert the year and its Agency designation and remove the bracketed language.] Copyright " {YEAR} United States Government as represented by    . All Rights Reserved.
+"Licensor" – Means the Person that offers the Database under the terms
+of this License.
 
-[The following copyright notice will be used if created by civil servants only. Government Agency will insert the year and its Agency designation and remove the bracketed language.] Copyright " {YEAR} United States Government as represented by    . No copyright is claimed in the United States under Title 17, U.S.Code. All Other Rights Reserved.
+"Person" – Means a natural or legal person or a body of persons
+corporate or incorporate.
 
+"Produced Work" – a work (such as an image, audiovisual material, text,
+or sounds) resulting from using the whole or a Substantial part of the
+Contents (via a search or other query) from this Database, a Derivative
+Database, or this Database as part of a Collective Database.
 
-C. Each Contributor must characterize its alteration of the Subject Software as a Modification and must identify itself as the originator of its Modification in a manner that reasonably allows subsequent Recipients to identify the originator of the Modification. In fulfillment of these requirements, Contributor must include a file (e.g., a change log file) that describes the alterations made and the date of the alterations, identifies Contributor as originator of the alterations, and consents to characterization of the alterations as a Modification, for example, by including a statement that the Modification is derived, directly or indirectly, from Original Software provided by Government Agency. Once consent is granted, it may not thereafter be revoked.
+"Publicly" – means to Persons other than You or under Your control by
+either more than 50% ownership or by the power to direct their
+activities (such as contracting with an independent consultant).
 
-D. A Contributor may add its own copyright notice to the Subject Software. Once a copyright notice has been added to the Subject Software, a Recipient may not remove it without the express permission of the Contributor who added the notice.
+"Re-utilisation" – means any form of making available to the public all
+or a Substantial part of the Contents by the distribution of copies, by
+renting, by online or other forms of transmission.
 
-E. A Recipient may not make any representation in the Subject Software or in any promotional, advertising or other material that may be construed as an endorsement by Government Agency or by any prior Recipient of any product or service provided by Recipient, or that may seek to obtain commercial advantage by the fact of Government Agency's or a prior Recipient's participation in this Agreement.
+"Substantial" – Means substantial in terms of quantity or quality or a
+combination of both. The repeated and systematic Extraction or
+Re-utilisation of insubstantial parts of the Contents may amount to the
+Extraction or Re-utilisation of a Substantial part of the Contents.
 
-F. In an effort to track usage and maintain accurate records of the Subject Software, each Recipient, upon receipt of the Subject Software, is requested to register with Government Agency by visiting the following website:  . Recipient's name and personal information shall be used for statistical purposes only. Once a Recipient makes a Modification available, it is requested that the Recipient inform Government Agency at the web site provided above how to access the Modification.
+"Use" – As a verb, means doing any act that is restricted by copyright
+or Database Rights whether in the original medium or any other; and
+includes without limitation distributing, copying, publicly performing,
+publicly displaying, and preparing derivative works of the Database, as
+well as modifying the Database as may be technically necessary to use it
+in a different mode or format.
 
-[Alternative paragraph for use when a web site for release and monitoring of subject software will not be supported by releasing Government Agency] In an effort to track usage and maintain accurate records of the Subject Software, each Recipient, upon receipt of the Subject Software, is requested to provide Government Agency, by e-mail to the Government Agency Point of Contact listed in clause 5.F., the following information:  . Recipient's name and personal information shall be used for statistical purposes only. Once a Recipient makes a Modification available, it is requested that the Recipient inform Government Agency, by e-mail to the Government Agency Point of Contact listed in clause 5.F., how to access the Modification.
+"You" – Means a Person exercising rights under this License who has not
+previously violated the terms of this License with respect to the
+Database, or who has received express permission from the Licensor to
+exercise rights under this License despite a previous violation.
 
-G. Each Contributor represents that that its Modification is believed to be Contributor's original creation and does not violate any existing agreements, regulations, statutes or rules, and further that Contributor has sufficient rights to grant the rights conveyed by this Agreement.
+Words in the singular include the plural and vice versa.
+2.0 What this License covers
 
-H. A Recipient may choose to offer, and to charge a fee for, warranty, support, indemnity and/or liability obligations to one or more other Recipients of the Subject Software. A Recipient may do so, however, only on its own behalf and not on behalf of Government Agency or any other Recipient. Such a Recipient must make it absolutely clear that any such warranty, support, indemnity and/or liability obligation is offered by that Recipient alone. Further, such Recipient agrees to indemnify Government Agency and every other Recipient for any liability incurred by them as a result of warranty, support, indemnity and/or liability offered by such Recipient.
+2.1. Legal effect of this document. This License is:
 
-I. A Recipient may create a Larger Work by combining Subject Software with separate software not governed by the terms of this agreement and distribute the Larger Work as a single product. In such case, the Recipient must make sure Subject Software, or portions thereof, included in the Larger Work is subject to this Agreement.
+a. A license of applicable copyright and neighbouring rights;
 
+b. A license of the Database Right; and
 
-J. Notwithstanding any provisions contained herein, Recipient is hereby put on notice that export of any goods or technical data from the United States may require some form of export license from the U.S. Government. Failure to obtain necessary export licenses may result in criminal liability under U.S. laws. Government Agency neither represents that a license shall not be required nor that, if required, it shall be issued. Nothing granted herein provides any such export license.
+c. An agreement in contract between You and the Licensor.
 
-4. DISCLAIMER OF WARRANTIES AND LIABILITIES; WAIVER AND INDEMNIFICATION
+2.2 Legal rights covered. This License covers the legal rights in the
+Database, including:
 
-A. No Warranty: THE SUBJECT SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM INFRINGEMENT, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL BE ERROR FREE, OR ANY WARRANTY THAT DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE SUBJECT SOFTWARE. THIS AGREEMENT DOES NOT, IN ANY MANNER, CONSTITUTE AN ENDORSEMENT BY GOVERNMENT AGENCY OR ANY PRIOR RECIPIENT OF ANY RESULTS, RESULTING DESIGNS, HARDWARE, SOFTWARE PRODUCTS OR ANY OTHER APPLICATIONS RESULTING FROM USE OF THE SUBJECT SOFTWARE. FURTHER, GOVERNMENT AGENCY DISCLAIMS ALL WARRANTIES AND LIABILITIES REGARDING THIRD-PARTY SOFTWARE, IF PRESENT IN THE ORIGINAL SOFTWARE, AND DISTRIBUTES IT "AS IS."
+a. Copyright. Any copyright or neighbouring rights in the Database.
+The copyright licensed includes any individual elements of the
+Database, but does not cover the copyright over the Contents
+independent of this Database. See Section 2.4 for details. Copyright
+law varies between jurisdictions, but is likely to cover: the Database
+model or schema, which is the structure, arrangement, and organisation
+of the Database, and can also include the Database tables and table
+indexes; the data entry and output sheets; and the Field names of
+Contents stored in the Database;
 
-B. Waiver and Indemnity: RECIPIENT AGREES TO WAIVE ANY AND ALL CLAIMS AGAINST THE UNITED STATES GOVERNMENT, ITS CONTRACTORS AND SUBCONTRACTORS, AS WELL AS ANY PRIOR RECIPIENT. IF RECIPIENT'S USE OF THE SUBJECT SOFTWARE RESULTS IN ANY LIABILITIES, DEMANDS, DAMAGES, EXPENSES OR LOSSES ARISING FROM SUCH USE, INCLUDING ANY DAMAGES FROM PRODUCTS BASED ON, OR RESULTING FROM, RECIPIENT'S USE OF THE SUBJECT SOFTWARE, RECIPIENT SHALL INDEMNIFY AND HOLD HARMLESS THE UNITED STATES GOVERNMENT, ITS CONTRACTORS AND SUBCONTRACTORS, AS WELL AS ANY PRIOR RECIPIENT, TO THE EXTENT PERMITTED BY LAW. RECIPIENT'S SOLE REMEDY FOR ANY SUCH MATTER SHALL BE THE IMMEDIATE, UNILATERAL TERMINATION OF THIS AGREEMENT.
+b. Database Rights. Database Rights only extend to the Extraction and
+Re-utilisation of the whole or a Substantial part of the Contents.
+Database Rights can apply even when there is no copyright over the
+Database. Database Rights can also apply when the Contents are removed
+from the Database and are selected and arranged in a way that would
+not infringe any applicable copyright; and
 
-5. GENERAL TERMS
+c. Contract. This is an agreement between You and the Licensor for
+access to the Database. In return you agree to certain conditions of
+use on this access as outlined in this License.
 
-A. Termination: This Agreement and the rights granted hereunder will terminate automatically if a Recipient fails to comply with these terms and conditions, and fails to cure such noncompliance within thirty (30) days of becoming aware of such noncompliance. Upon termination, a Recipient agrees to immediately cease use and distribution of the Subject Software. All sublicenses to the Subject Software properly granted by the breaching Recipient shall survive any such termination of this Agreement.
+2.3 Rights not covered.
 
-B. Severability: If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement.
+a. This License does not apply to computer programs used in the making
+or operation of the Database;
 
-C. Applicable Law: This Agreement shall be subject to United States federal law only for all purposes, including, but not limited to, determining the validity of this Agreement, the meaning of its provisions and the rights, obligations and remedies of the parties.
+b. This License does not cover any patents over the Contents or the
+Database; and
 
-D. Entire Understanding: This Agreement constitutes the entire understanding and agreement of the parties relating to release of the Subject Software and may not be superseded, modified or amended except by further written agreement duly executed by the parties. 
+c. This License does not cover any trademarks associated with the
+Database.
 
+2.4 Relationship to Contents in the Database. The individual items of
+the Contents contained in this Database may be covered by other rights,
+including copyright, patent, data protection, privacy, or personality
+rights, and this License does not cover any rights (other than Database
+Rights or in contract) in individual Contents contained in the Database.
+For example, if used on a Database of images (the Contents), this
+License would not apply to copyright over individual images, which could
+have their own separate licenses, or one single license covering all of
+the rights over the images.
+3.0 Rights granted
 
-E. Binding Authority: By accepting and using the Subject Software under this Agreement, a Recipient affirms its authority to bind the Recipient to all terms and conditions of this Agreement and that that Recipient hereby agrees to all terms and conditions herein.
+3.1 Subject to the terms and conditions of this License, the Licensor
+grants to You a worldwide, royalty-free, non-exclusive, terminable (but
+only under Section 9) license to Use the Database for the duration of
+any applicable copyright and Database Rights. These rights explicitly
+include commercial use, and do not exclude any field of endeavour. To
+the extent possible in the relevant jurisdiction, these rights may be
+exercised in all media and formats whether now known or created in the
+future.
 
-F. Point of Contact: Any Recipient contact with Government Agency is to be directed to the designated representative as follows:  .
+The rights granted cover, for example:
+
+a. Extraction and Re-utilisation of the whole or a Substantial part of
+the Contents;
+
+b. Creation of Derivative Databases;
+
+c. Creation of Collective Databases;
+
+d. Creation of temporary or permanent reproductions by any means and
+in any form, in whole or in part, including of any Derivative
+Databases or as a part of Collective Databases; and
+
+e. Distribution, communication, display, lending, making available, or
+performance to the public by any means and in any form, in whole or in
+part, including of any Derivative Database or as a part of Collective
+Databases.
+
+3.2 Compulsory license schemes. For the avoidance of doubt:
+
+a. Non-waivable compulsory license schemes. In those jurisdictions in
+which the right to collect royalties through any statutory or
+compulsory licensing scheme cannot be waived, the Licensor reserves
+the exclusive right to collect such royalties for any exercise by You
+of the rights granted under this License;
+
+b. Waivable compulsory license schemes. In those jurisdictions in
+which the right to collect royalties through any statutory or
+compulsory licensing scheme can be waived, the Licensor waives the
+exclusive right to collect such royalties for any exercise by You of
+the rights granted under this License; and,
+
+c. Voluntary license schemes. The Licensor waives the right to collect
+royalties, whether individually or, in the event that the Licensor is
+a member of a collecting society that administers voluntary licensing
+schemes, via that society, from any exercise by You of the rights
+granted under this License.
+
+3.3 The right to release the Database under different terms, or to stop
+distributing or making available the Database, is reserved. Note that
+this Database may be multiple-licensed, and so You may have the choice
+of using alternative licenses for this Database. Subject to Section
+10.4, all other rights not expressly granted by Licensor are reserved.
+4.0 Conditions of Use
+
+4.1 The rights granted in Section 3 above are expressly made subject to
+Your complying with the following conditions of use. These are important
+conditions of this License, and if You fail to follow them, You will be
+in material breach of its terms.
+
+4.2 Notices. If You Publicly Convey this Database, any Derivative
+Database, or the Database as part of a Collective Database, then You
+must:
+
+a. Do so only under the terms of this License;
+
+b. Include a copy of this License or its Uniform Resource Identifier (URI)
+with the Database or Derivative Database, including both in the
+Database or Derivative Database and in any relevant documentation;
+
+c. Keep intact any copyright or Database Right notices and notices
+that refer to this License; and
+
+d. If it is not possible to put the required notices in a particular
+file due to its structure, then You must include the notices in a
+location (such as a relevant directory) where users would be likely to
+look for it.
+
+4.3 Notice for using output (Contents). Creating and Using a Produced
+Work does not require the notice in Section 4.2. However, if you
+Publicly Use a Produced Work, You must include a notice associated with
+the Produced Work reasonably calculated to make any Person that uses,
+views, accesses, interacts with, or is otherwise exposed to the Produced
+Work aware that Content was obtained from the Database, Derivative
+Database, or the Database as part of a Collective Database, and that it
+is available under this License.
+
+a. Example notice. The following text will satisfy notice under
+Section 4.3:
+
+    Contains information from DATABASE NAME which is made available
+    under the ODC Attribution License.
+
+DATABASE NAME should be replaced with the name of the Database and a
+hyperlink to the location of the Database. "ODC Attribution License"
+should contain a hyperlink to the URI of the text of this License. If
+hyperlinks are not possible, You should include the plain text of the
+required URI’s with the above notice.
+
+4.4 Licensing of others. You may not sublicense the Database. Each time
+You communicate the Database, the whole or Substantial part of the
+Contents, or any Derivative Database to anyone else in any way, the
+Licensor offers to the recipient a license to the Database on the same
+terms and conditions as this License. You are not responsible for
+enforcing compliance by third parties with this License, but You may
+enforce any rights that You have over a Derivative Database. You are
+solely responsible for any modifications of a Derivative Database made
+by You or another Person at Your direction. You may not impose any
+further restrictions on the exercise of the rights granted or affirmed
+under this License.
+5.0 Moral rights
+
+5.1 Moral rights. This section covers moral rights, including any rights
+to be identified as the author of the Database or to object to treatment
+that would otherwise prejudice the author’s honour and reputation, or
+any other derogatory treatment:
+
+a. For jurisdictions allowing waiver of moral rights, Licensor waives
+all moral rights that Licensor may have in the Database to the fullest
+extent possible by the law of the relevant jurisdiction under Section
+10.4;
+
+b. If waiver of moral rights under Section 5.1 a in the relevant
+jurisdiction is not possible, Licensor agrees not to assert any moral
+rights over the Database and waives all claims in moral rights to the
+fullest extent possible by the law of the relevant jurisdiction under
+Section 10.4; and
+
+c. For jurisdictions not allowing waiver or an agreement not to assert
+moral rights under Section 5.1 a and b, the author may retain their
+moral rights over certain aspects of the Database.
+
+Please note that some jurisdictions do not allow for the waiver of moral
+rights, and so moral rights may still subsist over the Database in some
+jurisdictions.
+6.0 Fair dealing, Database exceptions, and other rights not affected
+
+6.1 This License does not affect any rights that You or anyone else may
+independently have under any applicable law to make any use of this
+Database, including without limitation:
+
+a. Exceptions to the Database Right including: Extraction of Contents
+from non-electronic Databases for private purposes, Extraction for
+purposes of illustration for teaching or scientific research, and
+Extraction or Re-utilisation for public security or an administrative
+or judicial procedure.
+
+b. Fair dealing, fair use, or any other legally recognised limitation
+or exception to infringement of copyright or other applicable laws.
+
+6.2 This License does not affect any rights of lawful users to Extract
+and Re-utilise insubstantial parts of the Contents, evaluated
+quantitatively or qualitatively, for any purposes whatsoever, including
+creating a Derivative Database (subject to other rights over the
+Contents, see Section 2.4). The repeated and systematic Extraction or
+Re-utilisation of insubstantial parts of the Contents may however amount
+to the Extraction or Re-utilisation of a Substantial part of the
+Contents.
+7.0 Warranties and Disclaimer
+
+7.1 The Database is licensed by the Licensor "as is" and without any
+warranty of any kind, either express, implied, or arising by statute,
+custom, course of dealing, or trade usage. Licensor specifically
+disclaims any and all implied warranties or conditions of title,
+non-infringement, accuracy or completeness, the presence or absence of
+errors, fitness for a particular purpose, merchantability, or otherwise.
+Some jurisdictions do not allow the exclusion of implied warranties, so
+this exclusion may not apply to You.
+8.0 Limitation of liability
+
+8.1 Subject to any liability that may not be excluded or limited by law,
+the Licensor is not liable for, and expressly excludes, all liability
+for loss or damage however and whenever caused to anyone by any use
+under this License, whether by You or by anyone else, and whether caused
+by any fault on the part of the Licensor or not. This exclusion of
+liability includes, but is not limited to, any special, incidental,
+consequential, punitive, or exemplary damages such as loss of revenue,
+data, anticipated profits, and lost business. This exclusion applies
+even if the Licensor has been advised of the possibility of such
+damages.
+
+8.2 If liability may not be excluded by law, it is limited to actual and
+direct financial loss to the extent it is caused by proved negligence on
+the part of the Licensor.
+9.0 Termination of Your rights under this License
+
+9.1 Any breach by You of the terms and conditions of this License
+automatically terminates this License with immediate effect and without
+notice to You. For the avoidance of doubt, Persons who have received the
+Database, the whole or a Substantial part of the Contents, Derivative
+Databases, or the Database as part of a Collective Database from You
+under this License will not have their licenses terminated provided
+their use is in full compliance with this License or a license granted
+under Section 4.8 of this License. Sections 1, 2, 7, 8, 9 and 10 will
+survive any termination of this License.
+
+9.2 If You are not in breach of the terms of this License, the Licensor
+will not terminate Your rights under it.
+
+9.3 Unless terminated under Section 9.1, this License is granted to You
+for the duration of applicable rights in the Database.
+
+9.4 Reinstatement of rights. If you cease any breach of the terms and
+conditions of this License, then your full rights under this License
+will be reinstated:
+
+a. Provisionally and subject to permanent termination until the 60th
+day after cessation of breach;
+
+b. Permanently on the 60th day after cessation of breach unless
+otherwise reasonably notified by the Licensor; or
+
+c. Permanently if reasonably notified by the Licensor of the
+violation, this is the first time You have received notice of
+violation of this License from the Licensor, and You cure the
+violation prior to 30 days after your receipt of the notice.
+
+9.5 Notwithstanding the above, Licensor reserves the right to release
+the Database under different license terms or to stop distributing or
+making available the Database. Releasing the Database under different
+license terms or stopping the distribution of the Database will not
+withdraw this License (or any other license that has been, or is
+required to be, granted under the terms of this License), and this
+License will continue in full force and effect unless terminated as
+stated above.
+10.0 General
+
+10.1 If any provision of this License is held to be invalid or
+unenforceable, that must not affect the validity or enforceability of
+the remainder of the terms and conditions of this License and each
+remaining provision of this License shall be valid and enforced to the
+fullest extent permitted by law.
+
+10.2 This License is the entire agreement between the parties with
+respect to the rights granted here over the Database. It replaces any
+earlier understandings, agreements or representations with respect to
+the Database.
+
+10.3 If You are in breach of the terms of this License, You will not be
+entitled to rely on the terms of this License or to complain of any
+breach by the Licensor.
+
+10.4 Choice of law. This License takes effect in and will be governed by
+the laws of the relevant jurisdiction in which the License terms are
+sought to be enforced. If the standard suite of rights granted under
+applicable copyright law and Database Rights in the relevant
+jurisdiction includes additional rights not granted under this License,
+these additional rights are granted in this License in order to meet the
+terms of this License.

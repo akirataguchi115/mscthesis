@@ -1,34 +1,75 @@
-Nethack General Public License
-Copyright (c) 1989 M. Stephenson
-(Based on the BISON general public license, copyright 1988 Richard M. Stallman)
-Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not allowed. You can also use this wording to make the terms for other programs.
+OpenPBS (Portable Batch System) v2.3 Software License
 
-The license agreements of most software companies keep you at the mercy of those companies. By contrast, our general public license is intended to give everyone the right to share NetHack. To make sure that you get the rights we want you to have, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. Hence this license agreement.
+Copyright (c) 1999-2000 Veridian Information Solutions, Inc.
+All rights reserved.
 
-Specifically, we want to make sure that you have the right to give away copies of NetHack, that you receive source code or else can get it if you want it, that you can change NetHack or use pieces of it in new free programs, and that you know you can do these things.
+---------------------------------------------------------------------------
+For a license to use or redistribute the OpenPBS software under conditions
+other than those described below, or to purchase support for this software,
+please contact Veridian Systems, PBS Products Department ("Licensor") at:
 
-To make sure that everyone has such rights, we have to forbid you to deprive anyone else of these rights. For example, if you distribute copies of NetHack, you must give the recipients all the rights that you have. You must make sure that they, too, receive or can get the source code. And you must tell them their rights.
+   www.OpenPBS.org  +1 650 967-4675                  sales@OpenPBS.org
+                       877 902-4PBS (US toll-free)
+---------------------------------------------------------------------------
 
-Also, for our own protection, we must make certain that everyone finds out that there is no warranty for NetHack. If NetHack is modified by someone else and passed on, we want its recipients to know that what they have is not what we distributed.
+This license covers use of the OpenPBS v2.3 software (the "Software") at
+your site or location, and, for certain users, redistribution of the
+Software to other sites and locations.  Use and redistribution of
+OpenPBS v2.3 in source and binary forms, with or without modification,
+are permitted provided that all of the following conditions are met.
+After December 31, 2001, only conditions 3-6 must be met:
 
-Therefore we (Mike Stephenson and other holders of NetHack copyrights) make the following terms which say what you must do to be allowed to distribute or change NetHack.
-COPYING POLICIES
+1. Commercial and/or non-commercial use of the Software is permitted
+   provided a current software registration is on file at www.OpenPBS.org.
+   If use of this software contributes to a publication, product, or
+   service, proper attribution must be given; see www.OpenPBS.org/credit.html
 
-   1. You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium, provided that you keep intact the notices on all files that refer to copyrights, to this License Agreement, and to the absence of any warranty; and give any other recipients of the NetHack program a copy of this License Agreement along with the program.
-   2. You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such modifications under the terms of Paragraph 1 above (including distributing this License Agreement), provided that you also do the following:
+2. Redistribution in any form is only permitted for non-commercial,
+   non-profit purposes.  There can be no charge for the Software or any
+   software incorporating the Software.  Further, there can be no
+   expectation of revenue generated as a consequence of redistributing
+   the Software.
 
-      a) cause the modified files to carry prominent notices stating that you changed the files and the date of any change; and
+3. Any Redistribution of source code must retain the above copyright notice
+   and the acknowledgment contained in paragraph 6, this list of conditions
+   and the disclaimer contained in paragraph 7.
 
-      b) cause the whole of any work that you distribute or publish, that in whole or in part contains or is a derivative of NetHack or any part thereof, to be licensed at no charge to all third parties on terms identical to those contained in this License Agreement (except that you may choose to grant more extensive warranty protection to some or all third parties, at your option)
+4. Any Redistribution in binary form must reproduce the above copyright
+   notice and the acknowledgment contained in paragraph 6, this list of
+   conditions and the disclaimer contained in paragraph 7 in the
+   documentation and/or other materials provided with the distribution.
 
-      c) You may charge a distribution fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
-   3. You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in object code or executable form under the terms of Paragraphs 1 and 2 above provided that you also do one of the following:
+5. Redistributions in any form must be accompanied by information on how to
+   obtain complete source code for the OpenPBS software and any
+   modifications and/or additions to the OpenPBS software.  The source code
+   must either be included in the distribution or be available for no more
+   than the cost of distribution plus a nominal fee, and all modifications
+   and additions to the Software must be freely redistributable by any party
+   (including Licensor) without restriction.
 
-      a) accompany it with the complete machine-readable source code, which must be distributed under the terms of Paragraphs 1 and 2 above; or,
+6. All advertising materials mentioning features or use of the Software must
+   display the following acknowledgment:
 
-      b) accompany it with full information as to how to obtain the complete machine-readable source code from an appropriate archive site. (This alternative is allowed only for noncommercial distribution.)
+    "This product includes software developed by NASA Ames Research Center,
+    Lawrence Livermore National Laboratory, and Veridian Information Solutions,
+    Inc.  Visit www.OpenPBS.org for OpenPBS software support,
+    products, and information."
 
-      For these purposes, complete source code means either the full source distribution as originally released over Usenet or updated copies of the files in this distribution used to create the object code or executable.
-   4. You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this License Agreement. Any attempt otherwise to copy, sublicense, distribute or transfer NetHack is void and your rights to use the program under this License agreement shall be automatically terminated. However, parties who have received computer software programs from you with this License Agreement will not have their licenses terminated so long as such parties remain in full compliance.
+7. DISCLAIMER OF WARRANTY
 
-Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided that you comply with the conditions specified above; in particular, your modified NetHack or program containing parts of NetHack must remain freely available as provided in this License Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else from sharing it farther.
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ANY EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT
+ARE EXPRESSLY DISCLAIMED.
+
+IN NO EVENT SHALL VERIDIAN CORPORATION, ITS AFFILIATED COMPANIES, OR THE
+U.S. GOVERNMENT OR ANY OF ITS AGENCIES BE LIABLE FOR ANY DIRECT OR INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This license will be governed by the laws of the Commonwealth of Virginia,
+without reference to its choice of law rules.

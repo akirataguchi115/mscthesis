@@ -1,203 +1,173 @@
-LaTeX Project Public License
-============================
- LPPL Version 1.0  1999-03-01
-
-Copyright 1999 LaTeX3 Project
-    Everyone is permitted to copy and distribute verbatim copies
-    of this license document, but modification is not allowed.
-
-Preamble
-========
-The LaTeX Project Public License (LPPL) is the license under which the
-base LaTeX distribution is distributed. As described below you may use
-this licence for any software that you wish to distribute. 
-
-It may be particularly suitable if your software is TeX related (such
-as a LaTeX package file) but it may be used for any software, even if
-it is unrelated to TeX.
-
-To use this license, the files of your distribution should have an
-explicit copyright notice giving your name and the year, together
-with a reference to this license.
-
-A typical example would be
-
-   %% pig.sty
-   %% Copyright 2001 M. Y. Name
-
-   % This program can redistributed and/or modified under the terms
-   % of the LaTeX Project Public License Distributed from CTAN
-   % archives in directory macros/latex/base/lppl.txt; either
-   % version 1 of the License, or (at your option) any later version.
-
-Given such a notice in the file, the conditions of this document would
-apply, with:
-
-`The Program' referring to the software `pig.sty'  and 
-`The Copyright Holder' referring to the person `M. Y. Name'.
-
-To see a real example, see the file legal.txt which carries the
-copyright notice for the base latex distribution.
-
-This license gives terms under which files of The Program may be
-distributed and modified. Individual files may have specific further
-constraints on modification, but no file should have restrictions on
-distribution other than those specified below. 
-This is to ensure that a distributor wishing to distribute a complete
-unmodified copy of The Program need only check the conditions in this
-file, and does not need to check every file in The Program for extra
-restrictions. If you do need to modify the distribution terms of some
-files, do not refer to this license, instead distribute The Program
-under a different license. You may use the parts of the text of LPPL as
-a model for your own license, but your license should not directly refer
-to the LPPL or otherwise give the impression that The Program is
-distributed under the LPPL. 
+Modified Apache 2.0 License
 
 
-The LaTeX Project Public License
-================================
-Terms And Conditions For Copying, Distribution And Modification
-===============================================================
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
+   1. Definitions.
 
-WARRANTY
-========
-There is no warranty for The Program, to the extent permitted by
-applicable law.  Except when otherwise stated in writing, The
-Copyright Holder provides The Program `as is' without warranty of any
-kind, either expressed or implied, including, but not limited to, the
-implied warranties of merchantability and fitness for a particular
-purpose.  The entire risk as to the quality and performance of the
-program is with you.  Should The Program prove defective, you assume
-the cost of all necessary servicing, repair or correction.
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
-In no event unless required by applicable law or agreed to in writing
-will The Copyright Holder, or any of the individual authors named in
-the source for The Program, be liable to you for damages, including
-any general, special, incidental or consequential damages arising out
-of any use of The Program or out of inability to use The Program
-(including but not limited to loss of data or data being rendered
-inaccurate or losses sustained by you or by third parties as a result
-of a failure of The Program to operate with any other programs), even
-if such holder or other party has been advised of the possibility of
-such damages.
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
 
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
-DISTRIBUTION
-============
-Redistribution of unchanged files is allowed provided that all files
-that make up the distribution of The Program are distributed.
-In particular this means that The Program has to be distributed
-including its documentation if documentation was part of the original
-distribution.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
-The distribution of The Program will contain a prominent file
-listing all the files covered by this license.
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
-If you receive only some of these files from someone, complain!
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
 
-The distribution of changed versions of certain files included in the
-The Program, and the reuse of code from The Program, are allowed
-under the following restrictions:
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
 
- * It is allowed only if the legal notice in the file does not
-   expressly forbid it.
-   See note below, under "Conditions on individual files".
- 
- * You rename the file before you make any changes to it, unless the
-   file explicitly says that renaming is not required.  Any such changed
-   files must be distributed under a license that forbids distribution
-   of those files, and any files derived from them, under the names used
-   by the original files in the distribution of The Program.
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
 
- * You change any `identification string' in The Program to clearly 
-   indicate that the file is not part of the standard system.
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
- * If The Program includes an `error report address' so that errors
-   may be reported to The Copyright Holder, or other specified
-   addresses, this address must be changed in any modified versions of
-   The Program, so that reports for files not maintained by the
-   original program maintainers are directed to the maintainers of the
-   changed files. 
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
 
- * You acknowledge the source and authorship of the original version
-   in the modified file.
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
 
- * You also distribute the unmodified version of the file or
-   alternatively provide sufficient information so that the
-   user of your modified file can be reasonably expected to be
-   able to obtain an original, unmodified copy of The Program.
-   For example, you may specify a URL to a site that you expect
-   will freely provide the user with a copy of The Program (either
-   the version on which your modification is based, or perhaps a
-   later version).
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
 
- * If The Program is intended to be used with, or is based on, LaTeX,
-   then files with the following file extensions which have special
-   meaning in LaTeX Software, have special modification rules under the
-   license:
- 
-    - Files with extension `.ins' (installation files): these files may
-      not be modified at all because they contain the legal notices
-      that are placed in the generated files.
- 
-    - Files with extension `.fd' (LaTeX font definitions files): these
-      files are allowed to be modified without changing the name, but
-      only to enable use of all available fonts and to prevent attempts
-      to access unavailable fonts. However, modified files are not
-      allowed to be distributed in place of original files.
- 
-    - Files with extension `.cfg' (configuration files): these files
-      can be created or modified to enable easy configuration of the
-      system.  The documentation in cfgguide.tex in the base LaTeX
-      distribution describes when it makes sense to modify or generate
-      such files.
- 
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
 
-The above restrictions are not intended to prohibit, and hence do
-not apply to, the updating, by any method, of a file so that it
-becomes identical to the latest version of that file in The Program.
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
 
-========================================================================
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
 
-NOTES
-=====
-We believe that these requirements give you the freedom you to make
-modifications that conform with whatever technical specifications you
-wish, whilst maintaining the availability, integrity and reliability of
-The Program.  If you do not see how to achieve your goal whilst
-adhering to these requirements then read the document cfgguide.tex
-in the base LaTeX distribution for suggestions. 
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
 
-Because of the portability and exchangeability aspects of systems
-like LaTeX, The LaTeX3 Project deprecates the distribution of
-non-standard versions of components of LaTeX or of generally available
-contributed code for them but such distributions are permitted under the
-above restrictions.
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
 
-The document modguide.tex in the base LaTeX distribution details
-the reasons for the legal requirements detailed above.
-Even if The Program is unrelated to LaTeX, the argument in
-modguide.tex may still apply, and should be read before
-a modified version of The Program is distributed.
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
 
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
 
-Conditions on individual files
-==============================
-The individual files may bear additional conditions which supersede
-the general conditions on distribution and modification contained in
-this file. If there are any such files, the distribution of The
-Program will contain a prominent file that lists all the exceptional
-files.
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor
+      and its affiliates, except as required to comply with Section 4(c) of
+      the License and to reproduce the content of the NOTICE file.
 
-Typical examples of files with more restrictive modification
-conditions would be files that contain the text of copyright notices.
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
 
- * The conditions on individual files differ only in the
-   extent of *modification* that is allowed.
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
 
- * The conditions on *distribution* are the same for all the files.
-   Thus a (re)distributor of a complete, unchanged copy of The Program
-   need meet only the conditions in this file; it is not necessary to
-   check the header of every file in the distribution to check that a
-   distribution meets these requirements.
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.

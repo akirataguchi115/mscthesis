@@ -1,53 +1,55 @@
-This is the LEGAL NOTICE pertaining to the Lucida fonts from Bigelow & Holmes:
+UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
 
-	NOTICE TO USER: The source code, including the glyphs or icons 
-	forming a par of the OPEN LOOK TM Graphic User Interface, on this 
-	tape and in these files is copyrighted under U.S. and international
-	laws. Sun Microsystems, Inc. of Mountain View, California owns
-	the copyright and has design patents pending on many of the icons. 
-	AT&T is the owner of the OPEN LOOK trademark associated with the
-	materials on this tape. Users and possessors of this source code 
-	are hereby granted a nonexclusive, royalty-free copyright and 
-	design patent license to use this code in individual and 
-	commercial software. A royalty-free, nonexclusive trademark
-	license to refer to the code and output as "OPEN LOOK" compatible 
-	is available from AT&T if, and only if, the appearance of the 
-	icons or glyphs is not changed in any manner except as absolutely
-	necessary to accommodate the standard resolution of the screen or
-	other output device, the code and output is not changed except as 
-	authorized herein, and the code and output is validated by AT&T. 
-	Bigelow & Holmes is the owner of the Lucida (R) trademark for the
-	fonts and bit-mapped images associated with the materials on this 
-	tape. Users are granted a royalty-free, nonexclusive license to use
-	the trademark only to identify the fonts and bit-mapped images if, 
-	and only if, the fonts and bit-mapped images are not modified in any
-	way by the user. 
+Unicode Data Files include all data files under the directories
+http://www.unicode.org/Public/, http://www.unicode.org/reports/, and
+http://www.unicode.org/cldr/data/. Unicode Data Files do not include PDF
+online code charts under the directory http://www.unicode.org/Public/.
+Software includes any source code published in the Unicode Standard or
+under the directories http://www.unicode.org/Public/,
+http://www.unicode.org/reports/, and http://www.unicode.org/cldr/data/.
 
-	Any use of this source code must include, in the user documentation 
-	and internal comments to the code, notices to the end user as  
-	follows:
+NOTICE TO USER: Carefully read the following legal agreement. BY
+DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S DATA
+FILES ("DATA FILES"), AND/OR SOFTWARE ("SOFTWARE"), YOU UNEQUIVOCALLY
+ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS OF
+THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY,
+DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
 
-	(c) Copyright 1989 Sun Microsystems, Inc. Sun design patents
-	pending in the U.S. and foreign countries. OPEN LOOK is a 
-	trademark of AT&T. Used by written permission of the owners.
+COPYRIGHT AND PERMISSION NOTICE
 
- 	(c) Copyright Bigelow & Holmes 1986, 1985. Lucida is a registered 
-	trademark of Bigelow & Holmes. Permission to use the Lucida 
-	trademark is hereby granted only in association with the images 
-	and fonts described in this file.
+Copyright © 1991-2015 Unicode, Inc. All rights reserved. Distributed
+under the Terms of Use in http://www.unicode.org/copyright.html.
 
-	SUN MICROSYSTEMS, INC., AT&T, AND BIGELOW & HOLMES 
-	MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY OF
- 	THIS SOURCE CODE FOR ANY PURPOSE. IT IS PROVIDED "AS IS" 
-	WITHOUT EXPRESS OR IMPLIED WARRANTY OF ANY KIND. 
-	SUN  MICROSYSTEMS, INC., AT&T AND BIGELOW  & HOLMES, 
-	SEVERALLY AND INDIVIDUALLY, DISCLAIM ALL WARRANTIES 
-	WITH REGARD TO THIS SOURCE CODE, INCLUDING ALL IMPLIED
-	WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-	PARTICULAR PURPOSE. IN NO EVENT SHALL SUN MICROSYSTEMS,
-	INC., AT&T OR BIGELOW & HOLMES BE LIABLE FOR ANY
-	SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
-	OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA 	
-	OR PROFITS, WHETHER IN AN ACTION OF  CONTRACT, NEGLIGENCE
-	OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
-	WITH THE USE OR PERFORMANCE OF THIS SOURCE CODE.
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of the Unicode data files and any associated documentation (the
+"Data Files") or Unicode software and any associated documentation (the
+"Software") to deal in the Data Files or Software without restriction,
+including without limitation the rights to use, copy, modify, merge,
+publish, distribute, and/or sell copies of the Data Files or Software,
+and to permit persons to whom the Data Files or Software are furnished
+to do so, provided that
+
+(a) this copyright and permission notice appear with all copies of
+the Data Files or Software,
+
+(b) this copyright and permission notice appear in associated
+documentation, and
+
+(c) there is clear notice in each modified Data File or in the
+Software as well as in the documentation associated with the Data
+File(s) or Software that the data or software has been modified.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR
+ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER
+RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall
+not be used in advertising or otherwise to promote the sale, use or
+other dealings in these Data Files or Software without prior written
+authorization of the copyright holder.

@@ -1,11 +1,23 @@
-Permission to use, copy, modify, and distribute this software for any
-purpose and without fee is hereby granted, provided that this copyright and
-permission notice appear on all copies and supporting documentation, the
-name of Lars Fenneberg not be used in advertising or publicity pertaining to
-distribution of the program without specific prior permission, and notice be
-given in supporting documentation that copying and distribution is by
-permission of {{Lars Fenneberg}}.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
 
-{{Lars Fenneberg}} makes no representations about the suitability of this
-software for any purpose.  It is provided "as is" without express or implied
-warranty.
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. The name(s) of the authors of this software must not be used to
+   endorse or promote products derived from this software without
+   prior written permission.
+
+3. Redistributions of any form whatsoever must retain the following
+   acknowledgment:
+   "This product includes software developed by Paul Mackerras
+    <paulus@samba.org>".
+
+THE AUTHORS OF THIS SOFTWARE DISCLAIM ALL WARRANTIES WITH REGARD TO
+THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS, IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN
+AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.

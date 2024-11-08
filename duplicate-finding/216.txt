@@ -1,33 +1,17 @@
-Imlib2 License 
+Licence Version 2
 
-Permission is hereby granted, free of charge, to any person obtaining a copy 
-of this software and associated documentation files (the "Software"), to 
-deal in the Software without restriction, including without limitation the 
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or 
-sell copies of the Software, and to permit persons to whom the Software is 
-furnished to do so, subject to the following conditions: 
+This software is provided 'as-is', without warranty of any kind, express or implied. In no event will the authors or copyright holders be held liable for any damages arising from the use of this software.
 
-The above copyright notice and this permission notice shall be included in 
-all copies of the Software and its Copyright notices. In addition publicly 
-documented acknowledgment must be given that this software has been used if no 
-source code of this software is made available publicly. Making the source 
-available publicly means including the source for this software with the 
-distribution, or a method to get this software via some reasonable mechanism 
-(electronic transfer via a network or media) as well as making an offer to 
-supply the source on request. This Copyright notice serves as an offer to 
-supply the source on on request as well. Instead of this, supplying 
-acknowledgments of use of this software in either Copyright notices, Manuals, 
-Publicity and Marketing documents or any documentation provided with any 
-product containing this software. This License does not apply to any software 
-that links to the libraries provided by this software (statically or 
-dynamically), but only to the software provided. 
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
 
-Please see the COPYING-PLAIN for a plain-english explanation of this notice 
-and its intent. 
+     1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
-THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+     2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+
+     3. You must not use any of the names of the authors or copyright holders of the original software for advertising or publicity pertaining to distribution without specific, written prior permission.
+
+     4. If you change this software and redistribute parts or all of it in any form, you must make the source code of the altered version of this software available.
+
+     5. This notice may not be removed or altered from any source distribution.
+
+This licence is governed by the Laws of Germany. Disputes shall be settled by Saarbruecken City Court.

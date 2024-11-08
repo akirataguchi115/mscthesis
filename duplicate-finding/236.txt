@@ -1,93 +1,137 @@
-Licence Libre du Québec – Réciprocité (LiLiQ-R)
-Version 1.1
+NETSCAPE PUBLIC LICENSE
+Version 1.0
 
-1. Préambule 
-Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité (LiLiQ-R) (ci-après appelée la « licence »).
+1. Definitions.
 
-2. Définitions 
-Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
+1.1. ``Contributor'' means each entity that creates or contributes to the creation of Modifications.
+1.2. ``Contributor Version'' means the combination of the Original Code, prior Modifications used by a Contributor, and the Modifications made by that particular Contributor.
 
-« concédant » : le titulaire du droit d'auteur sur le logiciel, ou toute personne dûment autorisée par ce dernier à accorder la présente licence; 
-« contributeur » : le titulaire du droit d'auteur ou toute personne autorisée par ce dernier à soumettre au concédant une contribution. Un contributeur dont sa contribution est incorporée au logiciel est considéré comme un concédant en regard de sa contribution; 
-« contribution » : tout logiciel original, ou partie de logiciel original soumis et destiné à être incorporé dans le logiciel; 
-« distribution » : le fait de délivrer une copie du logiciel; 
-« licencié » : toute personne qui possède une copie du logiciel et qui exerce les droits concédés par la licence; 
-« logiciel » : une œuvre protégée par le droit d'auteur, telle qu'un programme d'ordinateur et sa documentation, pour laquelle le titulaire du droit d'auteur a précisé qu'elle est sujette aux termes de la présente licence; 
-« logiciel dérivé » : tout logiciel original réalisé par un licencié, autre que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité ou une partie importante du logiciel; 
-« logiciel modifié » : toute modification par un licencié de l'un des fichiers source du logiciel ou encore tout nouveau fichier source qui incorpore le logiciel ou une partie importante de ce dernier.
+1.3. ``Covered Code'' means the Original Code or Modifications or the combination of the Original Code and Modifications, in each case including portions thereof.
 
-3. Licence de droit d'auteur 
-Sous réserve des termes de la licence, le concédant accorde au licencié une licence non exclusive et libre de redevances lui permettant d’exercer les droits suivants sur le logiciel :
+1.4. ``Electronic Distribution Mechanism'' means a mechanism generally accepted in the software development community for the electronic transfer of data.
 
-1 Produire ou reproduire la totalité ou une partie importante; 
-2 Exécuter ou représenter la totalité ou une partie importante en public; 
-3 Publier la totalité ou une partie importante.
+1.5. ``Executable'' means Covered Code in any form other than Source Code.
 
-Cette licence est accordée sans limite territoriale et sans limite de temps.
+1.6. ``Initial Developer'' means the individual or entity identified as the Initial Developer in the Source Code notice required by Exhibit A.
 
-L'exercice complet de ces droits est sujet à la distribution par le concédant du code source du logiciel, lequel doit être sous une forme permettant d'y apporter des modifications. Le concédant peut aussi distribuer le logiciel accompagné d'une offre de distribuer le code source du logiciel, sans frais supplémentaires, autres que ceux raisonnables afin de permettre la livraison du code source. Cette offre doit être valide pendant une durée raisonnable.
+1.7. ``Larger Work'' means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
 
-4. Distribution 
-Le licencié peut distribuer des copies du logiciel, d'un logiciel modifié ou dérivé, sous réserve de respecter les conditions suivantes :
+1.8. ``License'' means this document.
 
-1 Le logiciel doit être accompagné d'un exemplaire de cette licence; 
-2 Si le logiciel a été modifié, le licencié doit en faire la mention, de préférence dans chacun des fichiers modifiés dont la nature permet une telle mention; 
-3 Les étiquettes ou mentions faisant état des droits d'auteur, des marques de commerce, des garanties ou de la paternité concernant le logiciel ne doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
+1.9. ``Modifications'' means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. When Covered Code is released as a series of files, a Modification is:
 
-4.1. Réciprocité 
-Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire une concession sur le logiciel selon les termes de la présente licence. Le licencié doit offrir une concession selon les termes de la présente licence pour tout logiciel modifié qu'il distribue.
+A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
 
-Chaque fois que le licencié distribue le logiciel ou un logiciel modifié, ce dernier doit assumer l'obligation d'en distribuer le code source, de la manière prévue au troisième alinéa de l'article 3.
+B. Any new file that contains any part of the Original Code or previous Modifications.
 
-4.2. Compatibilité 
-Dans la mesure où le licencié souhaite distribuer un logiciel modifié combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible.
+1.10. ``Original Code'' means Source Code of computer software code which is described in the Source Code notice required by Exhibit A as Original Code, and which, at the time of its release under this License is not already Covered Code governed by this License.
 
-Un licencié qui est titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible ne peut pas se prévaloir de cette offre. Il en est de même pour toute autre personne dûment autorisée à sous-licencier par le titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible.
+1.11. ``Source Code'' means the preferred form of the Covered Code for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control compilation and installation of an Executable, or a list of source code differential comparisons against either the Original Code or another well known, available Covered Code of the Contributor's choice. The Source Code can be in a compressed or archival form, provided the appropriate decompression or de-archiving software is widely available for no charge.
 
-Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable ou supérieur à celui de la présente licence, sans toutefois être moindre, notamment :
+1.12. ``You'' means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License or a future version of this License issued under Section 6.1. For legal entities, ``You'' includes any entity which controls, is controlled by, or is under common control with You. For purposes of this definition, ``control'' means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
 
-1 Common Development and Distribution License (CDDL-1.0) 
-2 Common Public License Version 1.0 (CPL-1.0) 
-3 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1) 
-4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C) 
-5 Eclipse Public License - v 1.0 (EPL-1.0) 
-6 European Union Public License, version 1.1 (EUPL v. 1.1) 
-7 Licence Libre du Québec – Réciprocité forte version 1.1 (LiLiQ-R+ 1.1) 
-8 GNU General Public License Version 2 (GNU GPLv2) 
-9 GNU General Public License Version 3 (GNU GPLv3) 
-10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1) 
-11 GNU Lesser General Public License Version 3 (GNU LGPLv3) 
-12 Mozilla Public License Version 2.0 (MPL-2.0)
+2. Source Code License.
+2.1. The Initial Developer Grant. 
+The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims:
+(a) to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, or as part of a Larger Work; and
 
-5. Contributions 
-Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
+(b) under patents now or hereafter owned or controlled by Initial Developer, to make, have made, use and sell (``Utilize'') the Original Code (or portions thereof), but solely to the extent that any such patent is reasonably necessary to enable You to Utilize the Original Code (or portions thereof) and not to any greater extent that may be necessary to Utilize further Modifications or combinations.
 
-6. Marques de commerce 
-La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
+2.2. Contributor Grant. 
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims:
 
-7. Garanties 
-Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
+(a) to use, reproduce, modify, display, perform, sublicense and distribute the Modifications created by such Contributor (or portions thereof) either on an unmodified basis, with other Modifications, as Covered Code or as part of a Larger Work; and
 
-Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support.
+(b) under patents now or hereafter owned or controlled by Contributor, to Utilize the Contributor Version (or portions thereof), but solely to the extent that any such patent is reasonably necessary to enable You to Utilize the Contributor Version (or portions thereof), and not to any greater extent that may be necessary to Utilize further Modifications or combinations.
 
-8. Responsabilité 
-Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence.
+3. Distribution Obligations.
+3.1. Application of License. 
+The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2. The Source Code version of Covered Code may be distributed only under the terms of this License or a future version of this License released under Section 6.1, and You must include a copy of this License with every copy of the Source Code You distribute. You may not offer or impose any terms on any Source Code version that alters or restricts the applicable version of this License or the recipients' rights hereunder. However, You may include an additional document offering the additional rights described in Section 3.5.
+3.2. Availability of Source Code. 
+Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available; and if made available via Electronic Distribution Mechanism, must remain available for at least twelve (12) months after the date it initially became available, or at least six (6) months after a subsequent version of that particular Modification has been made available to such recipients. You are responsible for ensuring that the Source Code version remains available even if the Electronic Distribution Mechanism is maintained by a third party.
 
-Le concédant ne saurait être tenu responsable du préjudice subi par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
+3.3. Description of Modifications. 
+You must cause all Covered Code to which you contribute to contain a file documenting the changes You made to create that Covered Code and the date of any change. You must include a prominent statement that the Modification is derived, directly or indirectly, from Original Code provided by the Initial Developer and including the name of the Initial Developer in (a) the Source Code, and (b) in any notice in an Executable version or related documentation in which You describe the origin or ownership of the Covered Code.
 
-9. Résiliation 
-La présente licence est résiliée de plein droit dès que les droits qui y sont accordés ne sont pas exercés conformément aux termes qui y sont stipulés.
+3.4. Intellectual Property Matters
 
-Toutefois, si le défaut est corrigé dans un délai de 30 jours de sa prise de connaissance par la personne en défaut, et qu'il s'agit du premier défaut, la licence est accordée de nouveau.
+(a) Third Party Claims. 
+If You have knowledge that a party claims an intellectual property right in particular functionality or code (or its utilization under this License), you must include a text file with the source code distribution titled ``LEGAL'' which describes the claim and the party making the claim in sufficient detail that a recipient will know whom to contact. If you obtain such knowledge after You make Your Modification available as described in Section 3.2, You shall promptly modify the LEGAL file in all copies You make available thereafter and shall take other steps (such as notifying appropriate mailing lists or newsgroups) reasonably calculated to inform those who received the Covered Code that new knowledge has been obtained.
 
-Pour tout défaut subséquent, le consentement exprès du concédant est nécessaire afin que la licence soit accordée de nouveau.
+(b) Contributor APIs. 
+If Your Modification is an application programming interface and You own or control patents which are reasonably necessary to implement that API, you must also include this information in the LEGAL file.
 
-10. Version de la licence 
-Le Centre de services partagés du Québec, ses ayants cause ou toute personne qu'il désigne, peuvent diffuser des versions révisées ou modifiées de cette licence. Chaque version recevra un numéro unique. Si un logiciel est déjà soumis aux termes d'une version spécifique, c'est seulement cette version qui liera les parties à la licence.
+3.5. Required Notices. 
+You must duplicate the notice in Exhibit A in each file of the Source Code, and this License in any documentation for the Source Code, where You describe recipients' rights relating to Covered Code. If You created one or more Modification(s), You may add your name as a Contributor to the notice described in Exhibit A. If it is not possible to put such notice in a particular Source Code file due to its structure, then you must include such notice in a location (such as a relevant directory file) where a user would be likely to look for such a notice. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Code. However, You may do so only on Your own behalf, and not on behalf of the Initial Developer or any Contributor. You must make it absolutely clear than any such warranty, support, indemnity or liability obligation is offered by You alone, and You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of warranty, support, indemnity or liability terms You offer.
 
-Le concédant peut aussi choisir de concéder la licence sous la version actuelle ou toute version ultérieure, auquel cas le licencié peut choisir sous quelle version la licence lui est accordée.
+3.6. Distribution of Executable Versions. 
+You may distribute Covered Code in Executable form only if the requirements of Section 3.1-3.5 have been met for that Covered Code, and if You include a notice stating that the Source Code version of the Covered Code is available under the terms of this License, including a description of how and where You have fulfilled the obligations of Section 3.2. The notice must be conspicuously included in any notice in an Executable version, related documentation or collateral in which You describe recipients' rights relating to the Covered Code. You may distribute the Executable version of Covered Code under a license of Your choice, which may contain terms different from this License, provided that You are in compliance with the terms of this License and that the license for the Executable version does not attempt to limit or alter the recipient's rights in the Source Code version from the rights set forth in this License. If You distribute the Executable version under a different license You must make it absolutely clear that any terms which differ from this License are offered by You alone, not by the Initial Developer or any Contributor. You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of any such terms You offer.
 
-11. Divers 
-Dans la mesure où le concédant est un ministère, un organisme public ou une personne morale de droit public, créés en vertu d'une loi de l'Assemblée nationale du Québec, la licence est régie par le droit applicable au Québec et en cas de contestation, les tribunaux du Québec seront seuls compétents.
+3.7. Larger Works. 
+You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In such a case, You must make sure the requirements of this License are fulfilled for the Covered Code.
 
-La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant droit, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.
+4. Inability to Comply Due to Statute or Regulation.
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Code due to statute or regulation then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be included in the LEGAL file described in Section 3.4 and must be included with all distributions of the Source Code. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+
+5. Application of this License.
+This License applies to code to which the Initial Developer has attached the notice in Exhibit A, and to related Covered Code.
+6. Versions of the License.
+6.1. New Versions. 
+Netscape Communications Corporation (``Netscape'') may publish revised and/or new versions of the License from time to time. Each version will be given a distinguishing version number.
+6.2. Effect of New Versions. 
+Once Covered Code has been published under a particular version of the License, You may always continue to use it under the terms of that version. You may also choose to use such Covered Code under the terms of any subsequent version of the License published by Netscape. No one other than Netscape has the right to modify the terms applicable to Covered Code created under this License.
+
+6.3. Derivative Works. 
+If you create or use a modified version of this License (which you may only do in order to apply it to code which is not already Covered Code governed by this License), you must (a) rename Your license so that the phrases ``Mozilla'', ``MOZILLAPL'', ``MOZPL'', ``Netscape'', ``NPL'' or any confusingly similar phrase do not appear anywhere in your license and (b) otherwise make it clear that your version of the license contains terms which differ from the Mozilla Public License and Netscape Public License. (Filling in the name of the Initial Developer, Original Code or Contributor in the notice described in Exhibit A shall not of themselves be deemed to be modifications of this License.)
+
+7. DISCLAIMER OF WARRANTY.
+COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN ``AS IS'' BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE COVERED CODE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE COVERED CODE IS WITH YOU. SHOULD ANY COVERED CODE PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL DEVELOPER OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY COVERED CODE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+8. TERMINATION.
+This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses to the Covered Code which are properly granted shall survive any termination of this License. Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive.
+9. LIMITATION OF LIABILITY.
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR ANY DISTRIBUTOR OF COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THAT EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+10. U.S. GOVERNMENT END USERS.
+The Covered Code is a ``commercial item,'' as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of ``commercial computer software'' and ``commercial computer software documentation,'' as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire Covered Code with only those rights set forth herein.
+11. MISCELLANEOUS.
+This License represents the complete agreement concerning subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be governed by California law provisions (except to the extent applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. With respect to disputes in which at least one party is a citizen of, or an entity chartered or registered to do business in, the United States of America: (a) unless otherwise agreed in writing, all disputes relating to this License (excepting any dispute relating to intellectual property rights) shall be subject to final and binding arbitration, with the losing party paying all costs of arbitration; (b) any arbitration relating to this Agreement shall be held in Santa Clara County, California, under the auspices of JAMS/EndDispute; and (c) any litigation relating to this Agreement shall be subject to the jurisdiction of the Federal Courts of the Northern District of California, with venue lying in Santa Clara County, California, with the losing party responsible for costs, including without limitation, court costs and reasonable attorneys fees and expenses. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not apply to this License.
+12. RESPONSIBILITY FOR CLAIMS.
+Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for damages arising, directly or indirectly, out of Your utilization of rights under this License, based on the number of copies of Covered Code you made available, the revenues you received from utilizing such rights, and other relevant factors. You agree to work with affected parties to distribute responsibility on an equitable basis.
+AMENDMENTS
+Additional Terms applicable to the Netscape Public License.
+I. Effect. 
+These additional terms described in this Netscape Public License -- Amendments shall apply to the Mozilla Communicator client code and to all Covered Code under this License.
+
+II. ``Netscape's Branded Code'' means Covered Code that Netscape distributes and/or permits others to distribute under one or more trademark(s) which are controlled by Netscape but which are not licensed for use under this License.
+
+III. Netscape and logo. 
+This License does not grant any rights to use the trademark ``Netscape'', the ``Netscape N and horizon'' logo or the Netscape lighthouse logo, even if such marks are included in the Original Code.
+
+IV. Inability to Comply Due to Contractual Obligation. 
+Prior to licensing the Original Code under this License, Netscape has licensed third party code for use in Netscape's Branded Code. To the extent that Netscape is limited contractually from making such third party code available under this License, Netscape may choose to reintegrate such code into Covered Code without being required to distribute such code in Source Code form, even if such code would otherwise be considered ``Modifications'' under this License.
+
+V. Use of Modifications and Covered Code by Initial Developer.
+
+V.1. In General. 
+The obligations of Section 3 apply to Netscape, except to the extent specified in this Amendment, Section V.2 and V.3.
+
+V.2. Other Products. 
+Netscape may include Covered Code in products other than the Netscape's Branded Code which are released by Netscape during the two (2) years following the release date of the Original Code, without such additional products becoming subject to the terms of this License, and may license such additional products on different terms from those contained in this License.
+
+V.3. Alternative Licensing. 
+Netscape may license the Source Code of Netscape's Branded Code, including Modifications incorporated therein, without such additional products becoming subject to the terms of this License, and may license such additional products on different terms from those contained in this License.
+
+VI. Arbitration and Litigation. 
+Notwithstanding the limitations of Section 11 above, the provisions regarding arbitration and litigation in Section 11(a), (b) and (c) of the License shall apply to all disputes relating to this License.
+
+EXHIBIT A.
+``The contents of this file are subject to the Netscape Public License Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.mozilla.org/NPL/
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.
+
+The Original Code is Mozilla Communicator client code, released March 31, 1998.
+
+The Initial Developer of the Original Code is Netscape Communications Corporation. Portions created by Netscape are Copyright (C) 1998 Netscape Communications Corporation. All Rights Reserved.
+
+Contributor(s):  .''
+
+
+[NOTE: The text of this Exhibit A may differ slightly from the text of the notices in the Source Code files of the Original Code. This is due to time constraints encountered in simultaneously finalizing the License and in preparing the Original Code for release. You should use the text of this Exhibit A rather than the text found in the Original Code Source Code for Your Modifications.]

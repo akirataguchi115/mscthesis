@@ -1,60 +1,131 @@
-SCEA Shared Source License 1.0
+The OpenLDAP Public License 
 
-Terms and Conditions:
+Version 1.2, 1 September 1998 
+Copyright 1998, The OpenLDAP Foundation. 
+All Rights Reserved. 
 
-1. Definitions:
+Note: 
+This license is derived from the "Artistic License" as distributed 
+with the Perl Programming Language. As differences may exist, 
+the complete license should be read. 
 
-"Software" shall mean the software and related documentation, whether in Source or Object Form, made available under this SCEA Shared Source license ("License"), that is indicated by a copyright notice file included in the source files or attached or accompanying the source files.
+PREAMBLE 
 
-"Licensor" shall mean Sony Computer Entertainment America, Inc. (herein "SCEA")
+The intent of this document is to state the conditions under which 
+a Package may be copied, such that the Copyright Holder maintains 
+some semblance of artistic control over the development of the 
+package, while giving the users of the package the right to use 
+and distribute the Package in a more-or-less customary fashion, 
+plus the right to make reasonable modifications. 
 
-"Object Code" or "Object Form" shall mean any form that results from translation or transformation of Source Code, including but not limited to compiled object code or conversions to other forms intended for machine execution.
-"Source Code" or "Source Form" shall have the plain meaning generally accepted in the software industry, including but not limited to software source code, documentation source, header and configuration files.
+Definitions: 
 
-"You" or "Your" shall mean you as an individual or as a company, or whichever form under which you are exercising rights under this License.
+"Package" refers to the collection of files distributed by the 
+Copyright Holder, and derivatives of that collection of files 
+created through textual modification. 
 
-2. License Grant.
+"Standard Version" refers to such a Package if it has not been 
+modified, or has been modified in accordance with the wishes 
+of the Copyright Holder. 
 
-Licensor hereby grants to You, free of charge subject to the terms and conditions of this License, an irrevocable, non-exclusive, worldwide, perpetual, and royalty-free license to use, modify, reproduce, distribute, publicly perform or display the Software in Object or Source Form .
+"Copyright Holder" is whoever is named in the copyright or 
+copyrights for the package. 
 
-3. No Right to File for Patent.
-In exchange for the rights that are granted to You free of charge under this License, You agree that You will not file for any patent application, seek copyright protection or take any other action that might otherwise impair the ownership rights in and to the Software that may belong to SCEA or any of the other contributors/authors of the Software.
+"You" is you, if you're thinking about copying or distributing 
+this Package. 
 
-4. Contributions.
+"Reasonable copying fee" is whatever you can justify on the 
+basis of media cost, duplication charges, time of people 
+involved, and so on. (You will not be required to justify it 
+to the Copyright Holder, but only to the computing community 
+at large as a market that must bear the fee.) 
 
-SCEA welcomes contributions in form of modifications, optimizations, tools or documentation designed to improve or expand the performance and scope of the Software (collectively "Contributions"). Per the terms of this License You are free to modify the Software and those modifications would belong to You. You may however wish to donate Your Contributions to SCEA for consideration for inclusion into the Software. For the avoidance of doubt, if You elect to send Your Contributions to SCEA, You are doing so voluntarily and are giving the Contributions to SCEA and its parent company Sony Computer Entertainment, Inc., free of charge, to use, modify or distribute in any form or in any manner. SCEA acknowledges that if You make a donation of Your Contributions to SCEA, such Contributions shall not exclusively belong to SCEA or its parent company and such donation shall not be to Your exclusion. SCEA, in its sole discretion, shall determine whether or not to include Your donated Contributions into the Software, in whole, in part, or as modified by SCEA. Should SCEA elect to include any such Contributions into the Software, it shall do so at its own risk and may elect to give credit or special thanks to any such contributors in the attached copyright notice. However, if any of Your contributions are included into the Software, they will become part of the Software and will be distributed under the terms and conditions of this License. Further, if Your donated Contributions are integrated into the Software then Sony Computer Entertainment, Inc. shall become the copyright owner of the Software now containing Your contributions and SCEA would be the Licensor.
+"Freely Available" means that no fee is charged for the item 
+itself, though there may be fees involved in handling the item. 
+It also means that recipients of the item may redistribute it 
+under the same conditions they received it. 
 
-5. Redistribution in Source Form
+1. You may make and give away verbatim copies of the source form 
+of the Standard Version of this Package without restriction, provided 
+that you duplicate all of the original copyright notices and 
+associated disclaimers. 
 
-You may redistribute copies of the Software, modifications or derivatives thereof in Source Code Form, provided that You:
+2. You may apply bug fixes, portability fixes and other modifications 
+derived from the Public Domain or from the Copyright Holder. A 
+Package modified in such a way shall still be considered the Standard 
+Version. 
 
-a. Include a copy of this License and any copyright notices with source
+3. You may otherwise modify your copy of this Package in any way, 
+provided that you insert a prominent notice in each changed file 
+stating how and when you changed that file, and provided that you 
+do at least ONE of the following: 
 
-b. Identify modifications if any were made to the Software
+a) place your modifications in the Public Domain or otherwise 
+make them Freely Available, such as by posting said modifications 
+to Usenet or an equivalent medium, or placing the modifications 
+on a major archive site such as uunet.uu.net, or by allowing 
+the Copyright Holder to include your modifications in the 
+Standard Version of the Package. 
 
-c. Include a copy of all documentation accompanying the Software and modifications made by You
+b) use the modified Package only within your corporation or 
+organization. 
 
-6. Redistribution in Object Form
+c) rename any non-standard executables so the names do not 
+conflict with standard executables, which must also be provided, 
+and provide a separate manual page for each non-standard 
+executable that clearly documents how it differs from the 
+Standard Version. 
 
-If You redistribute copies of the Software, modifications or derivatives thereof in Object Form only (as incorporated into finished goods, i.e. end user applications) then You will not have a duty to include any copies of the code, this License, copyright notices, other attributions or documentation.
+d) make other distribution arrangements with the Copyright 
+Holder. 
 
-7. No Warranty
+4. You may distribute the programs of this Package in object code 
+or executable form, provided that you do at least ONE of the 
+following: 
 
-THE SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE APPROPRIATENESS OF USING, MODIFYING OR REDISTRIBUTING THE SOFTWARE AND ASSUME ANY RISKS ASSOCIATED WITH YOUR EXERCISE OF PERMISSIONS UNDER THIS LICENSE.
+a) distribute a Standard Version of the executables and library 
+files, together with instructions (in the manual page or 
+equivalent) on where to get the Standard Version. 
 
-8. Limitation of Liability
+b) accompany the distribution with the machine-readable source 
+of the Package with your modifications. 
 
-UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR EXEMPLARY DAMAGES WITH RESPECT TO ANY INJURY, LOSS, OR DAMAGE, ARISING UNDER OR IN CONNECTION WITH THIS LETTER AGREEMENT, WHETHER FORESEEABLE OR UNFORESEEABLE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH INJURY, LOSS, OR DAMAGE. THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION SHALL APPLY TO THE FULLEST EXTENT PERMISSIBLE AT LAW OR ANY GOVERMENTAL REGULATIONS.
+c) accompany any non-standard executables with their corresponding 
+Standard Version executables, giving the non-standard executables 
+non-standard names, and clearly documenting the differences in 
+manual pages (or equivalent), together with instructions on 
+where to get the Standard Version. 
 
-9. Governing Law and Consent to Jurisdiction
+d) make other distribution arrangements with the Copyright 
+Holder. 
 
-This Agreement shall be governed by and interpreted in accordance with the laws of the State of California, excluding that body of law related to choice of laws, and of the United States of America. Any action or proceeding brought to enforce the terms of this Agreement or to adjudicate any dispute arising hereunder shall be brought in the Superior Court of the County of San Mateo, State of California or the United States District Court for the Northern District of California. Each of the parties hereby submits itself to the exclusive jurisdiction and venue of such courts for purposes of any such action. In addition, each party hereby waives the right to a jury trial in any action or proceeding related to this Agreement.
+5. You may charge a reasonable copying fee for any distribution of 
+this Package. You may charge any fee you choose for support of 
+this Package. You may not charge a fee for this Package itself. 
+However, you may distribute this Package in aggregate with other 
+(possibly commercial) programs as part of a larger (possibly 
+commercial) software distribution provided that you do not advertise 
+this Package as a product of your own. 
 
-10. Copyright Notice for Redistribution of Source Code
+6. The scripts and library files supplied as input to or produced 
+as output from the programs of this Package do not automatically 
+fall under the copyright of this Package, but belong to whomever 
+generated them, and may be sold commercially, and may be aggregated 
+with this Package. 
 
-Copyright 2005 Sony Computer Entertainment Inc.
+7. C subroutines supplied by you and linked into this Package in 
+order to emulate subroutines and variables of the language defined 
+by this Package shall not be considered part of this Package, but 
+are the equivalent of input as in Paragraph 6, provided these 
+subroutines do not change the language in any way that would cause 
+it to fail the regression tests for the language. 
 
-Licensed under the SCEA Shared Source License, Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
-http://research.scea.com/scea_shared_source_license.html
+8. The name of the Copyright Holder may not be used to endorse or 
+promote products derived from this software without specific prior 
+written permission. 
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR 
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED 
+WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+The End

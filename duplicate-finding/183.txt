@@ -1,29 +1,18 @@
-Detection Rule License (DRL) 1.0
+Export of this software from the United States of America may
+require a specific license from the United States Government.
+It is the responsibility of any person or organization contemplating
+export to obtain such a license before exporting.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this rule set and associated documentation files (the "Rules"), to deal in the
-Rules without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the Rules,
-and to permit persons to whom the Rules are furnished to do so, subject to the
-following conditions:
-
-If you share the Rules (including in modified form), you must retain the
-following if it is supplied within the Rules:
-
-identification of the authors(s) ("author" field) of the Rule and any others
-designated to receive attribution, in any reasonable manner requested by the
-Rule author (including by pseudonym if designated).
-
-a URI or hyperlink to the Rule set or explicit Rule to the extent reasonably
-practicable
-
-indicate the Rules are licensed under this Detection Rule License, and include
-the text of, or the URI or hyperlink to, this Detection Rule License to the
-extent reasonably practicable
-
-THE RULES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE RULES OR THE USE OR OTHER DEALINGS IN THE RULES.
+WITHIN THAT CONSTRAINT, permission to use, copy, modify, and
+distribute this software and its documentation for any purpose and
+without fee is hereby granted, provided that the above copyright
+notice appear in all copies and that both that copyright notice and
+this permission notice appear in supporting documentation, and that
+the name of M.I.T. not be used in advertising or publicity pertaining
+to distribution of the software without specific, written prior
+permission.  Furthermore if you modify this software you must label
+your software as modified software and not distribute it in such a
+fashion that it might be confused with the original M.I.T. software.
+M.I.T. makes no representations about the suitability of
+this software for any purpose.  It is provided "as is" without express
+or implied warranty.

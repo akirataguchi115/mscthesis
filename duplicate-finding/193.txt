@@ -1,86 +1,84 @@
-Eclipse Public License - v 1.0
+IPA Font License Agreement v1.0 
+ 
+The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement ("Agreement").  Any use, reproduction or distribution of the Licensed Program, or any exercise of rights under this Agreement by a Recipient (as defined in Article 1 below) constitutes the Recipient's acceptance of this Agreement.
 
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+Article 1 (Definitions)
 
-1. DEFINITIONS
+1.         "Digital Font Program" shall mean a computer program containing, or used to render or display fonts.
 
-"Contribution" means:
+2.         "Licensed Program" shall mean a Digital Font Program licensed by the Licensor under this Agreement.
 
-a) in the case of the initial Contributor, the initial code and documentation distributed under this Agreement, and
-b) in the case of each subsequent Contributor:
+3.         "Derived Program" shall mean a Digital Font Program created as a result of a modification, addition, deletion, replacement or any other adaptation to or of a part or all of the Licensed Program, and includes a case where a Digital Font Program newly created by retrieving font information from a part or all of the Licensed Program or Embedded Fonts from a Digital Document File with or without modification of the retrieved font information. 
 
-i) changes to the Program, and
+4.         "Digital Content" shall mean products provided to end users in the form of digital data, including video content, motion and/or still pictures, TV programs or other broadcasting content and products consisting of character text, pictures, photographic images, graphic symbols and/or the like.
 
-ii) additions to the Program;
+5.         "Digital Document File" shall mean a PDF file or other Digital Content created by various software programs in which a part or all of the Licensed Program becomes embedded or contained in the file for the display of the font ("Embedded Fonts").  Embedded Fonts are used only in the display of characters in the particular Digital Document File within which they are embedded, and shall be distinguished from those in any Digital Font Program, which may be used for display of characters outside that particular Digital Document File.
 
-where such changes and/or additions to the Program originate from and are distributed by that particular Contributor. A Contribution 'originates' from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include additions to the Program which: (i) are separate modules of software distributed in conjunction with the Program under their own license agreement, and (ii) are not derivative works of the Program.
+6.         "Computer" shall include a server in this Agreement.
 
-"Contributor" means any person or entity that distributes the Program.
+7.         "Reproduction and Other Exploitation" shall mean reproduction, transfer, distribution, lease, public transmission, presentation, exhibition, adaptation and any other exploitation.
 
-"Licensed Patents " mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+8.         "Recipient" shall mean anyone who receives the Licensed Program under this Agreement, including one that receives the Licensed Program from a Recipient.
 
-"Program" means the Contributions distributed in accordance with this Agreement.
+ 
+Article 2 (Grant of License)
 
-"Recipient" means anyone who receives the Program under this Agreement, including all Contributors.
+The Licensor grants to the Recipient a license to use the Licensed Program in any and all countries in accordance with each of the provisions set forth in this Agreement. However, any and all rights underlying in the Licensed Program shall be held by the Licensor. In no sense is this Agreement intended to transfer any right relating to the Licensed Program held by the Licensor except as specifically set forth herein or any right relating to any trademark, trade name, or service mark to the Recipient.
 
-2. GRANT OF RIGHTS
+1.         The Recipient may install the Licensed Program on any number of Computers and use the same in accordance with the provisions set forth in this Agreement.
 
-a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form.
+2.         The Recipient may use the Licensed Program, with or without modification in printed materials or in Digital Content as an expression of character texts or the like.
 
-b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+3.         The Recipient may conduct Reproduction and Other Exploitation of the printed materials and Digital Content created in accordance with the preceding Paragraph, for commercial or non-commercial purposes and in any form of media including but not limited to broadcasting, communication and various recording media.
 
-c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
+4.         If any Recipient extracts Embedded Fonts from a Digital Document File to create a Derived Program, such Derived Program shall be subject to the terms of this agreement.  
 
-d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
+5.         If any Recipient performs Reproduction or Other Exploitation of a Digital Document File in which Embedded Fonts of the Licensed Program are used only for rendering the Digital Content within such Digital Document File then such Recipient shall have no further obligations under this Agreement in relation to such actions.
 
-3. REQUIREMENTS
+6.         The Recipient may reproduce the Licensed Program as is without modification and transfer such copies, publicly transmit or otherwise redistribute the Licensed Program to a third party for commercial or non-commercial purposes ("Redistribute"), in accordance with the provisions set forth in Article 3 Paragraph 2.
 
-A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+7.         The Recipient may create, use, reproduce and/or Redistribute a Derived Program under the terms stated above for the Licensed Program: provided, that the Recipient shall follow the provisions set forth in Article 3 Paragraph 1 when Redistributing the Derived Program. 
 
-a) it complies with the terms and conditions of this Agreement; and
+Article 3 (Restriction)
 
-b) its license agreement:
+The license granted in the preceding Article shall be subject to the following restrictions:
 
-i) effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+1.         If a Derived Program is Redistributed pursuant to Paragraph 4 and 7 of the preceding Article, the following conditions must be met :
 
-ii) effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+(1)                The following must be also Redistributed together with the Derived Program, or be made available online or by means of mailing mechanisms in exchange for a cost which does not exceed the total costs of postage, storage medium and handling fees:
 
-iii) states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party; and
+(a)    a copy of the Derived Program; and
 
-iv) states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+(b)    any additional file created by the font developing program in the course of creating the Derived Program that can be used for further modification of the Derived Program, if any.
 
-When the Program is made available in source code form:
+(2)                It is required to also Redistribute means to enable recipients of the Derived Program to replace the Derived Program with the Licensed Program first released under this License (the "Original Program").  Such means may be to provide a difference file from the Original Program, or instructions setting out a method to replace the Derived Program with the Original Program.
 
-a) it must be made available under this Agreement; and
+(3)                The Recipient must license the Derived Program under the terms and conditions of this Agreement.
 
-b) a copy of this Agreement must be included with each copy of the Program.
+(4)                No one may use or include the name of the Licensed Program as a program name, font name or file name of the Derived Program.
 
-Contributors may not remove or alter any copyright notices contained within the Program.
+(5)                Any material to be made available online or by means of mailing a medium to satisfy the requirements of this paragraph may be provided, verbatim, by any party wishing to do so.
 
-Each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+2.         If the Recipient Redistributes the Licensed Program pursuant to Paragraph 6 of the preceding Article, the Recipient shall meet all of the following conditions:
 
-4. COMMERCIAL DISTRIBUTION
+(1)                The Recipient may not change the name of the Licensed Program.
 
-Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+(2)                The Recipient may not alter or otherwise modify the Licensed Program.
 
-For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+(3)                The Recipient must attach a copy of this Agreement to the Licensed Program.
 
-5. NO WARRANTY
+3.         THIS LICENSED PROGRAM IS PROVIDED BY THE LICENSOR "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTY AS TO THE LICENSED PROGRAM OR ANY DERIVED PROGRAM, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE, ARE DISCLAIMED.  IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXTENDED, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO; PROCUREMENT OF SUBSTITUTED GOODS OR SERVICE; DAMAGES ARISING FROM SYSTEM FAILURE; LOSS OR CORRUPTION OF EXISTING DATA OR PROGRAM; LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE INSTALLATION, USE, THE REPRODUCTION OR OTHER EXPLOITATION OF THE LICENSED PROGRAM OR ANY DERIVED PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement , including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+4.         The Licensor is under no obligation to respond to any technical questions or inquiries, or provide any other user support in connection with the installation, use or the Reproduction and Other Exploitation of the Licensed Program or Derived Programs thereof.
 
-6. DISCLAIMER OF LIABILITY
+Article 4 (Termination of Agreement)
 
-EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+1.         The term of this Agreement shall begin from the time of receipt of the Licensed Program by the Recipient and shall continue as long as the Recipient retains any such Licensed Program in any way.
 
-7. GENERAL
+2.         Notwithstanding the provision set forth in the preceding Paragraph, in the event of the breach of any of the provisions set forth in this Agreement by the Recipient, this Agreement shall automatically terminate without any notice. In the case of such termination, the Recipient may not use or conduct Reproduction and Other Exploitation of the Licensed Program or a Derived Program: provided that such termination shall not affect any rights of any other Recipient receiving the Licensed Program or the Derived Program from such Recipient who breached this Agreement.
 
-If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+Article 5 (Governing Law)
 
-If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+1.         IPA may publish revised and/or new versions of this License.  In such an event, the Recipient may select either this Agreement or any subsequent version of the Agreement in using, conducting the Reproduction and Other Exploitation of, or Redistributing the Licensed Program or a Derived Program. Other matters not specified above shall be subject to the Copyright Law of Japan and other related laws and regulations of Japan.
 
-All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
-
-Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version. Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.
-
-This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
+2.         This Agreement shall be construed under the laws of Japan.

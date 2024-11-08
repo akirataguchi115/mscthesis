@@ -1,173 +1,293 @@
-Common Documentation License
+Community Specification License 1.0
 
-Version 1.0 - February 16, 2001
+The Purpose of this License. This License sets forth the terms under which
+1) Contributor will participate in and contribute to the development
+of specifications, standards, best practices, guidelines, and other
+similar materials under this Working Group, and 2) how the materials
+developed under this License may be used. It is not intended for source
+code. Capitalized terms are defined in the License’s last section.
 
-Copyright © 2001 Apple Computer, Inc.
+1. Copyright.
 
-Permission is granted to copy and distribute verbatim copies of this
-License, but changing or adding to it in any way is not permitted.
+1.1. Copyright License. Contributor grants everyone a non-sublicensable,
+perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as expressly stated in this License) copyright license, without
+any obligation for accounting, to reproduce, prepare derivative works
+of, publicly display, publicly perform, and distribute any materials
+it submits to the full extent of its copyright interest in those
+materials. Contributor also acknowledges that the Working Group may
+exercise copyright rights in the Specification, including the rights to
+submit the Specification to another standards organization.
 
-Please read this License carefully before downloading or using this
-material. By downloading or using this material, you are agreeing to
-be bound by the terms of this License. If you do not or cannot agree
-to the terms of this License, please do not download or use this
-material.
+1.2. Copyright Attribution. As a condition, anyone exercising this
+copyright license must include attribution to the Working Group in any
+derivative work based on materials developed by the Working Group.
+That attribution must include, at minimum, the material’s name,
+version number, and source from where the materials were retrieved.
+Attribution is not required for implementations of the Specification.
 
-0. Preamble. The Common Documentation License (CDL) provides a very
-simple and consistent license that allows relatively unrestricted use
-and redistribution of documents while still maintaining the author's
-credit and intent. To preserve simplicity, the License does not
-specify in detail how (e.g. font size) or where (e.g. title page,
-etc.) the author should be credited. To preserve consistency, changes
-to the CDL are not allowed and all derivatives of CDL documents are
-required to remain under the CDL. Together, these constraints enable
-third parties to easily and safely reuse CDL documents, making the CDL
-ideal for authors who desire a wide distribution of their
-work. However, this means the CDL does not allow authors to restrict
-precisely how their work is used or represented, making it
-inappropriate for those desiring more finely-grained control.
+2. Patents.
 
-1. General; Definitions. This License applies to any documentation,
-manual or other work that contains a notice placed by the Copyright
-Holder stating that it is subject to the terms of this Common
-Documentation License version 1.0 (or subsequent version thereof)
-("License"). As used in this License:
+2.1. Patent License.
 
-1.1 "Copyright Holder" means the original author(s) of the Document or
-other owner(s) of the copyright in the Document.
+2.1.1. As a Result of Contributions.
 
-1.2 "Document(s)" means any documentation, manual or other work that
-has been identified as being subject to the terms of this License.
+2.1.1.1. As a Result of Contributions to Draft Specifications.
+Contributor grants Licensee a non-sublicensable, perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable (except as
+expressly stated in this License) license to its Necessary Claims in 1)
+Contributor’s Contributions and 2) to the Draft Specification that
+is within Scope as of the date of that Contribution, in both cases for
+Licensee’s Implementation of the Draft Specification, except for those
+patent claims excluded by Contributor under Section 3.
 
-1.3 "Derivative Work" means a work which is based upon a pre-existing
-Document, such as a revision, modification, translation, abridgment,
-condensation, expansion, or any other form in which such pre-existing
-Document may be recast, transformed, or adapted.
+2.1.1.2. For Approved Specifications. Contributor grants Licensee a
+non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as expressly stated in this License)
+license to its Necessary Claims included the Approved Specification
+that are within Scope for Licensee’s Implementation of the Approved
+Specification, except for those patent claims excluded by Contributor
+under Section 3.
 
-1.4 "You" or "Your" means an individual or a legal entity exercising
-rights under this License.
+2.1.2. Patent Grant from Licensee. Licensee grants each other Licensee
+a non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as expressly stated in this License)
+license to its Necessary Claims for its Implementation, except for those
+patent claims excluded under Section 3.
 
-2. Basic License. Subject to all the terms and conditions of this
-License, You may use, copy, modify, publicly display, distribute and
-publish the Document and your Derivative Works thereof, in any medium
-physical or electronic, commercially or non-commercially; provided
-that:
- 
-    (a) all copyright notices in the Document are preserved;
- 
-    (b) a copy of this License, or an incorporation of it by reference
-        in proper form as indicated in Exhibit A below, is included in
-        a conspicuous location in all copies such that it would be
-        reasonably viewed by the recipient of the Document; and
+2.1.3. Licensee Acceptance. The patent grants set forth in Section 2.1
+extend only to Licensees that have indicated their agreement to this
+License as follows:
 
-    (c) You add no other terms or conditions to those of this License.
+2.1.3.1. Source Code Distributions. For distribution in source code,
+by including this License in the root directory of the source code with
+the Implementation;
 
-3. Derivative Works. All Derivative Works are subject to the terms of
-this License. You may copy and distribute a Derivative Work of the
-Document under the conditions of Section 2 above, provided that You
-release the Derivative Work under the exact, verbatim terms of this
-License (i.e., the Derivative Work is licensed as a "Document" under
-the terms of this License). In addition, Derivative Works of Documents
-must meet the following requirements:
+2.1.3.2. Non-Source Code Distributions. For distribution in any form
+other than source code, by including this License in the documentation,
+legal notices, via notice in the software, and/or other written materials
+provided with the Implementation; or
 
-    (a) All copyright and license notices in the original Document
-        must be preserved.
+2.1.3.3. Via Notices.md. By issuing pull request or commit to the
+Specification’s repository’s Notices.md file by the Implementer’s
+authorized representative, including the Implementer’s name, authorized
+individual and system identifier, and Specification version.
 
-    (b) An appropriate copyright notice for your Derivative Work must
-        be added adjacent to the other copyright notices.
+2.1.4. Defensive Termination. If any Licensee files or maintains a
+claim in a court asserting that a Necessary Claim is infringed by an
+Implementation, any licenses granted under this License to the Licensee
+are immediately terminated unless 1) that claim is directly in response
+to a claim against Licensee regarding an Implementation, or 2) that claim
+was brought to enforce the terms of this License, including intervention
+in a third-party action by a Licensee.
 
-    (c) A statement briefly summarizing how your Derivative Work is
-        different from the original Document must be included in the
-        same place as your copyright notice.
+2.1.5. Additional Conditions. This License is not an assurance (i)
+that any of Contributor’s copyrights or issued patent claims cover
+an Implementation of the Specification or are enforceable or (ii) that
+an Implementation of the Specification would not infringe intellectual
+property rights of any third party.
 
-    (d) If it is not reasonably evident to a recipient of your
-        Derivative Work that the Derivative Work is subject to the
-        terms of this License, a statement indicating such fact must
-        be included in the same place as your copyright notice.
+2.2. Patent Licensing Commitment. In addition to the rights granted
+in Section 2.1, Contributor agrees to grant everyone a no charge,
+royalty-free license on reasonable and non-discriminatory terms
+to Contributor’s Necessary Claims that are within Scope for:
+1) Implementations of a Draft Specification, where such license
+applies only to those Necessary Claims infringed by implementing
+Contributor's Contribution(s) included in that Draft Specification,
+and 2) Implementations of the Approved Specification.
 
-4. Compilation with Independent Works. You may compile or combine a
-Document or its Derivative Works with other separate and independent
-documents or works to create a compilation work ("Compilation"). If
-included in a Compilation, the Document or Derivative Work thereof
-must still be provided under the terms of this License, and the
-Compilation shall contain 
+This patent licensing commitment does not apply to those claims subject
+to Contributor’s Exclusion Notice under Section 3.
 
-    (a) a notice specifying the inclusion of the Document and/or
-        Derivative Work and the fact that it is subject to the terms
-        of this License, and
+2.3. Effect of Withdrawal. Contributor may withdraw from the Working Group
+by issuing a pull request or commit providing notice of withdrawal to
+the Working Group repository’s Notices.md file. All of Contributor’s
+existing commitments and obligations with respect to the Working Group
+up to the date of that withdrawal notice will remain in effect, but no
+new obligations will be incurred.
 
-    (b) either a copy of the License or an incorporation by reference
-        in proper form (as indicated in Exhibit A). Mere aggregation
-        of a Document or Derivative Work with other documents or works
-        on the same storage or distribution medium (e.g. a CD-ROM)
-        will not cause this License to apply to those other works.
+2.4. Binding Encumbrance. This License is binding on any future owner,
+assignee, or party who has been given the right to enforce any Necessary
+Claims against third parties.
 
-5. NO WARRANTY. THE DOCUMENT IS PROVIDED 'AS IS' BASIS, WITHOUT
-WARRANTY OF ANY KIND, AND THE COPYRIGHT HOLDER EXPRESSLY DISCLAIMS ALL
-WARRANTIES AND/OR CONDITIONS WITH RESPECT TO THE DOCUMENT, EITHER
-EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF
-SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF
-ACCURACY, OF QUIET ENJOYMENT, AND OF NON INFRINGEMENT OF THIRD PARTY
-RIGHTS.
+3. Patent Exclusion.
 
-6. LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL THE COPYRIGHT
-HOLDER BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR
-CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR
-YOUR USE, REPRODUCTION, MODIFICATION, DISTRIBUTION AND/OR PUBLICATION
-OF THE DOCUMENT, OR ANY PORTION THEREOF, WHETHER UNDER A THEORY OF
-CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR
-OTHERWISE, EVEN IF THE COPYRIGHT HOLDER HAS BEEN ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING THE FAILURE OF
-ESSENTIAL PURPOSE OF ANY REMEDY.
+3.1. As a Result of Contributions. Contributor may exclude Necessary
+Claims from its licensing commitments incurred under Section 2.1.1
+by issuing an Exclusion Notice within 45 days of the date of that
+Contribution. Contributor may not issue an Exclusion Notice for any
+material that has been included in a Draft Deliverable for more than 45
+days prior to the date of that Contribution.
 
-7. Trademarks. This License does not grant any rights to use any
-names, trademarks, service marks or logos of the Copyright Holder
-(collectively "Marks") and no such Marks may be used to endorse or
-promote works or products derived from the Document without the prior
-written permission of the Copyright Holder.
+3.2. As a Result of a Draft Specification Becoming an Approved
+Specification. Prior to the adoption of a Draft Specification as an
+Approved Specification, Contributor may exclude Necessary Claims from
+its licensing commitments under this Agreement by issuing an Exclusion
+Notice. Contributor may not issue an Exclusion Notice for patents that
+were eligible to have been excluded pursuant to Section 3.1.
 
-8. Versions of the License. Apple Computer, Inc. ("Apple") may publish
-revised and/or new versions of this License from time to time. Each
-version will be given a distinguishing version number. Once a Document
-has been published under a particular version of this License, You may
-continue to use it under the terms of that version. You may also
-choose to use such Document under the terms of any subsequent version
-of this License published by Apple.  No one other than Apple has the
-right to modify the terms applicable to Documents created under this
-License.
+4. Source Code License. Any source code developed by the Working Group is
+solely subject the source code license included in the Working Group’s
+repository for that code. If no source code license is included, the
+source code will be subject to the MIT License.
 
-9. Termination. This License and the rights granted hereunder will
-terminate automatically if You fail to comply with any of its
-terms. Upon termination, You must immediately stop any further
-reproduction, modification, public display, distr ibution and
-publication of the Document and Derivative Works. However, all
-sublicenses to the Document and Derivative Works which have been
-properly granted prior to termination shall survive any termination of
-this License. Provisions which, by their nat ure, must remain in
-effect beyond the termination of this License shall survive, including
-but not limited to Sections 5, 6, 7, 9 and 10.
+5. No Other Rights. Except as specifically set forth in this License, no
+other express or implied patent, trademark, copyright, or other rights are
+granted under this License, including by implication, waiver, or estoppel.
 
-10. Waiver; Severability; Governing Law. Failure by the Copyright
-Holder to enforce any provision of this License will not be deemed a
-waiver of future enforcement of that or any other provision. If for
-any reason a court of competent jurisdiction finds any provision of
-this License, or portion thereof, to be unenforceable, that provision
-of the License will be enforced to the maximum extent permissible so
-as to effect the economic benefits and intent of the parties, and the
-remainder of this License will continue in full force and effect. This
-License shall be governed by the laws of the United States and the
-State of California, except that body of California law concerning
-conflicts of law.
+6. Antitrust Compliance. Contributor acknowledge that it may compete
+with other participants in various lines of business and that it is
+therefore imperative that they and their respective representatives
+act in a manner that does not violate any applicable antitrust laws and
+regulations. This License does not restrict any Contributor from engaging
+in similar specification development projects. Each Contributor may
+design, develop, manufacture, acquire or market competitive deliverables,
+products, and services, and conduct its business, in whatever way it
+chooses. No Contributor is obligated to announce or market any products
+or services. Without limiting the generality of the foregoing, the
+Contributors agree not to have any discussion relating to any product
+pricing, methods or channels of product distribution, division of markets,
+allocation of customers or any other topic that should not be discussed
+among competitors under the auspices of the Working Group.
 
-EXHIBIT A
+7. Non-Circumvention. Contributor agrees that it will not intentionally
+take or willfully assist any third party to take any action for the
+purpose of circumventing any obligations under this License.
 
-The proper form for an incorporation of this License by reference is as follows:
+8. Representations, Warranties and Disclaimers.
 
-"Copyright (c) [year] by [Copyright Holder's name]. This material has
-been released under and is subject to the terms of the Common
-Documentation License, v.1.0, the terms of which are hereby
-incorporated by reference. Please obtain a copy of the License at
-http://www.opensource.apple.com/cdl/ and read it before using this
-material. Your use of this material signifies your agreement to the
-terms of the License." 
+8.1. Representations, Warranties and Disclaimers. Contributor and Licensee
+represents and warrants that 1) it is legally entitled to grant the
+rights set forth in this License and 2) it will not intentionally include
+any third party materials in any Contribution unless those materials are
+available under terms that do not conflict with this License. IN ALL OTHER
+RESPECTS ITS CONTRIBUTIONS ARE PROVIDED "AS IS." The entire risk as to
+implementing or otherwise using the Contribution or the Specification
+is assumed by the implementer and user. Except as stated herein,
+CONTRIBUTOR AND LICENSEE EXPRESSLY DISCLAIM ANY WARRANTIES (EXPRESS,
+IMPLIED, OR OTHERWISE), INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY,
+NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, CONDITIONS OF QUALITY,
+OR TITLE, RELATED TO THE CONTRIBUTION OR THE SPECIFICATION. IN NO EVENT
+WILL ANY PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY
+FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF
+ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
+THIS AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING
+NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. Any obligations regarding
+the transfer, successors in interest, or assignment of Necessary Claims
+will be satisfied if Contributor or Licensee notifies the transferee
+or assignee of any patent that it knows contains Necessary Claims or
+necessary claims under this License. Nothing in this License requires
+Contributor to undertake a patent search. If Contributor is 1) employed by
+or acting on behalf of an employer, 2) is making a Contribution under the
+direction or control of a third party, or 3) is making the Contribution
+as a consultant, contractor, or under another similar relationship with
+a third party, Contributor represents that they have been authorized by
+that party to enter into this License on its behalf.
+
+8.2. Distribution Disclaimer. Any distributions of technical
+information to third parties must include a notice materially similar
+to the following: “THESE MATERIALS ARE PROVIDED “AS IS.” The
+Contributors and Licensees expressly disclaim any warranties (express,
+implied, or otherwise), including implied warranties of merchantability,
+non-infringement, fitness for a particular purpose, or title, related to
+the materials. The entire risk as to implementing or otherwise using the
+materials is assumed by the implementer and user. IN NO EVENT WILL THE
+CONTRIBUTORS OR LICENSEES BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS
+OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
+OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
+THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF
+CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT
+THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
+
+9. Definitions.
+
+9.1. Affiliate. “Affiliate” means an entity that directly or
+indirectly Controls, is Controlled by, or is under common Control of
+that party.
+
+9.2. Approved Specification. “Approved Specification” means the final
+version and contents of any Draft Specification designated as an Approved
+Specification as set forth in the accompanying Governance.md file.
+
+9.3. Contribution. “Contribution” means any original work of
+authorship, including any modifications or additions to an existing
+work, that Contributor submits for inclusion in a Draft Specification,
+which is included in a Draft Specification or Approved Specification.
+
+9.4. Contributor. “Contributor” means any person or entity that has
+indicated its acceptance of the License 1) by making a Contribution to
+the Specification, or 2) by entering into the Community Specification
+Contributor License Agreement for the Specification. Contributor includes
+its Affiliates, assigns, agents, and successors in interest.
+
+9.5. Control. “Control” means direct or indirect control of more
+than 50% of the voting power to elect directors of that corporation,
+or for any other entity, the power to direct management of such entity.
+
+9.6. Draft Specification. “Draft Specification” means all versions
+of the material (except an Approved Specification) developed by this
+Working Group for the purpose of creating, commenting on, revising,
+updating, modifying, or adding to any document that is to be considered
+for inclusion in the Approved Specification.
+
+9.7. Exclusion Notice. “Exclusion Notice” means a written notice
+made by making a pull request or commit to the repository’s Notices.md
+file that identifies patents that Contributor is excluding from its
+patent licensing commitments under this License. The Exclusion Notice
+for issued patents and published applications must include the Draft
+Specification’s name, patent number(s) or title and application
+number(s), as the case may be, for each of the issued patent(s) or
+pending patent application(s) that the Contributor is excluding from the
+royalty-free licensing commitment set forth in this License. If an issued
+patent or pending patent application that may contain Necessary Claims
+is not set forth in the Exclusion Notice, those Necessary Claims shall
+continue to be subject to the licensing commitments under this License.
+The Exclusion Notice for unpublished patent applications must provide
+either: (i) the text of the filed application; or (ii) identification
+of the specific part(s) of the Draft Specification whose implementation
+makes the excluded claim a Necessary Claim. If (ii) is chosen, the
+effect of the exclusion will be limited to the identified part(s) of
+the Draft Specification.
+
+9.8. Implementation. “Implementation” means making, using, selling,
+offering for sale, importing or distributing any implementation of the
+Specification 1) only to the extent it implements the Specification and 2)
+so long as all required portions of the Specification are implemented.
+
+9.9. License. “License” means this Community Specification License.
+
+9.10. Licensee. “Licensee” means any person or entity that has
+indicated its acceptance of the License as set forth in Section 2.1.3.
+Licensee includes its Affiliates, assigns, agents, and successors in
+interest.
+
+9.11. Necessary Claims. “Necessary Claims” are those patent claims, if
+any, that a party owns or controls, including those claims later acquired,
+that are necessary to implement the required portions (including the
+required elements of optional portions) of the Specification that are
+described in detail and not merely referenced in the Specification.
+
+9.12. Specification. “Specification” means a Draft Specification
+or Approved Specification included in the Working Group’s repository
+subject to this License, and the version of the Specification implemented
+by the Licensee.
+
+9.13. Scope. “Scope” has the meaning as set forth in the accompanying
+Scope.md file included in this Specification’s repository. Changes
+to Scope do not apply retroactively. If no Scope is provided, each
+Contributor’s Necessary Claims are limited to that Contributor’s
+Contributions.
+
+9.14. Working Group. “Working Group” means this project to develop
+specifications, standards, best practices, guidelines, and other similar
+materials under this License.
+
+
+
+The text of this Community Specification License is Copyright 2020
+Joint Development Foundation and is licensed under the Creative
+Commons Attribution 4.0 International License available at
+https://creativecommons.org/licenses/by/4.0/.
+
+SPDX-License-Identifier: CC-BY-4.0

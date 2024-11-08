@@ -1,5 +1,5 @@
-This software may be used, modified, copied, distributed, and sold,
-in both source and binary form provided that the copyright
-and these terms are retained. Under no circumstances is the author
-responsible for the proper functioning of this software, nor does
-the author assume any responsibility for damages incurred with its use.
+everyone is welcome to use this code for any purpose, to modify it, and
+to copy it in whole or in part for use in other macro sets, with the
+conditions that this copyright notice be preserved with any significant
+portion of the code, and that modifications to this file be clearly
+marked.

@@ -1,7 +1,27 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file to use, copy, publish, distribute, sublicense, and/or sell copies of the documentation, and to permit others to do the same, provided that: 
-     - No modification, editing or other alteration of this document is allowed; and 
-     - The above copyright notice and this permission notice shall be included in all copies of the documentation. 
+Permission to use, copy, modify, distribute, and sublicense this software and
+its documentation for any purpose and without fee is hereby granted, provided
+that the above copyright notices appear in all copies and that both those
+copyright notices and this permission notice appear in supporting documentation
+and that the name of Adobe Systems Incorporated not be used in advertising or
+publicity pertaining to distribution of the software without specific, written
+prior permission. No trademark license to use the Adobe trademarks is hereby
+granted. If the Adobe trademark "Display PostScript"(tm) is used to describe
+this software, its functionality or for any other purpose, such use shall be
+limited to a statement that this software works in conjunction with the Display
+PostScript system. Proper trademark attribution to reflect Adobe's ownership of
+the trademark shall be given whenever any such reference to the Display
+PostScript system is made.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this documentation file, to create their own derivative works from the content of this document to use, copy, publish, distribute, sublicense, and/or sell the derivative works, and to permit others to do the same, provided that the derived work is not represented as being a copy or version of this document. 
+ADOBE MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE SOFTWARE FOR ANY
+PURPOSE. IT IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTY. ADOBE
+DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-
+INFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL ADOBE BE LIABLE TO YOU OR
+ANY OTHER PARTY FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY
+DAMAGES WHATSOEVER WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, STRICT
+LIABILITY OR ANY OTHER ACTION ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE. ADOBE WILL NOT PROVIDE ANY TRAINING OR OTHER
+SUPPORT FOR THE SOFTWARE.
 
-Adobe shall not be liable to any party for any loss of revenue or profit or for indirect, incidental, special, consequential, or other similar damages, whether based on tort (including without limitation negligence or strict liability), contract or other legal or equitable grounds even if Adobe has been advised or had reason to know of the possibility of such damages. The Adobe materials are provided on an "AS IS" basis. Adobe specifically disclaims all express, statutory, or implied warranties relating to the Adobe materials, including but not limited to those concerning merchantability or fitness for a particular purpose or non-infringement of any third party rights regarding the Adobe materials.
+Adobe, PostScript, and Display PostScript are trademarks of Adobe Systems
+Incorporated which may be registered in certain jurisdictions

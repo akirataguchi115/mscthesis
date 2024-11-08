@@ -1,131 +1,90 @@
-The OpenLDAP Public License 
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+with no Reserved Font Name for this Font Software.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
-Version 1.2, 1 September 1998 
-Copyright 1998, The OpenLDAP Foundation. 
-All Rights Reserved. 
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
 
-Note: 
-This license is derived from the "Artistic License" as distributed 
-with the Perl Programming Language. As differences may exist, 
-the complete license should be read. 
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
 
-PREAMBLE 
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
 
-The intent of this document is to state the conditions under which 
-a Package may be copied, such that the Copyright Holder maintains 
-some semblance of artistic control over the development of the 
-package, while giving the users of the package the right to use 
-and distribute the Package in a more-or-less customary fashion, 
-plus the right to make reasonable modifications. 
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
 
-Definitions: 
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
 
-"Package" refers to the collection of files distributed by the 
-Copyright Holder, and derivatives of that collection of files 
-created through textual modification. 
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
 
-"Standard Version" refers to such a Package if it has not been 
-modified, or has been modified in accordance with the wishes 
-of the Copyright Holder. 
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
 
-"Copyright Holder" is whoever is named in the copyright or 
-copyrights for the package. 
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
 
-"You" is you, if you're thinking about copying or distributing 
-this Package. 
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
 
-"Reasonable copying fee" is whatever you can justify on the 
-basis of media cost, duplication charges, time of people 
-involved, and so on. (You will not be required to justify it 
-to the Copyright Holder, but only to the computing community 
-at large as a market that must bear the fee.) 
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
 
-"Freely Available" means that no fee is charged for the item 
-itself, though there may be fees involved in handling the item. 
-It also means that recipients of the item may redistribute it 
-under the same conditions they received it. 
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
 
-1. You may make and give away verbatim copies of the source form 
-of the Standard Version of this Package without restriction, provided 
-that you duplicate all of the original copyright notices and 
-associated disclaimers. 
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
 
-2. You may apply bug fixes, portability fixes and other modifications 
-derived from the Public Domain or from the Copyright Holder. A 
-Package modified in such a way shall still be considered the Standard 
-Version. 
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
 
-3. You may otherwise modify your copy of this Package in any way, 
-provided that you insert a prominent notice in each changed file 
-stating how and when you changed that file, and provided that you 
-do at least ONE of the following: 
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
 
-a) place your modifications in the Public Domain or otherwise 
-make them Freely Available, such as by posting said modifications 
-to Usenet or an equivalent medium, or placing the modifications 
-on a major archive site such as uunet.uu.net, or by allowing 
-the Copyright Holder to include your modifications in the 
-Standard Version of the Package. 
-
-b) use the modified Package only within your corporation or 
-organization. 
-
-c) rename any non-standard executables so the names do not 
-conflict with standard executables, which must also be provided, 
-and provide a separate manual page for each non-standard 
-executable that clearly documents how it differs from the 
-Standard Version. 
-
-d) make other distribution arrangements with the Copyright 
-Holder. 
-
-4. You may distribute the programs of this Package in object code 
-or executable form, provided that you do at least ONE of the 
-following: 
-
-a) distribute a Standard Version of the executables and library 
-files, together with instructions (in the manual page or 
-equivalent) on where to get the Standard Version. 
-
-b) accompany the distribution with the machine-readable source 
-of the Package with your modifications. 
-
-c) accompany any non-standard executables with their corresponding 
-Standard Version executables, giving the non-standard executables 
-non-standard names, and clearly documenting the differences in 
-manual pages (or equivalent), together with instructions on 
-where to get the Standard Version. 
-
-d) make other distribution arrangements with the Copyright 
-Holder. 
-
-5. You may charge a reasonable copying fee for any distribution of 
-this Package. You may charge any fee you choose for support of 
-this Package. You may not charge a fee for this Package itself. 
-However, you may distribute this Package in aggregate with other 
-(possibly commercial) programs as part of a larger (possibly 
-commercial) software distribution provided that you do not advertise 
-this Package as a product of your own. 
-
-6. The scripts and library files supplied as input to or produced 
-as output from the programs of this Package do not automatically 
-fall under the copyright of this Package, but belong to whomever 
-generated them, and may be sold commercially, and may be aggregated 
-with this Package. 
-
-7. C subroutines supplied by you and linked into this Package in 
-order to emulate subroutines and variables of the language defined 
-by this Package shall not be considered part of this Package, but 
-are the equivalent of input as in Paragraph 6, provided these 
-subroutines do not change the language in any way that would cause 
-it to fail the regression tests for the language. 
-
-8. The name of the Copyright Holder may not be used to endorse or 
-promote products derived from this software without specific prior 
-written permission. 
-
-9. THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR 
-IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED 
-WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. 
-
-The End
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.

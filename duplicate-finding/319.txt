@@ -1,19 +1,16 @@
-Permission is granted to make and distribute verbatim copies of this
-manual provided the copyright notice and this permission notice are
-preserved on all copies.
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted, provided
+that the above copyright notice and this permission notice appear in all
+copies of the software and derivative works or modified versions thereof,
+and that both the copyright notice and this permission and disclaimer
+notice appear in supporting documentation.
 
-Permission is granted to copy and distribute modified versions of this
-manual under the conditions for verbatim copying, provided that the
-entire resulting derived work is distributed under the terms of a
-permission notice identical to this one.
-
-Since the Linux kernel and libraries are constantly changing, this
-manual page may be incorrect or out-of-date.  The author(s) assume no
-responsibility for errors or omissions, or for damages resulting from
-the use of the information contained herein.  The author(s) may not
-have taken the same level of care in the production of this manual,
-which is licensed free of charge, as they might when working
-professionally.
-
-Formatted or processed versions of this manual, if unaccompanied by
-the source, must acknowledge the copyright and authors of this work.
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE REGENTS OF THE
+UNIVERSITY OF MICHIGAN AND MERIT NETWORK, INC. DO NOT WARRANT THAT THE
+FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS OR
+THAT OPERATION WILL BE UNINTERRUPTED OR ERROR FREE.  The Regents of the
+University of Michigan and Merit Network, Inc. shall not be liable for any
+special, indirect, incidental or consequential damages with respect to any
+claim by Licensee or any third party arising from use of the software.

@@ -1,17 +1,36 @@
-Qhull, Copyright (c) 1993-2003
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
 
-The National Science and Technology Research Center for Computation and Visualization of Geometric Structures (The Geometry Center) University of Minnesota
+(1) Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.
 
-email: qhull@qhull.org
+(2) Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
 
-This software includes Qhull from The Geometry Center. Qhull is copyrighted as noted above. Qhull is free software and may be obtained via http from www.qhull.org. It may be freely copied, modified, and redistributed under the following conditions:
+(3) Neither the name of the University of California, Lawrence Berkeley National
+Laboratory, U.S. Dept. of Energy nor the names of its contributors may be
+used to endorse or promote products derived from this software without specific
+prior written permission.
 
-1. All copyright notices must remain intact in all files.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
 
-2. A copy of this text file must be distributed along with any copies of Qhull that you redistribute; this includes copies that you have modified, or copies of programs or other software products that include Qhull.
-
-3. If you modify Qhull, you must include a notice giving the name of the person performing the modification, the date of modification, and the reason for such modification.
-
-4. When distributing modified versions of Qhull, or other software products that include Qhull, you must provide notice that the original source code may be obtained as noted above.
-
-5. There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug reports or fixes may be sent to qhull_bug@qhull.org; the authors may or may not act on them as they desire.
+You are under no obligation whatsoever to provide any bug fixes, patches,
+or upgrades to the features, functionality or performance of the source code
+("Enhancements") to anyone; however, if you choose to make your Enhancements
+available either publicly, or directly to Lawrence Berkeley National Laboratory,
+without imposing a separate written license agreement for such Enhancements,
+then you hereby grant the following license: a non-exclusive, royalty-free
+perpetual license to install, use, modify, prepare derivative works, incorporate
+into other computer software, distribute, and sublicense such Enhancements
+or derivative works thereof, in binary and source code form.

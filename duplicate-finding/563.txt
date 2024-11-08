@@ -1,29 +1,47 @@
-This software was developed by the Unidata Program Center of the
-University Corporation for Atmospheric Research (UCAR)
-<http://www.unidata.ucar.edu>.
+xinetd License
 
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
+ORIGINAL LICENSE:
+This software is
 
-   1) Redistributions of source code must retain the above copyright notice,
-      this list of conditions and the following disclaimer.
-   2) Redistributions in binary form must reproduce the above copyright notice,
-      this list of conditions and the following disclaimer in the documentation
-      and/or other materials provided with the distribution.
-   3) Neither the names of the development group, the copyright holders, nor the
-      names of contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission.
-   4) This license shall terminate automatically and you may no longer exercise
-      any of the rights granted to you by this license as of the date you
-      commence an action, including a cross-claim or counterclaim, against
-      the copyright holders or any contributor alleging that this software
-      infringes a patent. This termination provision shall not apply for an
-      action alleging patent infringement by combinations of this software with
-      other software or hardware.
+(c) Copyright 1992 by Panagiotis Tsirigotis
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS
-OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
+The author (Panagiotis Tsirigotis) grants permission to use, copy, and
+distribute this software and its documentation for any purpose and without fee,
+provided that the above copyright notice extant in files in this distribution is
+not removed from files included in any redistribution and that this copyright
+notice is also included in any redistribution.
+
+Modifications to this software may be distributed, either by distributing the
+modified software or by distributing patches to the original software, under the
+following additional terms:
+
+1. The version number will be modified as follows:
+
+a. The first 3 components of the version number (i.e <number>.<number>.<number>)
+will remain unchanged.
+
+b. A new component will be appended to the version number to indicate the
+modification level. The form of this component is up to the author of the
+modifications.
+
+2. The author of the modifications will include his/her name by appending it
+along with the new version number to this file and will be responsible for any
+wrong behavior of the modified software.
+
+The author makes no representations about the suitability of this software for
+any purpose. It is provided "as is" without any express or implied warranty.
+
+Modifications: Version: 2.1.8.7-current Copyright 1998-2001 by Rob Braun
+
+Sensor Addition Version: 2.1.8.9pre14a Copyright 2001 by Steve Grubb
+
+This is an exerpt from an email I recieved from the original author, allowing
+xinetd as maintained by me, to use the higher version numbers:
+
+I appreciate your maintaining the version string guidelines as specified in the
+copyright. But I did not mean them to last as long as they did.
+
+So, if you want, you may use any 2.N.* (N >= 3) version string for future xinetd
+versions that you release. Note that I am excluding the 2.2.* line; using that
+would only create confusion. Naming the next release 2.3.0 would put to rest the
+confusion about 2.2.1 and 2.1.8.*.

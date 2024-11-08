@@ -1,5 +1,2 @@
-This code may be freely used and modified for any purpose
-providing that this copyright notice is included with it.
-Copyright holder makes no warranty for this code, and cannot be held
-liable for any real or imagined damage resulting from its use.
-Users of this code must verify correctness for their application.
+This software may be freely used, transmitted, reproduced, or modified provided that 
+the copyright notice and this permission is retained.

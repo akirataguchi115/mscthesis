@@ -1,28 +1,51 @@
-Secure Messaging Protocol (SMP) Libraries [ACL, CML, SFL]
-Distribution Rights
+The OpenLDAP Public License 
+Version 2.3, 28 July 2000 
 
-All source code for the SMP is being provided at no cost and with no financial limitations regarding its use and distribution. Organizations can use the SMP without paying any royalties or licensing fees. The SMP was originally developed by the U.S. Government. BAE Systems is enhancing and supporting the SMP under contract to the U.S. Government. The U.S. Government is furnishing the SMP software at no cost to the vendor subject to the conditions of the SMP Public License provided with the SMP software.
+Redistribution and use of this software and associated documentation 
+("Software"), with or without modification, are permitted provided 
+that the following conditions are met: 
 
-29 May 2002
+1. Redistributions of source code must retain copyright statements 
+and notices. 
 
-Secure Messaging Protocol (SMP) Public License
+2. Redistributions in binary form must reproduce applicable copyright 
+statements and notices, this list of conditions, and the following 
+disclaimer in the documentation and/or other materials provided 
+with the distribution. 
 
-The United States Government/Department of Defense/National Security Agency/Office of Network Security (collectively "the U.S. Government") hereby grants permission to any person obtaining a copy of the SMP source and object files (the "SMP Software") and associated documentation files (the "SMP Documentation"), or any portions thereof, to do the following, subject to the following license conditions:
+3. Redistributions must contain a verbatim copy of this document. 
 
-You may, free of charge and without additional permission from the U.S. Government, use, copy, modify, sublicense and otherwise distribute the SMP Software or components of the SMP Software, with or without modifications developed by you and/or by others.
+4. The name "OpenLDAP" must not be used to endorse or promote 
+products derived from this Software without prior written permission 
+of the OpenLDAP Foundation. 
 
-You may, free of charge and without additional permission from the U.S. Government, distribute copies of the SMP Documentation, with or without modifications developed by you and/or by others, at no charge or at a charge that covers the cost of reproducing such copies, provided that this SMP Public License is retained.
+5. Products derived from this Software may not be called "OpenLDAP" 
+nor may "OpenLDAP" appear in their names without prior written 
+permission of the OpenLDAP Foundation. 
 
-Furthermore, if you distribute the SMP Software or parts of the SMP Software, with or without modifications developed by you and/or others, then you must either make available the source code to all portions of the SMP Software (exclusive of any modifications made by you and/or by others) upon request, or instead you may notify anyone requesting the SMP Software source code that it is freely available from the U.S. Government.
+6. Due credit should be given to the OpenLDAP Project 
+(http://www.openldap.org/). 
 
-Transmission of this SMP Public License must accompany whatever portions of the SMP Software you redistribute.
+7. The OpenLDAP Foundation may revise this license from time to 
+time. Each revision is distinguished by a version number. You 
+may use the Software under terms of this license revision or under 
+the terms of any subsequent revision of the license. 
 
-The SMP Software is provided without warranty or guarantee of any nature, express or implied, including without limitation the warranties of merchantability and fitness for a particular purpose.
+THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND CONTRIBUTORS 
+``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT 
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+THE OPENLDAP FOUNDATION OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGE. 
 
-The U.S. Government cannot be held liable for any damages either directly or indirectly caused by the use of the SMP Software.
+OpenLDAP is a trademark of the OpenLDAP Foundation. 
 
-It is not permitted to copy, sublicense, distribute or transfer any of the SMP Software except as expressly indicated herein. Any attempts to do otherwise will be considered a violation of this License and your rights to the SMP Software will be voided.
-
-The SMP uses the Enhanced SNACC (eSNACC) Abstract Syntax Notation One (ASN.1) C++ Library to ASN.1 encode and decode security-related data objects. The eSNACC ASN.1 C++ Library is covered by the ENHANCED SNACC SOFTWARE PUBLIC LICENSE. None of the GNU public licenses apply to the eSNACC ASN.1 C++ Library. The eSNACC Compiler is not distributed as part of the SMP.
-
-Copyright © 1997-2002 National Security Agency
+Copyright 1999-2000 The OpenLDAP Foundation, Redwood City, 
+California, USA. All Rights Reserved. Permission to copy and 
+distributed verbatim copies of this document is granted.

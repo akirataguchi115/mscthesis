@@ -1,102 +1,58 @@
-THE Q PUBLIC LICENSE version 1.0
+The Parity Public License 7.0.0
 
-              Copyright (C) 1999 Troll Tech AS, Norway.
-                  Everyone is permitted to copy and
-                  distribute this license document.
+Contributor: contributor name
 
-The intent of this license is to establish freedom to share and change
-the software regulated by this license under the open source model.
+Source Code: source
 
-This license applies to any software containing a notice placed by the
-copyright holder saying that it may be distributed under the terms of
-the Q Public License version 1.0. Such software is herein referred to
-as the Software. This license covers modification and distribution of
-the Software, use of third-party application programs based on the
-Software, and development of free software which uses the Software.
+Purpose
+This license allows you to use and share this software for free, but you have to share software that builds on it alike.
 
-                            Granted Rights
+Agreement
+In order to receive this license, you have to agree to its rules. Those rules are both obligations under that agreement and conditions to your license. Don’t do anything with this software that triggers a rule you can’t or won’t follow.
 
-1. You are granted the non-exclusive rights set forth in this license
-provided you agree to and comply with any and all conditions in this
-license. Whole or partial distribution of the Software, or software
-items that link with the Software, in any form signifies acceptance of
-this license.
+Notices
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
-2. You may copy and distribute the Software in unmodified form
-provided that the entire package, including - but not restricted to -
-copyright, trademark notices and disclaimers, as released by the
-initial developer of the Software, is distributed.
+Copyleft
+Contribute software you develop, operate, or analyze with this software, including changes or additions to this software. When in doubt, contribute.
 
-3. You may make modifications to the Software and distribute your
-modifications, in a form that is separate from the Software, such as
-patches. The following restrictions apply to modifications:
+Prototypes
+You don’t have to contribute any change, addition, or other software that meets all these criteria:
 
-      a. Modifications must not alter or remove any copyright notices
-      in the Software.
+You don’t use it for more than thirty days.
 
-      b. When modifications to the Software are released under this
-      license, a non-exclusive royalty-free right is granted to the
-      initial developer of the Software to distribute your
-      modification in future versions of the Software provided such
-      versions remain available under these terms in addition to any
-      other license(s) of the initial developer.
+You don’t share it outside the team developing it, other than for non-production user testing.
 
-4. You may distribute machine-executable forms of the Software or
-machine-executable forms of modified versions of the Software,
-provided that you meet these restrictions:
+You don’t develop, operate, or analyze other software with it for anyone outside the team developing it.
 
-      a. You must include this license document in the distribution.
+Reverse Engineering
+You may use this software to operate and analyze software you can’t contribute in order to develop alternatives you can and do contribute.
 
-      b. You must ensure that all recipients of the machine-executable
-      forms are also able to receive the complete machine-readable
-      source code to the distributed Software, including all
-      modifications, without any charge beyond the costs of data
-      transfer, and place prominent notices in the distribution
-      explaining this.
+Contribute
+To contribute software:
 
-      c. You must ensure that all modifications included in the
-      machine-executable forms are available under the terms of this
-      license.
+Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
 
-5. You may use the original or modified versions of the Software to
-compile, link and run application programs legally developed by you or
-by others.
+Make sure every part of the source code is available under this license or another license that allows everything this license does, such as the Blue Oak Model License 1.0.0, the Apache License 2.0, the MIT license, or the two-clause BSD license.
 
-6. You may develop application programs, reusable components and other
-software items that link with the original or modified versions of the
-Software. These items, when distributed, are subject to the following
-requirements:
+Take these steps within thirty days.
 
-      a. You must ensure that all recipients of machine-executable
-      forms of these items are also able to receive and use the
-      complete machine-readable source code to the items without any
-      charge beyond the costs of data transfer.
+Note that this license does not allow you to change the license terms for this software. You must follow Notices.
 
-      b. You must explicitly license all recipients of your items to
-      use and re-distribute original and modified versions of the
-      items in both machine-executable and source code forms. The
-      recipients must be able to do so without any charges whatsoever,
-      and they must be able to re-distribute to anyone they choose.
+Excuse
+You’re excused for unknowingly breaking Copyleft if you contribute as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule. You’re excused for unknowingly breaking Notices if you take all practical steps to comply within thirty days of learning you broke the rule.
 
-      c. If the items are not available to the general public, and the
-      initial developer of the Software requests a copy of the items,
-      then you must supply one.
+Defense
+Don’t make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
 
-                       Limitations of Liability
+Copyright
+The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
 
-In no event shall the initial developers or copyright holders be
-liable for any damages whatsoever, including - but not restricted to -
-lost revenue or profits or other direct, indirect, special, incidental
-or consequential damages, even if they have been advised of the
-possibility of such damages, except to the extent invariable law, if
-any, provides otherwise.
+Patent
+The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
 
-                             No Warranty
+Reliability
+The contributor can’t revoke this license.
 
-The Software and this license document are provided AS IS with NO
-WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN,
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-                            Choice of Law
-
-This license is governed by the {{Laws of France}}.
+No Liability
+As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won’t be liable to anyone for any damages related to this software or this license, under any kind of legal claim.

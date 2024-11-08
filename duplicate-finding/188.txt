@@ -1,21 +1,24 @@
-Disclaimer of Warranty
+GLWT(Good Luck With That) Public License 
+Copyright (c) Everyone, except Author
 
-These software programs are available to the user without any license fee or
-royalty on an "as is" basis.  The MPEG Software Simulation Group disclaims
-any and all warranties, whether express, implied, or statuary, including any
-implied warranties or merchantability or of fitness for a particular
-purpose.  In no event shall the copyright-holder be liable for any
-incidental, punitive, or consequential damages of any kind whatsoever
-arising from the use of these programs.
+Everyone is permitted to copy, distribute, modify, merge, sell, publish,
+sublicense or whatever they want with this software but at their OWN RISK.
 
-This disclaimer of warranty extends to the user of these programs and user's
-customers, employees, agents, transferees, successors, and assigns.
+Preamble
 
-The MPEG Software Simulation Group does not represent or warrant that the
-programs furnished hereunder are free of infringement of any third-party
-patents.
+The author has absolutely no clue what the code in this project does.
+It might just work or not, there is no third option.
 
-Commercial implementations of MPEG-1 and MPEG-2 video, including shareware,
-are subject to royalty fees to patent holders.  Many of these patents are
-general enough such that they are unavoidable regardless of implementation
-design.
+GOOD LUCK WITH THAT PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
+
+0. You just DO WHATEVER YOU WANT TO as long as you NEVER LEAVE A
+TRACE TO TRACK THE AUTHOR of the original product to blame for or hold
+responsible.
+
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Good luck and Godspeed.

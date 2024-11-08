@@ -1,24 +1,25 @@
-GLWT(Good Luck With That) Public License 
-Copyright (c) Everyone, except Author
+LICENSE TERMS
 
-Everyone is permitted to copy, distribute, modify, merge, sell, publish,
-sublicense or whatever they want with this software but at their OWN RISK.
+ The free distribution and use of this software in both source and binary
+ form is allowed (with or without changes) provided that:
 
-Preamble
+   1. distributions of this source code include the above copyright
+      notice, this list of conditions and the following disclaimer;
 
-The author has absolutely no clue what the code in this project does.
-It might just work or not, there is no third option.
+   2. distributions in binary form include the above copyright
+      notice, this list of conditions and the following disclaimer
+      in the documentation and/or other associated materials;
 
-GOOD LUCK WITH THAT PUBLIC LICENSE
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
+   3. the copyright holder's name is not used to endorse products
+      built using this software without specific written permission.
 
-0. You just DO WHATEVER YOU WANT TO as long as you NEVER LEAVE A
-TRACE TO TRACK THE AUTHOR of the original product to blame for or hold
-responsible.
+ ALTERNATIVELY, provided that this notice is retained in full, this product
+ may be distributed under the terms of the GNU General Public License (GPL),
+ of your choice
+ in which case the provisions of the GPL apply INSTEAD OF those given above.
 
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
+ DISCLAIMER
 
-Good luck and Godspeed.
+ This software is provided 'as is' with no explicit or implied warranties
+ in respect of its properties, including, but not limited to, correctness
+ and/or fitness for purpose.

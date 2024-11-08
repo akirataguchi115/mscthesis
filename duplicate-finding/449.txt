@@ -1,16 +1,25 @@
-THE INFORMATION IN THIS SOFTWARE IS SUBJECT TO CHANGE WITHOUT NOTICE AND SHOULD
-NOT BE CONSTRUED AS A COMMITMENT BY DIGITAL EQUIPMENT CORPORATION. DIGITAL MAKES
-NO REPRESENTATIONS ABOUT THE SUITABILITY OF THIS SOFTWARE FOR ANY PURPOSE. IT IS
-SUPPLIED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTY.
+The Parity Public License 6.0.0
 
-IF THE SOFTWARE IS MODIFIED IN A MANNER CREATING DERIVATIVE COPYRIGHT RIGHTS,
-APPROPRIATE LEGENDS MAY BE PLACED ON THE DERIVATIVE WORK IN ADDITION TO THAT SET
-FORTH ABOVE.
+Contributor: contributor name
 
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the name of Digital Equipment Corporation not be used in advertising or
-publicity pertaining to distribution of the software without specific, written
-prior permission.
+Source Code: source
+
+This license lets you use and share this software for free, as long as you contribute software you make with it. Specifically:
+
+If you follow the rules below, you may do everything with this software that would otherwise infringe either the contributor's copyright in it, any patent claim the contributor can license, or both.
+
+   1. Contribute changes and additions you make to this software.
+
+   2. If you combine this software with other software, contribute that other software.
+
+   3. Contribute software you develop, deploy, monitor, or run with this software.
+
+   4. Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the contributor and source code lines above.
+
+   5. Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.
+
+To contribute software, publish all its source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, and license contributions not already licensed to the public on terms as permissive as this license accordingly.
+
+You are excused for unknowingly breaking 1, 2, or 3 if you contribute as required, or stop doing anything requiring this license, within 30 days of learning you broke the rule.
+
+**As far as the law allows, this software comes as is, without any warranty, and the contributor will not be liable to anyone for any damages related to this software or this license, for any kind of legal claim.**

@@ -34,7 +34,9 @@ print(count)
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
-# 613 is problematic why is it included
+# create a dictionary inversed sort by keys and return n-1 and n+1 licenses from the added license
+# ok fonts might be considerd software
+excluded_licenses = []
 search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
 for key in licenses:
   if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
@@ -42,6 +44,7 @@ for key in licenses:
   elif licenses[key]:
     file_object = open('excluded-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
+    excluded_licenses.append(licenses[key])
     print(key + ' is excluded')
 
 # are there going to be any None values at this point anyway?
@@ -50,6 +53,7 @@ if path.exists('duplicate-finding'):
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
 number = 0
 text_list = [x for x in list(licenses.values()) if x is not None]
+text_list = [license for license in text_list if license not in excluded_licenses]
 text_list.sort()
 for license_text in text_list:
   if license_text:

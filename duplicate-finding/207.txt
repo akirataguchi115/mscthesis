@@ -1,5 +1,8 @@
-Freedom to use these sources for whatever you want, as long as credit
-is given where credit is due, is hereby granted. You may make modifications
-where you see fit but leave this copyright somewhere visible. As well, try
-to initial any changes you make so that if I like the changes I can
-incorporate them into later versions.
+LICENSE
+-------
+
+LZMA SDK is written and placed in the public domain by Igor Pavlov.
+
+Some code in LZMA is based on public domain code from another developers:
+  1) PPMd var.H (2001): Dmitry Shkarin
+  2) SHA-256: Wei Dai (Crypto++ library)
