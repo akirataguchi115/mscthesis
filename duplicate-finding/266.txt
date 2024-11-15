@@ -1,47 +1,75 @@
-PROFESSIONAL IDENTIFICATION * URL
-"PROMOTIONAL SLOGAN FOR AUTHOR'S PROFESSIONAL PRACTICE"
+OpenPBS (Portable Batch System) v2.3 Software License
 
-All Rights Reserved
-ATTRIBUTION ASSURANCE LICENSE (adapted from the original BSD license)
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the conditions below are met.
-These conditions require a modest attribution to <AUTHOR> (the
-"Author"), who hopes that its promotional value may help justify the
-thousands of dollars in otherwise billable time invested in writing
-this and other freely available, open-source software.
+Copyright (c) 1999-2000 Veridian Information Solutions, Inc.
+All rights reserved.
 
-1. Redistributions of source code, in whole or part and with or without
-modification (the "Code"), must prominently display this GPG-signed
-text in verifiable form.
-2. Redistributions of the Code in binary form must be accompanied by
-this GPG-signed text in any documentation and, each time the resulting
-executable program or a program dependent thereon is launched, a
-prominent display (e.g., splash screen or banner text) of the Author's
-attribution information, which includes:
-(a) Name ("AUTHOR"),
-(b) Professional identification ("PROFESSIONAL IDENTIFICATION"), and
-(c) URL ("URL").
-3. Neither the name nor any trademark of the Author may be used to
-endorse or promote products derived from this software without specific
-prior written permission.
-4. Users are entirely responsible, to the exclusion of the Author and
-any other persons, for compliance with (1) regulations set by owners or
-administrators of employed equipment, (2) licensing terms of any other
-software, and (3) local regulations regarding use, including those
-regarding import, export, and use of encryption software.
+---------------------------------------------------------------------------
+For a license to use or redistribute the OpenPBS software under conditions
+other than those described below, or to purchase support for this software,
+please contact Veridian Systems, PBS Products Department ("Licensor") at:
 
-THIS FREE SOFTWARE IS PROVIDED BY THE AUTHOR "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
-EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
-CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-EFFECTS OF UNAUTHORIZED OR MALICIOUS NETWORK ACCESS;
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED
-AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN
-IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
---End of License
+   www.OpenPBS.org  +1 650 967-4675                  sales@OpenPBS.org
+                       877 902-4PBS (US toll-free)
+---------------------------------------------------------------------------
+
+This license covers use of the OpenPBS v2.3 software (the "Software") at
+your site or location, and, for certain users, redistribution of the
+Software to other sites and locations.  Use and redistribution of
+OpenPBS v2.3 in source and binary forms, with or without modification,
+are permitted provided that all of the following conditions are met.
+After December 31, 2001, only conditions 3-6 must be met:
+
+1. Commercial and/or non-commercial use of the Software is permitted
+   provided a current software registration is on file at www.OpenPBS.org.
+   If use of this software contributes to a publication, product, or
+   service, proper attribution must be given; see www.OpenPBS.org/credit.html
+
+2. Redistribution in any form is only permitted for non-commercial,
+   non-profit purposes.  There can be no charge for the Software or any
+   software incorporating the Software.  Further, there can be no
+   expectation of revenue generated as a consequence of redistributing
+   the Software.
+
+3. Any Redistribution of source code must retain the above copyright notice
+   and the acknowledgment contained in paragraph 6, this list of conditions
+   and the disclaimer contained in paragraph 7.
+
+4. Any Redistribution in binary form must reproduce the above copyright
+   notice and the acknowledgment contained in paragraph 6, this list of
+   conditions and the disclaimer contained in paragraph 7 in the
+   documentation and/or other materials provided with the distribution.
+
+5. Redistributions in any form must be accompanied by information on how to
+   obtain complete source code for the OpenPBS software and any
+   modifications and/or additions to the OpenPBS software.  The source code
+   must either be included in the distribution or be available for no more
+   than the cost of distribution plus a nominal fee, and all modifications
+   and additions to the Software must be freely redistributable by any party
+   (including Licensor) without restriction.
+
+6. All advertising materials mentioning features or use of the Software must
+   display the following acknowledgment:
+
+    "This product includes software developed by NASA Ames Research Center,
+    Lawrence Livermore National Laboratory, and Veridian Information Solutions,
+    Inc.  Visit www.OpenPBS.org for OpenPBS software support,
+    products, and information."
+
+7. DISCLAIMER OF WARRANTY
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ANY EXPRESS
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT
+ARE EXPRESSLY DISCLAIMED.
+
+IN NO EVENT SHALL VERIDIAN CORPORATION, ITS AFFILIATED COMPANIES, OR THE
+U.S. GOVERNMENT OR ANY OF ITS AGENCIES BE LIABLE FOR ANY DIRECT OR INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+This license will be governed by the laws of the Commonwealth of Virginia,
+without reference to its choice of law rules.

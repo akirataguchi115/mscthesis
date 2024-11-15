@@ -1,29 +1,27 @@
-Portions Copyright 2001-2004 Sun Microsystems, Inc.  
-Portions Copyright 1999-2001 Language Technologies Institute,
-Carnegie Mellon University.  
-All Rights Reserved.  Use is subject to license terms.
+Please read this Source Code License Agreement carefully before using the source
+code.
 
-Permission is hereby granted, free of charge, to use and distribute
-this software and its documentation without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of this work, and to
-permit persons to whom this work is furnished to do so, subject to
-the following conditions:
+Adobe Systems Incorporated grants to you a perpetual, worldwide, non-exclusive, no-
+charge, royalty-free, irrevocable copyright license, to reproduce, prepare derivative
+works of, publicly display, publicly perform, and distribute this source code and
+such derivative works in source or object code form without any attribution
+requirements.
 
- 1. The code must retain the above copyright notice, this list of
-    conditions and the following disclaimer.
- 2. Any modifications must be clearly marked as such.
- 3. Original authors' names are not deleted.
- 4. The authors' names are not used to endorse or promote products
-    derived from this software without specific prior written
-    permission.
+The name "Adobe Systems Incorporated" must not be used to endorse or promote products
+derived from the source code without prior written permission.
 
-SUN MICROSYSTEMS, INC., CARNEGIE MELLON UNIVERSITY AND THE
-CONTRIBUTORS TO THIS WORK DISCLAIM ALL WARRANTIES WITH REGARD TO THIS
-SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS, IN NO EVENT SHALL SUN MICROSYSTEMS, INC., CARNEGIE MELLON
-UNIVERSITY NOR THE CONTRIBUTORS BE LIABLE FOR ANY SPECIAL, INDIRECT OR
-CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF
-USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
+You agree to indemnify, hold harmless and defend Adobe Systems Incorporated from and
+against any loss, damage, claims or lawsuits, including attorney's fees that arise or
+result from your use or distribution of the source code.
+
+THIS SOURCE CODE IS PROVIDED "AS IS" AND "WITH ALL FAULTS", WITHOUT ANY TECHNICAL
+SUPPORT OR ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. ALSO, THERE IS NO WARRANTY OF NON-INFRINGEMENT, TITLE OR QUIET ENJOYMENT.
+IN NO EVENT SHALL MACROMEDIA OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.

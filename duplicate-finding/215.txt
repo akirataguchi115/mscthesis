@@ -1,8 +1,8 @@
-Licence Libre du Québec – Réciprocité forte (LiLiQ-R+)
+Licence Libre du Québec – Réciprocité (LiLiQ-R)
 Version 1.1
 
 1. Préambule 
-Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité forte (LiLiQ-R+) (ci-après appelée la « licence »).
+Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité (LiLiQ-R) (ci-après appelée la « licence »).
 
 2. Définitions 
 Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
@@ -35,23 +35,29 @@ Le licencié peut distribuer des copies du logiciel, d'un logiciel modifié ou d
 3 Les étiquettes ou mentions faisant état des droits d'auteur, des marques de commerce, des garanties ou de la paternité concernant le logiciel ne doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
 
 4.1. Réciprocité 
-Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire une concession sur le logiciel selon les termes de la présente licence. Le licencié doit offrir une concession selon les termes de la présente licence pour tout logiciel modifié ou dérivé qu'il distribue.
+Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire une concession sur le logiciel selon les termes de la présente licence. Le licencié doit offrir une concession selon les termes de la présente licence pour tout logiciel modifié qu'il distribue.
 
-Chaque fois que le licencié distribue le logiciel, un logiciel modifié, ou un logiciel dérivé, ce dernier doit assumer l'obligation d'en distribuer le code source, de la manière prévue au troisième alinéa de l'article 3.
+Chaque fois que le licencié distribue le logiciel ou un logiciel modifié, ce dernier doit assumer l'obligation d'en distribuer le code source, de la manière prévue au troisième alinéa de l'article 3.
 
 4.2. Compatibilité 
-Dans la mesure où le licencié souhaite distribuer un logiciel modifié ou dérivé combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible.
+Dans la mesure où le licencié souhaite distribuer un logiciel modifié combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible.
 
 Un licencié qui est titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible ne peut pas se prévaloir de cette offre. Il en est de même pour toute autre personne dûment autorisée à sous-licencier par le titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible.
 
-Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable à celui de la présente licence, sans toutefois être moindre, notamment :
+Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable ou supérieur à celui de la présente licence, sans toutefois être moindre, notamment :
 
-1 Common Public License Version 1.0 (CPL-1.0) 
-2 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1) 
-3 Eclipse Public License - v 1.0 (EPL-1.0) 
-4 European Union Public License, version 1.1 (EUPL v. 1.1) 
-5 GNU General Public License Version 2 (GNU GPLv2) 
-6 GNU General Public License Version 3 (GNU GPLv3)
+1 Common Development and Distribution License (CDDL-1.0) 
+2 Common Public License Version 1.0 (CPL-1.0) 
+3 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1) 
+4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C) 
+5 Eclipse Public License - v 1.0 (EPL-1.0) 
+6 European Union Public License, version 1.1 (EUPL v. 1.1) 
+7 Licence Libre du Québec – Réciprocité forte version 1.1 (LiLiQ-R+ 1.1) 
+8 GNU General Public License Version 2 (GNU GPLv2) 
+9 GNU General Public License Version 3 (GNU GPLv3) 
+10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1) 
+11 GNU Lesser General Public License Version 3 (GNU LGPLv3) 
+12 Mozilla Public License Version 2.0 (MPL-2.0)
 
 5. Contributions 
 Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
@@ -84,4 +90,4 @@ Le concédant peut aussi choisir de concéder la licence sous la version actuell
 11. Divers 
 Dans la mesure où le concédant est un ministère, un organisme public ou une personne morale de droit public, créés en vertu d'une loi de l'Assemblée nationale du Québec, la licence est régie par le droit applicable au Québec et en cas de contestation, les tribunaux du Québec seront seuls compétents.
 
-La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant cause, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.
+La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant droit, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.

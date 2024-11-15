@@ -1,4 +1,8 @@
 ## Diary
+### week 46
+mon: i will resume documenting my journey here on the making of the thesis. once after every pomodoro. so 20 mins or work then 5 mins of documenting what i did. my supervisor suggested me to keep on writing the thesis diary so here i am. removing unnecessary documentation from the code to this diary. font licenses may be considered software licenses. im content with the fact that detecting software-explicit licenses with regex might be too hard for the scope of this thesis. but its a good start. now the manual licenses are printed out.
+
+tue: the methods for figuring out missing licenses from duplicate ones, seem quite hard or impossible for the scope of this thesis. maybe i should do it so that if n-1, n and n+1 have *plausibly* one duplicate, i'll mark it as a duplicate. now i will have to code this n-1, n, n+1 duplicate finding tool. before that i'll have to make sure that the regex matches the manual license or else the key from licenses dictionary is removed.
 ### week 21
 thu: i will stop documenting stuff here but rather straight into the latex thesis. we'll see how this goes. keeping the diary here though for historic purposes.
 ### week 18

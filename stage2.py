@@ -25,33 +25,32 @@ with open ('license-exceptions.json', 'r') as file_object:
   for license_key in json_loader:
     licenses.pop(license_key)
 
-count = 0
+manual_licenses = []
 for key, value in licenses.items():
   if value == None:
-    count += 1
-print(count)
+    manual_licenses.append(key)
+print(manual_licenses)
 
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
-# create a dictionary inversed sort by keys and return n-1 and n+1 licenses from the added license
-# ok fonts might be considerd software
+# why can't i find arphic licenses anymore from the included licenses after inserting arhpic to manual licenses?
+# create a dictionary inversed sort by keys and return n-1 and n+1 licenses from the each of the manually added licenses
 excluded_licenses = []
 search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
 for key in licenses:
   if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
-    print(key + ' is included!')
+    pass
   elif licenses[key]:
     file_object = open('excluded-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
     excluded_licenses.append(licenses[key])
-    print(key + ' is excluded')
 
-# are there going to be any None values at this point anyway?
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
 number = 0
+# are there going to be any None values at this point anyway?
 text_list = [x for x in list(licenses.values()) if x is not None]
 text_list = [license for license in text_list if license not in excluded_licenses]
 text_list.sort()

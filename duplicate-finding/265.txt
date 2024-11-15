@@ -1,75 +1,46 @@
-OpenPBS (Portable Batch System) v2.3 Software License
+Open Use of Data Agreement v1.0
+This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
 
-Copyright (c) 1999-2000 Veridian Information Solutions, Inc.
-All rights reserved.
+Provision of the Data
 
----------------------------------------------------------------------------
-For a license to use or redistribute the OpenPBS software under conditions
-other than those described below, or to purchase support for this software,
-please contact Veridian Systems, PBS Products Department ("Licensor") at:
+1.1. You may use, modify, and distribute the Data made available to you by the Data Provider under this O-UDA if you follow the O-UDA's terms.
 
-   www.OpenPBS.org  +1 650 967-4675                  sales@OpenPBS.org
-                       877 902-4PBS (US toll-free)
----------------------------------------------------------------------------
+1.2. Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the O-UDA.
 
-This license covers use of the OpenPBS v2.3 software (the "Software") at
-your site or location, and, for certain users, redistribution of the
-Software to other sites and locations.  Use and redistribution of
-OpenPBS v2.3 in source and binary forms, with or without modification,
-are permitted provided that all of the following conditions are met.
-After December 31, 2001, only conditions 3-6 must be met:
+1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
 
-1. Commercial and/or non-commercial use of the Software is permitted
-   provided a current software registration is on file at www.OpenPBS.org.
-   If use of this software contributes to a publication, product, or
-   service, proper attribution must be given; see www.OpenPBS.org/credit.html
+No Restrictions on Use or Results
 
-2. Redistribution in any form is only permitted for non-commercial,
-   non-profit purposes.  There can be no charge for the Software or any
-   software incorporating the Software.  Further, there can be no
-   expectation of revenue generated as a consequence of redistributing
-   the Software.
+2.1. The O-UDA does not impose any restriction with respect to:
 
-3. Any Redistribution of source code must retain the above copyright notice
-   and the acknowledgment contained in paragraph 6, this list of conditions
-   and the disclaimer contained in paragraph 7.
+2.1.1. the use or modification of Data; or
 
-4. Any Redistribution in binary form must reproduce the above copyright
-   notice and the acknowledgment contained in paragraph 6, this list of
-   conditions and the disclaimer contained in paragraph 7 in the
-   documentation and/or other materials provided with the distribution.
+2.1.2. the use, modification, or distribution of Results.
 
-5. Redistributions in any form must be accompanied by information on how to
-   obtain complete source code for the OpenPBS software and any
-   modifications and/or additions to the OpenPBS software.  The source code
-   must either be included in the distribution or be available for no more
-   than the cost of distribution plus a nominal fee, and all modifications
-   and additions to the Software must be freely redistributable by any party
-   (including Licensor) without restriction.
+Redistribution of Data
 
-6. All advertising materials mentioning features or use of the Software must
-   display the following acknowledgment:
+3.1. You may redistribute the Data under terms of your choice, so long as:
 
-    "This product includes software developed by NASA Ames Research Center,
-    Lawrence Livermore National Laboratory, and Veridian Information Solutions,
-    Inc.  Visit www.OpenPBS.org for OpenPBS software support,
-    products, and information."
+3.1.1. You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and
 
-7. DISCLAIMER OF WARRANTY
+3.1.2. Your terms include a warranty disclaimer and limitation of liability for Upstream Data Providers at least as broad as those contained in Section 4.2 and 4.3 of the O-UDA.
 
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. ANY EXPRESS
-OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT
-ARE EXPRESSLY DISCLAIMED.
+No Warranty, Limitation of Liability
 
-IN NO EVENT SHALL VERIDIAN CORPORATION, ITS AFFILIATED COMPANIES, OR THE
-U.S. GOVERNMENT OR ANY OF ITS AGENCIES BE LIABLE FOR ANY DIRECT OR INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
-OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
-EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+4.1. Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
 
-This license will be governed by the laws of the Commonwealth of Virginia,
-without reference to its choice of law rules.
+4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Definitions
+
+5.1. "Data" means the material you receive under the O-UDA in modified or unmodified form, but not including Results.
+
+5.2. "Data Provider" means the source from which you receive the Data and with whom you enter into the O-UDA.
+
+5.3. "Downstream Recipient" means any person or persons who receives the Data directly or indirectly from you in accordance with the O-UDA.
+
+5.4. "Result" means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
+
+5.5. "Upstream Data Providers" means the source or sources from which the Data Provider directly or indirectly received, under the terms of the O-UDA, material that is included in the Data.

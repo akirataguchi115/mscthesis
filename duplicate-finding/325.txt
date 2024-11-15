@@ -1,8 +1,11 @@
 Permission to use, copy, modify, and distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
+purpose and without fee is hereby granted, provided that this copyright and
+permission notice appear on all copies and supporting documentation, the
+name of Lars Fenneberg not be used in advertising or publicity pertaining to
+distribution of the program without specific prior permission, and notice be
+given in supporting documentation that copying and distribution is by
+permission of {{Lars Fenneberg}}.
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
-MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS AND
-CONTRIBUTORS ACCEPT NO RESPONSIBILITY IN ANY CONCEIVABLE MANNER.
+{{Lars Fenneberg}} makes no representations about the suitability of this
+software for any purpose.  It is provided "as is" without express or implied
+warranty.

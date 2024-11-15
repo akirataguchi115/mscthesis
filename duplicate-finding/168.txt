@@ -1,21 +1,23 @@
-Disclaimer of Warranty
+Development of this software was funded, in part, by Cray Research Inc.,
+UUNET Communications Services Inc., Sun Microsystems Inc., and Scriptics
+Corporation, none of whom are responsible for the results. The author
+thanks all of them.
 
-These software programs are available to the user without any license fee or
-royalty on an "as is" basis.  The MPEG Software Simulation Group disclaims
-any and all warranties, whether express, implied, or statuary, including any
-implied warranties or merchantability or of fitness for a particular
-purpose.  In no event shall the copyright-holder be liable for any
-incidental, punitive, or consequential damages of any kind whatsoever
-arising from the use of these programs.
+Redistribution and use in source and binary forms - with or without
+modification - are permitted for any purpose, provided that redistributions
+in source form retain this entire copyright notice and indicate the origin
+and nature of any modifications.
 
-This disclaimer of warranty extends to the user of these programs and user's
-customers, employees, agents, transferees, successors, and assigns.
+I'd appreciate being given credit for this package in the documentation of
+software which uses it, but that is not a requirement.
 
-The MPEG Software Simulation Group does not represent or warrant that the
-programs furnished hereunder are free of infringement of any third-party
-patents.
-
-Commercial implementations of MPEG-1 and MPEG-2 video, including shareware,
-are subject to royalty fees to patent holders.  Many of these patents are
-general enough such that they are unavoidable regardless of implementation
-design.
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
+HENRY SPENCER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

@@ -1,293 +1,89 @@
-Community Specification License 1.0
+Community Data License Agreement – Sharing – Version 1.0
 
-The Purpose of this License. This License sets forth the terms under which
-1) Contributor will participate in and contribute to the development
-of specifications, standards, best practices, guidelines, and other
-similar materials under this Working Group, and 2) how the materials
-developed under this License may be used. It is not intended for source
-code. Capitalized terms are defined in the License’s last section.
+This is the Community Data License Agreement – Sharing, Version 1.0 ("Agreement").  Data is provided to You under this Agreement by each of the Data Providers.  Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.
 
-1. Copyright.
+The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.  Accordingly, Data Provider(s) and You (the "Parties") agree as follows:
 
-1.1. Copyright License. Contributor grants everyone a non-sublicensable,
-perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-(except as expressly stated in this License) copyright license, without
-any obligation for accounting, to reproduce, prepare derivative works
-of, publicly display, publicly perform, and distribute any materials
-it submits to the full extent of its copyright interest in those
-materials. Contributor also acknowledges that the Working Group may
-exercise copyright rights in the Specification, including the rights to
-submit the Specification to another standards organization.
+Section 1.  Definitions
 
-1.2. Copyright Attribution. As a condition, anyone exercising this
-copyright license must include attribution to the Working Group in any
-derivative work based on materials developed by the Working Group.
-That attribution must include, at minimum, the material’s name,
-version number, and source from where the materials were retrieved.
-Attribution is not required for implementations of the Specification.
+1.1 "Add" means to supplement Data with Your own or someone else’s Data, resulting in Your "Additions."  Additions do not include Results.
 
-2. Patents.
+1.2 "Computational Use" means Your analysis (through the use of computational devices or otherwise) or other interpretation of Data.  By way of example and not limitation, "Computational Use" includes the application of any computational analytical technique, the purpose of which is the analysis of any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.
 
-2.1. Patent License.
+1.3 "Data" means the information (including copyrightable information, such as images or text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.
 
-2.1.1. As a Result of Contributions.
+1.4 "Data Provider" means any Entity (including any employee or contractor of such Entity authorized to Publish Data on behalf of such Entity) that Publishes Data under this Agreement prior to Your Receiving it.
 
-2.1.1.1. As a Result of Contributions to Draft Specifications.
-Contributor grants Licensee a non-sublicensable, perpetual, worldwide,
-non-exclusive, no-charge, royalty-free, irrevocable (except as
-expressly stated in this License) license to its Necessary Claims in 1)
-Contributor’s Contributions and 2) to the Draft Specification that
-is within Scope as of the date of that Contribution, in both cases for
-Licensee’s Implementation of the Draft Specification, except for those
-patent claims excluded by Contributor under Section 3.
+1.5 "Enhanced Data" means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.
 
-2.1.1.2. For Approved Specifications. Contributor grants Licensee a
-non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
-royalty-free, irrevocable (except as expressly stated in this License)
-license to its Necessary Claims included the Approved Specification
-that are within Scope for Licensee’s Implementation of the Approved
-Specification, except for those patent claims excluded by Contributor
-under Section 3.
+1.6 "Entity" means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.  For the purposes of this definition, "control" means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.
 
-2.1.2. Patent Grant from Licensee. Licensee grants each other Licensee
-a non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
-royalty-free, irrevocable (except as expressly stated in this License)
-license to its Necessary Claims for its Implementation, except for those
-patent claims excluded under Section 3.
+1.7 "Ledger" means a digital record of Data or grants of rights in Data governed by this Agreement, using any technology having functionality to record and store Data or grants, contributions, or licenses to Data governed by this Agreement.
 
-2.1.3. Licensee Acceptance. The patent grants set forth in Section 2.1
-extend only to Licensees that have indicated their agreement to this
-License as follows:
+1.8 "Modify" means to delete, erase, correct or re-arrange Data, resulting in "Modifications."  Modifications do not include Results.
 
-2.1.3.1. Source Code Distributions. For distribution in source code,
-by including this License in the root directory of the source code with
-the Implementation;
+1.9 "Publish" means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.  For any form of Entity, that is to make the Data available to any individual who is not employed by that Entity or engaged as a contractor or agent to perform work on that Entity’s behalf.  A "Publication" occurs each time You Publish Data.
 
-2.1.3.2. Non-Source Code Distributions. For distribution in any form
-other than source code, by including this License in the documentation,
-legal notices, via notice in the software, and/or other written materials
-provided with the Implementation; or
+1.10 "Receive" or "Receives" means to have been given access to Data, locally or remotely.
 
-2.1.3.3. Via Notices.md. By issuing pull request or commit to the
-Specification’s repository’s Notices.md file by the Implementer’s
-authorized representative, including the Implementer’s name, authorized
-individual and system identifier, and Specification version.
+1.11 "Results" means the outcomes or outputs that You obtain from Your Computational Use of Data.  Results shall not include more than a de minimis portion of the Data on which the Computational Use is based.
 
-2.1.4. Defensive Termination. If any Licensee files or maintains a
-claim in a court asserting that a Necessary Claim is infringed by an
-Implementation, any licenses granted under this License to the Licensee
-are immediately terminated unless 1) that claim is directly in response
-to a claim against Licensee regarding an Implementation, or 2) that claim
-was brought to enforce the terms of this License, including intervention
-in a third-party action by a Licensee.
+1.12 "Sui Generis Database Rights" means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights anywhere in the world.
 
-2.1.5. Additional Conditions. This License is not an assurance (i)
-that any of Contributor’s copyrights or issued patent claims cover
-an Implementation of the Specification or are enforceable or (ii) that
-an Implementation of the Specification would not infringe intellectual
-property rights of any third party.
+1.13 "Use" means using Data (including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it), either by machines or humans, or a combination of both.
 
-2.2. Patent Licensing Commitment. In addition to the rights granted
-in Section 2.1, Contributor agrees to grant everyone a no charge,
-royalty-free license on reasonable and non-discriminatory terms
-to Contributor’s Necessary Claims that are within Scope for:
-1) Implementations of a Draft Specification, where such license
-applies only to those Necessary Claims infringed by implementing
-Contributor's Contribution(s) included in that Draft Specification,
-and 2) Implementations of the Approved Specification.
+1.14 "You" or "Your" means any Entity that Receives Data under this Agreement.
 
-This patent licensing commitment does not apply to those claims subject
-to Contributor’s Exclusion Notice under Section 3.
+Section 2.  Right and License to Use and to Publish
 
-2.3. Effect of Withdrawal. Contributor may withdraw from the Working Group
-by issuing a pull request or commit providing notice of withdrawal to
-the Working Group repository’s Notices.md file. All of Contributor’s
-existing commitments and obligations with respect to the Working Group
-up to the date of that withdrawal notice will remain in effect, but no
-new obligations will be incurred.
+2.1 Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s) to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.
 
-2.4. Binding Encumbrance. This License is binding on any future owner,
-assignee, or party who has been given the right to enforce any Necessary
-Claims against third parties.
+2.2 To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui Generis Database Rights, or other law, Data Provider(s) further agree(s) that such Data or coordination, selection or arrangement is hereby licensed to You and to anyone else who Receives Data under this Agreement for Use and Publication, subject to the conditions set forth in Section 3 of this Agreement.
 
-3. Patent Exclusion.
+2.3 Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.
 
-3.1. As a Result of Contributions. Contributor may exclude Necessary
-Claims from its licensing commitments incurred under Section 2.1.1
-by issuing an Exclusion Notice within 45 days of the date of that
-Contribution. Contributor may not issue an Exclusion Notice for any
-material that has been included in a Draft Deliverable for more than 45
-days prior to the date of that Contribution.
+Section 3.  Conditions on Rights Granted
 
-3.2. As a Result of a Draft Specification Becoming an Approved
-Specification. Prior to the adoption of a Draft Specification as an
-Approved Specification, Contributor may exclude Necessary Claims from
-its licensing commitments under this Agreement by issuing an Exclusion
-Notice. Contributor may not issue an Exclusion Notice for patents that
-were eligible to have been excluded pursuant to Section 3.1.
+3.1 If You Publish Data You Receive or Enhanced Data:
 
-4. Source Code License. Any source code developed by the Working Group is
-solely subject the source code license included in the Working Group’s
-repository for that code. If no source code license is included, the
-source code will be subject to the MIT License.
+(a) The Data (including the Enhanced Data) must be Published under this Agreement in accordance with this Section 3; and
 
-5. No Other Rights. Except as specifically set forth in this License, no
-other express or implied patent, trademark, copyright, or other rights are
-granted under this License, including by implication, waiver, or estoppel.
+(b) You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files; and
 
-6. Antitrust Compliance. Contributor acknowledge that it may compete
-with other participants in various lines of business and that it is
-therefore imperative that they and their respective representatives
-act in a manner that does not violate any applicable antitrust laws and
-regulations. This License does not restrict any Contributor from engaging
-in similar specification development projects. Each Contributor may
-design, develop, manufacture, acquire or market competitive deliverables,
-products, and services, and conduct its business, in whatever way it
-chooses. No Contributor is obligated to announce or market any products
-or services. Without limiting the generality of the foregoing, the
-Contributors agree not to have any discussion relating to any product
-pricing, methods or channels of product distribution, division of markets,
-allocation of customers or any other topic that should not be discussed
-among competitors under the auspices of the Working Group.
+(c) If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.
 
-7. Non-Circumvention. Contributor agrees that it will not intentionally
-take or willfully assist any third party to take any action for the
-purpose of circumventing any obligations under this License.
+3.2 You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record the Data or grants of rights in Data in the Ledger.
 
-8. Representations, Warranties and Disclaimers.
+3.3 If You Publish Data You Receive, You must do so under an unmodified form of this Agreement and include the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.  You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.  Notices that purport to modify this Agreement shall be of no effect.
 
-8.1. Representations, Warranties and Disclaimers. Contributor and Licensee
-represents and warrants that 1) it is legally entitled to grant the
-rights set forth in this License and 2) it will not intentionally include
-any third party materials in any Contribution unless those materials are
-available under terms that do not conflict with this License. IN ALL OTHER
-RESPECTS ITS CONTRIBUTIONS ARE PROVIDED "AS IS." The entire risk as to
-implementing or otherwise using the Contribution or the Specification
-is assumed by the implementer and user. Except as stated herein,
-CONTRIBUTOR AND LICENSEE EXPRESSLY DISCLAIM ANY WARRANTIES (EXPRESS,
-IMPLIED, OR OTHERWISE), INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY,
-NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, CONDITIONS OF QUALITY,
-OR TITLE, RELATED TO THE CONTRIBUTION OR THE SPECIFICATION. IN NO EVENT
-WILL ANY PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY
-FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF
-ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
-THIS AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING
-NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. Any obligations regarding
-the transfer, successors in interest, or assignment of Necessary Claims
-will be satisfied if Contributor or Licensee notifies the transferee
-or assignee of any patent that it knows contains Necessary Claims or
-necessary claims under this License. Nothing in this License requires
-Contributor to undertake a patent search. If Contributor is 1) employed by
-or acting on behalf of an employer, 2) is making a Contribution under the
-direction or control of a third party, or 3) is making the Contribution
-as a consultant, contractor, or under another similar relationship with
-a third party, Contributor represents that they have been authorized by
-that party to enter into this License on its behalf.
+3.4 You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.
 
-8.2. Distribution Disclaimer. Any distributions of technical
-information to third parties must include a notice materially similar
-to the following: “THESE MATERIALS ARE PROVIDED “AS IS.” The
-Contributors and Licensees expressly disclaim any warranties (express,
-implied, or otherwise), including implied warranties of merchantability,
-non-infringement, fitness for a particular purpose, or title, related to
-the materials. The entire risk as to implementing or otherwise using the
-materials is assumed by the implementer and user. IN NO EVENT WILL THE
-CONTRIBUTORS OR LICENSEES BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS
-OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
-OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
-THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF
-CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT
-THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
+3.5 This Agreement imposes no obligations or restrictions on Your Use or Publication of Results.
 
-9. Definitions.
+Section 4.  Data Provider(s)’ Representations
 
-9.1. Affiliate. “Affiliate” means an entity that directly or
-indirectly Controls, is Controlled by, or is under common Control of
-that party.
+4.1 Each Data Provider represents that the Data Provider has exercised reasonable care, to assure that: (a) the Data it Publishes was created or generated by it or was obtained from others with the right to Publish the Data under this Agreement; and (b) Publication of such Data does not violate any privacy or confidentiality obligation undertaken by the Data Provider.
 
-9.2. Approved Specification. “Approved Specification” means the final
-version and contents of any Draft Specification designated as an Approved
-Specification as set forth in the accompanying Governance.md file.
+Section 5.  Termination
 
-9.3. Contribution. “Contribution” means any original work of
-authorship, including any modifications or additions to an existing
-work, that Contributor submits for inclusion in a Draft Specification,
-which is included in a Draft Specification or Approved Specification.
+5.1 All of Your rights under this Agreement will terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such noncompliance.  If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data.  However, Your obligations and any rights and permissions granted by You under this Agreement relating to Data that You Published prior to such termination will continue and survive.
 
-9.4. Contributor. “Contributor” means any person or entity that has
-indicated its acceptance of the License 1) by making a Contribution to
-the Specification, or 2) by entering into the Community Specification
-Contributor License Agreement for the Specification. Contributor includes
-its Affiliates, assigns, agents, and successors in interest.
+5.2 If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate as of the date such litigation is filed.
 
-9.5. Control. “Control” means direct or indirect control of more
-than 50% of the voting power to elect directors of that corporation,
-or for any other entity, the power to direct management of such entity.
+Section 6.  Disclaimer of Warranties and Limitation of Liability
 
-9.6. Draft Specification. “Draft Specification” means all versions
-of the material (except an Approved Specification) developed by this
-Working Group for the purpose of creating, commenting on, revising,
-updating, modifying, or adding to any document that is to be considered
-for inclusion in the Approved Specification.
+6.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA (INCLUDING ENHANCED DATA) IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
-9.7. Exclusion Notice. “Exclusion Notice” means a written notice
-made by making a pull request or commit to the repository’s Notices.md
-file that identifies patents that Contributor is excluding from its
-patent licensing commitments under this License. The Exclusion Notice
-for issued patents and published applications must include the Draft
-Specification’s name, patent number(s) or title and application
-number(s), as the case may be, for each of the issued patent(s) or
-pending patent application(s) that the Contributor is excluding from the
-royalty-free licensing commitment set forth in this License. If an issued
-patent or pending patent application that may contain Necessary Claims
-is not set forth in the Exclusion Notice, those Necessary Claims shall
-continue to be subject to the licensing commitments under this License.
-The Exclusion Notice for unpublished patent applications must provide
-either: (i) the text of the filed application; or (ii) identification
-of the specific part(s) of the Draft Specification whose implementation
-makes the excluded claim a Necessary Claim. If (ii) is chosen, the
-effect of the exclusion will be limited to the identified part(s) of
-the Draft Specification.
+6.2 NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-9.8. Implementation. “Implementation” means making, using, selling,
-offering for sale, importing or distributing any implementation of the
-Specification 1) only to the extent it implements the Specification and 2)
-so long as all required portions of the Specification are implemented.
+Section 7.  Miscellaneous
 
-9.9. License. “License” means this Community Specification License.
+7.1 You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication of Data, including any applicable privacy, data protection, security and export laws.  You agree to take reasonable steps to assist a Data Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.
 
-9.10. Licensee. “Licensee” means any person or entity that has
-indicated its acceptance of the License as set forth in Section 2.1.3.
-Licensee includes its Affiliates, assigns, agents, and successors in
-interest.
+7.2 You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.
 
-9.11. Necessary Claims. “Necessary Claims” are those patent claims, if
-any, that a party owns or controls, including those claims later acquired,
-that are necessary to implement the required portions (including the
-required elements of optional portions) of the Specification that are
-described in detail and not merely referenced in the Specification.
+7.3 This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.
 
-9.12. Specification. “Specification” means a Draft Specification
-or Approved Specification included in the Working Group’s repository
-subject to this License, and the version of the Specification implemented
-by the Licensee.
+7.4 The Data Provider(s) reserve no right or expectation of privacy, data protection or confidentiality in any Data that they Publish under this Agreement.  If You choose to Publish Data under this Agreement, You similarly do so with no reservation or expectation of any rights of privacy or confidentiality in that Data.
 
-9.13. Scope. “Scope” has the meaning as set forth in the accompanying
-Scope.md file included in this Specification’s repository. Changes
-to Scope do not apply retroactively. If no Scope is provided, each
-Contributor’s Necessary Claims are limited to that Contributor’s
-Contributions.
-
-9.14. Working Group. “Working Group” means this project to develop
-specifications, standards, best practices, guidelines, and other similar
-materials under this License.
-
-
-
-The text of this Community Specification License is Copyright 2020
-Joint Development Foundation and is licensed under the Creative
-Commons Attribution 4.0 International License available at
-https://creativecommons.org/licenses/by/4.0/.
-
-SPDX-License-Identifier: CC-BY-4.0
+7.5 The Community Data License Agreement workgroup under The Linux Foundation is the steward of this Agreement ("Steward").  No one other than the Steward has the right to modify or publish new versions of this Agreement.  Each version will be given a distinguishing version number.  You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You originally Received the Data, or under the terms of any subsequent version published by the Steward.

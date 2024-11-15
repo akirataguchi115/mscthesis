@@ -1,10 +1,7 @@
-SAX2 is Free!
+Rights are hereby granted to download, use, modify, sell, copy, and
+redistribute this software so long as the original copyright notice
+and this list of conditions remain intact and modified versions are
+noted as such.
 
-I hereby abandon any property rights to SAX 2.0 (the Simple API for
-XML), and release all of the SAX 2.0 source code, compiled code, and
-documentation contained in this distribution into the Public Domain.
-SAX comes with NO WARRANTY or guarantee of fitness for any
-purpose.
-
-David Megginson, david@megginson.com
-2000-05-05
+I would also very much appreciate it if you could send me a copy of
+any changes you make so I can possibly integrate them into my version.

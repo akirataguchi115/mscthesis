@@ -1,6 +1,6 @@
 The LaTeX Project Public License
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-LPPL Version 1.2  1999-09-03
+LPPL Version 1.1  1999-07-10
 
 Copyright 1999 LaTeX3 Project
     Everyone is allowed to distribute verbatim copies of this
@@ -114,9 +114,8 @@ applicable law -- that is, a file containing the original file or
 a significant portion of it, either verbatim or with modifications
 and/or translated into another language.
 
-Changing the name of a file (other than as necessitated by the file
-conventions of the target file systems) is considered to be a
-modification of the file.
+Changing the name of a file is considered to be a modification of
+the file.
 
 The distribution conditions in this license do not have to be
 applied to files that have been modified in accordance with the
@@ -200,7 +199,7 @@ assume the cost of all necessary servicing, repair, or correction.
 
 In no event unless agreed to in writing will The Copyright Holder, or
 any author named in the files of The Program, or any other party who may
-distribute and/or modify The Program as permitted above, be liable to
+distribute and/or modify The Program as permitted below, be liable to
 you for damages, including any general, special, incidental or
 consequential damages arising out of any use of The Program or out of
 inability to use The Program (including, but not limited to, loss of
@@ -250,12 +249,12 @@ Here is an example of such a notice and statement:
   %% Copyright 2001 M. Y. Name
   %
   % This program may be distributed and/or modified under the
-  % conditions of the LaTeX Project Public License, either version 1.2
+  % conditions of the LaTeX Project Public License, either version 1.1
   % of this license or (at your option) any later version.
   % The latest version of this license is in
   %   http://www.latex-project.org/lppl.txt
-  % and version 1.2 or later is part of all distributions of LaTeX 
-  % version 1999/12/01 or later.
+  % and version 1.1 or later is part of all distributions of LaTeX 
+  % version 1999/06/01 or later.
   %
   % This program consists of the files pig.dtx and pig.ins
 

@@ -1,30 +1,55 @@
-The contributing author(s) would like to thank all those who helped with testing,
-bug fixes and suggestions for improvements. This wouldn't have been possible without your help.
+The concept of the GNU Lesser General Public License version 2.1
+("LGPL") has been adopted to govern the use and distribution of above-
+mentioned application. However, the LGPL uses terminology that is more
+appropriate for a program written in C than one written in Lisp.
+Nevertheless, the LGPL can still be applied to a Lisp program if certain
+clarifications are made. This document details those clarifications.
+Accordingly, the license for the open-source Lisp applications consists
+of this document plus the LGPL. Wherever there is a conflict between
+this document and the LGPL, this document takes precedence over the
+LGPL.
 
-COPYRIGHT NOTICE:
+A "Library" in Lisp is a collection of Lisp functions, data and foreign
+modules. The form of the Library can be Lisp source code (for processing
+by an interpreter) or object code (usually the result of compilation of
+source code or built with some other mechanisms). Foreign modules are
+object code in a form that can be linked into a Lisp executable. When we
+speak of functions we do so in the most general way to include, in
+addition, methods and unnamed functions. Lisp "data" is also a general
+term that includes the data structures resulting from defining Lisp
+classes. A Lisp application may include the same set of Lisp objects as
+does a Library, but this does not mean that the application is
+necessarily a "work based on the Library" it contains.
 
-This software and documentation is provided "as is," and the copyright holders
-and contributing author(s) make no representations or warranties, express or
-implied, including but not limited to, warranties of merchantability or fitness
-for any particular purpose or that the use of the software or documentation will
-not infringe any third party patents, copyrights, trademarks or other rights.
+The Library consists of everything in the distribution file set before
+any modifications are made to the files. If any of the functions or
+classes in the Library are redefined in other files, then those
+redefinitions ARE considered a work based on the Library. If additional
+methods are added to generic functions in the Library, those additional
+methods are NOT considered a work based on the Library. If Library
+classes are subclassed, these subclasses are NOT considered a work based
+on the Library. If the Library is modified to explicitly call other
+functions that are neither part of Lisp itself nor an available add-on
+module to Lisp, then the functions called by the modified Library ARE
+considered a work based on the Library. The goal is to ensure that the
+Library will compile and run without getting undefined function errors.
 
-The copyright holders and contributing author(s) will not be held liable for any
-direct, indirect, special or consequential damages arising out of any use of the
-software or documentation, even if advised of the possibility of such damage.
-Permission is hereby granted to use, copy, modify, and distribute this source
-code, or portions hereof, documentation and executables, for any purpose,
-without fee, subject to the following restrictions:
+It is permitted to add proprietary source code to the Library, but it
+must be done in a way such that the Library will still run without that
+proprietary code present. Section 5 of the LGPL distinguishes between
+the case of a library being dynamically linked at runtime and one being
+statically linked at build time. Section 5 of the LGPL states that the
+former results in an executable that is a "work that uses the Library."
+Section 5 of the LGPL states that the latter results in one that is a
+"derivative of the Library", which is therefore covered by the LGPL.
+Since Lisp only offers one choice, which is to link the Library into an
+executable at build time, we declare that, for the purpose applying the
+LGPL to the Library, an executable that results from linking a "work
+that uses the Library" with the Library is considered a "work that uses
+the Library" and is therefore NOT covered by the LGPL.
 
-1. The origin of this source code must not be misrepresented. 
-
-2. Altered versions must be plainly marked as such and must
-not be misrepresented as being the original source. 
-
-3. This Copyright notice may not be removed or altered from any
-source or altered source distribution.
-
-The copyright holders and contributing author(s) specifically permit, without
-fee, and encourage the use of this source code as a component for supporting the
-Hypertext Markup Language in commercial products. If you use this source code in
-a product, acknowledgment is not required but would be appreciated.
+Because of this declaration, section 6 of LGPL is not applicable to the
+Library. However, in connection with each distribution of this
+executable, you must also deliver, in accordance with the terms and
+conditions of the LGPL, the source code of Library (or your derivative
+thereof) that is incorporated into this executable.

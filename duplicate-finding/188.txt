@@ -1,24 +1,20 @@
-GLWT(Good Luck With That) Public License 
-Copyright (c) Everyone, except Author
+GL2PS LICENSE Version 2, November 2003
 
-Everyone is permitted to copy, distribute, modify, merge, sell, publish,
-sublicense or whatever they want with this software but at their OWN RISK.
+Copyright (C) 2003, Christophe Geuzaine
 
-Preamble
+Permission to use, copy, and distribute this software and its documentation
+for any purpose with or without fee is hereby granted, provided that the
+copyright notice appear in all copies and that both that copyright notice and 
+his permission notice appear in supporting documentation.
 
-The author has absolutely no clue what the code in this project does.
-It might just work or not, there is no third option.
+Permission to modify and distribute modified versions of this software is
+granted, provided that:
 
-GOOD LUCK WITH THAT PUBLIC LICENSE
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
+1) the modifications are licensed under the same terms as this software;
 
-0. You just DO WHATEVER YOU WANT TO as long as you NEVER LEAVE A
-TRACE TO TRACK THE AUTHOR of the original product to blame for or hold
-responsible.
+2) you make available the source code of any modifications that you distribute,
+either on the same media as you distribute any executable or other form of this
+software, or via a mechanism generally accepted in the software development
+community for the electronic transfer of data.
 
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-
-Good luck and Godspeed.
+This software is provided "as is" without express or implied warranty.

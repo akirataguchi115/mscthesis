@@ -1,53 +1,59 @@
-Vovida Software License v. 1.0
+VOSTROM Public License for Open Source
+----------
+Copyright (c) 2007 VOSTROM Holdings, Inc.
 
-This license applies to all software incorporated in the "Vovida
-Open Communication Application Library" except for those portions
-incorporating third party software specifically identified as being
-licensed under separate license.
+This VOSTROM Holdings, Inc. (VOSTROM) Distribution (code and documentation)
+is made available to the open source community as a public service by VOSTROM.
+Contact VOSTROM at license@vostrom.com for information on other licensing
+arrangements (e.g. for use in proprietary applications).
 
-The Vovida Software License, Version 1.0
-Copyright (c) 2000 Vovida Networks, Inc. All rights reserved.
+Under this license, this Distribution may be modified and the original
+version and modified versions may be copied, distributed, publicly displayed
+and performed provided that the following conditions are met:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
+1.  Modified versions are distributed with source code and documentation and
+with permission for others to use any code and documentation (whether in
+original or modified versions) as granted under this license;
 
-1. Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
+2.  if modified, the source code, documentation, and user run-time elements
+should be clearly labeled by placing an identifier of origin (such as a name,
+initial, or other tag) after the version number;
 
-2. Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in
-the documentation and/or other materials provided with the
-distribution.
+3.  users, modifiers, distributors, and others coming into possession or
+using the Distribution in original or modified form accept the entire risk
+as to the possession, use, and performance of the Distribution;
 
-3. The names "VOCAL", "Vovida Open Communication Application Library",
-and "Vovida Open Communication Application Library (VOCAL)" must
-not be used to endorse or promote products derived from this
-software without prior written permission. For written
-permission, please contact vocal@vovida.org.
+4.  this copyright management information (software identifier and version
+number, copyright notice and license) shall be retained in all versions of
+the Distribution;
 
-4. Products derived from this software may not be called "VOCAL", nor
-may "VOCAL" appear in their name, without prior written
+5.  VOSTROM may make modifications to the Distribution that are
+substantially similar to modified versions of the Distribution, and may
+make, use, sell, copy, distribute, publicly display, and perform such
+modifications, including making such modifications available under this or
+other licenses, without obligation or restriction;
+
+6.  modifications incorporating code, libraries, and/or documentation subject
+to any other open source license may be made, and the resulting work may be
+distributed under the terms of such open source license if required by that
+open source license, but doing so will not affect this Distribution, other
+modifications made under this license or modifications made under other
+VOSTROM licensing arrangements;
+
+7.  no permission is granted to distribute, publicly display, or publicly
+perform modifications to the Distribution made using proprietary materials
+that cannot be released in source format under conditions of this license;
+
+8.  the name of VOSTROM may not be used in advertising or publicity
+pertaining to Distribution of the software without specific, prior written
 permission.
 
-THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
-NON-INFRINGEMENT ARE DISCLAIMED. IN NO EVENT SHALL VOVIDA
-NETWORKS, INC. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DAMAGES
-IN EXCESS OF $1,000, NOR FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
-OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
-USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGE.
+This software is made available "as is", and
 
-This software consists of voluntary contributions made by Vovida
-Networks, Inc. and many individuals on behalf of Vovida Networks,
-Inc. For more information on Vovida Networks, Inc., please see
-http://www.vovida.org.
-
-All third party licenses and copyright notices and other required
-legends also need to be complied with as well.
+VOSTROM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO THIS
+SOFTWARE, INCLUDING WITHOUT LIMITATION ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND IN NO EVENT SHALL
+VOSTROM BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR STRICT LIABILITY, ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.

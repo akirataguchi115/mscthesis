@@ -1,43 +1,36 @@
-COPYRIGHT NOTIFICATION
+COPYRIGHT NOTICE, DISCLAIMER, and LICENSE
+=========================================
 
-(C) COPYRIGHT 2004 UNIVERSITY OF CHICAGO
+PNG Reference Library License version 2
+---------------------------------------
 
-This program discloses material protectable under copyright laws of the United
-States. Permission to copy and modify this software and its documentation is
-hereby granted, provided that this notice is retained thereon and on all copies
-or modifications. The University of Chicago makes no representations as to the
-suitability and operability of this software for any purpose. It is provided "as
-is"; without express or implied warranty. Permission is hereby granted to use,
-reproduce, prepare derivative works, and to redistribute to others, so long as
-this original copyright notice is retained. Any publication resulting from
-research that made use of this software should cite this document.
+ * Copyright (c) 1995-2018 The PNG Reference Library Authors.
+ * Copyright (c) 2018 Cosmin Truta.
+ * Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson.
+ * Copyright (c) 1996-1997 Andreas Dilger.
+ * Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
 
-     This software was authored by:
+The software is supplied "as is", without warranty of any kind,
+express or implied, including, without limitation, the warranties
+of merchantability, fitness for a particular purpose, title, and
+non-infringement.  In no even shall the Copyright owners, or
+anyone distributing the software, be liable for any damages or
+other liability, whether in contract, tort or otherwise, arising
+from, out of, or in connection with the software, or the use or
+other dealings in the software, even if advised of the possibility
+of such damage.
 
-     Steven J. Benson Mathematics and Computer Science Division Argonne National
-     Laboratory Argonne IL 60439
+Permission is hereby granted to use, copy, modify, and distribute
+this software, or portions hereof, for any purpose, without fee,
+subject to the following restrictions:
 
-     Yinyu Ye Department of Management Science and Engineering Stanford
-     University Stanford, CA U.S.A
+ 1. The origin of this software must not be misrepresented; you
+    must not claim that you wrote the original software.  If you
+    use this software in a product, an acknowledgment in the product
+    documentation would be appreciated, but is not required.
 
-     Any questions or comments on the software may be directed to
-     benson@mcs.anl.gov or yinyu-ye@stanford.edu
+ 2. Altered source versions must be plainly marked as such, and must
+    not be misrepresented as being the original software.
 
-Argonne National Laboratory with facilities in the states of Illinois and Idaho,
-is owned by The United States Government, and operated by the University of
-Chicago under provision of a contract with the Department of Energy.
-
-DISCLAIMER 
-
-THIS PROGRAM WAS PREPARED AS AN ACCOUNT OF WORK SPONSORED BY AN AGENCY OF THE
-UNITED STATES GOVERNMENT. NEITHER THE UNITED STATES GOVERNMENT NOR ANY AGENCY
-THEREOF, NOR THE UNIVERSITY OF CHICAGO, NOR ANY OF THEIR EMPLOYEES OR OFFICERS,
-MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LEGAL LIABILITY OR
-RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION,
-APPARATUS, PRODUCT, OR PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE WOULD NOT
-INFRINGE PRIVATELY OWNED RIGHTS. REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL
-PRODUCT, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR
-OTHERWISE, DOES NOT NECESSARILY CONSTITUTE OR IMPLY ITS ENDORSEMENT,
-RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT OR ANY AGENCY
-THEREOF. THE VIEW AND OPINIONS OF AUTHORS EXPRESSED HEREIN DO NOT NECESSARILY
-STATE OR REFLECT THOSE OF THE UNITED STATES GOVERNMENT OR ANY AGENCY THEREOF.
+ 3. This Copyright notice may not be removed or altered from any
+    source or altered source distribution.

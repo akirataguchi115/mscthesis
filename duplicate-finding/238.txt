@@ -1,28 +1,61 @@
-NIST-developed software is provided by NIST as a public service. 
-You may use, copy, and distribute copies of the software in any 
-medium, provided that you keep intact this entire notice. You may 
-improve, modify, and create derivative works of the software or any 
-portion of the software, and you may copy and distribute such 
-modifications or works. Modified works should carry a notice stating 
-that you changed the software and should note the date and nature of 
-any such change. Please explicitly acknowledge the National Institute 
-of Standards and Technology as the source of the software.
+NICTA Public Software Licence
+Version 1.0
 
-NIST-developed software is expressly provided "AS IS." NIST MAKES NO 
-WARRANTY OF ANY KIND, EXPRESS, IMPLIED, IN FACT, OR ARISING BY OPERATION 
-OF LAW, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND DATA ACCURACY. NIST 
-NEITHER REPRESENTS NOR WARRANTS THAT THE OPERATION OF THE SOFTWARE WILL BE 
-UNINTERRUPTED OR ERROR-FREE, OR THAT ANY DEFECTS WILL BE CORRECTED. NIST DOES 
-NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OF THE SOFTWARE OR 
-THE RESULTS THEREOF, INCLUDING BUT NOT LIMITED TO THE CORRECTNESS, ACCURACY, 
-RELIABILITY, OR USEFULNESS OF THE SOFTWARE.
+Copyright © 2004 National ICT Australia Ltd
 
-You are solely responsible for determining the appropriateness of using and 
-distributing the software and you assume all risks associated with its use, 
-including but not limited to the risks and costs of program errors, compliance 
-with applicable laws, damage to or loss of data, programs or equipment, and the 
-unavailability or interruption of operation. This software is not intended to be 
-used in any situation where a failure could cause risk of injury or damage to 
-property. The software developed by NIST employees is not subject to copyright 
-protection within the United States.
+All rights reserved.
+
+By this licence, National ICT Australia Ltd (NICTA) grants permission,
+free of charge, to any person who obtains a copy of this software
+and any associated documentation files ("the Software") to use and
+deal with the Software in source code and binary forms without
+restriction, with or without modification, and to permit persons
+to whom the Software is furnished to do so, provided that the
+following conditions are met:
+
+- Redistributions of source code must retain the above copyright
+  notice, this list of conditions and the following disclaimers.
+- Redistributions in binary form must reproduce the above copyright
+  notice, this list of conditions and the following disclaimers in
+  the documentation and/or other materials provided with the
+  distribution.
+- The name of NICTA may not be used to endorse or promote products
+  derived from this Software without specific prior written permission.
+
+EXCEPT AS EXPRESSLY STATED IN THIS LICENCE AND TO THE FULL EXTENT
+PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS-IS" AND
+NICTA MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY
+REPRESENTATIONS, WARRANTIES OR CONDITIONS REGARDING THE CONTENTS
+OR ACCURACY OF THE SOFTWARE, OR OF TITLE, MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, THE ABSENCE OF LATENT
+OR OTHER DEFECTS, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR
+NOT DISCOVERABLE.
+
+TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
+NICTA BE LIABLE ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+NEGLIGENCE) FOR ANY LOSS OR DAMAGE WHATSOEVER, INCLUDING (WITHOUT
+LIMITATION) LOSS OF PRODUCTION OR OPERATION TIME, LOSS, DAMAGE OR
+CORRUPTION OF DATA OR RECORDS; OR LOSS OF ANTICIPATED SAVINGS,
+OPPORTUNITY, REVENUE, PROFIT OR GOODWILL, OR OTHER ECONOMIC LOSS;
+OR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS LICENCE,
+THE SOFTWARE OR THE USE OF THE SOFTWARE, EVEN IF NICTA HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If applicable legislation implies warranties or conditions, or
+imposes obligations or liability on NICTA in respect of the Software
+that cannot be wholly or partly excluded, restricted or modified,
+NICTA's liability is limited, to the full extent permitted by the
+applicable legislation, at its option, to:
+
+a. in the case of goods, any one or more of the following:
+  i.   the replacement of the goods or the supply of equivalent goods;
+  ii.  the repair of the goods;
+  iii. the payment of the cost of replacing the goods or of acquiring
+       equivalent goods;
+  iv.  the payment of the cost of having the goods repaired; or
+b. in the case of services:
+  i.   the supplying of the services again; or 
+  ii.  the payment of the cost of having the services supplied
+       again.

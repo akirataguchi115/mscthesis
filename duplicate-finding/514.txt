@@ -1,2 +1,2 @@
-This software may be freely used, transmitted, reproduced, or modified provided that 
-the copyright notice and this permission is retained.
+This software may be freely transmitted, reproduced, or modified
+for any purpose provided that this copyright notice is left intact.

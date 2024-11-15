@@ -1,8 +1,8 @@
-Microsoft Public License (Ms-PL)
+Microsoft Limited Permissive License (MS-LPL)
+Published: October 12, 2006
 
-This license governs use of the accompanying software. If you use the software,
-you accept this license. If you do not accept the license, do not use the
-software.
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
 
 1. Definitions
 
@@ -15,8 +15,7 @@ software.
 A "contributor" is any person that distributes its contribution under this
 license.
 
-"Licensed patents" are a contributor's patent claims that read directly on its
-contribution.
+"Licensed patents" are a contributor’s patent claims that read directly on its contribution.
 
 2. Grant of Rights
 
@@ -36,7 +35,7 @@ software.
 3. Conditions and Limitations
 
 (A) No Trademark License- This license does not grant you rights to use any
-contributors' name, logo, or trademarks.
+contributors’ name, logo, or trademarks.
 
 (B) If you bring a patent claim against any contributor over patents that you
 claim are infringed by the software, your patent license from such contributor
@@ -53,8 +52,12 @@ object code form, you may only do so under a license that complies with this
 license.
 
 (E) The software is licensed "as-is." You bear the risk of using it. The
-contributors give no express warranties, guarantees, or conditions. You may have
+contributors give no express warranties, guarantees or conditions. You may have
 additional consumer rights under your local laws which this license cannot
 change. To the extent permitted under your local laws, the contributors exclude
 the implied warranties of merchantability, fitness for a particular purpose and
 non-infringement.
+
+(F) Platform Limitation- The licenses granted in sections 2(A) & 2(B) extend
+only to the software or derivative works that you create that run on a Microsoft
+Windows operating system product.
