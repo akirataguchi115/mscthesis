@@ -1,7 +1,4 @@
-ANTLR SOFTWARE RIGHTS
-
-ANTLR 1989-2006 Developed by Terence Parr
-Partially supported by University of San Francisco & jGuru.com
+ANTLR 2 License
 
 We reserve no legal rights to the ANTLR --it is fully in the public domain. An
 individual or company may do whatever they wish with source code distributed
@@ -18,8 +15,7 @@ using ANTLR. In addition, we ask that the headers remain intact in our source
 code. As long as these guidelines are kept, we expect to continue enhancing this
 system and expect to make other tools available as they are completed.
 
-The primary ANTLR guy:
-
-Terence Parr
-parrt@cs.usfca.edu
-parrt@antlr.org
+In countries where the Public Domain status of the work may not be valid, the
+author grants a copyright licence to the general public to deal in the work
+without restriction and permission to sublicence derivates under the terms of
+any (OSI approved) Open Source licence.
