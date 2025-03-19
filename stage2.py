@@ -60,10 +60,10 @@ for license_text in text_list:
     file_object.write(license_text)
     number += 1
 
-if path.exists('thesis-licenses'):
-  rmtree('thesis-licenses')
-Path('thesis-licenses').mkdir(parents=True, exist_ok=True)
+if path.exists('stage2-licenses'):
+  rmtree('stage2-licenses')
+Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
 for key in licenses:
   if licenses[key]:
-    file_object = open('thesis-licenses/' + key + '.txt', 'w')
+    file_object = open('stage2-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
