@@ -1,17 +1,24 @@
-This source code has been made available to you by IBM on an AS-IS
-basis.  Anyone receiving this source is licensed under IBM copyrights to
-use it in any way he or she deems fit, including copying it, modifying
-it, compiling it, and redistributing it either with or without
-modifications.  No license under IBM patents or patent applications is
-to be implied by the copyright license.
+This software is not subject to any export provision of the United States
+Department of Commerce, and may be exported to any country or planet.
 
-Any user of this software should understand that IBM cannot provide
-technical support for this software and will not be responsible for any
-consequences resulting from the use of this software.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+1. Redistributions of source code must retain the above copyright
+   notice immediately at the beginning of the file, without modification,
+   this list of conditions, and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
 
-Any person who transfers this source code or any derivative work must
-include the IBM copyright notice, this paragraph, and the preceding two
-paragraphs in the transferred software.
-
-COPYRIGHT   I B M   CORPORATION 
-LICENSED MATERIAL  -  PROGRAM PROPERTY OF I B M
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.

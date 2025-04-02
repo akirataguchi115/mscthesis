@@ -1,21 +1,13 @@
-Disclaimer of Warranty
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
 
-These software programs are available to the user without any license fee or
-royalty on an "as is" basis.  The MPEG Software Simulation Group disclaims
-any and all warranties, whether express, implied, or statuary, including any
-implied warranties or merchantability or of fitness for a particular
-purpose.  In no event shall the copyright-holder be liable for any
-incidental, punitive, or consequential damages of any kind whatsoever
-arising from the use of these programs.
+ Copyright (C) 2004 Sam Hocevar
+  14 rue de Plaisance, 75014 Paris, France
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
 
-This disclaimer of warranty extends to the user of these programs and user's
-customers, employees, agents, transferees, successors, and assigns.
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-The MPEG Software Simulation Group does not represent or warrant that the
-programs furnished hereunder are free of infringement of any third-party
-patents.
-
-Commercial implementations of MPEG-1 and MPEG-2 video, including shareware,
-are subject to royalty fees to patent holders.  Many of these patents are
-general enough such that they are unavoidable regardless of implementation
-design.
+  0. You just DO WHAT THE FUCK YOU WANT TO.

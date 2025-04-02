@@ -1,4 +1,7 @@
 ## Diary
+### week 14
+wed: i continue to copy paste manually licenses from the listing cites which are not found in scancode db. 115 licenses to go.
+
 ### week 12
 tue: i took a break of 4 months from advancing this thesis. now ill have to figure out what was i doing. what should i do next? what needs to be still done? according to my notes stage 1 of literature selection process (2.3) seems to be done. next up stage 2 i guess. it seems like there should be an iteration between with stage 2 and stage 3 but i  might need to somehow make it so that iterations happen only inside one individual stage. i also need to somehow write this diary to latex maybe once im going to be done with 2. Methods. Then I'll write also 1. Introduction anew. Diary in diary.md. Plan in Joplin.
 

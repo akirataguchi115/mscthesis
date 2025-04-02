@@ -1,10 +1,13 @@
-Non-exclusive rights to redistribute, modify, translate, and use
-this software in source and binary forms, in whole or in part, is
-hereby granted, provided that the above copyright notice is
-duplicated in any source form, and that neither the name of the
-copyright holder nor the author is used to endorse or promote
-products derived from this software.
+NO LIMIT PUBLIC LICENSE
+           Version 0, June 2012
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
-WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Gilles LAMIRAL
+La Billais
+35580 Baulon
+France
+
+                 NO LIMIT PUBLIC LICENSE
+Terms and conditions for copying, distribution, modification
+or anything else.
+
+  0. No limit to do anything with this work and this license.

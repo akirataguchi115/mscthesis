@@ -1,15 +1,8 @@
-Use and copying of this software and preparation of derivative works
-based upon this software are permitted. Any copy of this software or of
-any derivative work must include the above copyright notice of
-{copyright-holder}, this paragraph and the one after it. Any
-distribution of this software or derivative works must comply with all
-applicable United States export control laws.
-
-This software is made available AS IS, and {copyright-holder} DISCLAIMS
-ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE, AND NOTWITHSTANDING ANY OTHER PROVISION CONTAINED HEREIN, ANY
-LIABILITY FOR DAMAGES RESULTING FROM THE SOFTWARE OR ITS USE IS
-EXPRESSLY DISCLAIMED, WHETHER ARISING IN CONTRACT, TORT (INCLUDING
-NEGLIGENCE) OR STRICT LIABILITY, EVEN IF {copyright-holder} IS ADVISED
-OF THE POSSIBILITY OF SUCH DAMAGES.
+To anyone who acknowledges that this file is provided "AS IS" 
+without any express or implied warranty permission to use, copy, 
+modify, and distribute this file for any purpose is hereby granted 
+without fee, provided that the above copyright notice and this notice 
+appears in all copies, and that the name of Hewlett-Packard Company 
+not be used in advertising or publicity pertaining to distribution 
+of the software without specific, written prior permission. Hewlett-Packard 
+Company makes no representations about the suitability of this software for any purpose.

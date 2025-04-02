@@ -1,26 +1,30 @@
-University of Illinois/NCSA Open Source License
+This work may be reproduced and distributed in whole or in part, in
+any medium, physical or electronic, so as long as this copyright
+notice remains intact and unchanged on all copies.  Commercial
+redistribution is permitted and encouraged, but you may not
+redistribute, in whole or in part, under terms more restrictive than
+those under which you received it. If you redistribute a modified or
+translated version of this work, you must also make the source code to
+the modified or translated version available in electronic form
+without charge.  However, mere aggregation as part of a larger work
+shall not count as a modification for this purpose.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this
-software and associated documentation files (the "Software"), to deal with the
-Software without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
-and to permit persons to whom the Software is furnished to do so, subject to the
-following conditions:
+All code examples in this work are placed into the public domain,
+and may be used, modified and redistributed without restriction.
 
-Redistributions of source code must retain the above copyright notice, this list of
-conditions and the following disclaimers.
+BECAUSE THIS WORK IS LICENSED FREE OF CHARGE, THERE IS NO
+WARRANTY FOR THE WORK, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR
+OTHER PARTIES PROVIDE THE WORK "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  SHOULD THE WORK PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY REPAIR OR CORRECTION.
 
-Redistributions in binary form must reproduce the above copyright notice, this list
-of conditions and the following disclaimers in the documentation and/or other
-materials provided with the distribution.
-
-Neither the names of <Name of Development Group, Name of Institution>, nor
-the names of its contributors may be used to endorse or promote products derived from
-this Software without specific prior written permission.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE CONTRIBUTORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS WITH THE SOFTWARE.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
+WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY
+AND/OR REDISTRIBUTE THE WORK AS PERMITTED ABOVE, BE LIABLE TO YOU
+FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE
+WORK, EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.

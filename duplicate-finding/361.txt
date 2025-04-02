@@ -1,28 +1,27 @@
-Preamble
-This Simple Public License 2.0 (SimPL 2.0 for short) is a plain language implementation of GPL 2.0.  The words are different, but the goal is the same - to guarantee for all users the freedom to share and change software.  If anyone wonders about the meaning of the SimPL, they should interpret it as consistent with GPL 2.0.
+Please read this Source Code License Agreement carefully before using the source
+code.
 
-Simple Public License (SimPL) 2.0
-The SimPL applies to the software's source and object code and comes with any rights that I have in it (other than trademarks). You agree to the SimPL by copying, distributing, or making a derivative work of the software.
+Adobe Systems Incorporated grants to you a perpetual, worldwide, non-exclusive, no-
+charge, royalty-free, irrevocable copyright license, to reproduce, prepare derivative
+works of, publicly display, publicly perform, and distribute this source code and
+such derivative works in source or object code form without any attribution
+requirements.
 
-You get the royalty free right to:
-Use the software for any purpose;
-Make derivative works of it (this is called a "Derived Work");
-Copy and distribute it and any Derived Work.
+The name "Adobe Systems Incorporated" must not be used to endorse or promote products
+derived from the source code without prior written permission.
 
-If you distribute the software or a Derived Work, you must give back to the community by:
-Prominently noting the date of any changes you make;
-Leaving other people's copyright notices, warranty disclaimers, and license terms  in place;
-Providing the source code, build scripts, installation scripts, and interface definitions in a form that is easy to get and best to modify;
-Licensing it to everyone under SimPL, or substantially similar terms (such as GPL 2.0), without adding further restrictions to the rights provided;
-Conspicuously announcing that it is available under that license.
+You agree to indemnify, hold harmless and defend Adobe Systems Incorporated from and
+against any loss, damage, claims or lawsuits, including attorney's fees that arise or
+result from your use or distribution of the source code.
 
-There are some things that you must shoulder:
-You get NO WARRANTIES. None of any kind;
-If the software damages you in any way, you may only recover direct damages up to the amount you paid for it (that is zero if you did not pay anything). You may not recover any other damages, including those called "consequential damages." (The state or country where you live may not allow you to limit your liability in this way, so this may not apply to you);
-
-The SimPL continues perpetually, except that your license rights end automatically if:
-You do not abide by the "give back to the community" terms (your licensees get to keep their rights if they abide);
-Anyone prevents you from distributing the software under the terms of the SimPL.
-
-License for the License
-You may do anything that you want with the SimPL text; it's a license form to use in any way that you find helpful.  To avoid confusion, however, if you change the terms in any way then you may not call your license the Simple Public License or the SimPL (but feel free to acknowledge that your license is "based on the Simple Public License").
+THIS SOURCE CODE IS PROVIDED "AS IS" AND "WITH ALL FAULTS", WITHOUT ANY TECHNICAL
+SUPPORT OR ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. ALSO, THERE IS NO WARRANTY OF NON-INFRINGEMENT, TITLE OR QUIET ENJOYMENT.
+IN NO EVENT SHALL MACROMEDIA OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.

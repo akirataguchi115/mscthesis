@@ -1,9 +1,44 @@
-Rdisc (this program) was developed by Sun Microsystems, Inc. and is provided for unrestricted use provided that this legend is included on all tape media and as a part of the software program in whole or part. Users may copy or modify Rdisc without charge, and they may freely distribute it.
+Portions of LOOP are Copyright (c) 1986 by the Massachusetts Institute of Technology.
+All Rights Reserved.
 
-RDISC IS PROVIDED AS IS WITH NO WARRANTIES OF ANY KIND INCLUDING THE WARRANTIES OF DESIGN, MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE.
+Permission to use, copy, modify and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the M.I.T. copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation.  The names "M.I.T." and "Massachusetts
+Institute of Technology" may not be used in advertising or publicity
+pertaining to distribution of the software without specific, written
+prior permission.  Notice must be given in supporting documentation that
+copying distribution is by permission of M.I.T.  M.I.T. makes no
+representations about the suitability of this software for any purpose.
+It is provided "as is" without express or implied warranty.
 
-Rdisc is provided with no support and without any obligation on the part of Sun Microsystems, Inc. to assist in its use, correction, modification or enhancement.
+Massachusetts Institute of Technology
+77 Massachusetts Avenue
+Cambridge, Massachusetts  02139
+United States of America
++1-617-253-1000
 
-SUN MICROSYSTEMS, INC. SHALL HAVE NO LIABILITY WITH RESPECT TO THE INFRINGEMENT OF COPYRIGHTS, TRADE SECRETS OR ANY PATENTS BY RDISC OR ANY PART THEREOF.
+Portions of LOOP are Copyright (c) 1989, 1990, 1991, 1992 by Symbolics, Inc.
+All Rights Reserved.
 
-In no event will Sun Microsystems, Inc. be liable for any lost revenue or profits or other special, indirect and consequential damages, even if Sun has been advised of the possibility of such damages.
+Permission to use, copy, modify and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the Symbolics copyright notice appear in all copies and
+that both that copyright notice and this permission notice appear in
+supporting documentation.  The name "Symbolics" may not be used in
+advertising or publicity pertaining to distribution of the software
+without specific, written prior permission.  Notice must be given in
+supporting documentation that copying distribution is by permission of
+Symbolics.  Symbolics makes no representations about the suitability of
+this software for any purpose.  It is provided "as is" without express
+or implied warranty.
+
+Symbolics, CLOE Runtime, and Minima are trademarks, and CLOE, Genera,
+and Zetalisp are registered trademarks of Symbolics, Inc.
+
+Symbolics, Inc.
+8 New England Executive Park, East
+Burlington, Massachusetts  01803
+United States of America
++1-617-221-1000

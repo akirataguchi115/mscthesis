@@ -1,55 +1,58 @@
-The concept of the GNU Lesser General Public License version 2.1
-("LGPL") has been adopted to govern the use and distribution of above-
-mentioned application. However, the LGPL uses terminology that is more
-appropriate for a program written in C than one written in Lisp.
-Nevertheless, the LGPL can still be applied to a Lisp program if certain
-clarifications are made. This document details those clarifications.
-Accordingly, the license for the open-source Lisp applications consists
-of this document plus the LGPL. Wherever there is a conflict between
-this document and the LGPL, this document takes precedence over the
-LGPL.
+The Parity Public License 7.0.0
 
-A "Library" in Lisp is a collection of Lisp functions, data and foreign
-modules. The form of the Library can be Lisp source code (for processing
-by an interpreter) or object code (usually the result of compilation of
-source code or built with some other mechanisms). Foreign modules are
-object code in a form that can be linked into a Lisp executable. When we
-speak of functions we do so in the most general way to include, in
-addition, methods and unnamed functions. Lisp "data" is also a general
-term that includes the data structures resulting from defining Lisp
-classes. A Lisp application may include the same set of Lisp objects as
-does a Library, but this does not mean that the application is
-necessarily a "work based on the Library" it contains.
+Contributor: contributor name
 
-The Library consists of everything in the distribution file set before
-any modifications are made to the files. If any of the functions or
-classes in the Library are redefined in other files, then those
-redefinitions ARE considered a work based on the Library. If additional
-methods are added to generic functions in the Library, those additional
-methods are NOT considered a work based on the Library. If Library
-classes are subclassed, these subclasses are NOT considered a work based
-on the Library. If the Library is modified to explicitly call other
-functions that are neither part of Lisp itself nor an available add-on
-module to Lisp, then the functions called by the modified Library ARE
-considered a work based on the Library. The goal is to ensure that the
-Library will compile and run without getting undefined function errors.
+Source Code: source
 
-It is permitted to add proprietary source code to the Library, but it
-must be done in a way such that the Library will still run without that
-proprietary code present. Section 5 of the LGPL distinguishes between
-the case of a library being dynamically linked at runtime and one being
-statically linked at build time. Section 5 of the LGPL states that the
-former results in an executable that is a "work that uses the Library."
-Section 5 of the LGPL states that the latter results in one that is a
-"derivative of the Library", which is therefore covered by the LGPL.
-Since Lisp only offers one choice, which is to link the Library into an
-executable at build time, we declare that, for the purpose applying the
-LGPL to the Library, an executable that results from linking a "work
-that uses the Library" with the Library is considered a "work that uses
-the Library" and is therefore NOT covered by the LGPL.
+Purpose
+This license allows you to use and share this software for free, but you have to share software that builds on it alike.
 
-Because of this declaration, section 6 of LGPL is not applicable to the
-Library. However, in connection with each distribution of this
-executable, you must also deliver, in accordance with the terms and
-conditions of the LGPL, the source code of Library (or your derivative
-thereof) that is incorporated into this executable.
+Agreement
+In order to receive this license, you have to agree to its rules. Those rules are both obligations under that agreement and conditions to your license. Don’t do anything with this software that triggers a rule you can’t or won’t follow.
+
+Notices
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
+
+Copyleft
+Contribute software you develop, operate, or analyze with this software, including changes or additions to this software. When in doubt, contribute.
+
+Prototypes
+You don’t have to contribute any change, addition, or other software that meets all these criteria:
+
+You don’t use it for more than thirty days.
+
+You don’t share it outside the team developing it, other than for non-production user testing.
+
+You don’t develop, operate, or analyze other software with it for anyone outside the team developing it.
+
+Reverse Engineering
+You may use this software to operate and analyze software you can’t contribute in order to develop alternatives you can and do contribute.
+
+Contribute
+To contribute software:
+
+Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
+
+Make sure every part of the source code is available under this license or another license that allows everything this license does, such as the Blue Oak Model License 1.0.0, the Apache License 2.0, the MIT license, or the two-clause BSD license.
+
+Take these steps within thirty days.
+
+Note that this license does not allow you to change the license terms for this software. You must follow Notices.
+
+Excuse
+You’re excused for unknowingly breaking Copyleft if you contribute as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule. You’re excused for unknowingly breaking Notices if you take all practical steps to comply within thirty days of learning you broke the rule.
+
+Defense
+Don’t make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+
+Copyright
+The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+
+Patent
+The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+
+Reliability
+The contributor can’t revoke this license.
+
+No Liability
+As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won’t be liable to anyone for any damages related to this software or this license, under any kind of legal claim.

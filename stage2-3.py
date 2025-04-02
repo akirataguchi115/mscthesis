@@ -30,6 +30,7 @@ for key, value in licenses.items():
   if value == None:
     manual_licenses.append(key)
 print(manual_licenses)
+print(len(manual_licenses))
 
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')

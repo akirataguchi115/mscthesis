@@ -1,203 +1,179 @@
-LaTeX Project Public License
-============================
- LPPL Version 1.0  1999-03-01
+LICENCE OUVERTE / OPEN LICENCE
+===================================================================
 
-Copyright 1999 LaTeX3 Project
-    Everyone is permitted to copy and distribute verbatim copies
-    of this license document, but modification is not allowed.
-
-Preamble
-========
-The LaTeX Project Public License (LPPL) is the license under which the
-base LaTeX distribution is distributed. As described below you may use
-this licence for any software that you wish to distribute. 
-
-It may be particularly suitable if your software is TeX related (such
-as a LaTeX package file) but it may be used for any software, even if
-it is unrelated to TeX.
-
-To use this license, the files of your distribution should have an
-explicit copyright notice giving your name and the year, together
-with a reference to this license.
-
-A typical example would be
-
-   %% pig.sty
-   %% Copyright 2001 M. Y. Name
-
-   % This program can redistributed and/or modified under the terms
-   % of the LaTeX Project Public License Distributed from CTAN
-   % archives in directory macros/latex/base/lppl.txt; either
-   % version 1 of the License, or (at your option) any later version.
-
-Given such a notice in the file, the conditions of this document would
-apply, with:
-
-`The Program' referring to the software `pig.sty'  and 
-`The Copyright Holder' referring to the person `M. Y. Name'.
-
-To see a real example, see the file legal.txt which carries the
-copyright notice for the base latex distribution.
-
-This license gives terms under which files of The Program may be
-distributed and modified. Individual files may have specific further
-constraints on modification, but no file should have restrictions on
-distribution other than those specified below. 
-This is to ensure that a distributor wishing to distribute a complete
-unmodified copy of The Program need only check the conditions in this
-file, and does not need to check every file in The Program for extra
-restrictions. If you do need to modify the distribution terms of some
-files, do not refer to this license, instead distribute The Program
-under a different license. You may use the parts of the text of LPPL as
-a model for your own license, but your license should not directly refer
-to the LPPL or otherwise give the impression that The Program is
-distributed under the LPPL. 
+- Version 2.0
+- Avril 2017
 
 
-The LaTeX Project Public License
-================================
-Terms And Conditions For Copying, Distribution And Modification
-===============================================================
+« RÉUTILISATION » DE L’« INFORMATION » SOUS CETTE LICENCE
+-------------------------------------------------------------------
+
+Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit
+de libre « Réutilisation » de l’« Information » objet de la présente licence,
+à des fins commerciales ou non, dans le monde entier et pour une durée
+illimitée, dans les conditions exprimées ci-dessous.
+
+Le « Réutilisateur » est libre de réutiliser l’« Information » :
+
+- de la reproduire, la copier,
+- de l’adapter, la modifier, l’extraire et la transformer, pour créer des
+« Informations dérivées », des produits ou des services,
+- de la communiquer, la diffuser, la redistribuer, la publier et la transmettre,
+- de l’exploiter à titre commercial, par exemple en la combinant avec d’autres
+informations, ou en l’incluant dans son propre produit ou application.
+
+Sous réserve de :
+
+- mentionner la paternité de l’« Information » : sa source (au moins le nom du
+« Concédant ») et la date de dernière mise à jour de l’« Information »
+réutilisée.
+
+Le « Réutilisateur » peut notamment s’acquitter de cette condition en renvoyant,
+par un lien hypertexte, vers la source de « l’Information » et assurant une
+mention effective de sa paternité.
+
+Par exemple :
+
+« Ministère de xxx - Données originales téléchargées sur
+http://www.data.gouv.fr/fr/datasets/xxx/, mise à jour du 14 février 2017 ».
+
+Cette mention de paternité ne confère aucun caractère officiel à la
+« Réutilisation » de l’« Information », et ne doit pas suggérer une quelconque
+reconnaissance ou caution par le « Concédant », ou par toute autre entité
+publique, du « Réutilisateur » ou de sa « Réutilisation ».
 
 
-WARRANTY
-========
-There is no warranty for The Program, to the extent permitted by
-applicable law.  Except when otherwise stated in writing, The
-Copyright Holder provides The Program `as is' without warranty of any
-kind, either expressed or implied, including, but not limited to, the
-implied warranties of merchantability and fitness for a particular
-purpose.  The entire risk as to the quality and performance of the
-program is with you.  Should The Program prove defective, you assume
-the cost of all necessary servicing, repair or correction.
+« DONNÉES À CARACTÈRE PERSONNEL »
+-------------------------------------------------------------------
 
-In no event unless required by applicable law or agreed to in writing
-will The Copyright Holder, or any of the individual authors named in
-the source for The Program, be liable to you for damages, including
-any general, special, incidental or consequential damages arising out
-of any use of The Program or out of inability to use The Program
-(including but not limited to loss of data or data being rendered
-inaccurate or losses sustained by you or by third parties as a result
-of a failure of The Program to operate with any other programs), even
-if such holder or other party has been advised of the possibility of
-such damages.
+L’« Information » mise à disposition peut contenir des « Données à caractère
+personnel » pouvant faire l’objet d’une « Réutilisation ». Si tel est le cas,
+le « Concédant » informe le « Réutilisateur » de leur présence.
+
+L’« Information » peut être librement réutilisée, dans le cadre des droits
+accordés par la présente licence, à condition de respecter le cadre légal
+relatif à la protection des données à caractère personnel.
 
 
-DISTRIBUTION
-============
-Redistribution of unchanged files is allowed provided that all files
-that make up the distribution of The Program are distributed.
-In particular this means that The Program has to be distributed
-including its documentation if documentation was part of the original
-distribution.
+« DROITS DE PROPRIÉTÉ INTELLECTUELLE »
+-------------------------------------------------------------------
 
-The distribution of The Program will contain a prominent file
-listing all the files covered by this license.
+Il est garanti au « Réutilisateur » que les éventuels « Droits de propriété
+intellectuelle » détenus par des tiers ou par le « Concédant » sur
+l’« Information » ne font pas obstacle aux droits accordés par la présente
+licence.
 
-If you receive only some of these files from someone, complain!
-
-The distribution of changed versions of certain files included in the
-The Program, and the reuse of code from The Program, are allowed
-under the following restrictions:
-
- * It is allowed only if the legal notice in the file does not
-   expressly forbid it.
-   See note below, under "Conditions on individual files".
- 
- * You rename the file before you make any changes to it, unless the
-   file explicitly says that renaming is not required.  Any such changed
-   files must be distributed under a license that forbids distribution
-   of those files, and any files derived from them, under the names used
-   by the original files in the distribution of The Program.
-
- * You change any `identification string' in The Program to clearly 
-   indicate that the file is not part of the standard system.
-
- * If The Program includes an `error report address' so that errors
-   may be reported to The Copyright Holder, or other specified
-   addresses, this address must be changed in any modified versions of
-   The Program, so that reports for files not maintained by the
-   original program maintainers are directed to the maintainers of the
-   changed files. 
-
- * You acknowledge the source and authorship of the original version
-   in the modified file.
-
- * You also distribute the unmodified version of the file or
-   alternatively provide sufficient information so that the
-   user of your modified file can be reasonably expected to be
-   able to obtain an original, unmodified copy of The Program.
-   For example, you may specify a URL to a site that you expect
-   will freely provide the user with a copy of The Program (either
-   the version on which your modification is based, or perhaps a
-   later version).
-
- * If The Program is intended to be used with, or is based on, LaTeX,
-   then files with the following file extensions which have special
-   meaning in LaTeX Software, have special modification rules under the
-   license:
- 
-    - Files with extension `.ins' (installation files): these files may
-      not be modified at all because they contain the legal notices
-      that are placed in the generated files.
- 
-    - Files with extension `.fd' (LaTeX font definitions files): these
-      files are allowed to be modified without changing the name, but
-      only to enable use of all available fonts and to prevent attempts
-      to access unavailable fonts. However, modified files are not
-      allowed to be distributed in place of original files.
- 
-    - Files with extension `.cfg' (configuration files): these files
-      can be created or modified to enable easy configuration of the
-      system.  The documentation in cfgguide.tex in the base LaTeX
-      distribution describes when it makes sense to modify or generate
-      such files.
- 
-
-The above restrictions are not intended to prohibit, and hence do
-not apply to, the updating, by any method, of a file so that it
-becomes identical to the latest version of that file in The Program.
-
-========================================================================
-
-NOTES
-=====
-We believe that these requirements give you the freedom you to make
-modifications that conform with whatever technical specifications you
-wish, whilst maintaining the availability, integrity and reliability of
-The Program.  If you do not see how to achieve your goal whilst
-adhering to these requirements then read the document cfgguide.tex
-in the base LaTeX distribution for suggestions. 
-
-Because of the portability and exchangeability aspects of systems
-like LaTeX, The LaTeX3 Project deprecates the distribution of
-non-standard versions of components of LaTeX or of generally available
-contributed code for them but such distributions are permitted under the
-above restrictions.
-
-The document modguide.tex in the base LaTeX distribution details
-the reasons for the legal requirements detailed above.
-Even if The Program is unrelated to LaTeX, the argument in
-modguide.tex may still apply, and should be read before
-a modified version of The Program is distributed.
+Lorsque le « Concédant » détient des « Droits de propriété intellectuelle »
+cessibles sur l’« Information », il les cède au « Réutilisateur » de façon non
+exclusive, à titre gracieux, pour le monde entier, pour toute la durée des
+« Droits de propriété intellectuelle », et le « Réutilisateur » peut faire tout
+usage de l’« Information » conformément aux libertés et aux conditions définies
+par la présente licence.
 
 
-Conditions on individual files
-==============================
-The individual files may bear additional conditions which supersede
-the general conditions on distribution and modification contained in
-this file. If there are any such files, the distribution of The
-Program will contain a prominent file that lists all the exceptional
-files.
+RESPONSABILITÉ
+-------------------------------------------------------------------
 
-Typical examples of files with more restrictive modification
-conditions would be files that contain the text of copyright notices.
+L’« Information » est mise à disposition telle que produite ou reçue par le
+« Concédant », sans autre garantie expresse ou tacite que celles prévues par la
+présente licence. L’absence de défauts ou d’erreurs éventuellement contenues
+dans l’« Information », comme la fourniture continue de l’« Information » n’est
+pas garantie par le « Concédant ». Il ne peut être tenu pour responsable de
+toute perte, préjudice ou dommage de quelque sorte causé à des tiers du fait de
+la « Réutilisation ».
 
- * The conditions on individual files differ only in the
-   extent of *modification* that is allowed.
+Le « Réutilisateur » est seul responsable de la « Réutilisation » de
+l’« Information ».
 
- * The conditions on *distribution* are the same for all the files.
-   Thus a (re)distributor of a complete, unchanged copy of The Program
-   need meet only the conditions in this file; it is not necessary to
-   check the header of every file in the distribution to check that a
-   distribution meets these requirements.
+La « Réutilisation » ne doit pas induire en erreur des tiers quant au contenu
+de l’« Information », sa source et sa date de mise à jour.
+
+
+DROIT APPLICABLE
+-------------------------------------------------------------------
+
+La présente licence est régie par le droit français.
+
+
+COMPATIBILITÉ DE LA PRÉSENTE LICENCE
+-------------------------------------------------------------------
+
+La présente licence a été conçue pour être compatible avec toute licence libre
+qui exige au moins la mention de paternité et notamment avec la version
+antérieure de la présente licence ainsi qu’avec les licences :
+
+- « Open Government Licence » (OGL) du Royaume-Uni,
+- « Creative Commons Attribution » (CC-BY) de Creative Commons et
+- « Open Data Commons Attribution » (ODC-BY) de l’Open Knowledge Foundation.
+
+
+DÉFINITIONS
+-------------------------------------------------------------------
+
+Sont considérés, au sens de la présente licence comme :
+
+Le « Concédant » : toute personne concédant un droit de « Réutilisation » sur
+l’« Information » dans les libertés et les conditions prévues par la présente
+licence
+
+L’« Information » :
+
+- toute information publique figurant dans des documents communiqués ou publiés
+par une administration mentionnée au premier alinéa de l’article L.300-2 du
+CRPA;
+- toute information mise à disposition par toute personne selon les termes et
+conditions de la présente licence.
+
+La « Réutilisation » : l’utilisation de l’« Information » à d’autres fins que
+celles pour lesquelles elle a été produite ou reçue.
+
+Le « Réutilisateur »: toute personne qui réutilise les « Informations »
+conformément aux conditions de la présente licence.
+
+Des « Données à caractère personnel » : toute information se rapportant à une
+personne physique identifiée ou identifiable, pouvant être identifiée
+directement ou indirectement. Leur « Réutilisation » est subordonnée au respect
+du cadre juridique en vigueur.
+
+Une « Information dérivée » : toute nouvelle donnée ou information créées
+directement à partir de l’« Information » ou à partir d’une combinaison de
+l’« Information » et d’autres données ou informations non soumises à cette
+licence.
+
+Les « Droits de propriété intellectuelle » : tous droits identifiés comme tels
+par le Code de la propriété intellectuelle (notamment le droit d’auteur, droits
+voisins au droit d’auteur, droit sui generis des producteurs de bases de
+données…).
+
+
+À PROPOS DE CETTE LICENCE
+-------------------------------------------------------------------
+
+La présente licence a vocation à être utilisée par les administrations pour la
+réutilisation de leurs informations publiques. Elle peut également être
+utilisée par toute personne souhaitant mettre à disposition de
+l’« Information » dans les conditions définies par la présente licence.
+
+La France est dotée d’un cadre juridique global visant à une diffusion
+spontanée par les administrations de leurs informations publiques afin d’en
+permettre la plus large réutilisation.
+
+Le droit de la « Réutilisation » de l’« Information » des administrations est
+régi par le code des relations entre le public et l’administration (CRPA).
+
+Cette licence facilite la réutilisation libre et gratuite des informations
+publiques et figure parmi les licences qui peuvent être utilisées par
+l’administration en vertu du décret pris en application de l’article L.323-2
+du CRPA.
+
+Etalab est la mission chargée, sous l’autorité du Premier ministre, d’ouvrir le
+plus grand nombre de données publiques des administrations de l’Etat et de ses
+établissements publics. Elle a réalisé la Licence Ouverte pour faciliter la
+réutilisation libre et gratuite de ces informations publiques, telles que
+définies par l’article L321-1 du CRPA.
+
+Cette licence est la version 2.0 de la Licence Ouverte.
+
+Etalab se réserve la faculté de proposer de nouvelles versions de la Licence
+Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les
+informations qu’ils ont obtenues sous cette licence s’ils le souhaitent.
