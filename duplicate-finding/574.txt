@@ -1,102 +1,127 @@
-VIM LICENSE
+Unicode Terms of Use
 
-I)  There are no restrictions on distributing unmodified copies of Vim except
-    that they must include this license text.  You can also distribute
-    unmodified parts of Vim, likewise unrestricted except that they must
-    include this license text.  You are also allowed to include executables
-    that you made from the unmodified Vim sources, plus your own usage
-    examples and Vim scripts.
+For the general privacy policy governing access to this site, see the
+Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium
+Name and Trademark Usage Policy.
 
-II) It is allowed to distribute a modified (or extended) version of Vim,
-    including executables and/or source code, when the following four
-    conditions are met:
-    1) This license text must be included unmodified.
-    2) The modified Vim must be distributed in one of the following five ways:
-       a) If you make changes to Vim yourself, you must clearly describe in
-	  the distribution how to contact you.  When the maintainer asks you
-	  (in any way) for a copy of the modified Vim you distributed, you
-	  must make your changes, including source code, available to the
-	  maintainer without fee.  The maintainer reserves the right to
-	  include your changes in the official version of Vim.  What the
-	  maintainer will do with your changes and under what license they
-	  will be distributed is negotiable.  If there has been no negotiation
-	  then this license, or a later version, also applies to your changes.
-	The current maintainer is Bram Moolenaar <Bram@vim.org>. If this 
-	  changes it will be announced in appropriate places (most likely
-	  vim.sf.net, www.vim.org and/or comp.editors).  When it is completely
-	  impossible to contact the maintainer, the obligation to send him
-	  your changes ceases.  Once the maintainer has confirmed that he has
-	  received your changes they will not have to be sent again.
-       b) If you have received a modified Vim that was distributed as
-	  mentioned under a) you are allowed to further distribute it
-	  unmodified, as mentioned at I).  If you make additional changes the
-	  text under a) applies to those changes.
-       c) Provide all the changes, including source code, with every copy of
-	  the modified Vim you distribute.  This may be done in the form of a
-	  context diff.  You can choose what license to use for new code you
-	  add.  The changes and their license must not restrict others from
-	  making their own changes to the official version of Vim.
-       d) When you have a modified Vim which includes changes as mentioned
-	  under c), you can distribute it without the source code for the
-	  changes if the following three conditions are met:
-	  - The license that applies to the changes permits you to distribute
-	    the changes to the Vim maintainer without fee or restriction, and
-	    permits the Vim maintainer to include the changes in the official
-	    version of Vim without fee or restriction.
-	  - You keep the changes for at least three years after last
-	    distributing the corresponding modified Vim.  When the maintainer
-	    or someone who you distributed the modified Vim to asks you (in
-	    any way) for the changes within this period, you must make them
-	    available to him.
-	  - You clearly describe in the distribution how to contact you.  This
-	    contact information must remain valid for at least three years
-	    after last distributing the corresponding modified Vim, or as long
-	    as possible.
-       e) When the GNU General Public License (GPL) applies to the changes,
-	  you can distribute the modified Vim under the GNU GPL version 2 or
-	  any later version.
-    3) A message must be added, at least in the output of the ":version"
-       command and in the intro screen, such that the user of the modified Vim
-       is able to see that it was modified.  When distributing as mentioned
-       under 2)e) adding the message is only required for as far as this does
-       not conflict with the license used for the changes.
-    4) The contact information as required under 2)a) and 2)d) must not be
-       removed or changed, except that the person himself can make
-       corrections.
+A. Unicode Copyright.
 
-III) If you distribute a modified version of Vim, you are encouraged to use
-     the Vim license for your changes and make them available to the
-     maintainer, including the source code.  The preferred way to do this is
-     by e-mail or by uploading the files to a server and e-mailing the URL.
-     If the number of changes is small (e.g., a modified Makefile) e-mailing a
-     context diff will do.  The e-mail address to be used is
-<maintainer@vim.org> 
+1. Copyright ©  Unicode, Inc. All rights reserved.
 
-IV)  It is not allowed to remove this license from the distribution of the Vim
-     sources, parts of it or from a modified version.  You may use this
-     license for previous Vim releases instead of the license that they came
-     with, at your option.
+2. Certain documents and files on this website contain a legend
+indicating that "Modification is permitted." Any person is hereby
+authorized, without fee, to modify such documents and files to create
+derivative works conforming to the Unicode® Standard, subject to Terms
+and Conditions herein.
 
+3. Any person is hereby authorized, without fee, to view, use,
+reproduce, and distribute all documents and files solely for
+informational purposes in the creation of products supporting the
+Unicode Standard, subject to the Terms and Conditions herein.
 
-Note:
+4. Further specifications of rights and restrictions pertaining to the
+use of the particular set of data files known as the "Unicode Character
+Database" can be found in Exhibit 1.
 
-- If you are happy with Vim, please express that by reading the rest of this
-  file and consider helping needy children in Uganda.
+5. Each version of the Unicode Standard has further specifications of
+rights and restrictions of use. For the book editions (Unicode 5.0 and
+earlier), these are found on the back of the title page. The online code
+charts carry specific restrictions. All other files, including online
+documentation of the core specification for Unicode 6.0 and later, are
+covered under these general Terms of Use.
 
-- If you want to support further Vim development consider becoming a
-  |sponsor|.  The money goes to Uganda anyway.
+6. No license is granted to "mirror" the Unicode website where a fee is
+charged for access to the "mirror" site.
 
-- According to Richard Stallman the Vim license is GNU GPL compatible.
-  A few minor changes have been made since he checked it, but that should not
-  make a difference.
+7. Modification is not permitted with respect to this document. All
+copies of this document must be verbatim.
 
-- If you link Vim with a library that goes under the GNU GPL, this limits
-  further distribution to the GNU GPL.  Also when you didn't actually change
-  anything in Vim.
+B. Restricted Rights Legend. Any technical data or software which is
+licensed to the United States of America, its agencies and/or
+instrumentalities under this Agreement is commercial technical data or
+commercial computer software developed exclusively at private expense as
+defined in FAR 2.101, or DFARS 252.227-7014 (June 1995), as applicable.
+For technical data, use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in DFARS 202.227-7015 Technical
+Data, Commercial and Items (Nov 1995) and this Agreement. For Software,
+in accordance with FAR 12-212 or DFARS 227-7202, as applicable, use,
+duplication or disclosure by the Government is subject to the
+restrictions set forth in this Agreement.
 
-- Once a change is included that goes under the GNU GPL, this forces all
-  further changes to also be made under the GNU GPL or a compatible license.
+C. Warranties and Disclaimers.
 
-- If you distribute a modified version of Vim, you can include your name and
-  contact information with the "--with-modified-by" configure argument or the
-  MODIFIED_BY define.
+1. This publication and/or website may include technical or
+typographical errors or other inaccuracies . Changes are periodically
+added to the information herein; these changes will be incorporated in
+new editions of the publication and/or website. Unicode may make
+improvements and/or changes in the product(s) and/or program(s)
+described in this publication and/or website at any time.
+
+2. If this file has been purchased on magnetic or optical media from
+Unicode, Inc. the sole and exclusive remedy for any claim will be
+exchange of the defective media within ninety (90) days of original
+purchase.
+
+3. EXCEPT AS PROVIDED IN SECTION C.2, THIS PUBLICATION AND/OR SOFTWARE
+IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND EITHER EXPRESS,
+IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+UNICODE AND ITS LICENSORS ASSUME NO RESPONSIBILITY FOR ERRORS OR
+OMISSIONS IN THIS PUBLICATION AND/OR SOFTWARE OR OTHER DOCUMENTS WHICH
+ARE REFERENCED BY OR LINKED TO THIS PUBLICATION OR THE UNICODE WEBSITE.
+
+D. Waiver of Damages. In no event shall Unicode or its licensors be
+liable for any special, incidental, indirect or consequential damages of
+any kind, or any damages whatsoever, whether or not Unicode was advised
+of the possibility of the damage, including, without limitation, those
+resulting from the following: loss of use, data or profits, in
+connection with the use, modification or distribution of this
+information or its derivatives.
+
+E. Trademarks & Logos.
+
+1. The Unicode Word Mark and the Unicode Logo are trademarks of Unicode,
+Inc. "The Unicode Consortium" and "Unicode, Inc." are trade names of
+Unicode, Inc. Use of the information and materials found on this website
+indicates your acknowledgement of Unicode, Inc.’s exclusive worldwide
+rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade
+names.
+
+2. The Unicode Consortium Name and Trademark Usage Policy ("Trademark
+Policy") are incorporated herein by reference and you agree to abide by
+the provisions of the Trademark Policy, which may be changed from time
+to time in the sole discretion of Unicode, Inc.
+
+3. All third party trademarks referenced herein are the property of
+their respective owners.
+
+F. Miscellaneous.
+
+1. Jurisdiction and Venue. This server is operated from a location in
+the State of California, United States of America. Unicode makes no
+representation that the materials are appropriate for use in other
+locations. If you access this server from other locations, you are
+responsible for compliance with local laws. This Agreement, all use of
+this site and any claims and damages resulting from use of this site are
+governed solely by the laws of the State of California without regard to
+any principles which would apply the laws of a different jurisdiction.
+The user agrees that any disputes regarding this site shall be resolved
+solely in the courts located in Santa Clara County, California. The user
+agrees said courts have personal jurisdiction and agree to waive any
+right to transfer the dispute to any other forum.
+
+2. Modification by Unicode Unicode shall have the right to modify this
+Agreement at any time by posting it to this site. The user may not
+assign any part of this Agreement without Unicode’s prior written
+consent.
+
+3. Taxes. The user agrees to pay any taxes arising from access to this
+website or use of the information herein, except for those based on
+Unicode’s net income.
+
+4. Severability. If any provision of this Agreement is declared invalid
+or unenforceable, the remaining provisions of this Agreement shall
+remain in effect.
+
+5. Entire Agreement. This Agreement constitutes the entire agreement
+between the parties.

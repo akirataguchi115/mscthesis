@@ -1,2 +1,4 @@
-This configure script is free software; the Free Software Foundation gives
-unlimited permission to copy, distribute and modify it.
+These fonts are free software.
+Unlimited permission is granted to use, copy, and distribute them, with or
+without modification, either commercially or noncommercially.
+THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.

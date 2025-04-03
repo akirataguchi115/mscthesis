@@ -1,13 +1,10 @@
-NO LIMIT PUBLIC LICENSE
-           Version 0, June 2012
+My "symlinks" utility pre-dates the "open source licensing"
+fad by a number of years. Just to clarify, this is 100%
+freeware, written entirely by myself. The intent is to use
+it to detect missing/obsolete symlink targets on an installed
+distro, before creating the "gold" (or "final") release discs.
 
-Gilles LAMIRAL
-La Billais
-35580 Baulon
-France
-
-                 NO LIMIT PUBLIC LICENSE
-Terms and conditions for copying, distribution, modification
-or anything else.
-
-  0. No limit to do anything with this work and this license.
+Use and distribute and modify as you (or anyone
+else) sees fit. There have no formal restrictions or
+requirements whatsoever regarding distribution of either
+binaries or source code, whether modified or original.

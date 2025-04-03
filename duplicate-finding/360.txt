@@ -1,12 +1,5 @@
-Permission to use, reproduce, display and distribute the listed typefaces
-is hereby granted, provided that the Adobe Copyright notice appears in all
-whole and partial copies of the software and that the following trademark
-symbol and attribution appear in all unmodified copies of the software:
-
-The Adobe typefaces (Type 1 font program, bitmaps and Adobe Font Metric
-files) donated are:
-
-        Utopia Regular
-        Utopia Italic
-        Utopia Bold
-        Utopia Bold Italic
+Permission to use, copy, modify, distribute, and sell this software
+and its documentation for any purpose is hereby granted without
+fee, provided that the above copyright notice appear in all copies.
+This software is provided "as is" without express or implied
+warranty.

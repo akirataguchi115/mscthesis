@@ -1,134 +1,185 @@
-Open Data Commons – Public Domain Dedication & Licence (PDDL)
-Preamble
-The Open Data Commons – Public Domain Dedication & Licence is a document intended to allow you to freely share, modify, and use this work for any purpose and without any restrictions. This licence is intended for use on databases or their contents ("data"), either together or individually.
+OCLC Research Public License 2.0
+Terms & Conditions Of Use
+May, 2002
+Copyright (C) 2002. OCLC Research. All Rights Reserved
+ 
+PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING OR USING THE CODE BASE 
+AND/OR DOCUMENTATION ACCOMPANYING THIS LICENSE (THE "License"), YOU AGREE TO 
+THE FOLLOWING TERMS AND CONDITIONS OF THIS LICENSE. 
 
-Many databases are covered by copyright. Some jurisdictions, mainly in Europe, have specific special rights that cover databases called the "sui generis" database right. Both of these sets of rights, as well as other legal rights used to protect databases and data, can create uncertainty or practical difficulty for those wishing to share databases and their underlying data but retain a limited amount of rights under a "some rights reserved" approach to licensing as outlined in the Science Commons Protocol for Implementing Open Access Data. As a result, this waiver and licence tries to the fullest extent possible to eliminate or fully license any rights that cover this database and data. Any Community Norms or similar statements of use of the database or data do not form a part of this document, and do not act as a contract for access or other terms of use for the database or data.
+Section 1.	Your Rights
 
-The position of the recipient of the work
+	Subject to these terms and conditions of this License, the OCLC Office of Research (the 
+"Original Contributor") and each subsequent contributor (collectively with the Original Contributor, the 
+"Contributors") hereby grant you a non-exclusive, worldwide, no-charge, transferable license to execute, 
+prepare derivative works of, and distribute (internally and externally), for commercial and noncommercial 
+purposes, the original code contributed by Original Contributor and all Modifications (collectively called 
+the "Program").
 
-Because this document places the database and its contents in or as close as possible within the public domain, there are no restrictions or requirements placed on the recipient by this document. Recipients may use this work commercially, use technical protection measures, combine this data or database with other databases or data, and share their changes and additions or keep them secret. It is not a requirement that recipients provide further users with a copy of this licence or attribute the original creator of the data or database as a source. The goal is to eliminate restrictions held by the original creator of the data and database on the use of it by others.
+Section 2.	Definitions 
 
-The position of the dedicator of the work
+A "Modification" to the Program is any addition to or deletion from the contents of any file of 
+the Program and any new file that contains any part of the Program. If you make a Modification and 
+distribute the Program externally you are a "Contributor." The distribution of the Program must be under 
+the terms of this license including those in Section 3 below. 
 
-Copyright law, as with most other law under the banner of "intellectual property", is inherently national law. This means that there exists several differences in how copyright and other intellectual property rights can be relinquished, waived or licensed in the many legal jurisdictions of the world. This is despite much harmonisation of minimum levels of protection. The internet and other communication technologies span these many disparate legal jurisdictions and thus pose special difficulties for a document relinquishing and waiving intellectual property rights, including copyright and database rights, for use by the global community. Because of this feature of intellectual property law, this document first relinquishes the rights and waives the relevant rights and claims. It then goes on to license these same rights for jurisdictions or areas of law that may make it difficult to relinquish or waive rights or claims.
+A "Combined Work" results from combining and integrating all or parts of the Program with 
+other code. A Combined Work may be thought of as having multiple parents or being result of multiple 
+lines of code development. 
 
-The purpose of this document is to enable rightsholders to place their work into the public domain. Unlike licences for free and open source software, free cultural works, or open content licences, rightsholders will not be able to "dual license" their work by releasing the same work under different licences. This is because they have allowed anyone to use the work in whatever way they choose. Rightsholders therefore can't re-license it under copyright or database rights on different terms because they have nothing left to license. Doing so creates truly accessible data to build rich applications and advance the progress of science and the arts.
+Section 3.	Distribution Licensing Terms 
 
-This document can cover either or both of the database and its contents (the data). Because databases can have a wide variety of content – not just factual data – rightsholders should use the Open Data Commons – Public Domain Dedication & Licence for an entire database and its contents only if everything can be placed under the terms of this document. Because even factual data can sometimes have intellectual property rights, rightsholders should use this licence to cover both the database and its factual data when making material available under this document; even if it is likely that the data would not be covered by copyright or database rights. 
+A.	General Requirements
 
-Rightsholders can also use this document to cover any copyright or database rights claims over only a database, and leave the contents to be covered by other licences or documents. They can do this because this document refers to the "Work", which can be either – or both – the database and its contents. As a result, rightsholders need to clearly state what they are dedicating under this document when they dedicate it.
+Except as necessary to recognize third-party rights or third-party restriction (see 
+below), a distribution of the Program in any of the forms listed below must not put any 
+further restrictions on the recipient's exercise of the rights granted herein.
 
-Just like any licence or other document dealing with intellectual property, rightsholders should be aware that one can only license what one owns. Please ensure that the rights have been cleared to make this material available under this document.
+As a Contributor, you represent that your Modification(s) are your original creation(s) 
+and, to the best of your knowledge, no third party has any claim (including but not 
+limited to intellectual property claims) relating to your Modification(s). You represent 
+that each of your Modifications includes complete details of any third-party right or 
+other third-party restriction associated with any part of your Modification (including a 
+copy of any applicable license agreement).
 
-This document permanently and irrevocably makes the Work available to the public for any use of any kind, and it should not be used unless the rightsholder is prepared for this to happen. 
+The Program must be distributed without charge beyond the costs of physically 
+transferring the files to the recipient.
 
-Part I: Introduction
+This Warranty Disclaimer/Limitation of Liability must be prominently displayed with 
+every distribution of the Program in any form:
 
-The Rightsholder (the Person holding rights or claims over the Work) agrees as follows: 
-1.0 	Definitions of Capitalised Words
+YOU AGREE THAT THE PROGRAM IS PROVIDED AS-IS, WITHOUT WARRANTY 
+OF ANY KIND (EITHER EXPRESS OR IMPLIED).  ACCORDINGLY, OCLC MAKES 
+NO WARRANTIES, REPRESENTATIONS OR GUARANTEES, EITHER EXPRESS 
+OR IMPLIED, AND DISCLAIMS ALL SUCH WARRANTIES, REPRESENTATIONS OR 
+GUARANTEES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR ANY PARTICULAR PURPOSE, AS TO:  
+(A) THE FUNCTIONALITY OR NONINFRINGEMENT OF PROGRAM, ANY 
+MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK; OR (B) THE 
+RESULTS OF ANY PROJECT UNDERTAKEN USING THE PROGRAM, ANY 
+MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK.   IN NO EVENT 
+SHALL THE CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR ANY OTHER 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE 
+PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  YOU 
+HEREBY WAIVE ANY CLAIMS FOR DAMAGES OF ANY KIND AGAINST 
+CONTRIBUTORS WHICH MAY RESULT FROM YOUR USE OF THE PROGRAM.
 
-"Copyright"  – Includes rights under copyright and under neighbouring rights and similarly related sets of rights under the law of the relevant jurisdiction under Section 6.4.
+B.	Requirements for a Distribution of Modifiable Code 
 
-"Data" – The contents of the Database, which includes the information, independent works, or other material collected into the Database offered under the terms of this Document. 
+If you distribute the Program in a form to which the recipient can make Modifications 
+(e.g. source code), the terms of this license apply to use by recipient. In addition, each 
+source and data file of the Program and any Modification you distribute must contain 
+the following notice: 
 
-"Database" – A collection of Data arranged in a systematic or methodical way and individually accessible by electronic or other means offered under the terms of this Document. 
+"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
+Inc. and other contributors. All rights reserved.  The contents of this file, as updated 
+from time to time by the OCLC Office of Research, are subject to OCLC Research 
+Public License Version 2.0 (the "License"); you may not use this file except in 
+compliance with the License. You may obtain a current copy of the License at 
+http://purl.oclc.org/oclc/research/ORPL/.  Software distributed under the License is 
+distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express 
+or implied. See the License for the specific language governing rights and limitations 
+under the License.  This software consists of voluntary contributions made by many 
+individuals on behalf of OCLC Research. For more information on OCLC Research, 
+please see http://www.oclc.org/oclc/research/.  The Original Code is 
+ .  The Initial Developer of the Original Code is 
+ . Portions created by   are 
+Copyright (C)    . All Rights Reserved. Contributor(s): 
+ ."
 
-"Database Right"  – Means rights over Data resulting from the Chapter III ("sui generis") rights in the Database Directive (Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases)  and any future updates as well as any similar rights available in the relevant jurisdiction under Section 6.4. 
+C.	Requirements for a Distribution of Non-modifiable Code 
 
-"Document"  – means this relinquishment and waiver of rights and claims and back up licence agreement. 
+If you distribute the Program in a form to which the recipient cannot make Modifications 
+(e.g. object code), the terms of this license apply to use by recipient and you must 
+include the following statement in appropriate and conspicuous locations:
 
-"Person" – Means a natural or legal person or a body of persons corporate or incorporate.
+"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
+Inc. and other contributors. All rights reserved."
 
-"Use" –  As a verb, means doing any act that is restricted by Copyright or Database Rights whether in the original medium or any other; and includes modifying the Work as may be technically necessary to use it in a different mode or format.  This includes the right to sublicense the Work.
+In addition, the source code must be included with the object code distribution or the 
+distributor must provide the source code to the recipient upon request.
 
-"Work" – Means either or both of the Database and Data offered under the terms of this Document. 
+D.	Requirements for a Combined Work Distribution
 
-"You"  – the Person acquiring rights under the licence elements of this Document.
+Distributions of Combined Works are subject to the terms of this license and must be 
+made at no charge to the recipient beyond the costs of physically transferring the files 
+to recipient.
 
-Words in the singular include the plural and vice versa.
-2.0 	What this document covers
+A Combined Work may be distributed as either modifiable or non-modifiable code. The 
+requirements of Section 3.B or 3.C above (as appropriate) apply to such distributions.
 
-2.1. Legal effect of this Document. This Document is:
+An "Aggregate Work" is when the Program exists, without integration, with other 
+programs on a storage medium. This License does not apply to portions of an 
+Aggregate Work which are not covered by the definition of "Program" provided in this 
+License. You are not forbidden from selling an Aggregate Work. However, the Program 
+contained in an Aggregate Work is subject to this License.  Also, should the Program 
+be extracted from an Aggregate Work, this License applies to any use of the Program 
+apart from the Aggregate Work.
 
-a. A dedication to the public domain and waiver of Copyright and Database Rights over the Work; and
+Section 4.	License Grant
 
-b. A licence of Copyright and Database Rights over the Work in jurisdictions that do not allow for relinquishment or waiver.
+For purposes of permitting use of your Modifications by OCLC and other licensees 
+hereunder, you hereby grant to OCLC and such other licensees the non-exclusive, worldwide, royalty-
+free, transferable, sublicenseable license to execute, copy, alter, delete, modify, adapt, change, revise, 
+enhance, develop, publicly display, distribute (internally and externally) and/or create derivative works 
+based on your Modifications (and derivative works thereof) in accordance with these Terms. This Section 
+4 shall survive termination of this License for any reason.
 
-2.2. Legal rights covered.
+Section 5.	Termination of Rights
 
- a. Copyright. Any copyright or neighbouring rights in the Work. Copyright law varies between jurisdictions, but is likely to cover: the Database model or schema, which is the structure, arrangement, and organisation of the Database, and can also include the Database tables and table indexes; the data entry and output sheets; and the Field names of Data stored in the Database. Copyright may also cover the Data depending on the jurisdiction and type of Data; and
+This non-exclusive license (with respect to the grant from a particular Contributor) 
+automatically terminates for any entity that initiates legal action for intellectual property infringement (with 
+respect to the Program) against such Contributor as of the initiation of such action.
 
- b. Database Rights. Database Rights only extend to the extraction and re-utilisation of the whole or a substantial part of the Data. Database Rights can apply even when there is no copyright over the Database. Database Rights can also apply when the Data is removed from the Database and is selected and arranged in a way that would not infringe any applicable copyright.
+If you fail to comply with this License, your rights (but not your obligations) under this 
+License shall terminate automatically unless you cure such breach within thirty (30) days of becoming 
+aware of the noncompliance. All sublicenses granted by you which preexist such termination and are 
+properly granted shall survive such termination.
 
-2.2 Rights not covered. 
+Section 6.	Other Terms
 
-a. This Document does not apply to computer programs used in the making or operation of the Database; 
+Except for the copyright notices required above, you may not use any trademark of any of 
+the Contributors without the prior written consent of the relevant Contributor.  You agree not to remove, 
+alter or obscure any copyright or other proprietary rights notice contained in the Program. 
 
-b. This Document does not cover any patents over the Data or the Database. Please see Section 4.2 later in this Document for further details; and
+All transfers of the Program or any part thereof shall be made in compliance with U.S. 
+import/export regulations or other restrictions of the U.S. Department of Commerce, as well as other 
+similar trade or commerce restrictions which might apply.
 
-c. This Document does not cover any trade marks associated with the Database. Please see Section 4.3 later in this Document for further details.
+Any patent obtained by any party covering the Program or any part thereof must include a 
+provision providing for the free, perpetual and unrestricted commercial and noncommercial use by any 
+third party.
 
-Users of this Database are cautioned that they may have to clear other rights or consult other licences.
+If, as a consequence of a court judgment or settlement relating to intellectual property 
+infringement or any other cause of action, conditions are imposed on you that contradict the conditions of 
+this License, such conditions do not excuse you from compliance with this License. If you cannot 
+distribute the Program so as to simultaneously satisfy your obligations under this License and such other 
+conditions, you may not distribute the Program at all. For example, if a patent license would not permit 
+royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, 
+you could not satisfy both the patent license and this License, and you would be required to refrain 
+entirely from distribution of the Program.
 
-2.3 Facts are free. The Rightsholder takes the position that factual information is not covered by Copyright. This Document however covers the Work in jurisdictions that may protect the factual information in the Work by Copyright, and to cover any information protected by Copyright that is contained in the Work.
-Part II: Dedication to the public domain
-3.0 	Dedication, waiver, and licence of Copyright and Database Rights
+If you learn of a third party claim or other restriction relating to a Program you have already 
+distributed you shall promptly redo your Program to address the issue and take all reasonable steps to 
+inform those who may have received the Program at issue. An example of an appropriate reasonable 
+step to inform would be posting an announcement on an appropriate web bulletin board. 
 
-3.1 Dedication of Copyright and Database Rights to the public domain. The Rightsholder by using this Document, dedicates the Work to the public domain for the benefit of the public and relinquishes all rights in Copyright and Database Rights over the Work.
+The provisions of this License are deemed to be severable, and the invalidity or unenforceability of 
+any provision shall not affect or impair the remaining provisions which shall continue in full force and effect.  In 
+substitution for any provision held unlawful, there shall be substituted a provision of similar import reflecting the 
+original intent of the parties hereto to the extent permissible under law.
 
-a. The Rightsholder realises that once these rights are relinquished, that the Rightsholder has no further rights in Copyright and Database Rights over the Work, and that the Work is free and open for others to Use.
+The Original Contributor from time to time may change this License, and the amended 
+license will apply to all copies of the Program downloaded after the new license is posted. This License 
+grants only the rights expressly stated herein and provides you with no implied rights or licenses to the 
+intellectual property of any Contributor.
 
-b. The Rightsholder intends for their relinquishment to cover all present and future rights in the Work under Copyright and Database Rights, whether they are vested or contingent rights, and that this relinquishment of rights covers all their heirs and successors.
-
-The above relinquishment of rights applies worldwide and includes media and formats now known or created in the future.
-
-3.2 Waiver of rights and claims in Copyright and Database Rights when Section 3.1 dedication inapplicable. If the dedication in Section 3.1 does not apply in the relevant jurisdiction under Section 6.4, the Rightsholder waives any rights and claims that the Rightsholder may have or acquire in the future over the Work in:
-
-a. Copyright; and
-
-b. Database Rights.
-
- To the extent possible in the relevant jurisdiction, the above waiver of rights and claims applies worldwide and includes media and formats now known or created in the future. The Rightsholder agrees not to assert the above rights and waives the right to enforce them over the Work. 
-
-3.3 Licence of Copyright and Database Rights when Sections 3.1 and 3.2 inapplicable.  If the dedication and waiver in Sections 3.1 and 3.2 does not apply in the relevant jurisdiction under Section 6.4, the Rightsholder and You agree as follows:
-
-a. The Licensor grants to You a worldwide, royalty-free, non-exclusive, licence to Use the Work for the duration of any applicable Copyright and Database Rights. These rights explicitly include commercial use, and do not exclude any field of endeavour. To the extent possible in the relevant jurisdiction, these rights may be exercised in all media and formats whether now known or created in the future.
-
-3.4 Moral rights. This section covers moral rights, including the right to be identified as the author of the Work or to object to treatment that would otherwise prejudice the author's honour and reputation, or any other derogatory treatment:
-
-a. For jurisdictions allowing waiver of moral rights, Licensor waives all moral rights that Licensor may have in the Work to the fullest extent possible by the law of the relevant jurisdiction under Section 6.4; 
-
-b. If waiver of moral rights under Section 3.4 a in the relevant jurisdiction is not possible, Licensor agrees not to assert any moral rights over the Work and waives all claims in moral rights to the fullest extent possible by the law of the relevant jurisdiction under Section 6.4; and
-
-c. For jurisdictions not allowing waiver or an agreement not to assert moral rights under Section 3.4 a and b, the author may retain their moral rights over the copyrighted aspects of the Work.
-
-Please note that some jurisdictions do not allow for the waiver of moral rights, and so moral rights may still subsist over the work in some jurisdictions.
-
-4.0 	Relationship to other rights
-
-4.1 No other contractual conditions. The Rightsholder makes this Work available to You without any other contractual obligations, either express or implied. Any Community Norms statement associated with the Work is not a contract and does not form part of this Document.
-
-4.2 Relationship to patents. This Document does not grant You a licence for any patents that the Rightsholder may own. Users of this Database are cautioned that they may have to clear other rights or consult other licences.
-
-4.3 Relationship to trade marks. This Document does not grant You a licence for any trade marks that the Rightsholder may own or that the Rightsholder may use to cover the Work. Users of this Database are cautioned that they may have to clear other rights or consult other licences.
-
-Part III: General provisions
-
-5.0 	Warranties, disclaimer, and limitation of liability
-
-5.1 The Work is provided by the Rightsholder "as is" and without any warranty of any kind, either express or implied, whether of title, of accuracy or completeness, of the presence of absence of errors, of fitness for purpose, or otherwise. Some jurisdictions do not allow the exclusion of implied warranties, so this exclusion may not apply to You.
-
-5.2 Subject to any liability that may not be excluded or limited by law, the Rightsholder is not 
-liable for, and expressly excludes, all liability for loss or damage however and whenever caused to anyone by any use under this Document, whether by You or by anyone else, and whether caused by any fault on the part of the Rightsholder or not. This exclusion of liability includes, but is not limited to, any special, incidental, consequential, punitive, or exemplary damages. This exclusion applies even if the Rightsholder has been advised of the possibility of such damages.
-
-5.3 If liability may not be excluded by law, it is limited to actual and direct financial loss to the extent it is caused by proved negligence on the part of the Rightsholder.
-
-6.0 	General
-
-6.1 If any provision of this Document is held to be invalid or unenforceable, that must not affect the validity or enforceability of the remainder of the terms of this Document. 
-
-6.2 This Document is the entire agreement between the parties with respect to the Work covered here. It replaces any earlier understandings, agreements or representations with respect to the Work not specified here. 
-
-6.3 This Document does not affect any rights that You or anyone else may independently have under any applicable law to make any use of this Work, including (for jurisdictions where this Document is a licence) fair dealing, fair use, database exceptions, or any other legally recognised limitation or exception to infringement of copyright or other applicable laws. 
-
-6.4 This Document takes effect in the relevant jurisdiction in which the Document terms are sought to be enforced. If the rights waived or granted under applicable law in the relevant jurisdiction includes additional rights not waived or granted under this Document, these additional rights are included in this Document in order to meet the intent of this Document.
+		This License is the complete and exclusive statement of the agreement between the 
+parties concerning the subject matter hereof and may not be amended except by the written agreement of 
+the parties. This License shall be governed by and construed in accordance with the laws of the State of 
+Ohio and the United States of America, without regard to principles of conflicts of law.

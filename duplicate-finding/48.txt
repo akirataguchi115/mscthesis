@@ -1,13 +1,38 @@
-ACE(TM), TAO(TM), CIAO(TM), DAnCE(TM), and CoSMIC(TM)
-(henceforth referred to as "DOC software") are copyrighted by
-Douglas C. Schmidt and his research group at Washington University,
-University of California, Irvine, and Vanderbilt University,
-Copyright (c) 1993-2009, all rights reserved.
-Since DOC software is open-source, freely available software,
-you are free to use, modify, copy, and distribute--perpetually and
-irrevocably--the DOC software source code and object code produced
-from the source, as well as copy and distribute modified versions of
-this software. You must, however, include this copyright statement
-along with any code built using DOC software that you release. No
-copyright statement needs to be provided if you just ship binary
-executables of your software products. 
+A copyright notice accompanies this license document that identifies the copyright
+holders.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+Redistributions in source code must retain the accompanying
+copyright notice, this list of conditions, and the following
+disclaimer.
+
+Redistributions in binary form must reproduce the accompanying
+copyright notice, this list of conditions, and the following
+disclaimer in the documentation and/or other materials provided
+with the distribution.
+
+Names of the copyright holders must not be used to endorse or
+promote products derived from this software without prior
+written permission from the copyright holders.
+
+If any files are modified, you must cause the modified files to
+carry prominent notices stating that you changed the files and
+the date of any change.
+
+Disclaimer
+
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND
+  ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+  TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+  PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+  HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+  TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+  ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+  TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+  THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+  SUCH DAMAGE.

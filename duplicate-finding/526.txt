@@ -1,45 +1,24 @@
-This license applies to all portions of TMate SVNKit library, which 
-are not externally-maintained libraries (e.g. Ganymed SSH library).
+This is free and unencumbered software released into the public domain.
 
-All the source code and compiled classes in package org.tigris.subversion.javahl
-except SvnClient class are covered by the license in JAVAHL-LICENSE file
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-Copyright (c) 2004-2009 TMate Software. All rights reserved.
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-Redistribution and use in source and binary forms, with or without modification, 
-are permitted provided that the following conditions are met:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-    * Redistributions of source code must retain the above copyright notice, 
-      this list of conditions and the following disclaimer.
-      
-    * Redistributions in binary form must reproduce the above copyright notice, 
-      this list of conditions and the following disclaimer in the documentation 
-      and/or other materials provided with the distribution.
-      
-    * Redistributions in any form must be accompanied by information on how to 
-      obtain complete source code for the software that uses SVNKit and any 
-      accompanying software that uses the software that uses SVNKit. The source 
-      code must either be included in the distribution or be available for no 
-      more than the cost of distribution plus a nominal fee, and must be freely 
-      redistributable under reasonable conditions. For an executable file, complete 
-      source code means the source code for all modules it contains. It does not 
-      include source code for modules or files that typically accompany the major 
-      components of the operating system on which the executable file runs.
-      
-    * Redistribution in any form without redistributing source code for software 
-      that uses SVNKit is possible only when such redistribution is explictly permitted 
-      by TMate Software. Please, contact TMate Software at support@svnkit.com to 
-      get such permission.
-
-THIS SOFTWARE IS PROVIDED BY TMATE SOFTWARE ``AS IS'' AND ANY EXPRESS OR IMPLIED
-WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE 
-DISCLAIMED. 
-
-IN NO EVENT SHALL TMATE SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT, 
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT 
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE 
-OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF 
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+For more information, please refer to <http://unlicense.org/>

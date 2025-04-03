@@ -1,152 +1,102 @@
-Yahoo! Public License, Version 1.1 (YPL)
+VIM LICENSE
 
-This Yahoo! Public License (this "Agreement") is a legal agreement that
-describes the terms under which Yahoo! Inc., a Delaware corporation having its
-principal place of business at 701 First Avenue, Sunnyvale, California 94089
-("Yahoo!") will provide software to you via download or otherwise ("Software").
-By using the Software, you, an individual or an entity ("You") agree to the
-terms of this Agreement.
+I)  There are no restrictions on distributing unmodified copies of Vim except
+    that they must include this license text.  You can also distribute
+    unmodified parts of Vim, likewise unrestricted except that they must
+    include this license text.  You are also allowed to include executables
+    that you made from the unmodified Vim sources, plus your own usage
+    examples and Vim scripts.
 
-In consideration of the mutual promises and upon the terms and conditions set
-forth below, the parties agree as follows:
+II) It is allowed to distribute a modified (or extended) version of Vim,
+    including executables and/or source code, when the following four
+    conditions are met:
+    1) This license text must be included unmodified.
+    2) The modified Vim must be distributed in one of the following five ways:
+       a) If you make changes to Vim yourself, you must clearly describe in
+	  the distribution how to contact you.  When the maintainer asks you
+	  (in any way) for a copy of the modified Vim you distributed, you
+	  must make your changes, including source code, available to the
+	  maintainer without fee.  The maintainer reserves the right to
+	  include your changes in the official version of Vim.  What the
+	  maintainer will do with your changes and under what license they
+	  will be distributed is negotiable.  If there has been no negotiation
+	  then this license, or a later version, also applies to your changes.
+	The current maintainer is Bram Moolenaar <Bram@vim.org>. If this 
+	  changes it will be announced in appropriate places (most likely
+	  vim.sf.net, www.vim.org and/or comp.editors).  When it is completely
+	  impossible to contact the maintainer, the obligation to send him
+	  your changes ceases.  Once the maintainer has confirmed that he has
+	  received your changes they will not have to be sent again.
+       b) If you have received a modified Vim that was distributed as
+	  mentioned under a) you are allowed to further distribute it
+	  unmodified, as mentioned at I).  If you make additional changes the
+	  text under a) applies to those changes.
+       c) Provide all the changes, including source code, with every copy of
+	  the modified Vim you distribute.  This may be done in the form of a
+	  context diff.  You can choose what license to use for new code you
+	  add.  The changes and their license must not restrict others from
+	  making their own changes to the official version of Vim.
+       d) When you have a modified Vim which includes changes as mentioned
+	  under c), you can distribute it without the source code for the
+	  changes if the following three conditions are met:
+	  - The license that applies to the changes permits you to distribute
+	    the changes to the Vim maintainer without fee or restriction, and
+	    permits the Vim maintainer to include the changes in the official
+	    version of Vim without fee or restriction.
+	  - You keep the changes for at least three years after last
+	    distributing the corresponding modified Vim.  When the maintainer
+	    or someone who you distributed the modified Vim to asks you (in
+	    any way) for the changes within this period, you must make them
+	    available to him.
+	  - You clearly describe in the distribution how to contact you.  This
+	    contact information must remain valid for at least three years
+	    after last distributing the corresponding modified Vim, or as long
+	    as possible.
+       e) When the GNU General Public License (GPL) applies to the changes,
+	  you can distribute the modified Vim under the GNU GPL version 2 or
+	  any later version.
+    3) A message must be added, at least in the output of the ":version"
+       command and in the intro screen, such that the user of the modified Vim
+       is able to see that it was modified.  When distributing as mentioned
+       under 2)e) adding the message is only required for as far as this does
+       not conflict with the license used for the changes.
+    4) The contact information as required under 2)a) and 2)d) must not be
+       removed or changed, except that the person himself can make
+       corrections.
 
-1. Grant of Copyright License
+III) If you distribute a modified version of Vim, you are encouraged to use
+     the Vim license for your changes and make them available to the
+     maintainer, including the source code.  The preferred way to do this is
+     by e-mail or by uploading the files to a server and e-mailing the URL.
+     If the number of changes is small (e.g., a modified Makefile) e-mailing a
+     context diff will do.  The e-mail address to be used is
+<maintainer@vim.org> 
 
-1.1 - Subject to the terms and conditions of this Agreement, Yahoo! hereby
-grants to You, under any and all of its copyright interest in and to the
-Software, a royalty-free, non-exclusive, non-transferable license to copy,
-modify, compile, execute, and distribute the Software and Modifications. For the
-purposes of this Agreement, any change to, addition to, or abridgement of the
-Software made by You is a "Modification;" however, any file You add to the
-Software that does not contain any part of the Software is not a "Modification."
+IV)  It is not allowed to remove this license from the distribution of the Vim
+     sources, parts of it or from a modified version.  You may use this
+     license for previous Vim releases instead of the license that they came
+     with, at your option.
 
-1.2 - If You are an individual acting on behalf of a corporation or other
-entity, Your use of the Software or any Modification is subject to Your having
-the authority to bind such corporation or entity to this Agreement. Providing
-copies to persons within such corporation or entity is not considered
-distribution for purposes of this Agreement.
 
-1.3 - For the Software or any Modification You distribute in source code format,
-You must do so only under the terms of this Agreement, and You must include a
-complete copy of this Agreement with Your distribution. With respect to any
-Modification You distribute in source code format, the terms of this Agreement
-will apply to You in the same way those terms apply to Yahoo! with respect to
-the Software. In other words, when You are distributing Modifications under this
-Agreement, You "stand in the shoes" of Yahoo! in terms of the rights You grant
-and how the terms and conditions apply to You and the licensees of Your
-Modifications. Notwithstanding the foregoing, when You "stand in the shoes" of
-Yahoo!, You are not subject to the jurisdiction provision under Section 7, which
-requires all disputes under this Agreement to be subject to the jurisdiction of
-federal or state courts of northern California.
+Note:
 
-1.4 - For the Software or any Modification You distribute in compiled or object
-code format, You must also provide recipients with access to the Software or
-Modification in source code format along with a complete copy of this Agreement.
-The distribution of the Software or Modifications in compiled or object code
-format may be under a license of Your choice, provided that You are in
-compliance with the terms of this Agreement. In addition, You must make
-absolutely clear that any license terms applying to such Software or
-Modification that differ from this Agreement are offered by You alone and not by
-Yahoo!, and that such license does not restrict recipients from exercising
-rights in the source code to the Software granted by Yahoo! under this Agreement
-or rights in the source code to any Modification granted by You as described in
-Section 1.3.
+- If you are happy with Vim, please express that by reading the rest of this
+  file and consider helping needy children in Uganda.
 
-1.5 - This Agreement does not limit Your right to distribute files that are
-entirely Your own work (i.e., which do not incorporate any portion of the
-Software and are not Modifications) under any terms You choose.
+- If you want to support further Vim development consider becoming a
+  |sponsor|.  The money goes to Uganda anyway.
 
-2. Support
+- According to Richard Stallman the Vim license is GNU GPL compatible.
+  A few minor changes have been made since he checked it, but that should not
+  make a difference.
 
-Yahoo! has no obligation to provide technical support or updates to You. Nothing
-in this Agreement requires Yahoo! to enter into any license with You for any
-other edition of the Software.
+- If you link Vim with a library that goes under the GNU GPL, this limits
+  further distribution to the GNU GPL.  Also when you didn't actually change
+  anything in Vim.
 
-3. Intellectual Property Rights
+- Once a change is included that goes under the GNU GPL, this forces all
+  further changes to also be made under the GNU GPL or a compatible license.
 
-3.1 - Except for the license expressly granted under copyright in Section 1.1,
-no rights, licenses or forbearances are granted or may arise in relation to this
-Agreement whether expressly, by implication, exhaustion, estoppel or otherwise.
-All rights, including all intellectual property rights, that are not expressly
-granted under this Agreement are hereby reserved.
-
-3.2 - In any copy of the Software or in any Modification you create, You must
-retain and reproduce, any and all copyright, patent, trademark, and attribution
-notices that are included in the Software in the same form as they appear in the
-Software. This includes the preservation of attribution notices in the form of
-trademarks or logos that exist within a user interface of the Software.
-
-3.3 - This license does not grant You rights to use any party's name, logo, or
-trademarks, except solely as necessary to comply with Section 3.2.
-
-4. Disclaimer of Warranties
-
-THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. YAHOO! MAKES
-NO WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY REGARDING OR RELATING TO
-THE SOFTWARE. SPECIFICALLY, YAHOO! DOES NOT WARRANT THAT THE SOFTWARE WILL BE
-ERROR FREE OR WILL PERFORM IN AN UNINTERRUPTED MANNER. TO THE GREATEST EXTENT
-ALLOWED BY LAW, YAHOO! SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (EVEN IF YAHOO! HAD BEEN
-INFORMED OF SUCH PURPOSE), AND NONINFRINGEMENT WITH RESPECT TO THE SOFTWARE, ANY
-MODIFICATIONS THERETO AND WITH RESPECT TO THE USE OF THE FOREGOING.
-
-5. Limitation of Liability
-
-IN NO EVENT WILL YAHOO! BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION
-LOSS OF PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, COST OF
-COVER) IN CONNECTION WITH OR ARISING OUT OF OR RELATING TO THE FURNISHING,
-PERFORMANCE OR USE OF THE SOFTWARE OR ANY OTHER RIGHTS GRANTED HEREUNDER,
-WHETHER ALLEGED AS A BREACH OF CONTRACT OR TORTIOUS CONDUCT, INCLUDING
-NEGLIGENCE, AND EVEN IF YAHOO! HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
-DAMAGES.
-
-6. Term and Termination
-
-6.1 - This Agreement will continue in effect unless and until terminated earlier
-pursuant to this Section 6.
-
-6.2 - In the event You violate the terms of this Agreement, Yahoo! may terminate
-this Agreement.
-
-6.3 - All licenses granted hereunder shall terminate upon the termination of
-this Agreement. Termination will be in addition to any rights and remedies
-available to Yahoo! at law or equity or under this Agreement.
-
-6.4 - Termination of this Agreement will not affect the provisions regarding
-reservation of rights (Section 3.1), provisions disclaiming or limiting Yahoo!'s
-liability (Sections 4 and 5), Termination (Section 6) or Miscellaneous (Section
-7), which provisions will survive termination of this Agreement.
-
-7. Miscellaneous
-
-This Agreement contains the entire agreement of the parties with respect to the
-subject matter of this Agreement and supersedes all previous communications,
-representations, understandings and agreements, either oral or written, between
-the parties with respect to said subject matter. The relationship of the parties
-hereunder is that of independent contractors, and this Agreement will not be
-construed as creating an agency, partnership, joint venture or any other form of
-legal association between the parties. If any term, condition, or provision in
-this Agreement is found to be invalid, unlawful or unenforceable to any extent,
-this Agreement will be construed in a manner that most closely effectuates the
-intent of this Agreement. Such invalid term, condition or provision will be
-severed from the remaining terms, conditions and provisions, which will continue
-to be valid and enforceable to the fullest extent permitted by law. This
-Agreement will be interpreted and construed in accordance with the laws of the
-State of California and the United States of America, without regard to conflict
-of law principles. The U.N. Convention on Contracts for the International Sale
-of Goods shall not apply to this Agreement. All disputes arising out of this
-Agreement involving Yahoo! or any of its subsidiaries shall be subject to the
-jurisdiction of the federal or state courts of northern California, with venue
-lying in Santa Clara County, California. No rights may be assigned, no
-obligations may be delegated, and this Agreement may not be transferred by You,
-in whole or in part, whether voluntary or by operation of law, including by way
-of sale of assets, merger or consolidation, without the prior written consent of
-Yahoo!, and any purported assignment, delegation or transfer without such
-consent shall be void ab initio. Any waiver of the provisions of this Agreement
-or of a party's rights or remedies under this Agreement must be in writing to be
-effective. Failure, neglect or delay by a party to enforce the provisions of
-this Agreement or its rights or remedies at any time, will not be construed or
-be deemed to be a waiver of such party's rights under this Agreement and will
-not in any way affect the validity of the whole or any part of this Agreement or
-prejudice such party's right to take subsequent action.
+- If you distribute a modified version of Vim, you can include your name and
+  contact information with the "--with-modified-by" configure argument or the
+  MODIFIED_BY define.

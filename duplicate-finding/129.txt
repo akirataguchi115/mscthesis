@@ -1,36 +1,38 @@
-COPYRIGHT NOTICE, DISCLAIMER, and LICENSE
-=========================================
+COPYRIGHT
 
-PNG Reference Library License version 2
----------------------------------------
+The following is a notice of limited availability of the code, and disclaimer
+which must be included in the prologue of the code and in all source listings
+of the code.
 
- * Copyright (c) 1995-2018 The PNG Reference Library Authors.
- * Copyright (c) 2018 Cosmin Truta.
- * Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson.
- * Copyright (c) 1996-1997 Andreas Dilger.
- * Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+Copyright Notice
+     + 2002 University of Chicago
 
-The software is supplied "as is", without warranty of any kind,
-express or implied, including, without limitation, the warranties
-of merchantability, fitness for a particular purpose, title, and
-non-infringement.  In no even shall the Copyright owners, or
-anyone distributing the software, be liable for any damages or
-other liability, whether in contract, tort or otherwise, arising
-from, out of, or in connection with the software, or the use or
-other dealings in the software, even if advised of the possibility
-of such damage.
+Permission is hereby granted to use, reproduce, prepare derivative works, and
+to redistribute to others.  This software was authored by:
 
-Permission is hereby granted to use, copy, modify, and distribute
-this software, or portions hereof, for any purpose, without fee,
-subject to the following restrictions:
+Mathematics and Computer Science Division
+Argonne National Laboratory, Argonne IL 60439
 
- 1. The origin of this software must not be misrepresented; you
-    must not claim that you wrote the original software.  If you
-    use this software in a product, an acknowledgment in the product
-    documentation would be appreciated, but is not required.
+(and)
 
- 2. Altered source versions must be plainly marked as such, and must
-    not be misrepresented as being the original software.
+Department of Computer Science
+University of Illinois at Urbana-Champaign
 
- 3. This Copyright notice may not be removed or altered from any
-    source or altered source distribution.
+
+                    GOVERNMENT LICENSE
+
+Portions of this material resulted from work developed under a U.S.
+Government Contract and are subject to the following license: the Government
+is granted for itself and others acting on its behalf a paid-up, nonexclusive,
+irrevocable worldwide license in this computer software to reproduce, prepare
+derivative works, and perform publicly and display publicly.
+
+                    DISCLAIMER
+
+This computer code material was prepared, in part, as an account of work
+sponsored by an agency of the United States Government.  Neither the United
+States, nor the University of Chicago, nor any of their employees, makes any
+warranty express or implied, or assumes any legal liability or responsibility
+for the accuracy, completeness, or usefulness of any information, apparatus,
+product, or process disclosed, or represents that its use would not infringe
+privately owned rights.

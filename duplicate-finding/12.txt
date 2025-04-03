@@ -1,355 +1,502 @@
-                GNU Free Documentation License
-                   Version 1.1, March 2000
- 
- Copyright (C) 2000  Free Software Foundation, Inc.
-     51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
- 
+                FREE SOFTWARE LICENSING AGREEMENT CeCILL
+                ========================================
 
-0. PREAMBLE
- 
-The purpose of this License is to make a manual, textbook, or other
-written document "free" in the sense of freedom: to assure everyone
-the effective freedom to copy and redistribute it, with or without
-modifying it, either commercially or noncommercially.  Secondarily,
-this License preserves for the author and publisher a way to get
-credit for their work, while not being considered responsible for
-modifications made by others.
- 
-This License is a kind of "copyleft", which means that derivative
-works of the document must themselves be free in the same sense.  It
-complements the GNU General Public License, which is a copyleft
-license designed for free software.
- 
-We have designed this License in order to use it for manuals for free
-software, because free software needs free documentation: a free
-program should come with manuals providing the same freedoms that the
-software does.  But this License is not limited to software manuals;
-it can be used for any textual work, regardless of subject matter or
-whether it is published as a printed book.  We recommend this License
-principally for works whose purpose is instruction or reference.
- 
 
-1. APPLICABILITY AND DEFINITIONS
- 
-This License applies to any manual or other work that contains a
-notice placed by the copyright holder saying it can be distributed
-under the terms of this License.  The "Document", below, refers to any
-such manual or work.  Any member of the public is a licensee, and is
-addressed as "you".
- 
-A "Modified Version" of the Document means any work containing the
-Document or a portion of it, either copied verbatim, or with
-modifications and/or translated into another language.
- 
-A "Secondary Section" is a named appendix or a front-matter section of
-the Document that deals exclusively with the relationship of the
-publishers or authors of the Document to the Document's overall subject
-(or to related matters) and contains nothing that could fall directly
-within that overall subject.  (For example, if the Document is in part a
-textbook of mathematics, a Secondary Section may not explain any
-mathematics.)  The relationship could be a matter of historical
-connection with the subject or with related matters, or of legal,
-commercial, philosophical, ethical or political position regarding
-them.
- 
-The "Invariant Sections" are certain Secondary Sections whose titles
-are designated, as being those of Invariant Sections, in the notice
-that says that the Document is released under this License.
- 
-The "Cover Texts" are certain short passages of text that are listed,
-as Front-Cover Texts or Back-Cover Texts, in the notice that says that
-the Document is released under this License.
- 
-A "Transparent" copy of the Document means a machine-readable copy,
-represented in a format whose specification is available to the
-general public, whose contents can be viewed and edited directly and
-straightforwardly with generic text editors or (for images composed of
-pixels) generic paint programs or (for drawings) some widely available
-drawing editor, and that is suitable for input to text formatters or
-for automatic translation to a variety of formats suitable for input
-to text formatters.  A copy made in an otherwise Transparent file
-format whose markup has been designed to thwart or discourage
-subsequent modification by readers is not Transparent.  A copy that is
-not "Transparent" is called "Opaque".
- 
-Examples of suitable formats for Transparent copies include plain
-ASCII without markup, Texinfo input format, LaTeX input format, SGML
-or XML using a publicly available DTD, and standard-conforming simple
-HTML designed for human modification.  Opaque formats include
-PostScript, PDF, proprietary formats that can be read and edited only
-by proprietary word processors, SGML or XML for which the DTD and/or
-processing tools are not generally available, and the
-machine-generated HTML produced by some word processors for output
-purposes only.
- 
-The "Title Page" means, for a printed book, the title page itself,
-plus such following pages as are needed to hold, legibly, the material
-this License requires to appear in the title page.  For works in
-formats which do not have any title page as such, "Title Page" means
-the text near the most prominent appearance of the work's title,
-preceding the beginning of the body of the text.
- 
+Notice
+------
 
-2. VERBATIM COPYING
- 
-You may copy and distribute the Document in any medium, either
-commercially or noncommercially, provided that this License, the
-copyright notices, and the license notice saying this License applies
-to the Document are reproduced in all copies, and that you add no other
-conditions whatsoever to those of this License.  You may not use
-technical measures to obstruct or control the reading or further
-copying of the copies you make or distribute.  However, you may accept
-compensation in exchange for copies.  If you distribute a large enough
-number of copies you must also follow the conditions in section 3.
- 
-You may also lend copies, under the same conditions stated above, and
-you may publicly display copies.
- 
 
-3. COPYING IN QUANTITY
- 
-If you publish printed copies of the Document numbering more than 100,
-and the Document's license notice requires Cover Texts, you must enclose
-the copies in covers that carry, clearly and legibly, all these Cover
-Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on
-the back cover.  Both covers must also clearly and legibly identify
-you as the publisher of these copies.  The front cover must present
-the full title with all words of the title equally prominent and
-visible.  You may add other material on the covers in addition.
-Copying with changes limited to the covers, as long as they preserve
-the title of the Document and satisfy these conditions, can be treated
-as verbatim copying in other respects.
- 
-If the required texts for either cover are too voluminous to fit
-legibly, you should put the first ones listed (as many as fit
-reasonably) on the actual cover, and continue the rest onto adjacent
-pages.
- 
-If you publish or distribute Opaque copies of the Document numbering
-more than 100, you must either include a machine-readable Transparent
-copy along with each Opaque copy, or state in or with each Opaque copy
-a publicly-accessible computer-network location containing a complete
-Transparent copy of the Document, free of added material, which the
-general network-using public has access to download anonymously at no
-charge using public-standard network protocols.  If you use the latter
-option, you must take reasonably prudent steps, when you begin
-distribution of Opaque copies in quantity, to ensure that this
-Transparent copy will remain thus accessible at the stated location
-until at least one year after the last time you distribute an Opaque
-copy (directly or through your agents or retailers) of that edition to
-the public.
- 
-It is requested, but not required, that you contact the authors of the
-Document well before redistributing any large number of copies, to give
-them a chance to provide you with an updated version of the Document.
- 
+This Agreement is a free software license that is the result of  discussions
+between its authors  in  order  to  ensure  compliance  with  the  two  main
+principles guiding its drafting:
+   - firstly, its conformity with French law, both as  regards  the  law  of
+     torts and intellectual property law, and the protection that it offers
+     to authors and the holders of economic rights over software.
+   - secondly, compliance with the principles for the distribution  of  free
+     software: access to source codes, extended user-rights.
 
-4. MODIFICATIONS
- 
-You may copy and distribute a Modified Version of the Document under
-the conditions of sections 2 and 3 above, provided that you release
-the Modified Version under precisely this License, with the Modified
-Version filling the role of the Document, thus licensing distribution
-and modification of the Modified Version to whoever possesses a copy
-of it.  In addition, you must do these things in the Modified Version:
- 
-A. Use in the Title Page (and on the covers, if any) a title distinct
-   from that of the Document, and from those of previous versions
-   (which should, if there were any, be listed in the History section
-   of the Document).  You may use the same title as a previous version
-   if the original publisher of that version gives permission.
-B. List on the Title Page, as authors, one or more persons or entities
-   responsible for authorship of the modifications in the Modified
-   Version, together with at least five of the principal authors of the
-   Document (all of its principal authors, if it has less than five).
-C. State on the Title page the name of the publisher of the
-   Modified Version, as the publisher.
-D. Preserve all the copyright notices of the Document.
-E. Add an appropriate copyright notice for your modifications
-   adjacent to the other copyright notices.
-F. Include, immediately after the copyright notices, a license notice
-   giving the public permission to use the Modified Version under the
-   terms of this License, in the form shown in the Addendum below.
-G. Preserve in that license notice the full lists of Invariant Sections
-   and required Cover Texts given in the Document's license notice.
-H. Include an unaltered copy of this License.
-I. Preserve the section entitled "History", and its title, and add to
-   it an item stating at least the title, year, new authors, and
-   publisher of the Modified Version as given on the Title Page.  If
-   there is no section entitled "History" in the Document, create one
-   stating the title, year, authors, and publisher of the Document as
-   given on its Title Page, then add an item describing the Modified
-   Version as stated in the previous sentence.
-J. Preserve the network location, if any, given in the Document for
-   public access to a Transparent copy of the Document, and likewise
-   the network locations given in the Document for previous versions
-   it was based on.  These may be placed in the "History" section.
-   You may omit a network location for a work that was published at
-   least four years before the Document itself, or if the original
-   publisher of the version it refers to gives permission.
-K. In any section entitled "Acknowledgements" or "Dedications",
-   preserve the section's title, and preserve in the section all the
-   substance and tone of each of the contributor acknowledgements
-   and/or dedications given therein.
-L. Preserve all the Invariant Sections of the Document,
-   unaltered in their text and in their titles.  Section numbers
-   or the equivalent are not considered part of the section titles.
-M. Delete any section entitled "Endorsements".  Such a section
-   may not be included in the Modified Version.
-N. Do not retitle any existing section as "Endorsements"
-   or to conflict in title with any Invariant Section.
- 
-If the Modified Version includes new front-matter sections or
-appendices that qualify as Secondary Sections and contain no material
-copied from the Document, you may at your option designate some or all
-of these sections as invariant.  To do this, add their titles to the
-list of Invariant Sections in the Modified Version's license notice.
-These titles must be distinct from any other section titles.
- 
-You may add a section entitled "Endorsements", provided it contains
-nothing but endorsements of your Modified Version by various
-parties--for example, statements of peer review or that the text has
-been approved by an organization as the authoritative definition of a
-standard.
- 
-You may add a passage of up to five words as a Front-Cover Text, and a
-passage of up to 25 words as a Back-Cover Text, to the end of the list
-of Cover Texts in the Modified Version.  Only one passage of
-Front-Cover Text and one of Back-Cover Text may be added by (or
-through arrangements made by) any one entity.  If the Document already
-includes a cover text for the same cover, previously added by you or
-by arrangement made by the same entity you are acting on behalf of,
-you may not add another; but you may replace the old one, on explicit
-permission from the previous publisher that added the old one.
- 
-The author(s) and publisher(s) of the Document do not by this License
-give permission to use their names for publicity for or to assert or
-imply endorsement of any Modified Version.
- 
+The following bodies are the authors of this license CeCILL (Ce : CEA, C :
+CNRS, I : INRIA, LL : Logiciel Libre):
 
-5. COMBINING DOCUMENTS
- 
-You may combine the Document with other documents released under this
-License, under the terms defined in section 4 above for modified
-versions, provided that you include in the combination all of the
-Invariant Sections of all of the original documents, unmodified, and
-list them all as Invariant Sections of your combined work in its
-license notice.
- 
-The combined work need only contain one copy of this License, and
-multiple identical Invariant Sections may be replaced with a single
-copy.  If there are multiple Invariant Sections with the same name but
-different contents, make the title of each such section unique by
-adding at the end of it, in parentheses, the name of the original
-author or publisher of that section if known, or else a unique number.
-Make the same adjustment to the section titles in the list of
-Invariant Sections in the license notice of the combined work.
- 
-In the combination, you must combine any sections entitled "History"
-in the various original documents, forming one section entitled
-"History"; likewise combine any sections entitled "Acknowledgements",
-and any sections entitled "Dedications".  You must delete all sections
-entitled "Endorsements."
- 
+Commissariat à l'Energie Atomique - CEA, a public scientific, technical  and
+industrial establishment, having its principal place of  business  at  31-33
+rue de la Fédération, 75752 PARIS cedex 15, France.
 
-6. COLLECTIONS OF DOCUMENTS
- 
-You may make a collection consisting of the Document and other documents
-released under this License, and replace the individual copies of this
-License in the various documents with a single copy that is included in
-the collection, provided that you follow the rules of this License for
-verbatim copying of each of the documents in all other respects.
- 
-You may extract a single document from such a collection, and distribute
-it individually under this License, provided you insert a copy of this
-License into the extracted document, and follow this License in all
-other respects regarding verbatim copying of that document.
- 
+Centre National de la Recherche Scientifique -  CNRS,  a  public  scientific
+and technological establishment, having its principal place of  business  at
+3 rue Michel-Ange 75794 Paris cedex 16, France.
 
-7. AGGREGATION WITH INDEPENDENT WORKS
- 
-A compilation of the Document or its derivatives with other separate
-and independent documents or works, in or on a volume of a storage or
-distribution medium, does not as a whole count as a Modified Version
-of the Document, provided no compilation copyright is claimed for the
-compilation.  Such a compilation is called an "aggregate", and this
-License does not apply to the other self-contained works thus compiled
-with the Document, on account of their being thus compiled, if they
-are not themselves derivative works of the Document.
- 
-If the Cover Text requirement of section 3 is applicable to these
-copies of the Document, then if the Document is less than one quarter
-of the entire aggregate, the Document's Cover Texts may be placed on
-covers that surround only the Document within the aggregate.
-Otherwise they must appear on covers around the whole aggregate.
- 
+Institut National de Recherche en Informatique et en Automatique - INRIA,  a
+public scientific and  technological  establishment,  having  its  principal
+place of business at Domaine de Voluceau, Rocquencourt,  BP  105,  78153  Le
+Chesnay cedex.
 
-8. TRANSLATION
- 
-Translation is considered a kind of modification, so you may
-distribute translations of the Document under the terms of section 4.
-Replacing Invariant Sections with translations requires special
-permission from their copyright holders, but you may include
-translations of some or all Invariant Sections in addition to the
-original versions of these Invariant Sections.  You may include a
-translation of this License provided that you also include the
-original English version of this License.  In case of a disagreement
-between the translation and the original English version of this
-License, the original English version will prevail.
- 
 
-9. TERMINATION
- 
-You may not copy, modify, sublicense, or distribute the Document except
-as expressly provided for under this License.  Any other attempt to
-copy, modify, sublicense or distribute the Document is void, and will
-automatically terminate your rights under this License.  However,
-parties who have received copies, or rights, from you under this
-License will not have their licenses terminated so long as such
-parties remain in full compliance.
- 
+PREAMBLE
+--------
 
-10. FUTURE REVISIONS OF THIS LICENSE
- 
-The Free Software Foundation may publish new, revised versions
-of the GNU Free Documentation License from time to time.  Such new
-versions will be similar in spirit to the present version, but may
-differ in detail to address new problems or concerns.  See
-http://www.gnu.org/copyleft/.
- 
-Each version of the License is given a distinguishing version number.
-If the Document specifies that a particular numbered version of this
-License "or any later version" applies to it, you have the option of
-following the terms and conditions either of that specified version or
-of any later version that has been published (not as a draft) by the
-Free Software Foundation.  If the Document does not specify a version
-number of this License, you may choose any version ever published (not
-as a draft) by the Free Software Foundation.
- 
 
-ADDENDUM: How to use this License for your documents
- 
-To use this License in a document you have written, include a copy of
-the License in the document and put the following copyright and
-license notices just after the title page:
- 
-      Copyright (c)  YEAR  YOUR NAME.
-      Permission is granted to copy, distribute and/or modify this document
-      under the terms of the GNU Free Documentation License, Version 1.1
-      or any later version published by the Free Software Foundation;
-      with the Invariant Sections being LIST THEIR TITLES, with the
-      Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
-      A copy of the license is included in the section entitled "GNU
-      Free Documentation License".
- 
-If you have no Invariant Sections, write "with no Invariant Sections"
-instead of saying which ones are invariant.  If you have no
-Front-Cover Texts, write "no Front-Cover Texts" instead of
-"Front-Cover Texts being LIST"; likewise for Back-Cover Texts.
- 
-If your document contains nontrivial examples of program code, we
-recommend releasing these examples in parallel under your choice of
-free software license, such as the GNU General Public License,
-to permit their use in free software.
+The purpose of this Free Software Licensing Agreement is to grant users  the
+right to modify and redistribute  the  software  governed  by  this  license
+within the framework of an "open source" distribution model.
+
+The exercising of these rights is conditional upon certain  obligations  for
+users  so  as  to  ensure  that  this  status  is  retained  for  subsequent
+redistribution operations.
+
+As a counterpart to the access to the source code and rights to copy, modify
+and redistribute granted by the license,  users are provided only with  a
+limited warranty and  the software's author, the holder of the economic
+rights,  and  the  successive licensors only have limited liability.
+
+In this respect, it is brought to the user's attention that the risks
+associated  with loading, using, modifying and/or developing or reproducing
+the  software  by the user given its nature of Free Software,  that  may  
+mean that it is complicated to manipulate, and that also therefore means 
+that it is reserved for developers and experienced professionals having
+in-depth computer knowledge. Users are therefore encouraged to load and test
+the Software's suitability  as  regards  their  requirements  in  conditions
+enabling  the security of their systems and/or data to be ensured and, more
+generally,  to use and operate  it  in  the  same  conditions  of security.
+This Agreement may be  freely  reproduced  and  published, provided  it  is
+not altered, and that no Articles are either added or removed herefrom. 
+
+This Agreement may apply to any or all software for which the holder of  the
+economic rights decides to submit the operation thereof to its provisions.
+
+
+Article 1  - DEFINITIONS
+------------------------
+
+
+For the purposes of this Agreement, when the following expressions  commence
+with a capital letter, they shall have the following meaning:
+
+Agreement: means this Licensing Agreement, and any or all of its  subsequent
+versions.
+
+Software: means the software in its Object  Code  and/or  Source  Code  form
+and, where applicable, its documentation, "as  is"  at  the  time  when  the
+Licensee accepts the Agreement.
+
+Initial Software: means the Software in its Source Code and/or  Object  Code
+form and, where applicable, its documentation, "as is" at the time  when  it
+is distributed for the first time under the  terms  and  conditions  of  the
+Agreement.
+
+Modified  Software:  means  the  Software   modified   by   at   least   one
+Contribution.
+
+Source Code: means all the Software's  instructions  and  program  lines  to
+which access is required so as to modify the Software.
+
+Object Code: means the binary files originating from the compilation of  the
+Source Code.
+
+Holder: means  the  holder  of  the  economic  rights  over  the  Initial
+Software.
+
+Licensee(s): mean(s) the Software user(s) having accepted the Agreement.
+
+Contributor: means a Licensee having made at least one Contribution.
+
+Licensor: means the Holder, or any or all other individual or legal  entity,
+that distributes the Software under the Agreement.
+
+Contributions: mean any or  all  modifications,  corrections,  translations,
+adaptations and/or new functionalities integrated into the Software  by  any
+or all Contributor, and the Static Modules.
+
+Module: means a set of sources files  including  their  documentation  that,
+once compiled in executable form, enables supplementary  functionalities  or
+services to be developed in addition to those offered by the Software.
+
+Dynamic Module: means any or all module, created by  the  Contributor,  that
+is independent of the Software, so that this module and the Software are  in
+two different executable forms that are  run  in  separate  address  spaces,
+with one calling the other when they are run.
+
+Static Module: means any or all  module,  created  by  the  Contributor  and
+connected to the Software by a static link that  makes  their  object  codes
+interdependent. This module and the Software to which it is  connected,  are
+combined in a single executable.
+
+Parties: mean both the Licensee and the Licensor.
+
+These expressions may be used both in singular and plural form.
+
+
+Article 2 - PURPOSE
+-------------------
+
+
+The purpose of the  Agreement  is  to  enable  the  Licensor  to  grant  the
+Licensee a free, non-exclusive, transferable and worldwide License  for  the
+Software as set forth in  Article  5  hereinafter  for  the  whole  term  of
+protection of the rights over said Software.
+
+
+Article 3 - ACCEPTANCE
+----------------------
+
+
+3.1. The  Licensee  shall  be  deemed  as  having  accepted  the  terms  and
+conditions of  this  Agreement  by  the  occurrence  of  the  first  of  the
+following events:
+- (i) loading the Software by any or all means, notably,  by  downloading
+  from a remote server, or by loading from a physical medium;
+- (ii) the first time the Licensee exercises any of  the  rights  granted
+  hereunder.
+
+3.2. One copy  of  the  Agreement,  containing  a  notice  relating  to  the
+specific nature of the  Software,  to  the  limited  warranty,  and  to  the
+limitation to use by experienced users has been  provided  to  the  Licensee
+prior to its acceptance as set forth in Article  3.1  hereinabove,  and  the
+Licensee hereby acknowledges that it is aware thereof.
+
+
+Article 4 - EFFECTIVE DATE AND TERM
+-----------------------------------
+
+
+4.1. EFFECTIVE DATE
+
+The Agreement shall become effective on the date when it is accepted by  the
+Licensee as set forth in Article 3.1.
+
+4.2. TERM
+
+The Agreement  shall  remain  in  force  during  the  whole  legal  term  of
+protection of the economic rights over the Software.
+
+
+Article 5 - SCOPE OF THE RIGHTS GRANTED
+---------------------------------------
+
+
+The  Licensor  hereby  grants  to  the  Licensee,  that  accepts  such,  the
+following rights as regards the Software for any or all  use,  and  for  the
+term of the Agreement, on the basis of the terms and  conditions  set  forth
+hereinafter.
+
+Otherwise, the Licensor grants to the Licensee free of  charge  exploitation
+rights on  the  patents  he  holds  on  whole  or  part  of  the  inventions
+implemented in the Software.
+
+5.1. RIGHTS OF USE
+
+The Licensee is authorized to use the Software, unrestrictedly,  as  regards
+the fields of application, with it being  hereinafter  specified  that  this
+relates to:
+- permanent or temporary reproduction of all or part of the Software  by
+  any or all means and in any or all form.
+- loading, displaying, running, or storing the Software on any or all
+  medium.
+- entitlement to observe, study or test the operation thereof so  as  to
+  establish the ideas and principles that form the basis for any or  all
+  constituent elements of said  Software.  This  shall  apply  when  the
+  Licensee  carries  out  any  or  all  loading,  displaying,   running,
+  transmission or storage operation as regards the Software, that it  is
+  entitled to carry out hereunder.
+
+5.2. entitlement to make CONTRIBUTIONS
+
+The right to make Contributions includes  the  right  to  translate,  adapt,
+arrange, or make any or all modification to the Software, and the  right  to
+reproduce the resulting Software.
+
+The Licensee is authorized to make any or all Contribution to  the  Software
+provided that it  explicitly  mentions  its  name  as  the  author  of  said
+Contribution and the date of the development thereof.
+
+5.3. DISTRIBUTION AND PUBLICATION RIGHTS
+
+In particular, the right of distribution and publication includes the  right
+to transmit and communicate the Software to the general  public  on  any  or
+all medium, and by any or all means, and the  right  to  market,  either  in
+consideration of a fee, or free of charge, a  copy or copies of the Software 
+by means of any or all process.
+The Licensee is further authorized to redistribute copies  of  the  modified
+or  unmodified  Software  to  third  parties  according  to  the  terms  and
+conditions set forth hereinafter.
+
+5.3.1. REDISTRIBUTION OF SOFTWARE WITHOUT MODIFICATION
+
+The Licensee is authorized to redistribute true copies of  the  Software  in
+Source Code or Object Code form, provided that said redistribution  complies
+with all the provisions of the Agreement and is accompanied by:
+- a copy of the Agreement,
+- a notice relating to the limitation of both  the  Licensor's  warranty
+  and liability as set forth in Articles 8 and 9,
+and  that,  in  the  event  that  only  the  Software's   Object   Code   is
+redistributed, the Licensee allows future  Licensees  unhindered  access  to
+the Software's full Source  Code  by  providing  them  with  the  terms  and
+conditions for access thereto, it being understood that the additional  cost
+of acquiring the Source Code shall not exceed the cost of  transferring  the
+data.
+
+5.3.2. REDISTRIBUTION OF MODIFIED  SOFTWARE
+
+When the Licensee makes a  Contribution  to  the  Software,  the  terms  and
+conditions for the redistribution of the Modified  Software  shall  then  be
+subject to all the provisions hereof.
+
+The Licensee is authorized to redistribute the Modified Software, in  Source
+Code or Object Code form, provided that said  redistribution  complies  with
+all the provisions of the Agreement and is accompanied by:
+- a copy of the Agreement,
+- a notice relating to the limitation of both  the  Licensor's  warranty
+  and liability as set forth in Articles 8 and 9,
+and that, in the event that only the  Modified  Software's  Object  Code  is
+redistributed, the Licensee allows future  Licensees  unhindered  access  to
+the Modified Software's full Source Code by providing them  with  the  terms
+and conditions for access thereto, it being understood that  the  additional
+cost of acquiring the Source Code shall not exceed the cost of  transferring
+the data.
+
+
+5.3.3. redistribution OF DYNAMIC MODULES
+
+When the Licensee has developed a Dynamic Module, the terms  and  conditions
+hereof do not apply to said Dynamic Module, that  may  be  distributed under 
+a separate Licensing Agreement.
+
+5.3.4. COMPATIBILITY WITH THE GPL LICENSE
+
+In the event that the Modified or unmodified Software is included in a code
+that is subject to the provisions of the GPL License, the Licensee is
+authorized to redistribute the whole under the GPL License.
+
+In the event that the Modified Software includes a code that is  subject  to
+the  provisions  of  the  GPL  License,  the  Licensee  is   authorized   to
+redistribute the Modified Software under the GPL License.
+
+
+Article 6  - INTELLECTUAL PROPERTY
+----------------------------------
+
+
+6.1. OVER THE INITIAL SOFTWARE
+
+The Holder owns the economic rights over the Initial Software.  Any  or  all
+use of the Initial Software is subject to  compliance  with  the  terms  and
+conditions under which the Holder has elected to distribute its work and  no
+one shall be entitled to  and it shall have sole entitlement to  modify  the
+terms and conditions for the distribution of said Initial Software.
+
+The Holder undertakes to maintain the distribution of the  Initial  Software
+under the conditions of  the  Agreement,  for  the  duration  set  forth  in
+article 4.2..
+
+6.2. OVER THE CONTRIBUTIONS
+
+The intellectual property rights over the Contributions belong to  the
+holder of the economic rights as designated by effective legislation.
+
+6.3. OVER THE DYNAMIC MODULES
+
+The Licensee having  developed  a  Dynamic  Module  is  the  holder  of  the
+intellectual property rights over said Dynamic Module and is free to  choose
+the agreement that shall govern its distribution.
+
+6.4. JOINT PROVISIONS
+
+6.4.1. The Licensee expressly undertakes:
+- not to remove, or modify, in  any  or  all  manner,  the  intellectual
+  property notices affixed to the Software;
+- to reproduce said notices, in an identical manner, in  the  copies  of
+  the Software.
+
+6.4.2. The Licensee undertakes not to directly or  indirectly  infringe  the
+intellectual property rights of the Holder and/or Contributors and to  take,
+where applicable, vis-à-vis its staff,  any  or  all  measures  required  to
+ensure respect for said intellectual property rights of  the  Holder  and/or
+Contributors.
+
+
+Article 7  - RELATED SERVICES
+-----------------------------
+
+
+7.1. Under no circumstances shall  the  Agreement  oblige  the  Licensor  to
+provide technical assistance or maintenance services for the Software.
+
+However, the Licensor is entitled to offer  this  type  of  service. The
+terms  and  conditions  of  such  technical  assistance,  and/or   such 
+maintenance, shall then be set forth in  a  separate  instrument.  Only  the
+Licensor offering said  maintenance  and/or  technical  assistance  services
+shall incur liability therefor.
+
+7.2. Similarly, any or all Licensor  shall  be  entitled  to  offer  to  its
+Licensees, under its own responsibility, a  warranty,  that  shall  only  be
+binding upon itself, for the  redistribution  of  the  Software  and/or  the
+Modified Software, under terms and conditions  that  it  shall  decide  upon
+itself. Said warranty,  and  the  financial  terms  and  conditions  of  its
+application, shall be subject to a separate instrument executed between  the
+Licensor and the Licensee.
+
+
+Article 8  - LIABILITY
+----------------------
+
+
+8.1. Subject to the provisions of Article 8.2, should the Licensor  fail  to
+fulfill all or part of its obligations  hereunder,  the  Licensee  shall  be
+entitled to claim compensation for the direct loss suffered  as a result of
+a fault on the part of the Licensor, subject to providing evidence of it. 
+
+8.2. The Licensor's liability is limited to the commitments made under  this
+Licensing Agreement and shall not be incurred as a result ,  in  particular:
+(i) of loss due the Licensee's total  or  partial  failure  to  fulfill  its
+obligations, (ii) direct or consequential loss due to the Software's use  or
+performance that  is  suffered  by  the  Licensee,  when  the  latter  is  a
+professional  using  said  Software  for  professional  purposes  and  (iii)
+consequential loss due to the Software's use  or  performance.  The  Parties
+expressly agree that any or all pecuniary or business  loss  (i.e.  loss  of
+data, loss  of  profits,  operating  loss,  loss  of  customers  or  orders,
+opportunity cost, any disturbance to business  activities)  or  any  or  all
+legal proceedings instituted against the Licensee by a  third  party,  shall
+constitute consequential loss and shall not provide entitlement  to  any  or
+all compensation from the Licensor.
+
+
+Article 9  - WARRANTY
+---------------------
+
+
+9.1. The  Licensee  acknowledges  that  the  current  situation  as  regards
+scientific and  technical  know-how  at  the  time  when  the  Software  was
+distributed did not enable all possible uses to be tested and verified,  nor
+for the presence of any or all faults to be detected. In this  respect,  the
+Licensee's attention has been drawn to the risks  associated  with  loading,
+using, modifying and/or developing and reproducing  the  Software  that  are
+reserved for experienced users.
+
+The Licensee shall be responsible for verifying, by any or  all  means,  the
+product's suitability for its requirements, its due and proper  functioning,
+and for ensuring that it  shall  not  cause  damage  to  either  persons  or
+property.
+
+9.2. The Licensor hereby represents, in good faith, that it is  entitled  to
+grant all the rights on the  Software (including in  particular  the  rights
+set forth in Article 5 hereof over the Software).
+
+9.3. The Licensee acknowledges that the Software is supplied "as is" by  the
+Licensor without any or all other express  or  tacit  warranty,  other  than
+that provided for in Article 9.2 and, in  particular,  without  any  or  all
+warranty as to its market  value,  its  secured,  innovative  or  relevant
+nature.
+
+Specifically, the Licensor does not warrant that the Software is  free  from
+any or all error, that it shall  operate  continuously,  that  it  shall  be
+compatible  with   the   Licensee's   own   equipment   and   its   software
+configuration, nor that it shall meet the Licensee's requirements.
+
+9.4. The Licensor does not either expressly  or  tacitly  warrant  that  the
+Software does not  infringe  any  or  all  third  party  intellectual  right
+relating to a patent, software or  to  any  or  all  other  property  right.
+Moreover, the Licensor shall not hold the Licensee harmless against  any  or
+all proceedings for infringement that may be instituted in  respect  of  the
+use, modification and redistribution of the Software.  Nevertheless,  should
+such proceedings be instituted against  the  Licensee,  the  Licensor  shall
+provide it with  technical  and  legal  assistance  for  its  defense.  Such
+technical and legal assistance shall  be  decided  upon  on  a  case-by-case
+basis  between  the  relevant  Licensor  and  the  Licensee  pursuant  to  a
+memorandum of understanding. The Licensor disclaims any or all liability  as
+regards the Licensee's use of the Software's  name.  No  warranty  shall  be
+provided as regards the existence of prior  rights  over  the  name  of  the
+Software and as regards the existence of a trademark.
+
+
+Article 10  - TERMINATION
+-------------------------
+
+
+10.1. In  the  event  of  a  breach  by  the  Licensee  of  its  obligations
+hereunder, the Licensor may automatically terminate  this  Agreement  thirty
+(30) days after notice has been  sent  to  the  Licensee  and  has  remained
+ineffective.
+
+10.2. The  Licensee  whose  Agreement  is  terminated  shall  no  longer  be
+authorized to use, modify or distribute the Software. However,  any  or  all
+licenses that it may have granted prior to  termination  of  the  Agreement
+shall remain valid subject to their having been granted in  compliance  with
+the terms and conditions hereof.
+
+
+Article 11  - MISCELLANEOUS PROVISIONS
+--------------------------------------
+
+
+11.1. EXCUSABLE EVENTS
+
+Neither Party shall be liable for any or all delay, or  failure  to  perform
+the Agreement, that may be attributable to an event  of  force  majeure,  an
+act of God or an outside cause, such as, notably, defective functioning,  or
+interruptions affecting  the  electricity  or  telecommunications  networks,
+blocking of the network following a virus attack, the  intervention  of  the
+government authorities, natural disasters, water damage, earthquakes,  fire,
+explosions, strikes and labor unrest, war, etc.
+
+11.2. The fact that either Party may fail, on one or several  occasions,  to
+invoke  one  or  several  of  the  provisions   hereof,   shall   under   no
+circumstances be interpreted as being a waiver by the  interested  Party  of
+its entitlement to invoke said provision(s) subsequently.
+
+11.3. The Agreement cancels and replaces  any  or  all  previous  agreement,
+whether written or oral, between the Parties and having  the  same  purpose,
+and  constitutes  the  entirety  of  the  agreement  between  said   Parties
+concerning said purpose. No supplement or  modification  to  the  terms  and
+conditions hereof shall be effective as regards the  Parties  unless  it  is
+made in writing and signed by their duly authorized representatives.
+
+11.4. In the event that one or several of  the  provisions  hereof  were  to
+conflict with a current or future applicable act or legislative  text,  said
+act or legislative text shall take precedence, and the  Parties  shall  make
+the necessary amendments so  as  to  be  in  compliance  with  said  act  or
+legislative  text.  All  the  other  provisions  shall   remain   effective.
+Similarly, the fact that a provision of  the  Agreement  may   be  null  and
+void, for any reason whatsoever, shall not cause the Agreement  as  a  whole
+to be null and void.
+
+11.5. LANGUAGE
+
+The Agreement is drafted in both French and  English.  In  the  event  of  a
+conflict as  regards  construction,  the  French  version  shall  be  deemed
+authentic.
+
+
+Article 12  - NEW VERSIONS OF THE AGREEMENT
+-------------------------------------------
+
+
+12.1. Any or all person is authorized to duplicate and distribute copies  of
+this Agreement.
+
+12.2. So as to ensure coherence, the wording of this Agreement is  protected
+and may only be modified by the authors of the  License,  that  reserve  the
+right to periodically publish updates or  new  versions  of  the  Agreement,
+each with a separate number. These subsequent versions may address new issues
+encountered by Free Software.
+
+12.3. Any  or  all  Software  distributed  under  a  given  version  of  the
+Agreement may only be subsequently distributed under  the  same  version  of
+the Agreement, or  a  subsequent  version,  subject  to  the  provisions  of
+article 5.3.4.
+
+
+Article 13 - GOVERNING LAW AND JURISDICTION
+-------------------------------------------
+
+
+13.1. The Agreement is  governed  by  French  law.   The  Parties  agree  to
+endeavor to settle the disagreements or disputes that may arise  during  the
+performance of the Agreement out-of-court.
+
+13.2. In the absence of an out-of-court settlement within two (2) months  as
+from their occurrence, and unless emergency proceedings are  necessary,  the
+disagreements or disputes shall be  referred  to  the  Paris  Courts  having
+jurisdiction, by the first Party to take action.
+
+
+                                                   Version 1.1 of 10/26/2004

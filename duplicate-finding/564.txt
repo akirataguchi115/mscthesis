@@ -1,55 +1,30 @@
-UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
+This work may be reproduced and distributed in whole or in part, in
+any medium, physical or electronic, so as long as this copyright
+notice remains intact and unchanged on all copies.  Commercial
+redistribution is permitted and encouraged, but you may not
+redistribute, in whole or in part, under terms more restrictive than
+those under which you received it. If you redistribute a modified or
+translated version of this work, you must also make the source code to
+the modified or translated version available in electronic form
+without charge.  However, mere aggregation as part of a larger work
+shall not count as a modification for this purpose.
 
-Unicode Data Files include all data files under the directories
-http://www.unicode.org/Public/, http://www.unicode.org/reports/, and
-http://www.unicode.org/cldr/data/. Unicode Data Files do not include PDF
-online code charts under the directory http://www.unicode.org/Public/.
-Software includes any source code published in the Unicode Standard or
-under the directories http://www.unicode.org/Public/,
-http://www.unicode.org/reports/, and http://www.unicode.org/cldr/data/.
+All code examples in this work are placed into the public domain,
+and may be used, modified and redistributed without restriction.
 
-NOTICE TO USER: Carefully read the following legal agreement. BY
-DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S DATA
-FILES ("DATA FILES"), AND/OR SOFTWARE ("SOFTWARE"), YOU UNEQUIVOCALLY
-ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND CONDITIONS OF
-THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY,
-DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+BECAUSE THIS WORK IS LICENSED FREE OF CHARGE, THERE IS NO
+WARRANTY FOR THE WORK, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR
+OTHER PARTIES PROVIDE THE WORK "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  SHOULD THE WORK PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY REPAIR OR CORRECTION.
 
-COPYRIGHT AND PERMISSION NOTICE
-
-Copyright © 1991-2015 Unicode, Inc. All rights reserved. Distributed
-under the Terms of Use in http://www.unicode.org/copyright.html.
-
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of the Unicode data files and any associated documentation (the
-"Data Files") or Unicode software and any associated documentation (the
-"Software") to deal in the Data Files or Software without restriction,
-including without limitation the rights to use, copy, modify, merge,
-publish, distribute, and/or sell copies of the Data Files or Software,
-and to permit persons to whom the Data Files or Software are furnished
-to do so, provided that
-
-(a) this copyright and permission notice appear with all copies of
-the Data Files or Software,
-
-(b) this copyright and permission notice appear in associated
-documentation, and
-
-(c) there is clear notice in each modified Data File or in the
-Software as well as in the documentation associated with the Data
-File(s) or Software that the data or software has been modified.
-
-THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR
-ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER
-RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
-CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
-CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR SOFTWARE.
-
-Except as contained in this notice, the name of a copyright holder shall
-not be used in advertising or otherwise to promote the sale, use or
-other dealings in these Data Files or Software without prior written
-authorization of the copyright holder.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN
+WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY
+AND/OR REDISTRIBUTE THE WORK AS PERMITTED ABOVE, BE LIABLE TO YOU
+FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE
+WORK, EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.

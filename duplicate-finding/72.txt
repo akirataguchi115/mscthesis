@@ -1,9 +1,8 @@
-Any use of this software is permitted provided that this notice is not
-removed and that neither the authors nor the Technische Universitaet Berlin
-are deemed to have made any representations as to the suitability of this
-software for any purpose nor are held responsible for any defects of
-this software.  THERE IS ABSOLUTELY NO WARRANTY FOR THIS SOFTWARE.
-
-As a matter of courtesy, the authors request to be informed about uses
-this software has found, about bugs in this software, and about any
-improvements that may be of general interest.
+Any party obtaining a copy of these files is granted, free of charge, a
+full and unrestricted irrevocable, world-wide, paid up, royalty-free,
+nonexclusive right and license to deal in this software and
+documentation files (the "Software"), including without limitation the
+rights to use, copy, modify, merge, publish and/or distribute copies of
+the Software, and to permit persons who receive copies from any such 
+party to do so, with the only requirement being that this copyright 
+notice remain intact.

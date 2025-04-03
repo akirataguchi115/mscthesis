@@ -1,185 +1,74 @@
-OCLC Research Public License 2.0
-Terms & Conditions Of Use
-May, 2002
-Copyright (C) 2002. OCLC Research. All Rights Reserved
- 
-PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING OR USING THE CODE BASE 
-AND/OR DOCUMENTATION ACCOMPANYING THIS LICENSE (THE "License"), YOU AGREE TO 
-THE FOLLOWING TERMS AND CONDITIONS OF THIS LICENSE. 
+Non-Commercial Government Licence
+for public sector information
 
-Section 1.	Your Rights
+You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
 
-	Subject to these terms and conditions of this License, the OCLC Office of Research (the 
-"Original Contributor") and each subsequent contributor (collectively with the Original Contributor, the 
-"Contributors") hereby grant you a non-exclusive, worldwide, no-charge, transferable license to execute, 
-prepare derivative works of, and distribute (internally and externally), for commercial and noncommercial 
-purposes, the original code contributed by Original Contributor and all Modifications (collectively called 
-the "Program").
+Using information under this licence
+Use of copyright and database right material expressly made available under this licence (the ‘Information’) indicates your acceptance of the terms and conditions below.
 
-Section 2.	Definitions 
+The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information for Non-Commercial purposes only subject to the conditions below.
 
-A "Modification" to the Program is any addition to or deletion from the contents of any file of 
-the Program and any new file that contains any part of the Program. If you make a Modification and 
-distribute the Program externally you are a "Contributor." The distribution of the Program must be under 
-the terms of this license including those in Section 3 below. 
+This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
 
-A "Combined Work" results from combining and integrating all or parts of the Program with 
-other code. A Combined Work may be thought of as having multiple parents or being result of multiple 
-lines of code development. 
+You are free to:
+copy, publish, distribute and transmit the Information;
+adapt the Information;
+exploit the Information for Non-Commercial purposes for example, by combining it with other information in your own product or application.
 
-Section 3.	Distribution Licensing Terms 
+You are not permitted to:
+exercise any of the rights granted to you by this licence in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation.
 
-A.	General Requirements
+You must, where you do any of the above:
+acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
+If the Information Provider does not provide a specific attribution statement, you must use the following:
 
-Except as necessary to recognize third-party rights or third-party restriction (see 
-below), a distribution of the Program in any of the forms listed below must not put any 
-further restrictions on the recipient's exercise of the rights granted herein.
+Contains information licensed under the Non-Commercial Government Licence v2.0.
 
-As a Contributor, you represent that your Modification(s) are your original creation(s) 
-and, to the best of your knowledge, no third party has any claim (including but not 
-limited to intellectual property claims) relating to your Modification(s). You represent 
-that each of your Modifications includes complete details of any third-party right or 
-other third-party restriction associated with any part of your Modification (including a 
-copy of any applicable license agreement).
+If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
 
-The Program must be distributed without charge beyond the costs of physically 
-transferring the files to the recipient.
+ensure that any onward licensing of the Information – for example when combined with other information – is for Non-Commercial purposes only.
 
-This Warranty Disclaimer/Limitation of Liability must be prominently displayed with 
-every distribution of the Program in any form:
+These are important conditions of this licence and if you fail to comply with them or use the Information other than for Non-Commercial purposes the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
 
-YOU AGREE THAT THE PROGRAM IS PROVIDED AS-IS, WITHOUT WARRANTY 
-OF ANY KIND (EITHER EXPRESS OR IMPLIED).  ACCORDINGLY, OCLC MAKES 
-NO WARRANTIES, REPRESENTATIONS OR GUARANTEES, EITHER EXPRESS 
-OR IMPLIED, AND DISCLAIMS ALL SUCH WARRANTIES, REPRESENTATIONS OR 
-GUARANTEES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES 
-OF MERCHANTABILITY AND FITNESS FOR ANY PARTICULAR PURPOSE, AS TO:  
-(A) THE FUNCTIONALITY OR NONINFRINGEMENT OF PROGRAM, ANY 
-MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK; OR (B) THE 
-RESULTS OF ANY PROJECT UNDERTAKEN USING THE PROGRAM, ANY 
-MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK.   IN NO EVENT 
-SHALL THE CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
-INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR ANY OTHER 
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
-GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE 
-PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  YOU 
-HEREBY WAIVE ANY CLAIMS FOR DAMAGES OF ANY KIND AGAINST 
-CONTRIBUTORS WHICH MAY RESULT FROM YOUR USE OF THE PROGRAM.
+Exemptions
+This licence does not cover the use of:
 
-B.	Requirements for a Distribution of Modifiable Code 
+personal data in the Information;
+Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
+departmental or public sector organisation logos, crests, military insignia and the Royal Arms except where they form an integral part of a document or dataset;
+military insignia
+third party rights the Information Provider is not authorised to license;
+other intellectual property rights, including patents, trade marks, and design rights; and
+identity documents such as the British Passport.
 
-If you distribute the Program in a form to which the recipient can make Modifications 
-(e.g. source code), the terms of this license apply to use by recipient. In addition, each 
-source and data file of the Program and any Modification you distribute must contain 
-the following notice: 
+Non-endorsement
+This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
 
-"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
-Inc. and other contributors. All rights reserved.  The contents of this file, as updated 
-from time to time by the OCLC Office of Research, are subject to OCLC Research 
-Public License Version 2.0 (the "License"); you may not use this file except in 
-compliance with the License. You may obtain a current copy of the License at 
-http://purl.oclc.org/oclc/research/ORPL/.  Software distributed under the License is 
-distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express 
-or implied. See the License for the specific language governing rights and limitations 
-under the License.  This software consists of voluntary contributions made by many 
-individuals on behalf of OCLC Research. For more information on OCLC Research, 
-please see http://www.oclc.org/oclc/research/.  The Original Code is 
- .  The Initial Developer of the Original Code is 
- . Portions created by   are 
-Copyright (C)    . All Rights Reserved. Contributor(s): 
- ."
+No warranty
+The Information is licensed ‘as is’ and the Information Provider excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
 
-C.	Requirements for a Distribution of Non-modifiable Code 
+The Information Provider is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
 
-If you distribute the Program in a form to which the recipient cannot make Modifications 
-(e.g. object code), the terms of this license apply to use by recipient and you must 
-include the following statement in appropriate and conspicuous locations:
+Governing Law
+This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
 
-"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
-Inc. and other contributors. All rights reserved."
+Definitions
+In this licence the terms below have the following meanings:
 
-In addition, the source code must be included with the object code distribution or the 
-distributor must provide the source code to the recipient upon request.
+‘Information’
+means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
 
-D.	Requirements for a Combined Work Distribution
+‘Information Provider’
+means the person or organisation providing the Information under this licence.
 
-Distributions of Combined Works are subject to the terms of this license and must be 
-made at no charge to the recipient beyond the costs of physically transferring the files 
-to recipient.
+‘Licensor’
+means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of the Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
 
-A Combined Work may be distributed as either modifiable or non-modifiable code. The 
-requirements of Section 3.B or 3.C above (as appropriate) apply to such distributions.
+‘Non-Commercial purposes’
+means not intended for or directed toward commercial advantage or private monetary compensation. For the purposes of this licence, ‘private monetary compensation’ does not include the exchange of the Information for other copyrighted works by means of digital file-sharing or otherwise provided there is no payment of any monetary compensation in connection with the exchange of the Information.
 
-An "Aggregate Work" is when the Program exists, without integration, with other 
-programs on a storage medium. This License does not apply to portions of an 
-Aggregate Work which are not covered by the definition of "Program" provided in this 
-License. You are not forbidden from selling an Aggregate Work. However, the Program 
-contained in an Aggregate Work is subject to this License.  Also, should the Program 
-be extracted from an Aggregate Work, this License applies to any use of the Program 
-apart from the Aggregate Work.
+‘Use’
+as a verb, means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
 
-Section 4.	License Grant
-
-For purposes of permitting use of your Modifications by OCLC and other licensees 
-hereunder, you hereby grant to OCLC and such other licensees the non-exclusive, worldwide, royalty-
-free, transferable, sublicenseable license to execute, copy, alter, delete, modify, adapt, change, revise, 
-enhance, develop, publicly display, distribute (internally and externally) and/or create derivative works 
-based on your Modifications (and derivative works thereof) in accordance with these Terms. This Section 
-4 shall survive termination of this License for any reason.
-
-Section 5.	Termination of Rights
-
-This non-exclusive license (with respect to the grant from a particular Contributor) 
-automatically terminates for any entity that initiates legal action for intellectual property infringement (with 
-respect to the Program) against such Contributor as of the initiation of such action.
-
-If you fail to comply with this License, your rights (but not your obligations) under this 
-License shall terminate automatically unless you cure such breach within thirty (30) days of becoming 
-aware of the noncompliance. All sublicenses granted by you which preexist such termination and are 
-properly granted shall survive such termination.
-
-Section 6.	Other Terms
-
-Except for the copyright notices required above, you may not use any trademark of any of 
-the Contributors without the prior written consent of the relevant Contributor.  You agree not to remove, 
-alter or obscure any copyright or other proprietary rights notice contained in the Program. 
-
-All transfers of the Program or any part thereof shall be made in compliance with U.S. 
-import/export regulations or other restrictions of the U.S. Department of Commerce, as well as other 
-similar trade or commerce restrictions which might apply.
-
-Any patent obtained by any party covering the Program or any part thereof must include a 
-provision providing for the free, perpetual and unrestricted commercial and noncommercial use by any 
-third party.
-
-If, as a consequence of a court judgment or settlement relating to intellectual property 
-infringement or any other cause of action, conditions are imposed on you that contradict the conditions of 
-this License, such conditions do not excuse you from compliance with this License. If you cannot 
-distribute the Program so as to simultaneously satisfy your obligations under this License and such other 
-conditions, you may not distribute the Program at all. For example, if a patent license would not permit 
-royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, 
-you could not satisfy both the patent license and this License, and you would be required to refrain 
-entirely from distribution of the Program.
-
-If you learn of a third party claim or other restriction relating to a Program you have already 
-distributed you shall promptly redo your Program to address the issue and take all reasonable steps to 
-inform those who may have received the Program at issue. An example of an appropriate reasonable 
-step to inform would be posting an announcement on an appropriate web bulletin board. 
-
-The provisions of this License are deemed to be severable, and the invalidity or unenforceability of 
-any provision shall not affect or impair the remaining provisions which shall continue in full force and effect.  In 
-substitution for any provision held unlawful, there shall be substituted a provision of similar import reflecting the 
-original intent of the parties hereto to the extent permissible under law.
-
-The Original Contributor from time to time may change this License, and the amended 
-license will apply to all copies of the Program downloaded after the new license is posted. This License 
-grants only the rights expressly stated herein and provides you with no implied rights or licenses to the 
-intellectual property of any Contributor.
-
-		This License is the complete and exclusive statement of the agreement between the 
-parties concerning the subject matter hereof and may not be amended except by the written agreement of 
-the parties. This License shall be governed by and construed in accordance with the laws of the State of 
-Ohio and the United States of America, without regard to principles of conflicts of law.
+‘You’
+means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.

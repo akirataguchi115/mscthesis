@@ -1,17 +1,44 @@
-Qhull, Copyright (c) 1993-2003
+Portions of LOOP are Copyright (c) 1986 by the Massachusetts Institute of Technology.
+All Rights Reserved.
 
-The National Science and Technology Research Center for Computation and Visualization of Geometric Structures (The Geometry Center) University of Minnesota
+Permission to use, copy, modify and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the M.I.T. copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation.  The names "M.I.T." and "Massachusetts
+Institute of Technology" may not be used in advertising or publicity
+pertaining to distribution of the software without specific, written
+prior permission.  Notice must be given in supporting documentation that
+copying distribution is by permission of M.I.T.  M.I.T. makes no
+representations about the suitability of this software for any purpose.
+It is provided "as is" without express or implied warranty.
 
-email: qhull@qhull.org
+Massachusetts Institute of Technology
+77 Massachusetts Avenue
+Cambridge, Massachusetts  02139
+United States of America
++1-617-253-1000
 
-This software includes Qhull from The Geometry Center. Qhull is copyrighted as noted above. Qhull is free software and may be obtained via http from www.qhull.org. It may be freely copied, modified, and redistributed under the following conditions:
+Portions of LOOP are Copyright (c) 1989, 1990, 1991, 1992 by Symbolics, Inc.
+All Rights Reserved.
 
-1. All copyright notices must remain intact in all files.
+Permission to use, copy, modify and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the Symbolics copyright notice appear in all copies and
+that both that copyright notice and this permission notice appear in
+supporting documentation.  The name "Symbolics" may not be used in
+advertising or publicity pertaining to distribution of the software
+without specific, written prior permission.  Notice must be given in
+supporting documentation that copying distribution is by permission of
+Symbolics.  Symbolics makes no representations about the suitability of
+this software for any purpose.  It is provided "as is" without express
+or implied warranty.
 
-2. A copy of this text file must be distributed along with any copies of Qhull that you redistribute; this includes copies that you have modified, or copies of programs or other software products that include Qhull.
+Symbolics, CLOE Runtime, and Minima are trademarks, and CLOE, Genera,
+and Zetalisp are registered trademarks of Symbolics, Inc.
 
-3. If you modify Qhull, you must include a notice giving the name of the person performing the modification, the date of modification, and the reason for such modification.
-
-4. When distributing modified versions of Qhull, or other software products that include Qhull, you must provide notice that the original source code may be obtained as noted above.
-
-5. There is no warranty or other guarantee of fitness for Qhull, it is provided solely "as is". Bug reports or fixes may be sent to qhull_bug@qhull.org; the authors may or may not act on them as they desire.
+Symbolics, Inc.
+8 New England Executive Park, East
+Burlington, Massachusetts  01803
+United States of America
++1-617-221-1000

@@ -1,203 +1,69 @@
-License text below from http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt
+Licence Libre du Québec – Permissive (LiLiQ-P)
+Version 1.1
 
-		       The Artistic License 2.0
+1. Préambule 
+Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Permissive (LiLiQ-P) (ci-après appelée la « licence »).
 
-	    Copyright (c) 2000-2006, The Perl Foundation.
+2. Définitions 
+Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
 
-     Everyone is permitted to copy and distribute verbatim copies
-      of this license document, but changing it is not allowed.
+« concédant » : le titulaire du droit d'auteur sur le logiciel, ou toute personne dûment autorisée par ce dernier à accorder la présente licence; 
+« contributeur » : le titulaire du droit d'auteur ou toute personne autorisée par ce dernier à soumettre au concédant une contribution. Un contributeur dont sa contribution est incorporée au logiciel est considéré comme un concédant en regard de sa contribution; 
+« contribution » : tout logiciel original, ou partie de logiciel original soumis et destiné à être incorporé dans le logiciel; 
+« distribution » : le fait de délivrer une copie du logiciel; 
+« licencié » : toute personne qui possède une copie du logiciel et qui exerce les droits concédés par la licence; 
+« logiciel » : une œuvre protégée par le droit d'auteur, telle qu'un programme d'ordinateur et sa documentation, pour laquelle le titulaire du droit d'auteur a précisé qu'elle est sujette aux termes de la présente licence; 
+« logiciel dérivé » : tout logiciel original réalisé par un licencié, autre que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité ou une partie importante du logiciel; 
+« logiciel modifié » : toute modification par un licencié de l'un des fichiers source du logiciel ou encore tout nouveau fichier source qui incorpore le logiciel ou une partie importante de ce dernier.
 
-Preamble
+3. Licence de droit d'auteur 
+Sous réserve des termes de la licence, le concédant accorde au licencié une licence non exclusive et libre de redevances lui permettant d’exercer les droits suivants sur le logiciel :
 
-This license establishes the terms under which a given free software
-Package may be copied, modified, distributed, and/or redistributed.
-The intent is that the Copyright Holder maintains some artistic
-control over the development of that Package while still keeping the
-Package available as open source and free software.
+1 Produire ou reproduire la totalité ou une partie importante; 
+2 Exécuter ou représenter la totalité ou une partie importante en public; 
+3 Publier la totalité ou une partie importante; 
+4 Sous-licencier sous une autre licence libre, approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative.
 
-You are always permitted to make arrangements wholly outside of this
-license directly with the Copyright Holder of a given Package.  If the
-terms of this license do not permit the full use that you propose to
-make of the Package, you should contact the Copyright Holder and seek
-a different licensing arrangement. 
+Cette licence est accordée sans limite territoriale et sans limite de temps.
 
-Definitions
+L'exercice complet de ces droits est sujet à la distribution par le concédant du code source du logiciel, lequel doit être sous une forme permettant d'y apporter des modifications. Le concédant peut aussi distribuer le logiciel accompagné d'une offre de distribuer le code source du logiciel, sans frais supplémentaires, autres que ceux raisonnables afin de permettre la livraison du code source. Cette offre doit être valide pendant une durée raisonnable.
 
-    "Copyright Holder" means the individual(s) or organization(s)
-    named in the copyright notice for the entire Package.
+4. Distribution 
+Le licencié peut distribuer des copies du logiciel, d'un logiciel modifié ou dérivé, sous réserve de respecter les conditions suivantes :
 
-    "Contributor" means any party that has contributed code or other
-    material to the Package, in accordance with the Copyright Holder's
-    procedures.
+1 Le logiciel doit être accompagné d'un exemplaire de cette licence; 
+2 Si le logiciel a été modifié, le licencié doit en faire la mention, de préférence dans chacun des fichiers modifiés dont la nature permet une telle mention; 
+3 Les étiquettes ou mentions faisant état des droits d'auteur, des marques de commerce, des garanties ou de la paternité concernant le logiciel ne doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
 
-    "You" and "your" means any person who would like to copy,
-    distribute, or modify the Package.
+5. Contributions 
+Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
 
-    "Package" means the collection of files distributed by the
-    Copyright Holder, and derivatives of that collection and/or of
-    those files. A given Package may consist of either the Standard
-    Version, or a Modified Version.
+6. Marques de commerce 
+La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
 
-    "Distribute" means providing a copy of the Package or making it
-    accessible to anyone else, or in the case of a company or
-    organization, to others outside of your company or organization.
+7. Garanties 
+Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
 
-    "Distributor Fee" means any fee that you charge for Distributing
-    this Package or providing support for this Package to another
-    party.  It does not mean licensing fees.
+Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support.
 
-    "Standard Version" refers to the Package if it has not been
-    modified, or has been modified only in ways explicitly requested
-    by the Copyright Holder.
+8. Responsabilité 
+Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence.
 
-    "Modified Version" means the Package, if it has been changed, and
-    such changes were not explicitly requested by the Copyright
-    Holder. 
+Le concédant ne saurait être tenu responsable de dommages subis par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
 
-    "Original License" means this Artistic License as Distributed with
-    the Standard Version of the Package, in its current version or as
-    it may be modified by The Perl Foundation in the future.
+9. Résiliation 
+La présente licence est automatiquement résiliée dès que les droits qui y sont accordés ne sont pas exercés conformément aux termes qui y sont stipulés.
 
-    "Source" form means the source code, documentation source, and
-    configuration files for the Package.
+Toutefois, si le défaut est corrigé dans un délai de 30 jours de sa prise de connaissance par la personne en défaut, et qu'il s'agit du premier défaut, la licence est accordée de nouveau.
 
-    "Compiled" form means the compiled bytecode, object code, binary,
-    or any other form resulting from mechanical transformation or
-    translation of the Source form.
+Pour tout défaut subséquent, le consentement exprès du concédant est nécessaire afin que la licence soit accordée de nouveau.
 
+10. Version de la licence 
+Le Centre de services partagés du Québec, ses ayants cause ou toute personne qu'il désigne, peuvent diffuser des versions révisées ou modifiées de cette licence. Chaque version recevra un numéro unique. Si un logiciel est déjà soumis aux termes d'une version spécifique, c'est seulement cette version qui liera les parties à la licence.
 
-Permission for Use and Modification Without Distribution
+Le concédant peut aussi choisir de concéder la licence sous la version actuelle ou toute version ultérieure, auquel cas le licencié peut choisir sous quelle version la licence lui est accordée.
 
-(1)  You are permitted to use the Standard Version and create and use
-Modified Versions for any purpose without restriction, provided that
-you do not Distribute the Modified Version.
+11. Divers 
+Dans la mesure où le concédant est un ministère, un organisme public ou une personne morale de droit public, créés en vertu d'une loi de l'Assemblée nationale du Québec, la licence est régie par le droit applicable au Québec et en cas de contestation, les tribunaux du Québec seront seuls compétents.
 
-
-Permissions for Redistribution of the Standard Version
-
-(2)  You may Distribute verbatim copies of the Source form of the
-Standard Version of this Package in any medium without restriction,
-either gratis or for a Distributor Fee, provided that you duplicate
-all of the original copyright notices and associated disclaimers.  At
-your discretion, such verbatim copies may or may not include a
-Compiled form of the Package.
-
-(3)  You may apply any bug fixes, portability changes, and other
-modifications made available from the Copyright Holder.  The resulting
-Package will still be considered the Standard Version, and as such
-will be subject to the Original License.
-
-
-Distribution of Modified Versions of the Package as Source 
-
-(4)  You may Distribute your Modified Version as Source (either gratis
-or for a Distributor Fee, and with or without a Compiled form of the
-Modified Version) provided that you clearly document how it differs
-from the Standard Version, including, but not limited to, documenting
-any non-standard features, executables, or modules, and provided that
-you do at least ONE of the following:
-
-    (a)  make the Modified Version available to the Copyright Holder
-    of the Standard Version, under the Original License, so that the
-    Copyright Holder may include your modifications in the Standard
-    Version.
-
-    (b)  ensure that installation of your Modified Version does not
-    prevent the user installing or running the Standard Version. In
-    addition, the Modified Version must bear a name that is different
-    from the name of the Standard Version.
-
-    (c)  allow anyone who receives a copy of the Modified Version to
-    make the Source form of the Modified Version available to others
-    under
-		
-	(i)  the Original License or
-
-	(ii)  a license that permits the licensee to freely copy,
-	modify and redistribute the Modified Version using the same
-	licensing terms that apply to the copy that the licensee
-	received, and requires that the Source form of the Modified
-	Version, and of any works derived from it, be made freely
-	available in that license fees are prohibited but Distributor
-	Fees are allowed.
-
-
-Distribution of Compiled Forms of the Standard Version 
-or Modified Versions without the Source
-
-(5)  You may Distribute Compiled forms of the Standard Version without
-the Source, provided that you include complete instructions on how to
-get the Source of the Standard Version.  Such instructions must be
-valid at the time of your distribution.  If these instructions, at any
-time while you are carrying out such distribution, become invalid, you
-must provide new instructions on demand or cease further distribution.
-If you provide valid instructions or cease distribution within thirty
-days after you become aware that the instructions are invalid, then
-you do not forfeit any of your rights under this license.
-
-(6)  You may Distribute a Modified Version in Compiled form without
-the Source, provided that you comply with Section 4 with respect to
-the Source of the Modified Version.
-
-
-Aggregating or Linking the Package 
-
-(7)  You may aggregate the Package (either the Standard Version or
-Modified Version) with other packages and Distribute the resulting
-aggregation provided that you do not charge a licensing fee for the
-Package.  Distributor Fees are permitted, and licensing fees for other
-components in the aggregation are permitted. The terms of this license
-apply to the use and Distribution of the Standard or Modified Versions
-as included in the aggregation.
-
-(8) You are permitted to link Modified and Standard Versions with
-other works, to embed the Package in a larger work of your own, or to
-build stand-alone binary or bytecode versions of applications that
-include the Package, and Distribute the result without restriction,
-provided the result does not expose a direct interface to the Package.
-
-
-Items That are Not Considered Part of a Modified Version 
-
-(9) Works (including, but not limited to, modules and scripts) that
-merely extend or make use of the Package, do not, by themselves, cause
-the Package to be a Modified Version.  In addition, such works are not
-considered parts of the Package itself, and are not subject to the
-terms of this license.
-
-
-General Provisions
-
-(10)  Any use, modification, and distribution of the Standard or
-Modified Versions is governed by this Artistic License. By using,
-modifying or distributing the Package, you accept this license. Do not
-use, modify, or distribute the Package, if you do not accept this
-license.
-
-(11)  If your Modified Version has been derived from a Modified
-Version made by someone other than you, you are nevertheless required
-to ensure that your Modified Version complies with the requirements of
-this license.
-
-(12)  This license does not grant you the right to use any trademark,
-service mark, tradename, or logo of the Copyright Holder.
-
-(13)  This license includes the non-exclusive, worldwide,
-free-of-charge patent license to make, have made, use, offer to sell,
-sell, import and otherwise transfer the Package with respect to any
-patent claims licensable by the Copyright Holder that are necessarily
-infringed by the Package. If you institute patent litigation
-(including a cross-claim or counterclaim) against any party alleging
-that the Package constitutes direct or contributory patent
-infringement, then this Artistic License to you shall terminate on the
-date that such litigation is filed.
-
-(14)  Disclaimer of Warranty:
-THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
-IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL
-LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
-BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant cause, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.

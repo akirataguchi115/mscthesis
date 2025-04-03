@@ -1,112 +1,286 @@
-EUROPEAN UNION PUBLIC LICENCE v. 1.2 
-EUPL © the European Union 2007, 2016 
+ERLANG PUBLIC LICENSE
+Version 1.1
 
-This European Union Public Licence (the ‘EUPL’) applies to the Work (as defined below) which is provided under the terms of this Licence. Any use of the Work, other than as authorised under this Licence is prohibited (to the extent such use is covered by a right of the copyright holder of the Work). 
+1. Definitions.
 
-The Work is provided under the terms of this Licence when the Licensor (as defined below) has placed the following notice immediately following the copyright notice for the Work: 
+1.1. ``Contributor'' means each entity that creates or contributes to
+the creation of Modifications.
 
-    Licensed under the EUPL 
+1.2. ``Contributor Version'' means the combination of the Original
+Code, prior Modifications used by a Contributor, and the Modifications
+made by that particular Contributor.
 
-or has expressed by any other means his willingness to license under the EUPL. 
+1.3. ``Covered Code'' means the Original Code or Modifications or the
+combination of the Original Code and Modifications, in each case
+including portions thereof.
 
-1.Definitions 
-In this Licence, the following terms have the following meaning: 
-— ‘The Licence’:this Licence. 
-— ‘The Original Work’:the work or software distributed or communicated by the Licensor under this Licence, available as Source Code and also as Executable Code as the case may be. 
-— ‘Derivative Works’:the works or software that could be created by the Licensee, based upon the Original Work or modifications thereof. This Licence does not define the extent of modification or dependence on the Original Work required in order to classify a work as a Derivative Work; this extent is determined by copyright law applicable in the country mentioned in Article 15. 
-— ‘The Work’:the Original Work or its Derivative Works. 
-— ‘The Source Code’:the human-readable form of the Work which is the most convenient for people to study and modify. 
-— ‘The Executable Code’:any code which has generally been compiled and which is meant to be interpreted by a computer as a program. 
-— ‘The Licensor’:the natural or legal person that distributes or communicates the Work under the Licence. 
-— ‘Contributor(s)’:any natural or legal person who modifies the Work under the Licence, or otherwise contributes to the creation of a Derivative Work. 
-— ‘The Licensee’ or ‘You’:any natural or legal person who makes any usage of the Work under the terms of the Licence. 
-— ‘Distribution’ or ‘Communication’:any act of selling, giving, lending, renting, distributing, communicating, transmitting, or otherwise making available, online or offline, copies of the Work or providing access to its essential functionalities at the disposal of any other natural or legal person. 
+1.4. ``Electronic Distribution Mechanism'' means a mechanism generally
+accepted in the software development community for the electronic
+transfer of data.
 
-2.Scope of the rights granted by the Licence 
-The Licensor hereby grants You a worldwide, royalty-free, non-exclusive, sublicensable licence to do the following, for the duration of copyright vested in the Original Work: 
-— use the Work in any circumstance and for all usage, 
-— reproduce the Work, 
-— modify the Work, and make Derivative Works based upon the Work, 
-— communicate to the public, including the right to make available or display the Work or copies thereof to the public and perform publicly, as the case may be, the Work, 
-— distribute the Work or copies thereof, 
-— lend and rent the Work or copies thereof, 
-— sublicense rights in the Work or copies thereof. 
+1.5. ``Executable'' means Covered Code in any form other than Source
+Code.
 
-Those rights can be exercised on any media, supports and formats, whether now known or later invented, as far as the applicable law permits so. 
+1.6. ``Initial Developer'' means the individual or entity identified
+as the Initial Developer in the Source Code notice required by Exhibit
+A.
 
-In the countries where moral rights apply, the Licensor waives his right to exercise his moral right to the extent allowed by law in order to make effective the licence of the economic rights here above listed. 
+1.7. ``Larger Work'' means a work which combines Covered Code or
+portions thereof with code not governed by the terms of this License.
 
-The Licensor grants to the Licensee royalty-free, non-exclusive usage rights to any patents held by the Licensor, to the extent necessary to make use of the rights granted on the Work under this Licence. 
+1.8. ``License'' means this document.
 
-3.Communication of the Source Code 
-The Licensor may provide the Work either in its Source Code form, or as Executable Code. If the Work is provided as Executable Code, the Licensor provides in addition a machine-readable copy of the Source Code of the Work along with each copy of the Work that the Licensor distributes or indicates, in a notice following the copyright notice attached to the Work, a repository where the Source Code is easily and freely accessible for as long as the Licensor continues to distribute or communicate the Work. 
+1.9. ``Modifications'' means any addition to or deletion from the
+substance or structure of either the Original Code or any previous
+Modifications. When Covered Code is released as a series of files, a
+Modification is:
 
-4.Limitations on copyright 
-Nothing in this Licence is intended to deprive the Licensee of the benefits from any exception or limitation to the exclusive rights of the rights owners in the Work, of the exhaustion of those rights or of other applicable limitations thereto. 
+A. Any addition to or deletion from the contents of a file containing
+   Original Code or previous Modifications. 
 
-5.Obligations of the Licensee 
-The grant of the rights mentioned above is subject to some restrictions and obligations imposed on the Licensee. Those obligations are the following: 
+B. Any new file that contains any part of the Original Code or
+   previous Modifications. 
 
-Attribution right: The Licensee shall keep intact all copyright, patent or trademarks notices and all notices that refer to the Licence and to the disclaimer of warranties. The Licensee must include a copy of such notices and a copy of the Licence with every copy of the Work he/she distributes or communicates. The Licensee must cause any Derivative Work to carry prominent notices stating that the Work has been modified and the date of modification. 
+1.10. ``Original Code'' means Source Code of computer software code
+which is described in the Source Code notice required by Exhibit A as
+Original Code, and which, at the time of its release under this
+License is not already Covered Code governed by this License.
 
-Copyleft clause: If the Licensee distributes or communicates copies of the Original Works or Derivative Works, this Distribution or Communication will be done under the terms of this Licence or of a later version of this Licence unless the Original Work is expressly distributed only under this version of the Licence — for example by communicating ‘EUPL v. 1.2 only’. The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence. 
+1.11. ``Source Code'' means the preferred form of the Covered Code for
+making modifications to it, including all modules it contains, plus
+any associated interface definition files, scripts used to control
+compilation and installation of an Executable, or a list of source
+code differential comparisons against either the Original Code or
+another well known, available Covered Code of the Contributor's
+choice. The Source Code can be in a compressed or archival form,
+provided the appropriate decompression or de-archiving software is
+widely available for no charge.
 
-Compatibility clause: If the Licensee Distributes or Communicates Derivative Works or copies thereof based upon both the Work and another work licensed under a Compatible Licence, this Distribution or Communication can be done under the terms of this Compatible Licence. For the sake of this clause, ‘Compatible Licence’ refers to the licences listed in the appendix attached to this Licence. Should the Licensee's obligations under the Compatible Licence conflict with his/her obligations under this Licence, the obligations of the Compatible Licence shall prevail. 
+1.12. ``You'' means an individual or a legal entity exercising rights
+under, and complying with all of the terms of, this License. For legal
+entities,``You'' includes any entity which controls, is controlled by,
+or is under common control with You. For purposes of this definition,
+``control'' means (a) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or
+otherwise, or (b) ownership of fifty percent (50%) or more of the
+outstanding shares or beneficial ownership of such entity.
 
-Provision of Source Code: When distributing or communicating copies of the Work, the Licensee will provide a machine-readable copy of the Source Code or indicate a repository where this Source will be easily and freely available for as long as the Licensee continues to distribute or communicate the Work. 
+2. Source Code License.
 
-Legal Protection: This Licence does not grant permission to use the trade names, trademarks, service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the copyright notice. 
+2.1. The Initial Developer Grant.
+The Initial Developer hereby grants You a world-wide, royalty-free,
+non-exclusive license, subject to third party intellectual property
+claims:
 
-6.Chain of Authorship 
-The original Licensor warrants that the copyright in the Original Work granted hereunder is owned by him/her or licensed to him/her and that he/she has the power and authority to grant the Licence. 
+(a) to use, reproduce, modify, display, perform, sublicense and
+    distribute the Original Code (or portions thereof) with or without
+    Modifications, or as part of a Larger Work; and 
 
-Each Contributor warrants that the copyright in the modifications he/she brings to the Work are owned by him/her or licensed to him/her and that he/she has the power and authority to grant the Licence. 
+(b) under patents now or hereafter owned or controlled by Initial
+    Developer, to make, have made, use and sell (``Utilize'') the
+    Original Code (or portions thereof), but solely to the extent that
+    any such patent is reasonably necessary to enable You to Utilize
+    the Original Code (or portions thereof) and not to any greater
+    extent that may be necessary to Utilize further Modifications or
+    combinations. 
 
-Each time You accept the Licence, the original Licensor and subsequent Contributors grant You a licence to their contributions to the Work, under the terms of this Licence. 
+2.2. Contributor Grant.
+Each Contributor hereby grants You a world-wide, royalty-free,
+non-exclusive license, subject to third party intellectual property
+claims:
 
-7.Disclaimer of Warranty 
-The Work is a work in progress, which is continuously improved by numerous Contributors. It is not a finished work and may therefore contain defects or ‘bugs’ inherent to this type of development. 
+(a) to use, reproduce, modify, display, perform, sublicense and
+    distribute the Modifications created by such Contributor (or
+    portions thereof) either on an unmodified basis, with other
+    Modifications, as Covered Code or as part of a Larger Work; and 
 
-For the above reason, the Work is provided under the Licence on an ‘as is’ basis and without warranties of any kind concerning the Work, including without limitation merchantability, fitness for a particular purpose, absence of defects or errors, accuracy, non-infringement of intellectual property rights other than copyright as stated in Article 6 of this Licence. 
+(b) under patents now or hereafter owned or controlled by Contributor,
+    to Utilize the Contributor Version (or portions thereof), but
+    solely to the extent that any such patent is reasonably necessary
+    to enable You to Utilize the Contributor Version (or portions
+    thereof), and not to any greater extent that may be necessary to
+    Utilize further Modifications or combinations. 
 
-This disclaimer of warranty is an essential part of the Licence and a condition for the grant of any rights to the Work. 
+3. Distribution Obligations.
 
-8.Disclaimer of Liability 
-Except in the cases of wilful misconduct or damages directly caused to natural persons, the Licensor will in no event be liable for any direct or indirect, material or moral, damages of any kind, arising out of the Licence or of the use of the Work, including without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, loss of data or any commercial damage, even if the Licensor has been advised of the possibility of such damage. However, the Licensor will be liable under statutory product liability laws as far such laws apply to the Work. 
+3.1. Application of License.
+The Modifications which You contribute are governed by the terms of
+this License, including without limitation Section 2.2. The Source
+Code version of Covered Code may be distributed only under the terms
+of this License, and You must include a copy of this License with
+every copy of the Source Code You distribute. You may not offer or
+impose any terms on any Source Code version that alters or restricts
+the applicable version of this License or the recipients' rights
+hereunder. However, You may include an additional document offering
+the additional rights described in Section 3.5. 
 
-9.Additional agreements 
-While distributing the Work, You may choose to conclude an additional agreement, defining obligations or services consistent with this Licence. However, if accepting obligations, You may act only on your own behalf and on your sole responsibility, not on behalf of the original Licensor or any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against such Contributor by the fact You have accepted any warranty or additional liability. 
+3.2. Availability of Source Code.
+Any Modification which You contribute must be made available in Source
+Code form under the terms of this License either on the same media as
+an Executable version or via an accepted Electronic Distribution
+Mechanism to anyone to whom you made an Executable version available;
+and if made available via Electronic Distribution Mechanism, must
+remain available for at least twelve (12) months after the date it
+initially became available, or at least six (6) months after a
+subsequent version of that particular Modification has been made
+available to such recipients. You are responsible for ensuring that
+the Source Code version remains available even if the Electronic
+Distribution Mechanism is maintained by a third party.
 
-10.Acceptance of the Licence 
-The provisions of this Licence can be accepted by clicking on an icon ‘I agree’ placed under the bottom of a window displaying the text of this Licence or by affirming consent in any other similar way, in accordance with the rules of applicable law. Clicking on that icon indicates your clear and irrevocable acceptance of this Licence and all of its terms and conditions. 
+3.3. Description of Modifications.
+You must cause all Covered Code to which you contribute to contain a
+file documenting the changes You made to create that Covered Code and
+the date of any change. You must include a prominent statement that
+the Modification is derived, directly or indirectly, from Original
+Code provided by the Initial Developer and including the name of the
+Initial Developer in (a) the Source Code, and (b) in any notice in an
+Executable version or related documentation in which You describe the
+origin or ownership of the Covered Code.
 
-Similarly, you irrevocably accept this Licence and all of its terms and conditions by exercising any rights granted to You by Article 2 of this Licence, such as the use of the Work, the creation by You of a Derivative Work or the Distribution or Communication by You of the Work or copies thereof. 
+3.4. Intellectual Property Matters
 
-11.Information to the public 
-In case of any Distribution or Communication of the Work by means of electronic communication by You (for example, by offering to download the Work from a remote location) the distribution channel or media (for example, a website) must at least provide to the public the information requested by the applicable law regarding the Licensor, the Licence and the way it may be accessible, concluded, stored and reproduced by the Licensee. 
+(a) Third Party Claims.
+    If You have knowledge that a party claims an intellectual property
+    right in particular functionality or code (or its utilization
+    under this License), you must include a text file with the source
+    code distribution titled ``LEGAL'' which describes the claim and
+    the party making the claim in sufficient detail that a recipient
+    will know whom to contact. If you obtain such knowledge after You
+    make Your Modification available as described in Section 3.2, You
+    shall promptly modify the LEGAL file in all copies You make
+    available thereafter and shall take other steps (such as notifying
+    appropriate mailing lists or newsgroups) reasonably calculated to
+    inform those who received the Covered Code that new knowledge has
+    been obtained. 
 
-12.Termination of the Licence 
-The Licence and the rights granted hereunder will terminate automatically upon any breach by the Licensee of the terms of the Licence. 
+(b) Contributor APIs.
+    If Your Modification is an application programming interface and
+    You own or control patents which are reasonably necessary to
+    implement that API, you must also include this information in the
+    LEGAL file. 
 
-Such a termination will not terminate the licences of any person who has received the Work from the Licensee under the Licence, provided such persons remain in full compliance with the Licence. 
+3.5. Required Notices.
+You must duplicate the notice in Exhibit A in each file of the Source
+Code, and this License in any documentation for the Source Code, where
+You describe recipients' rights relating to Covered Code. If You
+created one or more Modification(s), You may add your name as a
+Contributor to the notice described in Exhibit A. If it is not
+possible to put such notice in a particular Source Code file due to
+its structure, then you must include such notice in a location (such
+as a relevant directory file) where a user would be likely to look for
+such a notice. You may choose to offer, and to charge a fee for,
+warranty, support, indemnity or liability obligations to one or more
+recipients of Covered Code. However, You may do so only on Your own
+behalf, and not on behalf of the Initial Developer or any
+Contributor. You must make it absolutely clear than any such warranty,
+support, indemnity or liability obligation is offered by You alone,
+and You hereby agree to indemnify the Initial Developer and every
+Contributor for any liability incurred by the Initial Developer or
+such Contributor as a result of warranty, support, indemnity or
+liability terms You offer.
 
-13.Miscellaneous 
-Without prejudice of Article 9 above, the Licence represents the complete agreement between the Parties as to the Work. 
+3.6. Distribution of Executable Versions.
+You may distribute Covered Code in Executable form only if the
+requirements of Section 3.1-3.5 have been met for that Covered Code,
+and if You include a notice stating that the Source Code version of
+the Covered Code is available under the terms of this License,
+including a description of how and where You have fulfilled the
+obligations of Section 3.2. The notice must be conspicuously included
+in any notice in an Executable version, related documentation or
+collateral in which You describe recipients' rights relating to the
+Covered Code. You may distribute the Executable version of Covered
+Code under a license of Your choice, which may contain terms different
+from this License, provided that You are in compliance with the terms
+of this License and that the license for the Executable version does
+not attempt to limit or alter the recipient's rights in the Source
+Code version from the rights set forth in this License. If You
+distribute the Executable version under a different license You must
+make it absolutely clear that any terms which differ from this License
+are offered by You alone, not by the Initial Developer or any
+Contributor. You hereby agree to indemnify the Initial Developer and
+every Contributor for any liability incurred by the Initial Developer
+or such Contributor as a result of any such terms You offer.
 
-If any provision of the Licence is invalid or unenforceable under applicable law, this will not affect the validity or enforceability of the Licence as a whole. Such provision will be construed or reformed so as necessary to make it valid and enforceable. 
+3.7. Larger Works.
+You may create a Larger Work by combining Covered Code with other code
+not governed by the terms of this License and distribute the Larger
+Work as a single product. In such a case, You must make sure the
+requirements of this License are fulfilled for the Covered Code.
 
-The European Commission may publish other linguistic versions or new versions of this Licence or updated versions of the Appendix, so far this is required and reasonable, without reducing the scope of the rights granted by the Licence. 
+4. Inability to Comply Due to Statute or Regulation.
+If it is impossible for You to comply with any of the terms of this
+License with respect to some or all of the Covered Code due to statute
+or regulation then You must: (a) comply with the terms of this License
+to the maximum extent possible; and (b) describe the limitations and
+the code they affect. Such description must be included in the LEGAL
+file described in Section 3.4 and must be included with all
+distributions of the Source Code. Except to the extent prohibited by
+statute or regulation, such description must be sufficiently detailed
+for a recipient of ordinary skill to be able to understand it.
 
-New versions of the Licence will be published with a unique version number. 
+5. Application of this License.
 
-All linguistic versions of this Licence, approved by the European Commission, have identical value. Parties can take advantage of the linguistic version of their choice. 
+This License applies to code to which the Initial Developer has
+attached the notice in Exhibit A, and to related Covered Code.
 
-14.Jurisdiction 
-Without prejudice to specific agreement between parties, 
-— any litigation resulting from the interpretation of this License, arising between the European Union institutions, bodies, offices or agencies, as a Licensor, and any Licensee, will be subject to the jurisdiction of the Court of Justice of the European Union, as laid down in article 272 of the Treaty on the Functioning of the European Union, 
-— any litigation arising between other parties and resulting from the interpretation of this License, will be subject to the exclusive jurisdiction of the competent court where the Licensor resides or conducts its primary business. 
+6. CONNECTION TO MOZILLA PUBLIC LICENSE
 
-15.Applicable Law 
-Without prejudice to specific agreement between parties, 
-— this Licence shall be governed by the law of the European Union Member State where the Licensor has his seat, resides or has his registered office, 
-— this licence shall be governed by Belgian law if the Licensor has no seat, residence or registered office inside a European Union Member State.
+This Erlang License is a derivative work of the Mozilla Public
+License, Version 1.0. It contains terms which differ from the Mozilla
+Public License, Version 1.0.
+
+7. DISCLAIMER OF WARRANTY.
+
+COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN ``AS IS'' BASIS,
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING,
+WITHOUT LIMITATION, WARRANTIES THAT THE COVERED CODE IS FREE OF
+DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR
+NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF
+THE COVERED CODE IS WITH YOU. SHOULD ANY COVERED CODE PROVE DEFECTIVE
+IN ANY RESPECT, YOU (NOT THE INITIAL DEVELOPER OR ANY OTHER
+CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR
+CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART
+OF THIS LICENSE. NO USE OF ANY COVERED CODE IS AUTHORIZED HEREUNDER
+EXCEPT UNDER THIS DISCLAIMER.
+
+8. TERMINATION.
+This License and the rights granted hereunder will terminate
+automatically if You fail to comply with terms herein and fail to cure
+such breach within 30 days of becoming aware of the breach. All
+sublicenses to the Covered Code which are properly granted shall
+survive any termination of this License. Provisions which, by their
+nature, must remain in effect beyond the termination of this License
+shall survive.
+
+9. DISCLAIMER OF LIABILITY
+Any utilization of Covered Code shall not cause the Initial Developer
+or any Contributor to be liable for any damages (neither direct nor
+indirect).
+
+10. MISCELLANEOUS
+This License represents the complete agreement concerning the subject
+matter hereof. If any provision is held to be unenforceable, such
+provision shall be reformed only to the extent necessary to make it
+enforceable. This License shall be construed by and in accordance with
+the substantive laws of Sweden. Any dispute, controversy or claim
+arising out of or relating to this License, or the breach, termination
+or invalidity thereof, shall be subject to the exclusive jurisdiction
+of Swedish courts, with the Stockholm City Court as the first
+instance.
+	
+EXHIBIT A.
+
+``The contents of this file are subject to the Erlang Public License,
+Version 1.1, (the "License"); you may not use this file except in
+compliance with the License. You should have received a copy of the
+Erlang Public License along with this software. If not, it can be
+retrieved via the world wide web at http://www.erlang.org/.
+
+Software distributed under the License is distributed on an "AS IS"
+basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See
+the License for the specific language governing rights and limitations
+under the License.
+
+The Initial Developer of the Original Code is Ericsson Utvecklings AB.
+Portions created by Ericsson are Copyright 1999, Ericsson Utvecklings
+AB. All Rights Reserved.''

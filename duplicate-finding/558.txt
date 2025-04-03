@@ -1,8 +1,13 @@
-To anyone who acknowledges that this file is provided "AS IS" 
-without any express or implied warranty permission to use, copy, 
-modify, and distribute this file for any purpose is hereby granted 
-without fee, provided that the above copyright notice and this notice 
-appears in all copies, and that the name of Hewlett-Packard Company 
-not be used in advertising or publicity pertaining to distribution 
-of the software without specific, written prior permission. Hewlett-Packard 
-Company makes no representations about the suitability of this software for any purpose.
+This software may be used, modified, copied, distributed, and sold,
+in both source and binary form provided that the above copyright
+and these terms are retained. Under no circumstances is the author
+responsible for the proper functioning of this software, nor does
+the author assume any responsibility for damages incurred with its
+use.
+
+Permission is granted to anyone to use, distribute and modify
+this file in any way, provided that the above copyright notice
+is left intact and the author of the modification summarizes
+the changes in this header.
+
+This file is distributed without any expressed or implied warranty.

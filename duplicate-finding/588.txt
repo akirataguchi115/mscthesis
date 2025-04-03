@@ -1,7 +1,11 @@
-You may freely use, modify, and redistribute the hdparm program, as either
-binary or source, or both.
+Written by Solar Designer <solar at openwall.com> in 1998-2014.
+No copyright is claimed, and the software is hereby placed in the public
+domain.  In case this attempt to disclaim copyright and place the software
+in the public domain is deemed null and void, then the software is
+Copyright (c) 1998-2014 Solar Designer and it is hereby released to the
+general public under the following terms:
 
-The only condition is that my name and copyright notice remain in the source
-code as-is.
+Redistribution and use in source and binary forms, with or without
+modification, are permitted.
 
-Mark Lord (mlord@pobox.com)
+There's ABSOLUTELY NO WARRANTY, express or implied.

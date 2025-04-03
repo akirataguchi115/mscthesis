@@ -20,10 +20,10 @@ for filename in manual_txts:
   with open('manual-licenses/' + filename + '.txt', 'r') as file_object:
     licenses[filename] = file_object.read()
 
-with open ('exceptions.json', 'r') as file_object:
-  json_loader = json.load(file_object)
-  for license_key in json_loader:
-    licenses.pop(license_key)
+# with open ('exceptions.json', 'r') as file_object:
+#   json_loader = json.load(file_object)
+#   for license_key in json_loader:
+#     licenses.pop(license_key)
 
 manual_licenses = []
 for key, value in licenses.items():

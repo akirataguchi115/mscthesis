@@ -1,9 +1,4 @@
-This software code is made available "AS IS" without warranties of any kind.
-
-You may copy, display, modify and redistribute the software code either by
-itself or as incorporated into your code; provided that you do not remove any
-proprietary notices.
-
-Your use of this software code is at your own risk and you waive any claim
-against Amazon Digital Services, Inc. or its affiliates with respect to your use
-of this software code.
+This module may be modified, used, copied, and redistributed at your own risk.
+Although allowed by the preceding license, please do not publicly
+redistribute modified versions of this code with the name "Text::Tabs"
+unless it passes the unmodified Text::Tabs test suite.

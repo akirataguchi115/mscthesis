@@ -1,18 +1,18 @@
-Zimbra Public License, Version 1.3 (ZPL)
+Yahoo! Public License, Version 1.1 (YPL)
 
-This Zimbra Public License (this "Agreement") is a legal agreement that
-describes the terms under which VMware, Inc., a Delaware corporation having its
-principal place of business at 3401 Hillview Avenue, Palo Alto, California 94304
-("VMware") will provide software to you via download or otherwise ("Software").
+This Yahoo! Public License (this "Agreement") is a legal agreement that
+describes the terms under which Yahoo! Inc., a Delaware corporation having its
+principal place of business at 701 First Avenue, Sunnyvale, California 94089
+("Yahoo!") will provide software to you via download or otherwise ("Software").
 By using the Software, you, an individual or an entity ("You") agree to the
 terms of this Agreement.
 
 In consideration of the mutual promises and upon the terms and conditions set
 forth below, the parties agree as follows:
 
-1.	Grant of Copyright License
+1. Grant of Copyright License
 
-1.1 - Subject to the terms and conditions of this Agreement, VMware hereby
+1.1 - Subject to the terms and conditions of this Agreement, Yahoo! hereby
 grants to You, under any and all of its copyright interest in and to the
 Software, a royalty-free, non-exclusive, non-transferable license to copy,
 modify, compile, execute, and distribute the Software and Modifications. For the
@@ -30,12 +30,12 @@ distribution for purposes of this Agreement.
 You must do so only under the terms of this Agreement, and You must include a
 complete copy of this Agreement with Your distribution. With respect to any
 Modification You distribute in source code format, the terms of this Agreement
-will apply to You in the same way those terms apply to VMware with respect to
+will apply to You in the same way those terms apply to Yahoo! with respect to
 the Software. In other words, when You are distributing Modifications under this
-Agreement, You "stand in the shoes" of VMware in terms of the rights You grant
+Agreement, You "stand in the shoes" of Yahoo! in terms of the rights You grant
 and how the terms and conditions apply to You and the licensees of Your
 Modifications. Notwithstanding the foregoing, when You "stand in the shoes" of
-VMware, You are not subject to the jurisdiction provision under Section 7, which
+Yahoo!, You are not subject to the jurisdiction provision under Section 7, which
 requires all disputes under this Agreement to be subject to the jurisdiction of
 federal or state courts of northern California.
 
@@ -47,8 +47,8 @@ format may be under a license of Your choice, provided that You are in
 compliance with the terms of this Agreement. In addition, You must make
 absolutely clear that any license terms applying to such Software or
 Modification that differ from this Agreement are offered by You alone and not by
-VMware, and that such license does not restrict recipients from exercising
-rights in the source code to the Software granted by VMware under this Agreement
+Yahoo!, and that such license does not restrict recipients from exercising
+rights in the source code to the Software granted by Yahoo! under this Agreement
 or rights in the source code to any Modification granted by You as described in
 Section 1.3.
 
@@ -56,13 +56,13 @@ Section 1.3.
 entirely Your own work (i.e., which do not incorporate any portion of the
 Software and are not Modifications) under any terms You choose.
 
-2.	Support
+2. Support
 
-VMware has no obligation to provide technical support or updates to You. Nothing
-in this Agreement requires VMware to enter into any license with You for any
+Yahoo! has no obligation to provide technical support or updates to You. Nothing
+in this Agreement requires Yahoo! to enter into any license with You for any
 other edition of the Software.
 
-3.	Intellectual Property Rights
+3. Intellectual Property Rights
 
 3.1 - Except for the license expressly granted under copyright in Section 1.1,
 no rights, licenses or forbearances are granted or may arise in relation to this
@@ -79,46 +79,46 @@ trademarks or logos that exist within a user interface of the Software.
 3.3 - This license does not grant You rights to use any party's name, logo, or
 trademarks, except solely as necessary to comply with Section 3.2.
 
-4.	Disclaimer of Warranties
+4. Disclaimer of Warranties
 
-THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. VMWARE MAKES
+THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND. YAHOO! MAKES
 NO WARRANTIES, WHETHER EXPRESS, IMPLIED, OR STATUTORY REGARDING OR RELATING TO
-THE SOFTWARE. SPECIFICALLY, VMWARE DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+THE SOFTWARE. SPECIFICALLY, YAHOO! DOES NOT WARRANT THAT THE SOFTWARE WILL BE
 ERROR FREE OR WILL PERFORM IN AN UNINTERRUPTED MANNER. TO THE GREATEST EXTENT
-ALLOWED BY LAW, VMWARE SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (EVEN IF VMWARE HAD BEEN
+ALLOWED BY LAW, YAHOO! SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE (EVEN IF YAHOO! HAD BEEN
 INFORMED OF SUCH PURPOSE), AND NONINFRINGEMENT WITH RESPECT TO THE SOFTWARE, ANY
 MODIFICATIONS THERETO AND WITH RESPECT TO THE USE OF THE FOREGOING.
 
-5.	Limitation of Liability
+5. Limitation of Liability
 
-IN NO EVENT WILL VMWARE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+IN NO EVENT WILL YAHOO! BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
 EXEMPLARY, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION
 LOSS OF PROFITS, LOSS OF USE, BUSINESS INTERRUPTION, LOSS OF DATA, COST OF
 COVER) IN CONNECTION WITH OR ARISING OUT OF OR RELATING TO THE FURNISHING,
 PERFORMANCE OR USE OF THE SOFTWARE OR ANY OTHER RIGHTS GRANTED HEREUNDER,
 WHETHER ALLEGED AS A BREACH OF CONTRACT OR TORTIOUS CONDUCT, INCLUDING
-NEGLIGENCE, AND EVEN IF VMWARE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+NEGLIGENCE, AND EVEN IF YAHOO! HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
-6.	Term and Termination
+6. Term and Termination
 
 6.1 - This Agreement will continue in effect unless and until terminated earlier
 pursuant to this Section 6.
 
-6.2 - In the event You violate the terms of this Agreement, VMware may terminate
+6.2 - In the event You violate the terms of this Agreement, Yahoo! may terminate
 this Agreement.
 
 6.3 - All licenses granted hereunder shall terminate upon the termination of
 this Agreement. Termination will be in addition to any rights and remedies
-available to VMware at law or equity or under this Agreement.
+available to Yahoo! at law or equity or under this Agreement.
 
 6.4 - Termination of this Agreement will not affect the provisions regarding
-reservation of rights (Section 3.1), provisions disclaiming or limiting VMware's
+reservation of rights (Section 3.1), provisions disclaiming or limiting Yahoo!'s
 liability (Sections 4 and 5), Termination (Section 6) or Miscellaneous (Section
 7), which provisions will survive termination of this Agreement.
 
-7.	Miscellaneous
+7. Miscellaneous
 
 This Agreement contains the entire agreement of the parties with respect to the
 subject matter of this Agreement and supersedes all previous communications,
@@ -136,13 +136,13 @@ Agreement will be interpreted and construed in accordance with the laws of the
 State of California and the United States of America, without regard to conflict
 of law principles. The U.N. Convention on Contracts for the International Sale
 of Goods shall not apply to this Agreement. All disputes arising out of this
-Agreement involving VMware or any of its subsidiaries shall be subject to the
+Agreement involving Yahoo! or any of its subsidiaries shall be subject to the
 jurisdiction of the federal or state courts of northern California, with venue
 lying in Santa Clara County, California. No rights may be assigned, no
 obligations may be delegated, and this Agreement may not be transferred by You,
 in whole or in part, whether voluntary or by operation of law, including by way
 of sale of assets, merger or consolidation, without the prior written consent of
-VMware, and any purported assignment, delegation or transfer without such
+Yahoo!, and any purported assignment, delegation or transfer without such
 consent shall be void ab initio. Any waiver of the provisions of this Agreement
 or of a party's rights or remedies under this Agreement must be in writing to be
 effective. Failure, neglect or delay by a party to enforce the provisions of
