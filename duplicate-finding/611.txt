@@ -1,126 +1,114 @@
-木兰宽松许可证, 第2版
-木兰宽松许可证， 第2版
+[ Copyleft Attitude ]
 
-2020年1月 http://license.coscl.org.cn/MulanPSL2
+Free Art License 1.3 (FAL 1.3)
 
-您对“软件”的复制、使用、修改及分发受木兰宽松许可证，第2版（“本许可证”）的如下条款的约束：
+Preamble
 
-0.   定义
+The Free Art License grants the right to freely copy, distribute, and transform creative works without infringing the author’s rights.
 
-“软件” 是指由“贡献”构成的许可在“本许可证”下的程序和相关文档的集合。
+The Free Art License recognizes and protects these rights. Their implementation has been reformulated in order to allow everyone to use creations of the human mind in a creative manner, regardless of their types and ways of expression.
 
-“贡献” 是指由任一“贡献者”许可在“本许可证”下的受版权法保护的作品。
+While the public’s access to creations of the human mind usually is restricted by the implementation of copyright law, it is favoured by the Free Art License. This license intends to allow the use of a work’s resources; to establish new conditions for creating in order to increase creation opportunities. The Free Art License grants the right to use a work, and acknowledges the right holder’s and the user’s rights and responsibility.
 
-“贡献者” 是指将受版权法保护的作品许可在“本许可证”下的自然人或“法人实体”。
+The invention and development of digital technologies, Internet and Free Software have changed creation methods: creations of the human mind can obviously be distributed, exchanged, and transformed. They allow to produce common works to which everyone can contribute to the benefit of all.
 
-“法人实体” 是指提交贡献的机构及其“关联实体”。
+The main rationale for this Free Art License is to promote and protect these creations of the human mind according to the principles of copyleft: freedom to use, copy, distribute, transform, and prohibition of exclusive appropriation.
 
-“关联实体” 是指，对“本许可证”下的行为方而言，控制、受控制或与其共同受控制的机构，此处的控制是指有受控方或共同受控方至少50%直接或间接的投票权、资金或其他有价证券。
+Definitions
 
-1.   授予版权许可
+« work » either means the initial work, the subsequent works or the common work as defined hereafter:
 
-每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的版权许可，您可以复制、使用、修改、分发其“贡献”，不论修改与否。
+« common work » means a work composed of the initial work and all subsequent contributions to it (originals and copies). The initial author is the one who, by choosing this license, defines the conditions under which contributions are made.
 
-2.   授予专利许可
+« Initial work » means the work created by the initiator of the common work (as defined above), the copies of which can be modified by whoever wants to
 
-每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的（根据本条规定撤销除外）专利许可，供您制造、委托制造、使用、许诺销售、销售、进口其“贡献”或以其他方式转移其“贡献”。前述专利许可仅限于“贡献者”现在或将来拥有或控制的其“贡献”本身或其“贡献”与许可“贡献”时的“软件”结合而将必然会侵犯的专利权利要求，不包括对“贡献”的修改或包含“贡献”的其他结合。如果您或您的“关联实体”直接或间接地，就“软件”或其中的“贡献”对任何人发起专利侵权诉讼（包括反诉或交叉诉讼）或其他专利维权行动，指控其侵犯专利权，则“本许可证”授予您对“软件”的专利许可自您提起诉讼或发起维权行动之日终止。
+« Subsequent works » means the contributions made by authors who participate in the evolution of the common work by exercising the rights to reproduce, distribute, and modify that are granted by the license.
 
-3.   无商标许可
+« Originals » (sources or resources of the work) means all copies of either the initial work or any subsequent work mentioning a date and used by their author(s) as references for any subsequent updates, interpretations, copies or reproductions.
 
-“本许可证”不提供对“贡献者”的商品名称、商标、服务标志或产品名称的商标许可，但您为满足第4条规定的声明义务而必须使用除外。
+« Copy » means any reproduction of an original as defined by this license.
 
-4.   分发限制
+1. OBJECT
+The aim of this license is to define the conditions under which one can use this work freely.
 
-您可以在任何媒介中将“软件”以源程序形式或可执行形式重新分发，不论修改与否，但您必须向接收者提供“本许可证”的副本，并保留“软件”中的版权、商标、专利及免责声明。
+2. SCOPE
+This work is subject to copyright law. Through this license its author specifies the extent to which you can copy, distribute, and modify it.
 
-5.   免责声明与责任限制
+2.1 FREEDOM TO COPY (OR TO MAKE REPRODUCTIONS)
+You have the right to copy this work for yourself, your friends or any other person, whatever the technique used.
 
-“软件”及其中的“贡献”在提供时不带任何明示或默示的担保。在任何情况下，“贡献者”或版权所有者不对任何人因使用“软件”或其中的“贡献”而引发的任何直接或间接损失承担责任，不论因何种原因导致或者基于何种法律理论，即使其曾被建议有此种损失的可能性。
+2.2 FREEDOM TO DISTRIBUTE, TO PERFORM IN PUBLIC
+You have the right to distribute copies of this work; whether modified or not, whatever the medium and the place, with or without any charge, provided that you:
+attach this license without any modification to the copies of this work or indicate precisely where the license can be found,
+specify to the recipient the names of the author(s) of the originals, including yours if you have modified the work,
+specify to the recipient where to access the originals (either initial or subsequent).
+The authors of the originals may, if they wish to, give you the right to distribute the originals under the same conditions as the copies.
 
-6.   语言
+2.3 FREEDOM TO MODIFY
+You have the right to modify copies of the originals (whether initial or subsequent) provided you comply with the following conditions:
+all conditions in article 2.2 above, if you distribute modified copies;
+indicate that the work has been modified and, if it is possible, what kind of modifications have been made;
+distribute the subsequent work under the same license or any compatible license.
+The author(s) of the original work may give you the right to modify it under the same conditions as the copies.
 
-“本许可证”以中英文双语表述，中英文版本具有同等法律效力。如果中英文版本存在任何冲突不一致，以中文版为准。
+3. RELATED RIGHTS
+Activities giving rise to author’s rights and related rights shall not challenge the rights granted by this license.
+For example, this is the reason why performances must be subject to the same license or a compatible license. Similarly, integrating the work in a database, a compilation or an anthology shall not prevent anyone from using the work under the same conditions as those defined in this license.
 
-条款结束
+4. INCORPORATION OF THE WORK
+Incorporating this work into a larger work that is not subject to the Free Art License shall not challenge the rights granted by this license.
+If the work can no longer be accessed apart from the larger work in which it is incorporated, then incorporation shall only be allowed under the condition that the larger work is subject either to the Free Art License or a compatible license.
 
-如何将木兰宽松许可证，第2版，应用到您的软件
+5. COMPATIBILITY
+A license is compatible with the Free Art License provided:
+it gives the right to copy, distribute, and modify copies of the work including for commercial purposes and without any other restrictions than those required by the respect of the other compatibility criteria;
+it ensures proper attribution of the work to its authors and access to previous versions of the work when possible;
+it recognizes the Free Art License as compatible (reciprocity);
+it requires that changes made to the work be subject to the same license or to a license which also meets these compatibility criteria.
 
-如果您希望将木兰宽松许可证，第2版，应用到您的新软件，为了方便接收者查阅，建议您完成如下三步：
+6. YOUR INTELLECTUAL RIGHTS
+This license does not aim at denying your author’s rights in your contribution or any related right. By choosing to contribute to the development of this common work, you only agree to grant others the same rights with regard to your contribution as those you were granted by this license. Conferring these rights does not mean you have to give up your intellectual rights.
 
-1， 请您补充如下声明中的空白，包括软件名、软件的首次发表年份以及您作为版权人的名字；
+7. YOUR RESPONSIBILITIES
+The freedom to use the work as defined by the Free Art License (right to copy, distribute, modify) implies that everyone is responsible for their own actions.
 
-2， 请您在软件包的一级目录下创建以“LICENSE”为名的文件，将整个许可证文本放入该文件中；
+8. DURATION OF THE LICENSE
+This license takes effect as of your acceptance of its terms. The act of copying, distributing, or modifying the work constitutes a tacit agreement. This license will remain in effect for as long as the copyright which is attached to the work. If you do not respect the terms of this license, you automatically lose the rights that it confers.
+If the legal status or legislation to which you are subject makes it impossible for you to respect the terms of this license, you may not make use of the rights which it confers.
 
-3， 请将如下声明文本放入每个源文件的头部注释中。
+9. VARIOUS VERSIONS OF THE LICENSE
+This license may undergo periodic modifications to incorporate improvements by its authors (instigators of the « Copyleft Attitude » movement) by way of new, numbered versions.
+You will always have the choice of accepting the terms contained in the version under which the copy of the work was distributed to you, or alternatively, to use the provisions of one of the subsequent versions.
 
-Copyright (c) [Year] [name of copyright holder]
-[Software Name] is licensed under Mulan PSL v2.
-You can use this software according to the terms and conditions of the Mulan PSL v2.
-You may obtain a copy of Mulan PSL v2 at:
-         http://license.coscl.org.cn/MulanPSL2
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
-EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
-MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
-See the Mulan PSL v2 for more details.
-Mulan Permissive Software License，Version 2
-Mulan Permissive Software License，Version 2 (Mulan PSL v2)
+10. SUB-LICENSING
+Sub-licenses are not authorized by this license. Any person wishing to make use of the rights that it confers will be directly bound to the authors of the common work.
 
-January 2020 http://license.coscl.org.cn/MulanPSL2
+11. LEGAL FRAMEWORK
+This license is written with respect to both French law and the Berne Convention for the Protection of Literary and Artistic Works.
 
-Your reproduction, use, modification and distribution of the Software shall be subject to Mulan PSL v2 (this License) with the following terms and conditions:
+USER GUIDE
 
-0. Definition
+– How to use the Free Art License?
+To benefit from the Free Art License, you only need to mention the following elements on your work:
+[Name of the author, title, date of the work. When applicable, names of authors of the common work and, if possible, where to find the originals].
+Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License https://artlibre.org/licence/lal/en/
 
-Software means the program and related documents which are licensed under this License and comprise all Contribution(s).
+– Why to use the Free Art License?
+1.To give the greatest number of people access to your work.
+2.To allow it to be distributed freely.
+3.To allow it to evolve by allowing its copy, distribution, and transformation by others.
+4.So that you benefit from the resources of a work when it is under the Free Art License: to be able to copy, distribute or transform it freely.
+5.But also, because the Free Art License offers a legal framework to disallow any misappropriation. It is forbidden to take hold of your work and bypass the creative process for one’s exclusive possession.
 
-Contribution means the copyrightable work licensed by a particular Contributor under this License.
+– When to use the Free Art License?
+Any time you want to benefit and make others benefit from the right to copy, distribute and transform creative works without any exclusive appropriation, you should use the Free Art License. You can for example use it for scientific, artistic or educational projects.
 
-Contributor means the Individual or Legal Entity who licenses its copyrightable work under this License.
+– What kinds of works can be subject to the Free Art License?
+The Free Art License can be applied to digital as well as physical works.
+You can choose to apply the Free Art License on any text, picture, sound, gesture, or whatever sort of stuff on which you have sufficient author’s rights.
 
-Legal Entity means the entity making a Contribution and all its Affiliates.
+– Historical background of this license:
+It is the result of observing, using and creating digital technologies, free software, the Internet and art. It arose from the « Copyleft Attitude » meetings which took place in Paris in 2000. For the first time, these meetings brought together members of the Free Software community, artists, and members of the art world. The goal was to adapt the principles of Copyleft and free software to all sorts of creations. http://www.artlibre.org
 
-Affiliates means entities that control, are controlled by, or are under common control with the acting entity under this License, ‘control’ means direct or indirect ownership of at least fifty percent (50%) of the voting power, capital or other securities of controlled or commonly controlled entity.
-
-1. Grant of Copyright License
-
-Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable copyright license to reproduce, use, modify, or distribute its Contribution, with modification or not.
-
-2. Grant of Patent License
-
-Subject to the terms and conditions of this License, each Contributor hereby grants to you a perpetual, worldwide, royalty-free, non-exclusive, irrevocable (except for revocation under this Section) patent license to make, have made, use, offer for sale, sell, import or otherwise transfer its Contribution, where such patent license is only limited to the patent claims owned or controlled by such Contributor now or in future which will be necessarily infringed by its Contribution alone, or by combination of the Contribution with the Software to which the Contribution was contributed. The patent license shall not apply to any modification of the Contribution, and any other combination which includes the Contribution. If you or your Affiliates directly or indirectly institute patent litigation (including a cross claim or counterclaim in a litigation) or other patent enforcement activities against any individual or entity by alleging that the Software or any Contribution in it infringes patents, then any patent license granted to you under this License for the Software shall terminate as of the date such litigation or activity is filed or taken.
-
-3. No Trademark License
-
-No trademark license is granted to use the trade names, trademarks, service marks, or product names of Contributor, except as required to fulfill notice requirements in section 4.
-
-4. Distribution Restriction
-
-You may distribute the Software in any medium with or without modification, whether in source or executable forms, provided that you provide recipients with a copy of this License and retain copyright, patent, trademark and disclaimer statements in the Software.
-
-5. Disclaimer of Warranty and Limitation of Liability
-
-THE SOFTWARE AND CONTRIBUTION IN IT ARE PROVIDED WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. IN NO EVENT SHALL ANY CONTRIBUTOR OR COPYRIGHT HOLDER BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE SOFTWARE OR THE CONTRIBUTION IN IT, NO MATTER HOW IT’S CAUSED OR BASED ON WHICH LEGAL THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-6. Language
-
-THIS LICENSE IS WRITTEN IN BOTH CHINESE AND ENGLISH, AND THE CHINESE VERSION AND ENGLISH VERSION SHALL HAVE THE SAME LEGAL EFFECT. IN THE CASE OF DIVERGENCE BETWEEN THE CHINESE AND ENGLISH VERSIONS, THE CHINESE VERSION SHALL PREVAIL.
-
-END OF THE TERMS AND CONDITIONS
-
-How to Apply the Mulan Permissive Software License，Version 2 (Mulan PSL v2) to Your Software
-
-To apply the Mulan PSL v2 to your work, for easy identification by recipients, you are suggested to complete following three steps:
-
-Fill in the blanks in following statement, including insert your software name, the year of the first publication of your software, and your name identified as the copyright owner;
-Create a file named "LICENSE" which contains the whole context of this License in the first directory of your software package;
-Attach the statement to the appropriate annotated syntax at the beginning of each source file.
-Copyright (c) [Year] [name of copyright holder]
-[Software Name] is licensed under Mulan PSL v2.
-You can use this software according to the terms and conditions of the Mulan PSL v2.
-You may obtain a copy of Mulan PSL v2 at:
-         http://license.coscl.org.cn/MulanPSL2
-THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
-EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO NON-INFRINGEMENT,
-MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
-See the Mulan PSL v2 for more details.
-Copyright © 中国开源云联盟 京ICP备05013730号-37
+Copyleft Attitude, 2007.
+You can make reproductions and distribute this license verbatim (without any changes).

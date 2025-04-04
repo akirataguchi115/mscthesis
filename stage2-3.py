@@ -47,19 +47,19 @@ for key in licenses:
     file_object.write(licenses[key])
     excluded_licenses.append(licenses[key])
 
-if path.exists('duplicate-finding'):
-  rmtree('duplicate-finding')
-Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
-number = 0
-# are there going to be any None values at this point anyway?
-text_list = [x for x in list(licenses.values()) if x is not None]
-text_list = [license for license in text_list if license not in excluded_licenses]
-text_list.sort()
-for license_text in text_list:
-  if license_text:
-    file_object = open('duplicate-finding/' + str(number) + '.txt', 'w')
-    file_object.write(license_text)
-    number += 1
+# if path.exists('duplicate-finding'):
+#   rmtree('duplicate-finding')
+# Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
+# number = 0
+# # are there going to be any None values at this point anyway?
+# text_list = [x for x in list(licenses.values()) if x is not None]
+# text_list = [license for license in text_list if license not in excluded_licenses]
+# text_list.sort()
+# for license_text in text_list:
+#   if license_text:
+#     file_object = open('duplicate-finding/' + str(number) + '.txt', 'w')
+#     file_object.write(license_text)
+#     number += 1
 
 if path.exists('stage2-licenses'):
   rmtree('stage2-licenses')

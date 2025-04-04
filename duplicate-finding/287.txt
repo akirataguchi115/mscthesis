@@ -1,220 +1,185 @@
-Open Logistics Foundation License
-Version 1.3, January 2023
-https://www.openlogisticsfoundation.org/licenses/
+OCLC Research Public License 2.0
+Terms & Conditions Of Use
+May, 2002
+Copyright (C) 2002. OCLC Research. All Rights Reserved
+ 
+PLEASE READ THIS DOCUMENT CAREFULLY. BY DOWNLOADING OR USING THE CODE BASE 
+AND/OR DOCUMENTATION ACCOMPANYING THIS LICENSE (THE "License"), YOU AGREE TO 
+THE FOLLOWING TERMS AND CONDITIONS OF THIS LICENSE. 
 
-TERMS AND CONDITIONS FOR USE, REPRODUCTION AND DISTRIBUTION
+Section 1.	Your Rights
 
-§1 Definitions
+	Subject to these terms and conditions of this License, the OCLC Office of Research (the 
+"Original Contributor") and each subsequent contributor (collectively with the Original Contributor, the 
+"Contributors") hereby grant you a non-exclusive, worldwide, no-charge, transferable license to execute, 
+prepare derivative works of, and distribute (internally and externally), for commercial and noncommercial 
+purposes, the original code contributed by Original Contributor and all Modifications (collectively called 
+the "Program").
 
-(1) "Subject Matter of the License" shall mean the works of software components
-in Source or Object form as well as any other components protected under
-copyright, design and/or patent law which are made available under this License.
+Section 2.	Definitions 
 
-(2) "License" shall mean the terms and conditions for the use, reproduction and
-distribution of the Subject Matter of the License in accordance with the
-provisions of this document.
+A "Modification" to the Program is any addition to or deletion from the contents of any file of 
+the Program and any new file that contains any part of the Program. If you make a Modification and 
+distribute the Program externally you are a "Contributor." The distribution of the Program must be under 
+the terms of this license including those in Section 3 below. 
 
-(3) "Licensor(s)" shall mean the copyright holder(s) or the entity authorized by
-law or contract by the copyright holder(s) to grant the License.
+A "Combined Work" results from combining and integrating all or parts of the Program with 
+other code. A Combined Work may be thought of as having multiple parents or being result of multiple 
+lines of code development. 
 
-(4) "You" (or "Your") shall mean a natural or legal person exercising the
-permissions granted by this License.
+Section 3.	Distribution Licensing Terms 
 
-(5) "Source" form shall mean the preferred form for making modifications,
-including but not limited to software source code, documentation source, and
-configuration files.
+A.	General Requirements
 
-(6) "Object" form shall mean any form resulting from mechanical transformation
-or translation of a Source form, including but not limited to compiled object
-code, generated documentation, and conversions to other media types.
+Except as necessary to recognize third-party rights or third-party restriction (see 
+below), a distribution of the Program in any of the forms listed below must not put any 
+further restrictions on the recipient's exercise of the rights granted herein.
 
-(7) "Derivative Works" shall mean any work, whether in Source or Object form or
-any other form, that is based on (or derived from) the Subject Matter of the
-License and for which the editorial revisions, annotations, elaborations, or
-other modifications represent, as a whole, an original work of authorship. For
-the purposes of this License, Derivative Works shall not include works that
-remain separable from, or merely link (or bind by name) to the interfaces of,
-the Subject Matter of the License and Derivative Works thereof.
+As a Contributor, you represent that your Modification(s) are your original creation(s) 
+and, to the best of your knowledge, no third party has any claim (including but not 
+limited to intellectual property claims) relating to your Modification(s). You represent 
+that each of your Modifications includes complete details of any third-party right or 
+other third-party restriction associated with any part of your Modification (including a 
+copy of any applicable license agreement).
 
-(8) "Contribution" shall mean any proprietary work, including the original
-version of the Subject Matter of the License and any changes or additions to
-such work, or Derivative Works of such work, that the rights holder, or a
-natural or legal person authorized to make submissions, intentionally submits to
-a Licensor to be incorporated into the Subject Matter of the License. For the
-purposes of this definition, "submit" shall mean any form of electronic or
-written communication which is sent to a Licensor or its representatives for the
-purpose of discussing or improving the Subject Matter of the License, including
-but not limited to communications sent via electronic mailing lists, source code
-control systems and issue tracking systems; however, communications that are
-clearly marked by the copyright holder as "not a contribution" or otherwise
-identified as such in writing are excluded.
+The Program must be distributed without charge beyond the costs of physically 
+transferring the files to the recipient.
 
-(9) "Contributor" shall mean the Licensor(s) and/or any natural or legal person
-on whose behalf the Licensor(s) receive(s) any Contribution subsequently
-incorporated into the Subject Matter of the License.
+This Warranty Disclaimer/Limitation of Liability must be prominently displayed with 
+every distribution of the Program in any form:
 
-§2 Grant of usage rights
+YOU AGREE THAT THE PROGRAM IS PROVIDED AS-IS, WITHOUT WARRANTY 
+OF ANY KIND (EITHER EXPRESS OR IMPLIED).  ACCORDINGLY, OCLC MAKES 
+NO WARRANTIES, REPRESENTATIONS OR GUARANTEES, EITHER EXPRESS 
+OR IMPLIED, AND DISCLAIMS ALL SUCH WARRANTIES, REPRESENTATIONS OR 
+GUARANTEES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR ANY PARTICULAR PURPOSE, AS TO:  
+(A) THE FUNCTIONALITY OR NONINFRINGEMENT OF PROGRAM, ANY 
+MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK; OR (B) THE 
+RESULTS OF ANY PROJECT UNDERTAKEN USING THE PROGRAM, ANY 
+MODIFICATION, A COMBINED WORK OR AN AGGREGATE WORK.   IN NO EVENT 
+SHALL THE CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL OR ANY OTHER 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE 
+PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  YOU 
+HEREBY WAIVE ANY CLAIMS FOR DAMAGES OF ANY KIND AGAINST 
+CONTRIBUTORS WHICH MAY RESULT FROM YOUR USE OF THE PROGRAM.
 
-Subject to the terms and conditions of this License and compliance with the
-provisions of this License, You are hereby granted by each Contributor, insofar
-as applicable to the respective Subject Matter of the License the
+B.	Requirements for a Distribution of Modifiable Code 
 
-- royalty-free and non-exclusive,
-- sub-licensable for commercial and non-commercial purposes,
-- worldwide and perpetual,
-- irrevocable and non-terminable
+If you distribute the Program in a form to which the recipient can make Modifications 
+(e.g. source code), the terms of this license apply to use by recipient. In addition, each 
+source and data file of the Program and any Modification you distribute must contain 
+the following notice: 
 
-right to reproduce, prepare Derivative Works of, publicly display, publicly
-perform, and distribute the Subject Matter of the License and such Derivative
-Works in any form. This right of use includes but is not limited to the right
+"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
+Inc. and other contributors. All rights reserved.  The contents of this file, as updated 
+from time to time by the OCLC Office of Research, are subject to OCLC Research 
+Public License Version 2.0 (the "License"); you may not use this file except in 
+compliance with the License. You may obtain a current copy of the License at 
+http://purl.oclc.org/oclc/research/ORPL/.  Software distributed under the License is 
+distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express 
+or implied. See the License for the specific language governing rights and limitations 
+under the License.  This software consists of voluntary contributions made by many 
+individuals on behalf of OCLC Research. For more information on OCLC Research, 
+please see http://www.oclc.org/oclc/research/.  The Original Code is 
+ .  The Initial Developer of the Original Code is 
+ . Portions created by   are 
+Copyright (C)    . All Rights Reserved. Contributor(s): 
+ ."
 
-- to use the Subject Matter of the License in any hardware and software
-  environment (with regard to the software and data components), in particular
-  to store or load it permanently or temporarily, to display it and run it,
-  including to the extent reproductions are necessary to that end,
-- to otherwise modify, interpret, edit or redesign it,
-- to store, reproduce, exhibit, publish, distribute it in tangible or intangible
-  form, on any medium or in any other way, for commercial and non-commercial
-  purposes, in particular to communicate it privately or publicly, including via
-  image, audio and other information carriers, irrespective of whether by wire
-  or wireless means,
-- to use it in databases, data networks and online services, including the right
-  to make the software and data components of the Subject Matter of the License
-  available in Source or Object form to users of the aforementioned databases,
-  networks and online services for research and retrieval purposes,
-- to allow third parties to use or operate it,
-- to use it for own purposes but also to provide services to third parties,
-- to distribute it
+C.	Requirements for a Distribution of Non-modifiable Code 
 
-in its original or modified, interpreted, edited or redesigned form.
+If you distribute the Program in a form to which the recipient cannot make Modifications 
+(e.g. object code), the terms of this license apply to use by recipient and you must 
+include the following statement in appropriate and conspicuous locations:
 
-The foregoing right of use relates to the Subject Matter of the License, in
-particular to its Source and Object form of software components (including
-design rights, where applicable).
+"Copyright (c) 2000- (insert then current year) OCLC Online Computer Library Center, 
+Inc. and other contributors. All rights reserved."
 
-§3 Grant of patent license
+In addition, the source code must be included with the object code distribution or the 
+distributor must provide the source code to the recipient upon request.
 
-Subject to the terms and conditions of this License and compliance with the
-provisions of this License, You are hereby granted by each Contributor a 
-- royalty-free and non-exclusive,
-- worldwide and perpetual,
-- irrevocable (with the exception of the restrictions set out in this Section 3)
+D.	Requirements for a Combined Work Distribution
 
-patent license in all rights deriving from the patents, owned and licensable by
-the Contributor at the time of the submission of the Contribution, to
+Distributions of Combined Works are subject to the terms of this license and must be 
+made at no charge to the recipient beyond the costs of physically transferring the files 
+to recipient.
 
-- produce,
-- have produced,
-- use,
-- offer for sale,
-- sell,
-- import and otherwise transfer
+A Combined Work may be distributed as either modifiable or non-modifiable code. The 
+requirements of Section 3.B or 3.C above (as appropriate) apply to such distributions.
 
-the Subject Matter of the License.
+An "Aggregate Work" is when the Program exists, without integration, with other 
+programs on a storage medium. This License does not apply to portions of an 
+Aggregate Work which are not covered by the definition of "Program" provided in this 
+License. You are not forbidden from selling an Aggregate Work. However, the Program 
+contained in an Aggregate Work is subject to this License.  Also, should the Program 
+be extracted from an Aggregate Work, this License applies to any use of the Program 
+apart from the Aggregate Work.
 
-However, said patent license shall cover only those rights deriving from the
-patents of the respective Contributors which are indispensable in order not to
-infringe that patent and only to the extent that the use of the Contributor’s
-respective Contributions, whether alone or in combination with other
-Contributions of the Contributors or any third parties together with the Subject
-Matter of the License for which these Contributions were submitted, would
-otherwise infringe that patent. The grant of license shall not include rights
-deriving from the patents which may in future become necessary for their lawful
-use due to subsequent modifications to the Subject Matter or Contributions made
-by third parties after the original submission.
+Section 4.	License Grant
 
-In the event that You institute patent litigation against any entity or person
-(including a counterclaim or countersuit in a legal action), alleging that the
-Subject Matter of the License or a Contribution incorporated or contained
-therein constitutes patent infringement or indirect infringement, all patent
-licenses which have been granted to You under this License for the Subject
-Matter of the License as well as this License itself shall be deemed terminated
-as of the date on which the action is filed.
+For purposes of permitting use of your Modifications by OCLC and other licensees 
+hereunder, you hereby grant to OCLC and such other licensees the non-exclusive, worldwide, royalty-
+free, transferable, sublicenseable license to execute, copy, alter, delete, modify, adapt, change, revise, 
+enhance, develop, publicly display, distribute (internally and externally) and/or create derivative works 
+based on your Modifications (and derivative works thereof) in accordance with these Terms. This Section 
+4 shall survive termination of this License for any reason.
 
-§4 Distribution
+Section 5.	Termination of Rights
 
-You may reproduce and distribute copies of the Subject Matter of the License or
-Derivative Works on any medium, with or without modifications (with regard to
-software components in Source or Object form), provided that You comply with
-the following rules:
+This non-exclusive license (with respect to the grant from a particular Contributor) 
+automatically terminates for any entity that initiates legal action for intellectual property infringement (with 
+respect to the Program) against such Contributor as of the initiation of such action.
 
-- You must provide all other recipients of the Subject Matter of the License or
-  of Derivative Works with a copy of this License and inform them that the
-  Subject Matter of the License was originally licensed under this License.
-- You must ensure that modified files contain prominent notices indicating that
-  You have modified the files.
-- You must retain all copyright, patent, trademark and attribution notices in
-  the Subject Matter of the License in the Source form of any Derivative Works
-  You distribute, with the exception of those notices that do not pertain to any
-  part of the Derivative Works.
+If you fail to comply with this License, your rights (but not your obligations) under this 
+License shall terminate automatically unless you cure such breach within thirty (30) days of becoming 
+aware of the noncompliance. All sublicenses granted by you which preexist such termination and are 
+properly granted shall survive such termination.
 
-You may add Your own copyright notices to Your modifications and state any
-additional or different license conditions and conditions for the use,
-reproduction or distribution of Your modifications or for those Derivative Works
-as a whole, provided that Your use, reproduction and distribution of the work
-complies with the terms and conditions set out in this License in all other
-respects.
+Section 6.	Other Terms
 
-§5 Submission of Contributions
+Except for the copyright notices required above, you may not use any trademark of any of 
+the Contributors without the prior written consent of the relevant Contributor.  You agree not to remove, 
+alter or obscure any copyright or other proprietary rights notice contained in the Program. 
 
-Unless expressly stated otherwise, every Contribution that You have
-intentionally submitted for inclusion in the Subject Matter of the License is
-subject to this License without any additional terms or conditions applying.
-Irrespective of the above, none of the terms or conditions contained herein may
-be interpreted to supersede or modify the terms or conditions of any separate
-licensing agreement that You may have concluded with a Licensor for such
-Contributions, such as a so-called "Contributor License Agreement" (CLA).
+All transfers of the Program or any part thereof shall be made in compliance with U.S. 
+import/export regulations or other restrictions of the U.S. Department of Commerce, as well as other 
+similar trade or commerce restrictions which might apply.
 
-§6 Trademarks
+Any patent obtained by any party covering the Program or any part thereof must include a 
+provision providing for the free, perpetual and unrestricted commercial and noncommercial use by any 
+third party.
 
-This License does not grant permission to use the trade names, trademarks,
-service marks or product names of the Licensor(s) or of a Contributor.
+If, as a consequence of a court judgment or settlement relating to intellectual property 
+infringement or any other cause of action, conditions are imposed on you that contradict the conditions of 
+this License, such conditions do not excuse you from compliance with this License. If you cannot 
+distribute the Program so as to simultaneously satisfy your obligations under this License and such other 
+conditions, you may not distribute the Program at all. For example, if a patent license would not permit 
+royalty-free redistribution of the Program by all those who receive copies directly or indirectly through you, 
+you could not satisfy both the patent license and this License, and you would be required to refrain 
+entirely from distribution of the Program.
 
-§7 Limited warranty
+If you learn of a third party claim or other restriction relating to a Program you have already 
+distributed you shall promptly redo your Program to address the issue and take all reasonable steps to 
+inform those who may have received the Program at issue. An example of an appropriate reasonable 
+step to inform would be posting an announcement on an appropriate web bulletin board. 
 
-This License is granted free of charge and thus constitutes a gift. Accordingly,
-any warranty is excluded. The Subject Matter of the License is a work in
-progress; it is constantly being improved by countless Contributors. The Subject
-Matter of the License is not complete and may therefore contain errors ("bugs")
-or additional patents of Contributors or third parties, as is inherent in this
-type of development.
+The provisions of this License are deemed to be severable, and the invalidity or unenforceability of 
+any provision shall not affect or impair the remaining provisions which shall continue in full force and effect.  In 
+substitution for any provision held unlawful, there shall be substituted a provision of similar import reflecting the 
+original intent of the parties hereto to the extent permissible under law.
 
-§8 Limitation of liability
+The Original Contributor from time to time may change this License, and the amended 
+license will apply to all copies of the Program downloaded after the new license is posted. This License 
+grants only the rights expressly stated herein and provides you with no implied rights or licenses to the 
+intellectual property of any Contributor.
 
-Except in cases of intentional and grossly negligent conduct, the Contributors,
-their legal representatives, trustees, officers and employees shall not be
-liable for direct or indirect, material or immaterial loss or damage of any kind
-arising from the License or the use of the Subject Matter of the License; this
-applies, among other things, but not exclusively, to loss of goodwill, loss of
-production, computer failures or errors, loss of data or economic loss or
-damage, even if the Contributor has been notified of the possibility of such
-loss or damage. Irrespective of the above, the Licensor shall only be liable
-within the scope of statutory product liability to the extent that the
-respective provisions are applicable to the Subject Matter of the License or the
-Contribution.
-
-Except in cases of intentional conduct, the Contributors, their legal
-representatives, trustees, officers and employees shall not be liable for any
-infringement of third-party patent or intellectual property rights arising from
-the Contributions nor do they warrant that the Contributions are accurate,
-devoid of mistakes, complete and/or fit for any particular purpose.
-
-§9 Provision of warranties or assumption of additional liability in the event of
-distribution of the Subject Matter of the License
-
-In the event of distribution of the Subject Matter of the License or Derivative
-Works, You are free to accept support, warranty, indemnity or other liability
-obligations and/or rights consistent with this License and to charge a fee in
-return. However, in accepting such obligations, You may act only on Your own
-behalf and on Your sole responsibility, not on behalf of any other Contributor,
-and You hereby agree to indemnify, defend, and hold each Contributor harmless
-for any liability incurred by, or claims asserted against, such Contributor by
-reason of Your accepting any such warranty or additional liability.
-
-§10 Applicable law
-
-This License is governed by German law, excluding its conflict of laws
-provisions and the provisions of the UN Convention on Contracts for the
-International Sale of Goods (CISG).
-
-END OF TERMS AND CONDITIONS
+		This License is the complete and exclusive statement of the agreement between the 
+parties concerning the subject matter hereof and may not be amended except by the written agreement of 
+the parties. This License shall be governed by and construed in accordance with the laws of the State of 
+Ohio and the United States of America, without regard to principles of conflicts of law.

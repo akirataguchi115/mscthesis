@@ -1,42 +1,114 @@
-W3C Software and Document Notice and License
+United Kingdom Open Parliament Licence v3.0
 
-Status: This license takes effect 13 May, 2015.
+Open Parliament Licence
 
-This work is being provided by the copyright holders under the following license.
-License
+You are encouraged to use and re-use the information that
+is available under this licence freely and flexibly, with
+only a few conditions. Using information under this licence
 
-By obtaining and/or copying this work, you (the licensee) agree that you have
-read, understood, and will comply with the following terms and conditions.
+Use of copyright and database right material made
+available under this licence (the ‘information’) indicates
+your acceptance of the terms and conditions below.
 
-Permission to copy, modify, and distribute this work, with or without
-modification, for any purpose and without fee or royalty is hereby granted,
-provided that you include the following on ALL copies of the work or portions
-thereof, including modifications:
+The Licensor grants you a worldwide, royalty-free,
+perpetual, non-exclusive licence to use the
+information subject to the conditions below.
 
-    The full text of this NOTICE in a location viewable to users of the
-    redistributed or derivative work.
-    
-    Any pre-existing intellectual property disclaimers, notices, or terms and
-    conditions. If none exist, the W3C Software and Document Short Notice should
-    be included.
+This licence does not affect your freedom under
+fair dealing or fair use or any other copyright
+or database right exceptions and limitations.
 
-    Notice of any changes or modifications, through a copyright statement on the
-    new code or document such as "This software or document includes material
-    copied from or derived from [title and URI of the W3C document]. Copyright ©
-    [YEAR] W3C® (MIT, ERCIM, Keio, Beihang)."
+You are free to:
+    * copy, publish, distribute and transmit the information
+    * adapt the information 
+    * exploit the information commercially and non-commercially, 
+    for example, by combining it with other information, 
+    or by  including it in your own product or application
 
-Disclaimers
+You must (where you do any of the above):
+    * acknowledge the source of the information in your
+    product or application by including the following
+    attribution statement and, where possible, provide a
+    link to this licence: Contains Parliamentary information
+    licensed under the Open Parliament Licence v3.0.
 
-THIS WORK IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR
-WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF
-MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE
-SOFTWARE OR DOCUMENT WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS,
-TRADEMARKS OR OTHER RIGHTS.
+These are important conditions of this licence and
+if you fail to comply with them the rights granted to
+you under this licence, or any similar licence granted
+by the Licensor, will end automatically. 
 
-COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR
-CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENT.
+Exemptions
 
-The name and trademarks of copyright holders may NOT be used in advertising or
-publicity pertaining to the work without specific, written prior permission.
-Title to copyright in this work will at all times remain with copyright holders.
-Notes
+This licence does not cover the use of:
+    * personal data in the information;
+    * information that has neither been published nor disclosed
+    under information access legislation (including the 
+    Freedom of Information Acts for the UK and Scotland) by or
+    with the consent of the Licensor;
+    * the Royal Arms and the Crowned Portcullis;
+    * third party rights the Licensor is not authorised to license; 
+    * information subject to other intellectual property rights,
+    including patents, trademarks, and design rights
+
+Non-endorsment
+
+This licence does not grant you any right to use the
+information in a way that suggests any official status or
+that the Licensor endorses you or your use of the Information.
+
+No warranty
+
+The information is licensed ‘as is’ and the
+Licensor excludes all representations, warranties,
+obligations and liabilities in relation to the
+information to the maximum extent permitted by law.
+The Licensor is not liable for any errors or omissions in
+the information and shall not be liable for any loss, injury
+or damage of any kind caused by its use. The Licensor does
+not guarantee the continued supply of the information.
+
+Governing law
+
+This licence is governed by the laws of England and Wales.
+
+Definitions
+
+In this licence, the terms below have the following meanings:
+
+‘Information’ means information protected by copyright
+or by database right (for example, literary and
+artistic works, content, data and source code)
+offered for use under the terms of this licence.
+
+‘Information Provider’ means either House of Parliament.
+
+‘Licensor’ means—
+(a) in relation to copyright, the Speaker of the House of
+Commons and the Clerk of the Parliaments representing
+the House of Commons and House of Lords respectively, and
+(b) in relation to database right, the Corporate
+Officer of the House of Commons and the Corporate
+Officer of the House of Lords respectively.
+
+‘Use’ means doing any act which is restricted by copyright
+or database right, whether in the original medium or in any
+other medium, and includes without limitation distributing,
+copying, adapting and modifying as may be technically
+necessary to use it in a different mode or format.
+
+‘You’ means the natural or legal person, or body of persons
+corporate or incorporate, acquiring rights under this licence.
+
+About the Open Parliament Licence
+
+This is version 3.0 of the Open Parliament Licence. The
+Licensor may, from time to time, issue new versions of the
+Open Parliament Licence. However, you may continue to use
+information licensed under this version should you wish to do so.
+
+The information licensed under the Open Parliament
+Licence includes Parliamentary information in which
+Crown copyright subsists. Further context, best practice
+and guidance relating to the re-use of public sector
+information can be found in the UK Government Licensing
+Framework section on The National Archives website.

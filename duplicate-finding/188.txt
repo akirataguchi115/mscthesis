@@ -1,23 +1,26 @@
-Development of this software was funded, in part, by Cray Research Inc.,
-UUNET Communications Services Inc., Sun Microsystems Inc., and Scriptics
-Corporation, none of whom are responsible for the results. The author
-thanks all of them.
+Cube game engine source code, 20 dec 2003 release.
 
-Redistribution and use in source and binary forms - with or without
-modification - are permitted for any purpose, provided that redistributions
-in source form retain this entire copyright notice and indicate the origin
-and nature of any modifications.
+Copyright (C) 2001-2003 Wouter van Oortmerssen.
 
-I'd appreciate being given credit for this package in the documentation of
-software which uses it, but that is not a requirement.
+This software is provided 'as-is', without any express or implied warranty. In
+no event will the authors be held liable for any damages arising from the use of
+this software.
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL
-HENRY SPENCER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
-OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
-OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
+
+     1. The origin of this software must not be misrepresented; you must not
+     claim that you wrote the original software. If you use this software in a
+     product, an acknowledgment in the product documentation would be
+     appreciated but is not required.
+
+     2. Altered source versions must be plainly marked as such, and must not be
+     misrepresented as being the original software.
+
+     3. This notice may not be removed or altered from any source distribution.
+
+additional clause specific to Cube:
+
+     4. Source versions may not be "relicensed" under a different license
+     without my explicitly written permission.

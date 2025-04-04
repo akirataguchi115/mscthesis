@@ -1,55 +1,40 @@
-The concept of the GNU Lesser General Public License version 2.1
-("LGPL") has been adopted to govern the use and distribution of above-
-mentioned application. However, the LGPL uses terminology that is more
-appropriate for a program written in C than one written in Lisp.
-Nevertheless, the LGPL can still be applied to a Lisp program if certain
-clarifications are made. This document details those clarifications.
-Accordingly, the license for the open-source Lisp applications consists
-of this document plus the LGPL. Wherever there is a conflict between
-this document and the LGPL, this document takes precedence over the
-LGPL.
+The SFL License Agreement
 
-A "Library" in Lisp is a collection of Lisp functions, data and foreign
-modules. The form of the Library can be Lisp source code (for processing
-by an interpreter) or object code (usually the result of compilation of
-source code or built with some other mechanisms). Foreign modules are
-object code in a form that can be linked into a Lisp executable. When we
-speak of functions we do so in the most general way to include, in
-addition, methods and unnamed functions. Lisp "data" is also a general
-term that includes the data structures resulting from defining Lisp
-classes. A Lisp application may include the same set of Lisp objects as
-does a Library, but this does not mean that the application is
-necessarily a "work based on the Library" it contains.
+This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code, documentation, and executable files, hereinafter referred to as "the Product".
 
-The Library consists of everything in the distribution file set before
-any modifications are made to the files. If any of the functions or
-classes in the Library are redefined in other files, then those
-redefinitions ARE considered a work based on the Library. If additional
-methods are added to generic functions in the Library, those additional
-methods are NOT considered a work based on the Library. If Library
-classes are subclassed, these subclasses are NOT considered a work based
-on the Library. If the Library is modified to explicitly call other
-functions that are neither part of Lisp itself nor an available add-on
-module to Lisp, then the functions called by the modified Library ARE
-considered a work based on the Library. The goal is to ensure that the
-Library will compile and run without getting undefined function errors.
+The Product is Copyright © 1991-2000 iMatix Corporation. You may use it and distribute it according to this following License Agreement. If you do not agree with these terms, please remove the Product from your system. By incorporating the Product in your work or distributing the Product to others you implicitly agree to these license terms.
 
-It is permitted to add proprietary source code to the Library, but it
-must be done in a way such that the Library will still run without that
-proprietary code present. Section 5 of the LGPL distinguishes between
-the case of a library being dynamically linked at runtime and one being
-statically linked at build time. Section 5 of the LGPL states that the
-former results in an executable that is a "work that uses the Library."
-Section 5 of the LGPL states that the latter results in one that is a
-"derivative of the Library", which is therefore covered by the LGPL.
-Since Lisp only offers one choice, which is to link the Library into an
-executable at build time, we declare that, for the purpose applying the
-LGPL to the Library, an executable that results from linking a "work
-that uses the Library" with the Library is considered a "work that uses
-the Library" and is therefore NOT covered by the LGPL.
+Statement Of Copyright
 
-Because of this declaration, section 6 of LGPL is not applicable to the
-Library. However, in connection with each distribution of this
-executable, you must also deliver, in accordance with the terms and
-conditions of the LGPL, the source code of Library (or your derivative
-thereof) that is incorporated into this executable.
+The Product is, and remains, Copyright © 1991-2000 iMatix Corporation, with exception of specific copyrights as noted in the individual source files.
+
+Conditions Of Use
+
+You do not need to provide the source code for the Product as part of your product. However, you must do one of these things to comply with the Product License Agreement:
+
+1.  Provide the source code for Product modules that you use, or
+2.  Make your product freely available according to a license similar to the GNU General Public License, or the Perl Artistic License, or
+3.  Add this phrase to the documentation for your product: "This product uses parts of the iMatix SFL, Copyright © 1991-2000 iMatix Corporation <http://www.imatix.com>". 
+
+Rights Of Usage
+
+You may freely and at no cost use the Product in any project, commercial, academic, military, or private, so long as you respect the License Agreement. The License Agreement does not affect any software except the Product. In particular, any application that uses the Product does not itself fall under the License Agreement.
+
+You may modify any part of the Product, including sources and documentation, except this License Agreement, which you may not modify.
+
+You must clearly indicate any modifications at the start of each source file. The user of any modified Product code must know that the source file is not original.
+
+At your discretion, you may rewrite or reuse any part of the Product so that your derived code is not obviously part of the Product. This derived code does not fall under the Product License Agreement directly, but you must include a credit at the start of each source file indicating the original authorship and source of the code, and a statement of copyright as follows:
+"Parts copyright (c) 1991-2000 iMatix Corporation."
+
+Rights Of Distribution
+
+You may freely distribute the Product, or any subset of the Product, by any means. The License, in the form of the file called "LICENSE.TXT" must accompany any such distribution.
+
+You may charge a fee for distributing the Product, for providing a warranty on the Product, for making modifications to the Product, or for any other service provided in relation to the Product. You are not required to ask our permission for any of these activities.
+
+At no time will iMatix associate itself with any distribution of the Product except that supplied from the Internet site http://www.imatix.com.
+
+Disclaimer Of Warranty
+
+The Product is provided as free software, in the hope that it will be useful. It is provided "as-is", without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the Product is with you. Should the Product prove defective, the full cost of repair, servicing, or correction lies with you.

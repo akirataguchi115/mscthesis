@@ -1,17 +1,20 @@
-This source code has been made available to you by IBM on an AS-IS
-basis.  Anyone receiving this source is licensed under IBM copyrights to
-use it in any way he or she deems fit, including copying it, modifying
-it, compiling it, and redistributing it either with or without
-modifications.  No license under IBM patents or patent applications is
-to be implied by the copyright license.
+This software is provided 'as-is', without any express or implied warranty. In
+no event will the authors be held liable for any damages arising from the use of
+this software.
 
-Any user of this software should understand that IBM cannot provide
-technical support for this software and will not be responsible for any
-consequences resulting from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
 
-Any person who transfers this source code or any derivative work must
-include the IBM copyright notice, this paragraph, and the preceding two
-paragraphs in the transferred software.
+1. The origin of this software must not be misrepresented; you must not claim
+that you wrote the original software. If you use this software in a product, an
+acknowledgment (see the following) in the product documentation is required.
 
-COPYRIGHT   I B M   CORPORATION 
-LICENSED MATERIAL  -  PROGRAM PROPERTY OF I B M
+Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004 James
+W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002
+Philip A. Craig
+
+2. Altered source versions must be plainly marked as such, and must not be
+misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.

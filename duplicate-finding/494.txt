@@ -1,40 +1,51 @@
-The SFL License Agreement
+The OpenLDAP Public License 
+Version 2.3, 28 July 2000 
 
-This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code, documentation, and executable files, hereinafter referred to as "the Product".
+Redistribution and use of this software and associated documentation 
+("Software"), with or without modification, are permitted provided 
+that the following conditions are met: 
 
-The Product is Copyright © 1991-2000 iMatix Corporation. You may use it and distribute it according to this following License Agreement. If you do not agree with these terms, please remove the Product from your system. By incorporating the Product in your work or distributing the Product to others you implicitly agree to these license terms.
+1. Redistributions of source code must retain copyright statements 
+and notices. 
 
-Statement Of Copyright
+2. Redistributions in binary form must reproduce applicable copyright 
+statements and notices, this list of conditions, and the following 
+disclaimer in the documentation and/or other materials provided 
+with the distribution. 
 
-The Product is, and remains, Copyright © 1991-2000 iMatix Corporation, with exception of specific copyrights as noted in the individual source files.
+3. Redistributions must contain a verbatim copy of this document. 
 
-Conditions Of Use
+4. The name "OpenLDAP" must not be used to endorse or promote 
+products derived from this Software without prior written permission 
+of the OpenLDAP Foundation. 
 
-You do not need to provide the source code for the Product as part of your product. However, you must do one of these things to comply with the Product License Agreement:
+5. Products derived from this Software may not be called "OpenLDAP" 
+nor may "OpenLDAP" appear in their names without prior written 
+permission of the OpenLDAP Foundation. 
 
-1.  Provide the source code for Product modules that you use, or
-2.  Make your product freely available according to a license similar to the GNU General Public License, or the Perl Artistic License, or
-3.  Add this phrase to the documentation for your product: "This product uses parts of the iMatix SFL, Copyright © 1991-2000 iMatix Corporation <http://www.imatix.com>". 
+6. Due credit should be given to the OpenLDAP Project 
+(http://www.openldap.org/). 
 
-Rights Of Usage
+7. The OpenLDAP Foundation may revise this license from time to 
+time. Each revision is distinguished by a version number. You 
+may use the Software under terms of this license revision or under 
+the terms of any subsequent revision of the license. 
 
-You may freely and at no cost use the Product in any project, commercial, academic, military, or private, so long as you respect the License Agreement. The License Agreement does not affect any software except the Product. In particular, any application that uses the Product does not itself fall under the License Agreement.
+THIS SOFTWARE IS PROVIDED BY THE OPENLDAP FOUNDATION AND CONTRIBUTORS 
+``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT 
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+THE OPENLDAP FOUNDATION OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, 
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED 
+OF THE POSSIBILITY OF SUCH DAMAGE. 
 
-You may modify any part of the Product, including sources and documentation, except this License Agreement, which you may not modify.
+OpenLDAP is a trademark of the OpenLDAP Foundation. 
 
-You must clearly indicate any modifications at the start of each source file. The user of any modified Product code must know that the source file is not original.
-
-At your discretion, you may rewrite or reuse any part of the Product so that your derived code is not obviously part of the Product. This derived code does not fall under the Product License Agreement directly, but you must include a credit at the start of each source file indicating the original authorship and source of the code, and a statement of copyright as follows:
-"Parts copyright (c) 1991-2000 iMatix Corporation."
-
-Rights Of Distribution
-
-You may freely distribute the Product, or any subset of the Product, by any means. The License, in the form of the file called "LICENSE.TXT" must accompany any such distribution.
-
-You may charge a fee for distributing the Product, for providing a warranty on the Product, for making modifications to the Product, or for any other service provided in relation to the Product. You are not required to ask our permission for any of these activities.
-
-At no time will iMatix associate itself with any distribution of the Product except that supplied from the Internet site http://www.imatix.com.
-
-Disclaimer Of Warranty
-
-The Product is provided as free software, in the hope that it will be useful. It is provided "as-is", without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the Product is with you. Should the Product prove defective, the full cost of repair, servicing, or correction lies with you.
+Copyright 1999-2000 The OpenLDAP Foundation, Redwood City, 
+California, USA. All Rights Reserved. Permission to copy and 
+distributed verbatim copies of this document is granted.

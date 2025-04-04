@@ -1,28 +1,35 @@
-This FastCGI application library source and object code (the
-"Software") and its documentation (the "Documentation") are
-copyrighted by Open Market, Inc ("Open Market").  The following terms
-apply to all files associated with the Software and Documentation
-unless explicitly disclaimed in individual files.
+The authors make NO WARRANTY or representation, either express or
+implied, with respect to this software, its quality, accuracy,
+merchantability, or fitness for a particular purpose.  This software is
+provided "AS IS", and you, its user, assume the entire risk as to its
+quality and accuracy.
 
-Open Market permits you to use, copy, modify, distribute, and license
-this Software and the Documentation for any purpose, provided that
-existing copyright notices are retained in all copies and that this
-notice is included verbatim in any distributions.  No written
-agreement, license, or royalty fee is required for any of the
-authorized uses.  Modifications to this Software and Documentation may
-be copyrighted by their authors and need not follow the licensing
-terms described here.  If modifications to this Software and
-Documentation have new licensing terms, the new terms must be clearly
-indicated on the first page of each file where they apply.
+This software is copyright (C) 1991, 1992, Thomas G. Lane.  All Rights
+Reserved except as specified below.
 
-OPEN MARKET MAKES NO EXPRESS OR IMPLIED WARRANTY WITH RESPECT TO THE
-SOFTWARE OR THE DOCUMENTATION, INCLUDING WITHOUT LIMITATION ANY
-WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  IN
-NO EVENT SHALL OPEN MARKET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY
-DAMAGES ARISING FROM OR RELATING TO THIS SOFTWARE OR THE
-DOCUMENTATION, INCLUDING, WITHOUT LIMITATION, ANY INDIRECT, SPECIAL OR
-CONSEQUENTIAL DAMAGES OR SIMILAR DAMAGES, INCLUDING LOST PROFITS OR
-LOST DATA, EVEN IF OPEN MARKET HAS BEEN ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.  THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS".
-OPEN MARKET HAS NO LIABILITY IN CONTRACT, TORT, NEGLIGENCE OR
-OTHERWISE ARISING OUT OF THIS SOFTWARE OR THE DOCUMENTATION.
+Permission is hereby granted to use, copy, modify, and distribute this
+software (or portions thereof) for any purpose, without fee, subject to
+these conditions:  
+
+(1) If any part of the source code for this software
+is distributed, then this README file must be included, with this
+copyright and no-warranty notice unaltered; and any additions,
+deletions, or changes to the original files must be clearly indicated
+in accompanying documentation.
+
+(2) If only executable code is
+distributed, then the accompanying documentation must state that "this
+software is based in part on the work of the Independent JPEG Group".
+
+(3) Permission for use of this software is granted only if the user
+accepts full responsibility for any undesirable consequences; the
+authors accept NO LIABILITY for damages of any kind.
+
+Permission is NOT granted for the use of any IJG author's name or
+company name in advertising or publicity relating to this software or
+products derived from it.  This software may be referred to only as
+"the Independent JPEG Group's software".
+
+We specifically permit and encourage the use of this software as the
+basis of commercial products, provided that all warranty or liability
+claims are assumed by the product vendor.

@@ -1,5 +1,7 @@
 ## Diary
 ### week 14
+fri: have to go through all empty licenses that actually might have contained a simple one click URL to fetch the license. we incease the scope for this one.
+
 thu: removed the code from stage2-3.py that removes exceptions i.e. duplicates from the licenses. 111 licenses to go.
 
 wed: i continue to copy paste manually licenses from the listing cites which are not found in scancode db. 115 licenses to go.

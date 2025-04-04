@@ -1,5 +1,2 @@
-everyone is welcome to use this code for any purpose, to modify it, and
-to copy it in whole or in part for use in other macro sets, with the
-conditions that this copyright notice be preserved with any significant
-portion of the code, and that modifications to this file be clearly
-marked.
+You can use this code in any manner, as long as you leave my 
+name on it and don't hold me responsible for any problems with it.

@@ -1,2 +1,1 @@
-This configure script is free software; the Free Software Foundation gives
-unlimited permission to copy, distribute and modify it.
+There is no license associated with the code and you may use it for any purpose—personal or commercial—as you wish. We ask only that you include citations in your documentation and source code to show the source of the code and provide links to the main page, to facilitate communications regarding any questions on the theory or source code.

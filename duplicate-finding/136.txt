@@ -1,48 +1,36 @@
-Caldera International, Inc. hereby grants a fee free license that includes the
-rights use, modify and distribute this named source code, including creating
-derived binary products created from the source code. The source code for which
-Caldera International, Inc. grants rights are limited to the following UNIX
-Operating Systems that operate on the 16-Bit PDP-11 CPU and early versions of
-the 32-Bit UNIX Operating System, with specific exclusion of UNIX System III and
-UNIX System V and successor operating systems:
+COPYRIGHT NOTICE, DISCLAIMER, and LICENSE
+=========================================
 
-32-bit 32V UNIX
-16 bit UNIX Versions 1, 2, 3, 4, 5, 6, 7
+PNG Reference Library License version 2
+---------------------------------------
 
-Caldera International, Inc. makes no guarantees or commitments that any source
-code is available from Caldera International, Inc.
+ * Copyright (c) 1995-2018 The PNG Reference Library Authors.
+ * Copyright (c) 2018 Cosmin Truta.
+ * Copyright (c) 2000-2002, 2004, 2006-2018 Glenn Randers-Pehrson.
+ * Copyright (c) 1996-1997 Andreas Dilger.
+ * Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
 
-The following copyright notice applies to the source code files for which this
-license is granted.
+The software is supplied "as is", without warranty of any kind,
+express or implied, including, without limitation, the warranties
+of merchantability, fitness for a particular purpose, title, and
+non-infringement.  In no even shall the Copyright owners, or
+anyone distributing the software, be liable for any damages or
+other liability, whether in contract, tort or otherwise, arising
+from, out of, or in connection with the software, or the use or
+other dealings in the software, even if advised of the possibility
+of such damage.
 
-Copyright(C) Caldera International Inc. All rights reserved.
+Permission is hereby granted to use, copy, modify, and distribute
+this software, or portions hereof, for any purpose, without fee,
+subject to the following restrictions:
 
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
+ 1. The origin of this software must not be misrepresented; you
+    must not claim that you wrote the original software.  If you
+    use this software in a product, an acknowledgment in the product
+    documentation would be appreciated, but is not required.
 
-Redistributions of source code and documentation must retain the above copyright
-notice, this list of conditions and the following disclaimer.
+ 2. Altered source versions must be plainly marked as such, and must
+    not be misrepresented as being the original software.
 
-Redistributions in binary form must reproduce the above copyright notice, this
-list of conditions and the following disclaimer in the documentation and/or
-other materials provided with the distribution.
-
-All advertising materials mentioning features or use of this software must
-display the following acknowledgement: This product includes software developed
-or owned by Caldera International, Inc.
-
-Neither the name of Caldera International, Inc. nor the names of other
-contributors may be used to endorse or promote products derived from this
-software without specific prior written permission.
-
-USE OF THE SOFTWARE PROVIDED FOR UNDER THIS LICENSE BY CALDERA INTERNATIONAL,
-INC. AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES,
-INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CALDERA
-INTERNATIONAL, INC. BE LIABLE FOR ANY DIRECT, INDIRECT INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
-OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
-INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
-CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
-IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
-OF SUCH DAMAGE.
+ 3. This Copyright notice may not be removed or altered from any
+    source or altered source distribution.

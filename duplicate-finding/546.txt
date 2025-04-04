@@ -1,9 +1,4 @@
-This software is available with usual "research" terms with
-the aim of retain credits of the software. Permission to use,
-copy, modify and distribute this software for any purpose and
-without fee is hereby granted, provided that the above copyright
-notice and this permission notice appear in all copies, and
-the name of INRIA, IMAG, or any contributor not be used in
-advertising or publicity pertaining to this material without
-the prior explicit permission. The software is provided "as
-is" without any warranties, support or liabilities of any kind.
+This module may be modified, used, copied, and redistributed at your own risk.
+Although allowed by the preceding license, please do not publicly
+redistribute modified versions of this code with the name "Text::Tabs"
+unless it passes the unmodified Text::Tabs test suite.

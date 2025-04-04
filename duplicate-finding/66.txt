@@ -1,85 +1,17 @@
-Academic Free License
-Version 1.1
+ASWF Digital Assets License v1.0
 
-The Academic Free License applies to any original work of authorship
-(the "Original Work") whose owner (the "Licensor") has placed the
-following notice immediately following the copyright notice for the
-Original Work: "Licensed under the Academic Free License version 1.1."
+License for <Asset Name> (the “Asset Name”).
 
-Grant of License. Licensor hereby grants to any person obtaining a
-copy of the Original Work ("You") a world-wide, royalty-free,
-non-exclusive, perpetual, non-sublicenseable license (1) to use, copy,
-modify, merge, publish, perform, distribute and/or sell copies of the
-Original Work and derivative works thereof, and (2) under patent
-claims owned or controlled by the Licensor that are embodied in the
-Original Work as furnished by the Licensor, to make, use, sell and
-offer for sale the Original Work and derivative works thereof, subject
-to the following conditions.
+<Asset Name> Copyright <Year> <Asset Owner>. All rights reserved.
 
-Right of Attribution. Redistributions of the Original Work must
-reproduce all copyright notices in the Original Work as furnished by
-the Licensor, both in the Original Work itself and in any
-documentation and/or other materials provided with the distribution of
-the Original Work in executable form.
+Redistribution and use of these digital assets, with or without modification, solely for education, training, research, software and hardware development, performance benchmarking (including publication of benchmark results and permitting reproducibility of the benchmark results by third parties), or software and hardware product demonstrations, are permitted provided that the following conditions are met:
 
-Exclusions from License Grant. Neither the names of Licensor, nor the
-names of any contributors to the Original Work, nor any of their
-trademarks or service marks, may be used to endorse or promote
-products derived from this Original Work without express prior written
-permission of the Licensor.
+1. Redistributions of these digital assets or any part of them must include the above copyright notice, this list of conditions and the disclaimer below.
 
-WARRANTY AND DISCLAIMERS. LICENSOR WARRANTS THAT THE COPYRIGHT IN AND
-TO THE ORIGINAL WORK IS OWNED BY THE LICENSOR OR THAT THE ORIGINAL
-WORK IS DISTRIBUTED BY LICENSOR UNDER A VALID CURRENT LICENSE FROM THE
-COPYRIGHT OWNER. EXCEPT AS EXPRESSLY STATED IN THE IMMEDIATELY
-PRECEEDING SENTENCE, THE ORIGINAL WORK IS PROVIDED UNDER THIS LICENSE
-ON AN "AS IS" BASIS, WITHOUT WARRANTY, EITHER EXPRESS OR IMPLIED,
-INCLUDING, WITHOUT LIMITATION, THE WARRANTY OF NON-INFRINGEMENT AND
-WARRANTIES THAT THE ORIGINAL WORK IS MERCHANTABLE OR FIT FOR A
-PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY OF THE ORIGINAL
-WORK IS WITH YOU. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL
-PART OF THIS LICENSE. NO LICENSE TO ORIGINAL WORK IS GRANTED HEREUNDER
-EXCEPT UNDER THIS DISCLAIMER.
+2. Publications showing images derived from these digital assets must include the above copyright notice.
 
-LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL
-THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE,
-SHALL THE LICENSOR BE LIABLE TO ANY PERSON FOR ANY DIRECT, INDIRECT,
-SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING
-AS A RESULT OF THIS LICENSE OR THE USE OF THE ORIGINAL WORK INCLUDING,
-WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE,
-COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL
-DAMAGES OR LOSSES, EVEN IF SUCH PERSON SHALL HAVE BEEN INFORMED OF THE
-POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT
-APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH
-PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH
-LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR
-LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION
-AND LIMITATION MAY NOT APPLY TO YOU.
+3. The names of copyright holder or the names of its contributors may NOT be used to promote or to imply endorsement, sponsorship, or affiliation with products developed or tested utilizing these digital assets or benchmarking results obtained from these digital assets, without prior written permission from copyright holder.
 
-License to Source Code. The term "Source Code" means the preferred
-form of the Original Work for making modifications to it and all
-available documentation describing how to access and modify the
-Original Work. Licensor hereby agrees to provide a machine-readable
-copy of the Source Code of the Original Work along with each copy of
-the Original Work that Licensor distributes. Licensor reserves the
-right to satisfy this obligation by placing a machine-readable copy of
-the Source Code in an information repository reasonably calculated to
-permit inexpensive and convenient access by You for as long as
-Licensor continues to distribute the Original Work, and by publishing
-the address of that information repository in a notice immediately
-following the copyright notice that applies to the Original Work.
+4. The assets and their output may only be referred to as the Asset Name listed above, and your use of the Asset Name shall be solely to identify the digital assets. Other than as expressly permitted by this License, you may NOT use any trade names, trademarks, service marks, or product names of the copyright holder for any purpose.
 
-Mutual Termination for Patent Action. This License shall terminate
-automatically and You may no longer exercise any of the rights granted
-to You by this License if You file a lawsuit in any court alleging
-that any OSI Certified open source software that is licensed under any
-license containing this "Mutual Termination for Patent Action" clause
-infringes any patent claims that are essential to use that software.
-
-This license is Copyright (C) 2002 Lawrence E. Rosen. All rights
-reserved. Permission is hereby granted to copy and distribute this
-license without modification. This license may not be modified without
-the express written permission of its copyright owner.
-
---
-END OF LICENSE.
+DISCLAIMER: THESE DIGITAL ASSETS ARE PROVIDED BY THE COPYRIGHT HOLDER “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ARE DISCLAIMED. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THESE DIGITAL ASSETS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

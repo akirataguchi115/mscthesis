@@ -1,219 +1,72 @@
-copyleft-next 0.3.0 ("this License")
-Release date: 2013-05-16
+You are encouraged to use and re-use the Information that is available under this licence freely and flexibly, with only a few conditions.
+Using Information under this licence
 
-1. License Grants; No Trademark License
+Use of copyright and database right material expressly made available under this licence (the 'Information') indicates your acceptance of the terms and conditions below.
 
-   Subject to the terms of this License, I grant You:
+The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information subject to the conditions below.
 
-   a) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      copyright license, to reproduce, Distribute, prepare derivative works
-      of, publicly perform and publicly display My Work.
+This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
+You are free to:
 
-   b) A non-exclusive, worldwide, perpetual, royalty-free, irrevocable
-      patent license under Licensed Patents to make, have made, use, sell,
-      offer for sale, and import Covered Works.
+    copy, publish, distribute and transmit the Information;
+    adapt the Information;
+    exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in your own product or application.
 
-   This License does not grant any rights in My name, trademarks, service
-   marks, or logos.
+You must (where you do any of the above):
 
-2. Distribution: General Conditions
+    acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence;
 
-   You may Distribute Covered Works, provided that You (i) inform
-   recipients how they can obtain a copy of this License; (ii) satisfy the
-   applicable conditions of sections 3 through 6; and (iii) preserve all
-   Legal Notices contained in My Work (to the extent they remain
-   pertinent). "Legal Notices" means copyright notices, license notices,
-   license texts, and author attributions, but does not include logos,
-   other graphical images, trademarks or trademark legends.
+ If the Information Provider does not provide a specific attribution statement, you must use the following:
 
-3. Conditions for Distributing Derived Works; Outbound GPL Compatibility
+ Contains public sector information licensed under the Open Government Licence v3.0.
 
-   If You Distribute a Derived Work, You must license the entire Derived
-   Work as a whole under this License, with prominent notice of such
-   licensing. This condition may not be avoided through such means as
-   separate Distribution of portions of the Derived Work. You may
-   additionally license the Derived Work under the GPL, so that the
-   recipient may further Distribute the Derived Work under either this
-   License or the GPL.
+If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
 
-4. Condition Against Further Restrictions; Inbound License Compatibility
+These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
+Exemptions
 
-   When Distributing a Covered Work, You may not impose further
-   restrictions on the exercise of rights in the Covered Work granted under
-   this License. This condition is not excused merely because such
-   restrictions result from Your compliance with conditions or obligations
-   extrinsic to this License (such as a court order or an agreement with a
-   third party).
+This licence does not cover:
 
-   However, You may Distribute a Covered Work incorporating material
-   governed by a license that is both OSI-Approved and FSF-Free as of the
-   release date of this License, provided that Your Distribution complies
-   with such other license.
+    personal data in the Information;
+    Information that has not been accessed by way of publication or disclosure under information access legislation (including the Freedom of Information Acts for the UK and Scotland) by or with the consent of the Information Provider;
+    departmental or public sector organisation logos, crests and the Royal Arms except where they form an integral part of a document or dataset;
+    military insignia;
+    third party rights the Information Provider is not authorised to license;
+    other intellectual property rights, including patents, trade marks, and design rights; and
+    identity documents such as the British Passport
 
-5. Conditions for Distributing Object Code
+Non-endorsement
 
-   You may Distribute an Object Code form of a Covered Work, provided that
-   you accompany the Object Code with a URL through which the Corresponding
-   Source is made available, at no charge, by some standard or customary
-   means of providing network access to source code.
+This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.
+No warranty
 
-   If you Distribute the Object Code in a physical product or tangible
-   storage medium ("Product"), the Corresponding Source must be available
-   through such URL for two years from the date of Your most recent
-   Distribution of the Object Code in the Product. However, if the Product
-   itself contains or is accompanied by the Corresponding Source (made
-   available in a customarily accessible manner), You need not also comply
-   with the first paragraph of this section.
+The Information is licensed 'as is' and the Information Provider and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the Information to the maximum extent permitted by law.
 
-   Each recipient of the Covered Work from You is an intended third-party
-   beneficiary of this License solely as to this section 5, with the right
-   to enforce its terms.
+The Information Provider and/or Licensor are not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.
+Governing Law
 
-6. Symmetrical Licensing Condition for Upstream Contributions
+This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
+Definitions
 
-   If You Distribute a work to Me specifically for inclusion in or
-   modification of a Covered Work (a "Patch"), and no explicit licensing
-   terms apply to the Patch, You license the Patch under this License, to
-   the extent of Your copyright in the Patch. This condition does not
-   negate the other conditions of this License, if applicable to the Patch.
+In this licence, the terms below have the following meanings:
 
-7. Nullification of Copyleft/Proprietary Dual Licensing
+'Information' means information protected by copyright or by database right (for example, literary and artistic works, content, data and source code) offered for use under the terms of this licence.
 
-   If I offer to license, for a fee, a Covered Work under terms other than
-   a license that is OSI-Approved or FSF-Free as of the release date of this
-   License or a numbered version of copyleft-next released by the
-   Copyleft-Next Project, then the license I grant You under section 1 is no
-   longer subject to the conditions in sections 2 through 5.
+'Information Provider' means the person or organisation providing the Information under this licence.
 
-8. Copyleft Sunset
+'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
 
-   The conditions in sections 2 through 5 no longer apply once fifteen
-   years have elapsed from the date of My first Distribution of My Work
-   under this License.
+'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
 
-9. Pass-Through
+'You', 'you' and 'your' means the natural or legal person, or body of persons corporate or incorporate, acquiring rights in the Information (whether the Information is obtained directly from the Licensor or otherwise) under this licence.
+About the Open Government Licence
 
-   When You Distribute a Covered Work, the recipient automatically receives
-   a license to My Work from Me, subject to the terms of this License.
+The National Archives has developed this licence as a tool to enable Information Providers in the public sector to license the use and re-use of their Information under a common open licence. The National Archives invites public sector bodies owning their own copyright and database rights to permit the use of their Information under this licence.
 
-10. Termination
+The Keeper of the Public Records has authority to license Information subject to copyright and database right owned by the Crown. The extent of the offer to license this Information under the terms of this licence is set out in the UK Government Licensing Framework.
 
-    Your license grants under section 1 are automatically terminated if You
+This is version 3.0 of the Open Government Licence. The National Archives may, from time to time, issue new versions of the Open Government Licence. If you are already using Information under a previous version of the Open Government Licence, the terms of that licence will continue to apply.
 
-    a) fail to comply with the conditions of this License, unless You cure
-       such noncompliance within thirty days after becoming aware of it, or
+These terms are compatible with the Creative Commons Attribution License 4.0 and the Open Data Commons Attribution License, both of which license copyright and database rights. This means that when the Information is adapted and licensed under either of those licences, you automatically satisfy the conditions of the OGL when you comply with the other licence. The OGLv3.0 is Open Definition compliant.
 
-    b) initiate a patent infringement litigation claim (excluding
-       declaratory judgment actions, counterclaims, and cross-claims)
-       alleging that any part of My Work directly or indirectly infringes
-       any patent.
-
-    Termination of Your license grants extends to all copies of Covered
-    Works You subsequently obtain. Termination does not terminate the
-    rights of those who have received copies or rights from You subject to
-    this License.
-
-    To the extent permission to make copies of a Covered Work is necessary
-    merely for running it, such permission is not terminable.
-
-11. Later License Versions
-
-    The Copyleft-Next Project may release new versions of copyleft-next,
-    designated by a distinguishing version number ("Later Versions").
-    Unless I explicitly remove the option of Distributing Covered Works
-    under Later Versions, You may Distribute Covered Works under any Later
-    Version.
-
-** 12. No Warranty                                                       **
-**                                                                       **
-**     My Work is provided "as-is", without warranty. You bear the risk  **
-**     of using it. To the extent permitted by applicable law, each      **
-**     Distributor of My Work excludes the implied warranties of title,  **
-**     merchantability, fitness for a particular purpose and             **
-**     non-infringement.                                                 **
-
-** 13. Limitation of Liability                                           **
-**                                                                       **
-**     To the extent permitted by applicable law, in no event will any   **
-**     Distributor of My Work be liable to You for any damages           **
-**     whatsoever, whether direct, indirect, special, incidental, or     **
-**     consequential damages, whether arising under contract, tort       **
-**     (including negligence), or otherwise, even where the Distributor  **
-**     knew or should have known about the possibility of such damages.  **
-
-14. Severability
-
-    The invalidity or unenforceability of any provision of this License
-    does not affect the validity or enforceability of the remainder of
-    this License. Such provision is to be reformed to the minimum extent
-    necessary to make it valid and enforceable.
-
-15. Definitions
-
-    "Copyleft-Next Project" means the project that maintains the source
-    code repository at <https://gitorious.org/copyleft-next/> as of the
-    release date of this License.
-
-    "Corresponding Source" of a Covered Work in Object Code form means (i)
-    the Source Code form of the Covered Work; (ii) all scripts,
-    instructions and similar information that are reasonably necessary for
-    a skilled developer to generate such Object Code from the Source Code
-    provided under (i); and (iii) a list clearly identifying all Separate
-    Works (other than those provided in compliance with (ii)) that were
-    specifically used in building and (if applicable) installing the
-    Covered Work (for example, a specified proprietary compiler including
-    its version number). Corresponding Source must be machine-readable.
-
-    "Covered Work" means My Work or a Derived Work.
-
-    "Derived Work" means a work of authorship that copies from, modifies,
-    adapts, is based on, is a derivative work of, transforms, translates or
-    contains all or part of My Work, such that copyright permission is
-    required. The following are not Derived Works: (i) Mere Aggregation;
-    (ii) a mere reproduction of My Work; and (iii) if My Work fails to
-    explicitly state an expectation otherwise, a work that merely makes
-    reference to My Work.
-
-    "Distribute" means to distribute, transfer or make a copy available to
-    someone else, such that copyright permission is required.
-
-    "Distributor" means Me and anyone else who Distributes a Covered Work.
-
-    "FSF-Free" means classified as 'free' by the Free Software Foundation.
-
-    "GPL" means a version of the GNU General Public License or the GNU
-    Affero General Public License.
-
-    "I"/"Me"/"My" refers to the individual or legal entity that places My
-    Work under this License. "You"/"Your" refers to the individual or legal
-    entity exercising rights in My Work under this License. A legal entity
-    includes each entity that controls, is controlled by, or is under
-    common control with such legal entity. "Control" means (a) the power to
-    direct the actions of such legal entity, whether by contract or
-    otherwise, or (b) ownership of more than fifty percent of the
-    outstanding shares or beneficial ownership of such legal entity.
-
-    "Licensed Patents" means all patent claims licensable royalty-free by
-    Me, now or in the future, that are necessarily infringed by making,
-    using, or selling My Work, and excludes claims that would be infringed
-    only as a consequence of further modification of My Work.
-
-    "Mere Aggregation" means an aggregation of a Covered Work with a
-    Separate Work.
-
-    "My Work" means the particular work of authorship I license to You
-    under this License.
-
-    "Object Code" means any form of a work that is not Source Code.
-
-    "OSI-Approved" means approved as 'Open Source' by the Open Source
-    Initiative.
-
-    "Separate Work" means a work that is separate from and independent of a
-    particular Covered Work and is not by its nature an extension or
-    enhancement of the Covered Work, and/or a runtime library, standard
-    library or similar component that is used to generate an Object Code
-    form of a Covered Work.
-
-    "Source Code" means the preferred form of a work for making
-    modifications to it.
+Further context, best practice and guidance can be found in the UK Government Licensing Framework section on The National Archives website.

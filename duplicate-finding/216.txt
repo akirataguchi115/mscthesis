@@ -1,441 +1,142 @@
-GPL -PA
-GENERAL PUBLIC LICENSE
-FOR COMPUTER PROGRAMS
-OF THE PUBLIC ADMINISTRATION
-
-Version 1.1
-May 30th, 2005
-
-PRINCIPLES
-
-NOTE: These principles are not a part of the licensing agrement for
-the GPL-PA (General Public License for Computer Programs for the
-Public Administration) They have a merely informative nature and have
-the objective of guiding the interpretation of this LICENSE.
-
-This license:
-
-1.Establishes licensing norms for use, publication, distribution,
-reproduction and alterations for computer programs that are property
-of the Public Administration, in view of principles of legality and of
-the quality of being public present in article 37, head paragraph, of
-the Federal Constitution of 1988 and article 27, head paragraph, of
-the Constitution of the State of Paraná.
-
-2.Guarantees that any interested person may use, publish, distribute,
-reproduce or alter the PROGRAM hereby licensed, so that it fosters
-technical training, in the terms of articles 6, 205, 206, ll of the
-Federal Constitution of 1988, of article 203 of the Constitution of
-the State of Paraná and of articles 2 and 4 of Law 7.23284 (National
-Policy for Information Technology)
-
-3.Requires that the PROGRAM be distributed accompanied by its
-source-code, which will constitute an integral part that cannot be
-dissociated, requires that all those rights be transferred or
-relicensed free of charge.
-
-4.Admits that there may be charges for services rendered, such as the
-recording of a CD or similar media, delivery service, preparing
-alterations or customizations of the program, technical support and
-other;
-
-5.States that the PROGRAM does not have any warranty, given that it is
-not an object of commerce. The warranty will apply only for billed
-services, such as the ones listed in item 4, above, pursuant to
-applicable Law;
-
-6.It does not authorize the PROGRAM or its parts to be distributed
-upon payment and/or in systems that are merely compiled (proprietary
-systems);
-
-7.Has as its objective to make available to society the knowledge
-involved in the production of the PROGRAM hereby licensed, as well as
-to offer the possibility of full auditing of the way it works. The
-goal is to comply with what was stipulated in article 218 of the
-Federal Constitution of 1988, in articles 200 and 201 of the
-Constitution of the State of Paraná and in Law 7.232/84
-
-8.It does not imply the transfer of property of the PROGRAM, and does
-not constitute renouncing, abdication or concession of author rights.
-
-GPL -PA
-GENERAL PUBLIC LICENSE
-FOR COMPUTER PROGRAMS
-OF THE PUBLIC ADMINISTRATION
-
-Version 1.1
-May 30th, 2005
-
-1.PARTIES
-The parties to this license contract are:
-
-1.1.The holders of author rights for the PROGRAM specified at the end
-of this LICENCE – from now on called only LICENSOR - , and
-
-1.2.Any entity, institutional or individual- from now on called only
-LICENSEE – that USES, PUBLISHES, DISTRIBUTES, REPRODUCES OR ALTERS THE
-PROGRAM specified below.
-
-The parties have agreed to sign the present LICENSING CONTRACT OF USE,
-PUBLICATION, DISTRIBUTION, REPRODUCTION, AND ALTERATION OF OPEN CODE
-COMPUTER PROGRAM, referred to in this LICENSE as PROGRAM.
-
-2.TERMS USED IN THIS LICENSE
-
-2.1.The term “computer program” is defined in article of Law number
-9.609/98 as “the expression of an organized group of instructions in
-codified or natural language, contained in physical support of any
-nature, of necessary use in automatic machines of information
-treatment, devices, instruments or peripheral equipment, based on
-digital or analogue technology, in order to make them function in a
-particular way for a particular purpose".
-
-2.2.The PROGRAM licensing includes the following distribution forms:
-
-2.2.1.Compiled: term which represents any distribution prepared to be
-understood by the machines on which the execution of the PROGRAM is
-meant to occur;
-
-2.2.2.The source-code: term which represents the appropriate way to
-make alterations in the PROGRAM. The source-code distributed must
-include all the source-codes from all the modules contained in and
-necessary to the normal functioning of the PROGRAM, in addition to the
-routines used for controlling its compilation and installation. It is
-not necessary to include in the source-code anything that is already
-normally distributed, whether in the form of source-code or compiled,
-such as the components of the operational system in which the PROGRAM
-will be executed.
-
-2.3.It is the principle of this LICENSE to make public the necessary
-knowledge for the preparation and comprehension of the working
-mechanisms of the PROGRAM, so that all DISTRIBUTION is accompanied by
-the most appropriate form for its study and alteration.
-
-2.4.The term LICENSE or GPL-PA will be used hereafter to designate
-this licensing term. The concepts here expressed are those of the
-applicable legislation, notably of Law 9.61098.
-
-3.OBJECT: LICENSING FOR USE, PUBLICATION, DISTRIBUTION, REPRODUCTION
-AND ALTERATION OF COMPUTER PROGRAM.
-
-3.1.The object of this contract is the free-of-charge licensing, by
-the LICENSOR to the LICENSEEE, of the rights for USE, DISTRIBUTION,
-REPRODUCTION AND ALTERATION, understood according to article 5 of Law
-9.61098, of the PROGRAM that is property of the LICENSOR.
-
-3.2.The free-of-charge nature of the license here presented does not
-preclude charges for other services or costs, such as for example
-DEVELOPING, APROPRIATING, IMPLANTING or costs associated with the
-DISTRIBUTION OF THE PROGRAM.
-
-3.3.THE LICENSOR may not, after the PUBLICATION or DISTRIBUTION of the
-PROGRAM, object with regard to any of the rights which are the object
-of this term, when exercised according to what is hereby agreed.
-
-3.4.THE PROGRAM that is the object of this LICENSE has not been placed
-in the public domain and its property continues to belong to the
-LICENSOR, independently of registration, according to article 2, § 3
-of Law 9.609/98.
-
-4.LIMITATION OF WARRANTIES
-
-4.1.The rights for the PROGRAM are licensed free of charge, and are
-not , under any circumstances, the object of commerce. This LICENSE is
-a charitable, free-of charge contract, with the warranty foreseen by
-article 8 of Law 9.609/98 not applying to the PROGRAM, the same being
-true for ANY OF THE WARRANTIES foreseen by Law 8.078/90. The LICENSOR
-will not be compelled to provide support, assistance or explanations
-to the LICENSEE.
-
-4.2.As an exception, the holders of author’s rights for derived
-computer programs may guarantee the part that is due to them, without
-any commitment from the authors of originating versions.
-
-4.3.Except in the case of illegal act, fraud or violation by the
-LICENSOR, all damages arising from the USE, PUBLICATION, DISTRIBUTION,
-REPRODUCTION OR ALTERATION of the PROGRAM are the sole responsibility
-of the LICENSEE, or of the respective authors of each ALTERATION.
-
-4.4.Pursuant to article 114 of the Civil Code and article 4 of Law
-9.610/98, this LICENSE will be interpreted restrictively.
-
-5.GENERAL LICENSING CONDITIONS
-
-5.1.The USE, PUBLICATION, DISTRIBUTION, REPRODUCTION or ALTERATION of
-the PROGRAM in disagreement with the conditions established on the
-LICENSE are hereby forbidden.
-
-6.GENERAL RIGHTS OF THE LICENSEE
-
-6.1.The LICENSEE has the right to USE, PUBLISH, DISTRIBUTE, REPRODUCE
-or ALTER the PROGRAM according to what was stipulated in this LICENSE.
-
-7.GENERAL OBLIGATIONS OF THE LICENSEE
-
-7.1.When accepting this LICENSE, the LICENSEE obliges himself to all
-of its terms and conditions. In the event that the LICENSEE does not
-agree completely with what is set forth herein, he will not be allowed
-to USE, PUBLISH, DISTRIBUTE, REPRODUCE or ALTER the PROGRAM.
-
-7.2.The LICENSEE can never alter the PROGRAM or part of it, nor any
-computer program derived from the PROGRAM or part of it, in:
-
-7.2.1.a PROGRAM licensed through payment or compensation of any kind;
-
-7.2.2.a PROGRAM distributed without accompaniment or the offer of
-accompaniment of the respective source-code.
-
-7.3.The LICENSEE cannot withdraw the credits of the LICENSOR for the
-part of the Program that is due to him. According to item 8.3, below,
-such withdrawal can occur only when required by the LICENSOR, and as
-the exclusive way to exercise the moral right of objection to
-unauthorized alterations which damage his honor and reputation,
-according to what was foreseen in Article 2, paragraph 1 of Law
-9.609/98.
-
-7.4.Independently of registering the PROGRAM before the appropriate
-bodies by the LICENSOR, the LICENSEE also commits himself not to
-register the PROGRAM, or any aspect of it, and not to seek any
-equivalent way of protection or appropriation with the objective of
-restricting the full transference to third parties of all the rights
-that are object of this LICENSE. Thus, as an example, the LICENSEE is
-forbidden from seeking patents for the PROGRAM or registering the name
-or any other distinctive sign of it before the INPI.
+FreeImage Public License - Version 1.0
+---------------------------------------------
 
-8.GENERAL RIGHTS OF THE LICENSOR
-
-8.1.The LICENSOR retains author rights to claim the paternity of the
-PROGRAM, according to what is set forth in Law 9.609/98, in article 2,
-paragraph 1 .
-
-8.2.It is also the right of the LICENSOR to have all the conventional
-signs indicating his authorship, placed by him or at his request, kept
-the same way as originally placed. This right is extended also to
-derived computer programs.
-
-8.3.However, the LICENSOR may, at any time, request the removal of all
-the conventional signs indicating his authorship, placed by him or at
-his request, of a computer program derived from the PROGRAM when he
-judges that the alterations performed may damage his honor or
-reputation.
-
-9.GENERAL OBLIGATIONS OF THE LICENSOR
-
-9.1.The LICENSOR must always DISTRIBUTE the PROGRAM in two formats,
-namely, compiled and source-code, having observed the dispositions of
-item 12.1, below.
-
-9.2.The LICENSOR may never revoke any right given hereby; he also may
-not alter the rights of any previous versions of the PROGRAM already
-licensed.
-
-9.3.It is the obligation of the LICENSOR, to ensure that the PROGRAM
-may be distributed according to this LICENSE, to waive the right to
-object to alterations to the PROGRAM. He may, in the event that he
-disagrees with the alterations performed in computer programs derived
-from the PROGRAM, request the elimination of his distinctive signs
-placed on the derived program, according to item 8.3, above.
-
-10.USE OF THE PROGRAM
-
-10.1.The USE of the PROGRAM is allowed for all interested persons,
-provided the terms of this LICENSE are respected.
-
-10.1.1.By USE it is to be understood: the employment of the PROGRAM
-under normal conditions, in accordance to what is described in its
-technical documentation.
-
-10.1.2.The USE can also relate to the source-code form of the PROGRAM,
-which purpose is to make public the structure of the compiled form of
-the program, as well as to allow the development of new derived
-computer programs or programs that use part of the PROGRAM.
+1. Definitions.
 
-10.2.There are no restrictions to USE of the PROGRAM for commercial
-activities of the LICENSEE, as long as the terms of this LICENSE are
-respected, notably the obligations of item 7, above.
+1.1. "Contributor" means each entity that creates or contributes to the creation of Modifications.
 
-10.3.In the event that parts of the PROGRAM are used in other computer
-programs, these must necessarily be licensed by this LICENSE. As an
-exception to this rule, the computer program that uses parts of the
-PROGRAM may be licensed in a different way provided its normal
-functioning is independent of the copied part and the latter is
-accompanied by its source-code form.
-
-10.4.Regarding works derived from the PROGRAM, it is understood, for
-all purposes, that the LICENSOR is the author of the derivations.
-
-11.PUBLICATION OF THE PROGRAM
+1.2. "Contributor Version" means the combination of the Original Code, prior Modifications used by a Contributor, and the Modifications made by that particular Contributor.
 
-11.1.The LICENSEE may freely PUBLISH the PROGRAM, in any medium and
-for any purpose.
-
-11.2.Any PUBLICATION OF the PROGRAM shall be accompanied by a complete
-copy of this LICENSE, which is an integral part of the PROGRAM, in
-accordance with article 9 of Law 9.609/98.
-
-11.3.When it is in source-code format, the PROGRAM must contain, at
-the beginning of all text files integrating it, reference to this
-LICENSE, which must be done in the following manner:
-
-BEGIN COMMENT MARKER
-
-This program is licensed in accordance with the GPL-PA (GENERAL PUBLIC
-LICENSE FOR COMPUTER PROGRAMS OF THE PUBLIC ADMINISTRATION), version
-1.1 or any later version.
-
-The GPL-PA shall accompany all PUBLICATION, DISTRIBUTION and
-REPRODUCTION of this PROGRAM.
-
-In the event that a copy of the GPL-PA is not available together with
-this Program, you may contact the LICENSOR or directly access:
-
-http://www.celepar.pr.gov.br/licenca/LPG-AP.pdf
-
-In order to USE, PUBLISH, DISTRIBUTE, REPRODUCE or ALTER the PROGRAM
-it is necessary to agree with the terms of the GPL-PA .
-
-END COMMENT MARKER 11.4.In the event that the PROGRAM is a collective
-work, according to what was specified in item13, article 88 of the Law
-9610/98 will not apply to the PUBLICATION.
-
-12.DISTRIBUTION OF THE PROGRAM
-
-12.1.The rights of DISTRIBUTION of the PROGRAM apply to the compiled
-and source-code forms. The LICENSEE may distribute the program
-concomitantly in the two forms mentioned (compiled and source-code) or
-even with a valid offer of distribution of both forms, following the
-terms below.
+1.3. "Covered Code" means the Original Code or Modifications or the combination of the Original Code and Modifications, in each case including portions thereof.
 
-12.2.The partial DISTRIBUTION of the PROGRAM, which includes only the
-source-code or only the compiled form, is forbidden. Thus, the
-DISTRIBUTION must obey one of the following options:
+1.4. "Electronic Distribution Mechanism" means a mechanism generally accepted in the software development community for the electronic transfer of data.
 
-12.2.1.Include the complete compiled form and the source-code form,
-which shall be distributed in a medium or media habitually used to
-exchange software; or,
+1.5. "Executable" means Covered Code in any form other than Source Code.
 
-12.2.2.Include the compiled form and a written offer, with at least a
-three-year validity, to provide any interested person, for a cost
-which can not be superior to that of the distribution, a complete copy
-of the corresponding source-code form, in a medium or media usually
-used for exchanging software; or,
+1.6. "Initial Developer" means the individual or entity identified as the Initial Developer in the Source Code notice required by Exhibit A.
 
-12.2.3.Include the compiled form and the information received by the
-LICENSEE regarding the offer to distribute the corresponding
-source-code. (This alternative is allowed only for non-commercial
-distribution and only if the program has been received in its compiled
-form accompanied by this offer, according with item 12.2.2, above).
+1.7. "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
 
-12.3.Any DISTRIBUTION of the PROGRAM shall be accompanied by a copy of
-this LICENSE.
+1.8. "License" means this document.
 
-12.4.There is no restrictioin to the DISTRIBUTION of the PROGRAM for
-commercial purposes, if it is clear that there will be no charges for
-the PROGRAM, but only for the means and services of distribution.
-
-13.REPRODUCTION OF THE PROGRAM
-
-13.1.There are no restrictions regarding the number of copies of the
-PROGRAM that the LICENSEE can make. Its REPRODUCTION is free in any
-medium, but it should respect the restrictions on item 11, according
-to the destination of each REPRODUCTION.
-
-13.2.Any REPRODUCTION of the PROGRAM must be accompanied by a copy of
-this LICENSE, according to item 12.3, above.
-
-14.ALTERATION OF THE PROGRAM
-
-14.1.The LICENSEE is allowed to make alterations to the PROGRAM. Any
-ALTERATION, however, must be identified and acknowledged in the
-source-code, for purposes of identification of authorship.
-
-14.2.It is forbidden to make alterations in the credits and
-distinctive signs placed by the LICENSOR and by any author of
-originating versions, except when allowed explicitly by the LICENSOR.
-
-14.3.The COMPUTER PROGRAMS resulting from the alteration of the
-PROGRAM will also be subjected to this LICENSE, whether it is a new
-program or only a new version of the PROGRAM.
-
-14.4.The authors of the PROGRAM will be able to use other forms of
-licensing for their contribution part, if it may be used separately,
-according to article 15, paragraph 2 of Law 9.610/98.
-
-14.5.A PROGRAM that is subject to the GPL–PA will always have a
-reference to this LICENSE and to its address on the Internet (URL) in
-a place that is easily accessed by users of the PROGRAM.
-
-14.6.In the cases in which the PROGRAM has the participation of
-different people for its preparation, the aforementioned will be
-considered a collective work in the terms of article 5,Vlll, h of Law
-9610/98.the ownership rights are retained under the responsibility of
-the organizer- in the present case, the LICENSOR.
-
-14.7.The inclusion of contributions of third parties in the collective
-work hereby licensed, when described in this manner, is assumed to be
-free of charge. Authors other than the organizer of the collective
-work abdicate their ownership rights over it, as well as the right
-foreseen in article 88, ll of Law 9.610/98,referring to the
-publication of the names of all the participants of the work.
-
-15.ATTACHEMENTS TO THIS LICENSE
-
-15.1.This LICENSE does not allow any alteration in its content, not
-even for validating its integrity. However, as an alternative for
-small adaptations or additions, it accepts attachments in separate
-files, provided they have been approved by the LICENSOR.
-
-15.2.Such attachments cannot, under any circumstance, conflict with
-the content of this license, and any such contrary dispositions shall
-be null and void.
-
-15.3.When the LICENSE is accompanied by attachments, these will be
-considered a part of the LICENSE and must accompany all subsequent
-licensing.
-
-16.TERM
-
-16.1.The present instrument will be valid for the period of 50 (fifty)
-years, in the terms of article 2, paragraph 2, of Law 9.609/98.
-
-17.CESSATION OF LICENCING
-
-17.1.The lack of observance of any of the clauses of this license will
-result in the immediate cessation of all rights of the LICENSEE over
-the PROGRAM, without the need for denouncing this text.
-
-NEW VERSIONS OF THIS LICENSE
-
-17.2.The current version of this LICENSE, along with the previous
-ones, shall be available at
-[http://www.celepar.pr.gov.br/licenca/LPG-AP.pdf].
-
-17.3.The redistribution of this PROGRAM may be carried out using the
-version of this LICENSE that accompanies it, or the most recent
-available version at the address cited above.
-
-17.4.The new versions of the LICENSE cannot, however, under any
-circumstance, withdraw rights already guaranteed for any of the
-parties in the version in force when accepted.
-
-18.VENUE
-
-18.1.The parties choose the forum of the judiciary district or
-headquarters of the holder of author rights of the PROGRAM as venue,
-renouncing any other, regardless of how privileged it may be, in order
-to resolve questions arising form the present instrument which cannot
-be resolved extrajudicially or administratively.
-
-I. LICENSOR:
-Name:
-Identification Document:
-Address:
-Postal Code:
-Neighborhood:
-City:
-State:
-Country:
-Web-site:
-Contact E-mail:
-Telephone:
-Legal Responsible person: 
+1.9. "Modifications" means any addition to or deletion from the substance or structure of either the Original Code or any previous Modifications. When Covered Code is released as a series of files, a
+Modification is:
+
+A. Any addition to or deletion from the contents of a file containing Original Code or previous Modifications.
+
+B. Any new file that contains any part of the Original Code or previous Modifications.
+
+1.10. "Original Code" means Source Code of computer software code which is described in the Source Code notice required by Exhibit A as Original Code, and which, at the time of its release under this License is not already Covered Code governed by this License.
+
+1.11. "Source Code" means the preferred form of the Covered Code for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control
+compilation and installation of an Executable, or a list of source code differential comparisons against either the Original Code or another well known, available Covered Code of the Contributor's choice. The Source Code can be in a compressed or archival form, provided the appropriate decompression or de-archiving software is widely available for no charge.
+
+1.12. "You" means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License or a future version of this License issued under Section 6.1. For legal entities, "You" includes any entity which controls, is controlled by, or is under common control with You. For purposes of this definition, "control" means (a) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+
+2. Source Code License.
+
+2.1. The Initial Developer Grant.
+The Initial Developer hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims:
+
+(a) to use, reproduce, modify, display, perform, sublicense and distribute the Original Code (or portions thereof) with or without Modifications, or as part of a Larger Work; and
+
+(b) under patents now or hereafter owned or controlled by Initial Developer, to make, have made, use and sell ("Utilize") the Original Code (or portions thereof), but solely to the extent that
+any such patent is reasonably necessary to enable You to Utilize the Original Code (or portions thereof) and not to any greater extent that may be necessary to Utilize further Modifications or
+combinations.
+
+2.2. Contributor Grant.
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims:
+
+(a) to use, reproduce, modify, display, perform, sublicense and distribute the Modifications created by such Contributor (or portions thereof) either on an unmodified basis, with other Modifications, as Covered Code or as part of a Larger Work; and
+
+(b) under patents now or hereafter owned or controlled by Contributor, to Utilize the Contributor Version (or portions thereof), but solely to the extent that any such patent is reasonably necessary to enable You to Utilize the Contributor Version (or portions thereof), and not to any greater extent that
+may be necessary to Utilize further Modifications or combinations.
+
+3. Distribution Obligations.
+
+3.1. Application of License.
+The Modifications which You create or to which You contribute are governed by the terms of this License, including without limitation Section 2.2. The Source Code version of Covered Code may be distributed only under the terms of this License or a future version of this License released under Section 6.1, and You must include a copy of this License with every copy of the Source Code You distribute. You may not offer or impose any terms on any Source Code version that alters or
+restricts the applicable version of this License or the recipients' rights hereunder. However, You may include an additional document offering the additional rights described in Section 3.5.
+
+3.2. Availability of Source Code.
+Any Modification which You create or to which You contribute must be made available in Source Code form under the terms of this License either on the same media as an Executable version or via an accepted Electronic Distribution Mechanism to anyone to whom you made an Executable version available; and if made available via Electronic Distribution Mechanism, must remain available for at least twelve (12) months after the date it initially became available, or at least six (6) months after a subsequent version of that particular Modification has been made available to such recipients. You are responsible for ensuring that the Source Code version remains available even if the Electronic Distribution Mechanism is maintained by a third party.
+
+3.3. Description of Modifications.
+You must cause all Covered Code to which you contribute to contain a file documenting the changes You made to create that Covered Code and the date of any change. You must include a prominent statement that the Modification is derived, directly or indirectly, from Original Code provided by the Initial Developer and including the name of the Initial Developer in (a) the Source Code, and (b) in any notice in an Executable version or related documentation in which You describe the origin or ownership of the Covered Code.
+
+3.4. Intellectual Property Matters
+
+(a) Third Party Claims.
+If You have knowledge that a party claims an intellectual property right in particular functionality or code (or its utilization under this License), you must include a text file with the source code distribution titled "LEGAL" which describes the claim and the party making the claim in sufficient detail that a recipient will know whom to contact. If you obtain such knowledge after You make Your Modification available as described in Section 3.2, You shall promptly modify the LEGAL file in all copies You make
+available thereafter and shall take other steps (such as notifying appropriate mailing lists or newsgroups) reasonably calculated to inform those who received the Covered Code that new knowledge has been obtained.
+
+(b) Contributor APIs.
+If Your Modification is an application programming interface and You own or control patents which are reasonably necessary to implement that API, you must also include this information in the LEGAL file.
+
+3.5. Required Notices.
+You must duplicate the notice in Exhibit A in each file of the Source Code, and this License in any documentation for the Source Code, where You describe recipients' rights relating to Covered Code. If You created one or more Modification(s), You may add your name as a Contributor to the notice described in Exhibit A. If it is not possible to put such notice in a particular Source Code file due to its
+structure, then you must include such notice in a location (such as a relevant directory file) where a user would be likely to look for such a notice. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Covered Code. However, You may do so only on Your own behalf, and not on behalf of the Initial Developer or any Contributor. You must make it absolutely clear than any such warranty, support, indemnity or
+liability obligation is offered by You alone, and You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of
+warranty, support, indemnity or liability terms You offer.
+
+3.6. Distribution of Executable Versions.
+You may distribute Covered Code in Executable form only if the requirements of Section 3.1-3.5 have been met for that Covered Code, and if You include a notice stating that the Source Code version of the Covered Code is available under the terms of this License, including a description of how and where You have fulfilled the obligations of Section 3.2. The notice must be conspicuously included in any notice in an Executable version, related documentation or collateral in which You
+describe recipients' rights relating to the Covered Code. You may distribute the Executable version of Covered Code under a license of Your choice, which may contain terms different from this License,
+provided that You are in compliance with the terms of this License and that the license for the Executable version does not attempt to limit or alter the recipient's rights in the Source Code version from the rights set forth in this License. If You distribute the Executable version under a different license You must make it absolutely clear that any terms which differ from this License are offered by You alone, not by the Initial Developer or any Contributor. You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of any such terms You offer.
+
+3.7. Larger Works.
+You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In such a case, You must make sure the requirements of this License are fulfilled for the Covered Code.
+
+4. Inability to Comply Due to Statute or Regulation.
+
+If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Covered Code due to statute or regulation then You must: (a) comply with the terms of this License to the maximum extent possible; and (b) describe the limitations and the code they affect. Such description must be included in the LEGAL file described in Section 3.4 and must be included with all distributions of the Source Code. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill to be able to understand it.
+
+5. Application of this License.
+
+This License applies to code to which the Initial Developer has attached the notice in Exhibit A, and to related Covered Code.
+
+6. Versions of the License.
+
+6.1. New Versions.
+Floris van den Berg may publish revised and/or new versions of the License from time to time. Each version will be given a distinguishing version number.
+
+6.2. Effect of New Versions.
+Once Covered Code has been published under a particular version of the License, You may always continue to use it under the terms of that version. You may also choose to use such Covered Code under the terms of any subsequent version of the License published by Floris van den Berg
+No one other than Floris van den Berg has the right to modify the terms applicable to Covered Code created under this License.
+
+6.3. Derivative Works.
+If you create or use a modified version of this License (which you may only do in order to apply it to code which is not already Covered Code governed by this License), you must (a) rename Your license so that the phrases "FreeImage", `FreeImage Public License", "FIPL", or any confusingly similar phrase do not appear anywhere in your license and (b) otherwise make it clear that your version of the license contains terms which differ from the FreeImage Public License. (Filling in the name of the Initial Developer, Original Code or Contributor in the notice described in Exhibit A shall not of themselves be deemed to be modifications of this License.)
+
+7. DISCLAIMER OF WARRANTY.
+
+COVERED CODE IS PROVIDED UNDER THIS LICENSE ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE COVERED CODE IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE COVERED CODE IS WITH YOU. SHOULD ANY COVERED CODE PROVE DEFECTIVE IN ANY RESPECT, YOU (NOT THE INITIAL DEVELOPER OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY COVERED CODE IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+
+8. TERMINATION.
+
+This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach. All sublicenses to the Covered Code which are properly granted shall survive any termination of this License. Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive.
+
+9. LIMITATION OF LIABILITY.
+
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE INITIAL DEVELOPER, ANY OTHER CONTRIBUTOR, OR ANY DISTRIBUTOR OF COVERED CODE, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH PARTY'S NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE
+EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THAT EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+
+10. U.S. GOVERNMENT END USERS.
+
+The Covered Code is a "commercial item," as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of "commercial computer software" and "commercial computer software documentation," as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire Covered Code with only those rights set forth herein.
+
+11. MISCELLANEOUS.
+
+This License represents the complete agreement concerning subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be governed by Dutch law provisions (except to the extent applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. With respect to disputes in which at least one party is a citizen of, or an entity chartered or registered to do business in, the The Netherlands: (a) unless otherwise agreed in writing, all disputes relating to this License (excepting any dispute relating to intellectual property rights) shall be subject to final and binding arbitration, with the losing party paying all costs of arbitration; (b) any arbitration relating to this Agreement shall be held in Almelo, The Netherlands; and (c) any litigation relating to this Agreement shall be subject to the jurisdiction of the court of Almelo, The Netherlands with the losing party responsible for costs, including without limitation, court costs and reasonable attorneys fees and expenses. Any law or regulation which provides that the language of a contract shall be construed against the drafter shall not apply to this License.
+
+12. RESPONSIBILITY FOR CLAIMS.
+
+Except in cases where another Contributor has failed to comply with Section 3.4, You are responsible for damages arising, directly or indirectly, out of Your utilization of rights under this License, based
+on the number of copies of Covered Code you made available, the revenues you received from utilizing such rights, and other relevant factors. You agree to work with affected parties to distribute
+responsibility on an equitable basis.
+
+EXHIBIT A.
+
+"The contents of this file are subject to the FreeImage Public License Version 1.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://home.wxs.nl/~flvdberg/freeimage-license.txt
+
+Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.

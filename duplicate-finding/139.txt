@@ -1,219 +1,139 @@
-CeCILL-B FREE SOFTWARE LICENSE AGREEMENT
+CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG. DIE BEREITSTELLUNG DIESER LIZENZ FÜHRT ZU KEINEM MANDATSVERHÄLTNIS. CREATIVE COMMONS STELLT DIESE INFORMATIONEN OHNE GEWÄHR ZUR VERFÜGUNG. CREATIVE COMMONS ÜBERNIMMT KEINE GEWÄHRLEISTUNG FÜR DIE GELIEFERTEN INFORMATIONEN UND SCHLIEßT DIE HAFTUNG FÜR SCHÄDEN AUS, DIE SICH AUS DEREN GEBRAUCH ERGEBEN.
 
+Lizenz
 
-Notice
+DER GEGENSTAND DIESER LIZENZ (WIE UNTER "SCHUTZGEGENSTAND" DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE ("CCPL", "LIZENZ" ODER "LIZENZVERTRAG") ZUR VERFÜGUNG GESTELLT. DER SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER ANDERE GESETZE GESCHÜTZT. JEDE FORM DER NUTZUNG DES SCHUTZGEGENSTANDES, DIE NICHT AUFGRUND DIESER LIZENZ ODER DURCH GESETZE GESTATTET IST, IST UNZULÄSSIG.
 
-This Agreement is a Free Software license agreement that is the result of discussions between its authors in order to ensure compliance with the two main principles guiding its drafting:
+DURCH DIE AUSÜBUNG EINES DURCH DIESE LIZENZ GEWÄHRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÄREN SIE SICH MIT DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. SOWEIT DIESE LIZENZ ALS LIZENZVERTRAG ANZUSEHEN IST, GEWÄHRT IHNEN DER LIZENZGEBER DIE IN DER LIZENZ GENANNTEN RECHTE UNENTGELTLICH UND IM AUSTAUSCH DAFÜR, DASS SIE DAS GEBUNDENSEIN AN DIE LIZENZBEDINGUNGEN AKZEPTIEREN.
 
-    firstly, compliance with the principles governing the distribution of Free Software: access to source code, broad rights granted to users,
-    secondly, the election of a governing law, French law, with which it is conformant, both as regards the law of torts and intellectual property law, and the protection that it offers to both authors and holders of the economic rights over software.
+1. Definitionen
 
-The authors of the CeCILL-B1 license are:
+    a. Der Begriff "Bearbeitung" im Sinne dieser Lizenz bezeichnet das Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes, solange dieses erkennbar vom Schutzgegenstand abgeleitet wurde. Dies kann insbesondere auch eine Umgestaltung, Änderung, Anpassung, Übersetzung oder Heranziehung des Schutzgegenstandes zur Vertonung von Laufbildern sein. Nicht als Bearbeitung des Schutzgegenstandes gelten seine Aufnahme in eine Sammlung oder ein Sammelwerk und die freie Nutzung des Schutzgegenstandes.
 
-Commissariat à l'Energie Atomique - CEA, a public scientific, technical and industrial research establishment, having its principal place of business at 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris, France.
+    b. Der Begriff "Sammelwerk" im Sinne dieser Lizenz meint eine Zusammenstellung von literarischen, künstlerischen oder wissenschaftlichen Inhalten zu einem einheitlichen Ganzen, sofern diese Zusammenstellung aufgrund von Auswahl und Anordnung der darin enthaltenen selbständigen Elemente eine eigentümliche geistige Schöpfung darstellt, unabhängig davon, ob die Elemente systematisch oder methodisch angelegt und dadurch einzeln zugänglich sind oder nicht.
 
-Centre National de la Recherche Scientifique - CNRS, a public scientific and technological establishment, having its principal place of business at 3 rue Michel-Ange, 75794 Paris cedex 16, France.
+    c. "Verbreiten" im Sinne dieser Lizenz bedeutet, den Schutzgegenstand oder Bearbeitungen im Original oder in Form von Vervielfältigungsstücken, mithin in körperlich fixierter Form der Öffentlichkeit zugänglich zu machen oder in Verkehr zu bringen.
 
-Institut National de Recherche en Informatique et en Automatique - INRIA, a public scientific and technological establishment, having its principal place of business at Domaine de Voluceau, Rocquencourt, BP 105, 78153 Le Chesnay cedex, France.
-Preamble
+    d. Unter "Lizenzelementen" werden im Sinne dieser Lizenz die folgenden übergeordneten Lizenzcharakteristika verstanden, die vom Lizenzgeber ausgewählt wurden und in der Bezeichnung der Lizenz zum Ausdruck kommen: "Namensnennung", "Weitergabe unter gleichen Bedingungen".
 
-This Agreement is an open source software license intended to give users significant freedom to modify and redistribute the software licensed hereunder.
+    e. Der "Lizenzgeber" im Sinne dieser Lizenz ist diejenige natürliche oder juristische Person oder Gruppe, die den Schutzgegenstand unter den Bedingungen dieser Lizenz anbietet und insoweit als Rechteinhaberin auftritt.
 
-The exercising of this freedom is conditional upon a strong obligation of giving credits for everybody that distributes a software incorporating a software ruled by the current license so as all contributions to be properly identified and acknowledged.
+    f. "Rechteinhaber" im Sinne dieser Lizenz ist der Urheber des Schutzgegenstandes oder jede andere natürliche oder juristische Person, die am Schutzgegenstand ein Immaterialgüterrecht erlangt hat, welches die in Abschnitt 3 genannten Handlungen erfasst und eine Erteilung, Übertragung oder Einräumung von Nutzungsbewilligungen bzw Nutzungsrechten an Dritte erlaubt.
 
-In consideration of access to the source code and the rights to copy, modify and redistribute granted by the license, users are provided only with a limited warranty and the software's author, the holder of the economic rights, and the successive licensors only have limited liability.
+    g. Der Begriff "Schutzgegenstand" bezeichnet in dieser Lizenz den literarischen, künstlerischen oder wissenschaftlichen Inhalt, der unter den Bedingungen dieser Lizenz angeboten wird. Das kann insbesondere eine eigentümliche geistige Schöpfung jeglicher Art oder ein Werk der kleinen Münze, ein nachgelassenes Werk oder auch ein Lichtbild oder anderes Objekt eines verwandten Schutzrechts sein, unabhängig von der Art seiner Fixierung und unabhängig davon, auf welche Weise jeweils eine Wahrnehmung erfolgen kann, gleichviel ob in analoger oder digitaler Form. Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff "Schutzgegenstand" im Sinne dieser Lizenz.
 
-In this respect, the risks associated with loading, using, modifying and/or developing or reproducing the software by the user are brought to the user's attention, given its Free Software status, which may make it complicated to use, with the result that its use is reserved for developers and experienced professionals having in-depth computer knowledge. Users are therefore encouraged to load and test the suitability of the software as regards their requirements in conditions enabling the security of their systems and/or data to be ensured and, more generally, to use and operate it in the same conditions of security. This Agreement may be freely reproduced and published, provided it is not altered, and that no provisions are either added or removed herefrom.
+    h. Mit "Sie" bzw. "Ihnen" ist die natürliche oder juristische Person gemeint, die in dieser Lizenz im Abschnitt 3 genannte Nutzungen des Schutzgegenstandes vornimmt und zuvor in Hinblick auf den Schutzgegenstand nicht gegen Bedingungen dieser Lizenz verstoßen oder aber die ausdrückliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewährte Nutzungsbewilligung trotz eines vorherigen Verstoßes auszuüben.
 
-This Agreement may apply to any or all software for which the holder of the economic rights decides to submit the use thereof to its provisions.
-Article 1 - DEFINITIONS
+    i. Unter "Öffentlich Wiedergeben" im Sinne dieser Lizenz sind Wahrnehmbarmachungen des Schutzgegenstandes in unkörperlicher Form zu verstehen, die für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt sind und mittels öffentlicher Wiedergabe in Form von Vortrag, Aufführung, Vorführung, Darbietung, Sendung, Weitersendung oder zeit- und ortsunabhängiger Zurverfügungstellung erfolgen, unabhängig von den zum Einsatz kommenden Techniken und Verfahren, einschließlich drahtgebundener oder drahtloser Mittel und Einstellen in das Internet.
 
-For the purpose of this Agreement, when the following expressions commence with a capital letter, they shall have the following meaning:
+    j. "Vervielfältigen" im Sinne dieser Lizenz bedeutet, gleichviel in welchem Verfahren, auf welchem Träger, in welcher Menge und ob vorübergehend oder dauerhaft, Vervielfältigungsstücke des Schutzgegenstandes herzustellen, insbesondere durch Ton- oder Bildaufzeichnungen, und umfasst auch das erstmalige Festhalten des Schutzgegenstandes oder dessen Wahrnehmbarmachung auf Mitteln der wiederholbaren Wiedergabe sowie das Herstellen von Vervielfältigungsstücken dieser Festhaltung, sowie die Speicherung einer geschützten Darbietung oder eines Bild- und/oder Schallträgers in digitaler Form oder auf einem anderen elektronischen Medium.
 
-Agreement: means this license agreement, and its possible subsequent versions and annexes.
+    k. "Mit Creative Commons kompatible Lizenz" bezeichnet eine Lizenz, die unter https://creativecommons.org/compatiblelicenses aufgelistet ist und die durch Creative Commons als grundsätzlich zur vorliegenden Lizenz äquivalent akzeptiert wurde, da zumindest folgende Voraussetzungen erfüllt sind:
 
-Software: means the software in its Object Code and/or Source Code form and, where applicable, its documentation, "as is" when the Licensee accepts the Agreement.
+    Diese mit Creative Commons kompatible Lizenz
 
-Initial Software: means the Software in its Source Code and possibly its Object Code form and, where applicable, its documentation, "as is" when it is first distributed under the terms and conditions of the Agreement.
+        i. enthält Bestimmungen, welche die gleichen Ziele verfolgen, die gleiche Bedeutung haben und die gleichen Wirkungen erzeugen wie die Lizenzelemente der vorliegenden Lizenz; und
 
-Modified Software: means the Software modified by at least one Contribution.
+        ii. erlaubt ausdrücklich das Lizenzieren von ihr unterstellten Abwandlungen unter vorliegender Lizenz, unter einer anderen rechtsordnungsspezifisch angepassten Creative-Commons-Lizenz mit denselben Lizenzelementen wie vorliegende Lizenz aufweist oder unter der entsprechenden Creative-Commons-Unported-Lizenz.
 
-Source Code: means all the Software's instructions and program lines to which access is required so as to modify the Software.
+2. Beschränkungen der Verwertungsrechte
 
-Object Code: means the binary files originating from the compilation of the Source Code.
+Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu vereiteln, die sich aus den Beschränkungen der Verwertungsrechte, anderen Beschränkungen der Ausschließlichkeitsrechte des Rechtsinhabers oder anderen entsprechenden Rechtsnormen oder sich aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
 
-Holder: means the holder(s) of the economic rights over the Initial Software.
+3. Lizenzierung
 
-Licensee: means the Software user(s) having accepted the Agreement.
+Unter den Bedingungen dieser Lizenz erteilt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 3.e) - die vergütungsfreie, räumlich und zeitlich (für die Dauer des Urheberrechts oder verwandten Schutzrechts am Schutzgegenstand) unbeschränkte Nutzungsbewilligung, den Schutzgegenstand in der folgenden Art und Weise zu nutzen:
 
-Contributor: means a Licensee having made at least one Contribution.
+    a. Den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen;
 
-Licensor: means the Holder, or any other individual or legal entity, who distributes the Software under the Agreement.
+    b. Den Schutzgegenstand zu bearbeiten, einschließlich Übersetzungen unter Nutzung jedweder Medien anzufertigen, sofern deutlich erkennbar gemacht wird, dass es sich um eine Bearbeitung handelt;
 
-Contribution: means any or all modifications, corrections, translations, adaptations and/or new functions integrated into the Software by any or all Contributors, as well as any or all Internal Modules.
+    c. Den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich wiederzugeben und zu verbreiten; und
 
-Module: means a set of sources files including their documentation that enables supplementary functions or services in addition to those offered by the Software.
+    d. Bearbeitungen des Schutzgegenstandes zu veröffentlichen, öffentlich wiederzugeben und zu verbreiten.
 
-External Module: means any or all Modules, not derived from the Software, so that this Module and the Software run in separate address spaces, with one calling the other when they are run.
+    e. Bezüglich Vergütung für die Nutzung des Schutzgegenstandes gilt Folgendes:
 
-Internal Module: means any or all Module, connected to the Software so that they both execute in the same address space.
+        i. Unverzichtbare gesetzliche Vergütungsansprüche: Soweit unverzichtbare Vergütungsansprüche im Gegenzug für gesetzliche Lizenzen vorgesehen oder Pauschalabgabensysteme (zum Beispiel für Leermedien) vorhanden sind, behält sich der Lizenzgeber das ausschließliche Recht vor, die entsprechenden Vergütungsansprüche für jede Ausübung eines Rechts aus dieser Lizenz durch Sie geltend zu machen.
 
-Parties: mean both the Licensee and the Licensor.
+        ii. Vergütung bei Zwangslizenzen: Soweit Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, verzichtet der Lizenzgeber für alle Fälle einer lizenzgerechten Nutzung des Schutzgegenstandes durch Sie auf jegliche Vergütung.
 
-These expressions may be used both in singular and plural form.
-Article 2 - PURPOSE
+        iii. Vergütung in sonstigen Fällen: Bezüglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie, die nicht unter die beiden vorherigen Abschnitte (i) und (ii) fällt, verzichtet der Lizenzgeber auf jegliche Vergütung, unabhängig davon, ob eine Geltendmachung der Vergütungsansprüche durch ihn selbst oder nur durch eine Verwertungsgesellschaft möglich wäre.
 
-The purpose of the Agreement is the grant by the Licensor to the Licensee of a non-exclusive, transferable and worldwide license for the Software as set forth in Article 5 hereinafter for the whole term of the protection granted by the rights over said Software.
-Article 3 - ACCEPTANCE
+Die vorgenannte Nutzungsbewilligung wird für alle bekannten sowie alle noch nicht bekannten Nutzungsarten eingeräumt. Sie beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich vom Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten. Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind und einen immaterialgüterrechtlichen Schutz eigener Art genießen, verzichtet der Lizenzgeber auf die Geltendmachung sämtlicher daraus resultierender Rechte.
 
-3.1 The Licensee shall be deemed as having accepted the terms and conditions of this Agreement upon the occurrence of the first of the following events:
+4. Bedingungen
 
-    (i) loading the Software by any or all means, notably, by downloading from a remote server, or by loading from a physical medium;
-    (ii) the first time the Licensee exercises any of the rights granted hereunder.
+Die Erteilung der Nutzungsbewilligung gemäß Abschnitt 3 dieser Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
 
-3.2 One copy of the Agreement, containing a notice relating to the characteristics of the Software, to the limited warranty, and to the fact that its use is restricted to experienced users has been provided to the Licensee prior to its acceptance as set forth in Article 3.1 hereinabove, and the Licensee hereby acknowledges that it has read and understood it.
-Article 4 - EFFECTIVE DATE AND TERM
-4.1 EFFECTIVE DATE
+    a. Sie dürfen den Schutzgegenstand ausschließlich unter den Bedingungen dieser Lizenz verbreiten oder öffentlich wiedergeben. Sie müssen dabei stets eine Kopie dieser Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen. Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen dieser Lizenz oder die durch diese Lizenz gewährten Rechte beschränken. Sie dürfen den Schutzgegenstand nicht unterlizenzieren. Bei jeder Kopie des Schutzgegenstandes, die Sie verbreiten oder öffentlich wiedergeben, müssen Sie alle Hinweise unverändert lassen, die auf diese Lizenz und den Haftungsausschluss hinweisen. Wenn Sie den Schutzgegenstand verbreiten oder öffentlich wiedergeben, dürfen Sie (in Bezug auf den Schutzgegenstand) keine technischen Maßnahmen ergreifen, die den Nutzer des Schutzgegenstandes in der Ausübung der ihm durch diese Lizenz gewährten Rechte behindern können. Dasselbe gilt auch für den Fall, dass der Schutzgegenstand einen Bestandteil eines Sammelwerkes bildet, was jedoch nicht bedeutet, dass das Sammelwerk insgesamt dieser Lizenz unterstellt werden muss. Sofern Sie ein Sammelwerk erstellen, müssen Sie - soweit dies praktikabel ist - auf die Mitteilung eines Lizenzgebers hin aus dem Sammelwerk die in Abschnitt 4.c) aufgezählten Hinweise entfernen. Wenn Sie eine Bearbeitung vornehmen, müssen Sie - soweit dies praktikabel ist - auf die Mitteilung eines Lizenzgebers hin von der Bearbeitung die in Abschnitt 4.c) aufgezählten Hinweise entfernen.
 
-The Agreement shall become effective on the date when it is accepted by the Licensee as set forth in Article 3.1.
-4.2 TERM
+    b. Sie dürfen eine Bearbeitung ausschließlich unter den Bedingungen
 
-The Agreement shall remain in force for the entire legal term of protection of the economic rights over the Software.
-Article 5 - SCOPE OF RIGHTS GRANTED
+        i. dieser Lizenz,
 
-The Licensor hereby grants to the Licensee, who accepts, the following rights over the Software for any or all use, and for the term of the Agreement, on the basis of the terms and conditions set forth hereinafter.
+        ii. einer späteren Version dieser Lizenz mit denselben Lizenzelementen,
 
-Besides, if the Licensor owns or comes to own one or more patents protecting all or part of the functions of the Software or of its components, the Licensor undertakes not to enforce the rights granted by these patents against successive Licensees using, exploiting or modifying the Software. If these patents are transferred, the Licensor undertakes to have the transferees subscribe to the obligations set forth in this paragraph.
-5.1 RIGHT OF USE
+        iii. einer rechtsordnungsspezifischen Creative-Commons-Lizenz mit denselben Lizenzelementen ab Version 3.0 aufwärts (z.B. Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 US),
 
-The Licensee is authorized to use the Software, without any limitation as to its fields of application, with it being hereinafter specified that this comprises:
+        iv. der Creative-Commons-Unported-Lizenz mit denselben Lizenzelementen ab Version 3.0 aufwärts, oder
 
-    permanent or temporary reproduction of all or part of the Software by any or all means and in any or all form.
+        v. einer mit Creative Commons kompatiblen Lizenz
 
-    loading, displaying, running, or storing the Software on any or all medium.
+    verbreiten oder öffentlich wiedergeben.
 
-    entitlement to observe, study or test its operation so as to determine the ideas and principles behind any or all constituent elements of said Software. This shall apply when the Licensee carries out any or all loading, displaying, running, transmission or storage operation as regards the Software, that it is entitled to carry out hereunder.
+    Falls Sie die Bearbeitung gemäß Abschnitt b)(v) unter einer mit Creative Commons kompatiblen Lizenz lizenzieren, müssen Sie deren Lizenzbestimmungen Folge leisten.
 
-5.2 ENTITLEMENT TO MAKE CONTRIBUTIONS
+    Falls Sie die Bearbeitung unter einer der unter b)(i)-(iv) genannten Lizenzen ("Verwendbare Lizenzen") lizenzieren, müssen Sie deren Lizenzbestimmungen sowie folgenden Bestimmungen Folge leisten: Sie müssen stets eine Kopie der verwendbaren Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen, wenn Sie die Bearbeitung verbreiten oder öffentlich wiedergeben. Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen der verwendbaren Lizenz oder die durch sie gewährten Rechte beschränken. Bei jeder Bearbeitung, die Sie verbreiten oder öffentlich wiedergeben, müssen Sie alle Hinweise auf die verwendbare Lizenz und den Haftungsausschluss unverändert lassen. Wenn Sie die Bearbeitung verbreiten oder öffentlich wiedergeben, dürfen Sie (in Bezug auf die Bearbeitung) keine technischen Maßnahmen ergreifen, die den Nutzer der Bearbeitung in der Ausübung der ihm durch die verwendbare Lizenz gewährten Rechte behindern können. Dieser Abschnitt 4.b) gilt auch für den Fall, dass die Bearbeitung einen Bestandteil eines Sammelwerkes bildet; dies bedeutet jedoch nicht, dass das Sammelwerk insgesamt der verwendbaren Lizenz unterstellt werden muss.
 
-The right to make Contributions includes the right to translate, adapt, arrange, or make any or all modifications to the Software, and the right to reproduce the resulting software.
+    c. Die Verbreitung und die öffentliche Wiedergabe des Schutzgegenstandes oder auf ihm aufbauender Inhalte oder ihn enthaltender Sammelwerke ist Ihnen nur unter der Bedingung gestattet, dass Sie, vorbehaltlich etwaiger Mitteilungen im Sinne von Abschnitt 4.a), alle dazu gehörenden Rechtevermerke unberührt lassen. Sie sind verpflichtet, die Urheberschaft oder die Rechteinhaberschaft in einer der Nutzung entsprechenden, angemessenen Form anzuerkennen, indem Sie selbst - soweit bekannt - Folgendes angeben:
 
-The Licensee is authorized to make any or all Contributions to the Software provided that it includes an explicit notice that it is the author of said Contribution and indicates the date of the creation thereof.
-5.3 RIGHT OF DISTRIBUTION
+        i. Den Namen (oder das Pseudonym, falls ein solches verwendet wird) des Rechteinhabers, und/oder falls der Lizenzgeber im Rechtevermerk, in den Nutzungsbedingungen oder auf andere angemessene Weise eine Zuschreibung an Dritte vorgenommen hat (z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) ("Zuschreibungsempfänger"), Namen bzw. Bezeichnung dieses oder dieser Dritten;
 
-In particular, the right of distribution includes the right to publish, transmit and communicate the Software to the general public on any or all medium, and by any or all means, and the right to market, either in consideration of a fee, or free of charge, one or more copies of the Software by any means.
+        ii. den Titel des Inhaltes;
 
-The Licensee is further authorized to distribute copies of the modified or unmodified Software to third parties according to the terms and conditions set forth hereinafter.
-5.3.1 DISTRIBUTION OF SOFTWARE WITHOUT MODIFICATION
+        iii. in einer praktikablen Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand;
 
-The Licensee is authorized to distribute true copies of the Software in Source Code or Object Code form, provided that said distribution complies with all the provisions of the Agreement and is accompanied by:
+        iv. und im Falle einer Bearbeitung des Schutzgegenstandes in Übereinstimmung mit Abschnitt 3.b) einen Hinweis darauf, dass es sich um eine Bearbeitung handelt.
 
-    a copy of the Agreement,
+    Die nach diesem Abschnitt 4.c) erforderlichen Angaben können in jeder angemessenen Form gemacht werden; im Falle einer Bearbeitung des Schutzgegenstandes oder eines Sammelwerkes müssen diese Angaben das Minimum darstellen und bei gemeinsamer Nennung aller Beitragenden dergestalt erfolgen, dass sie zumindest ebenso hervorgehoben sind wie die Hinweise auf die übrigen Rechteinhaber. Die Angaben nach diesem Abschnitt dürfen Sie ausschließlich zur Angabe der Rechteinhaberschaft in der oben bezeichneten Weise verwenden. Durch die Ausübung Ihrer Rechte aus dieser Lizenz dürfen Sie ohne eine vorherige, separat und schriftlich vorliegende Zustimmung des Urhebers, des Lizenzgebers und/oder des Zuschreibungsempfängers weder implizit noch explizit irgendeine Verbindung mit dem oder eine Unterstützung oder Billigung durch den Lizenzgeber oder den Zuschreibungsempfänger andeuten oder erklären.
 
-    a notice relating to the limitation of both the Licensor's warranty and liability as set forth in Articles 8 and 9,
+    d. Die oben unter 4.a) bis c) genannten Einschränkungen gelten nicht für solche Teile des Schutzgegenstandes, die allein deshalb unter den Schutzgegenstandsbegriff fallen, weil sie als Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen.
 
-and that, in the event that only the Object Code of the Software is redistributed, the Licensee allows effective access to the full Source Code of the Software at a minimum during the entire period of its distribution of the Software, it being understood that the additional cost of acquiring the Source Code shall not exceed the cost of transferring the data.
-5.3.2 DISTRIBUTION OF MODIFIED SOFTWARE
+    e. (Urheber)Persönlichkeitsrechte bleiben - soweit sie bestehen - von dieser Lizenz unberührt.
 
-If the Licensee makes any Contribution to the Software, the resulting Modified Software may be distributed under a license agreement other than this Agreement subject to compliance with the provisions of Article 5.3.4.
-5.3.3 DISTRIBUTION OF EXTERNAL MODULES
+5. Gewährleistung
 
-When the Licensee has developed an External Module, the terms and conditions of this Agreement do not apply to said External Module, that may be distributed under a separate license agreement.
-5.3.4 CREDITS
+SOFERN KEINE ANDERS LAUTENDE, SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE UND SOWEIT MÄNGEL NICHT ARGLISTIG VERSCHWIEGEN WURDEN, BIETET DER LIZENZGEBER DEN SCHUTZGEGENSTAND UND DIE ERTEILUNG DER NUTZUNGSBEWILLIGUNG UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG AN UND ÜBERNIMMT WEDER AUSDRÜCKLICH NOCH KONKLUDENT GARANTIEN IRGENDEINER ART. DIES UMFASST INSBESONDERE DAS FREISEIN VON SACH- UND RECHTSMÄNGELN, UNABHÄNGIG VON DEREN ERKENNBARKEIT FÜR DEN LIZENZGEBER, DIE VERKEHRSFÄHIGKEIT DES SCHUTZGEGENSTANDES, SEINE VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DIE KORREKTHEIT VON BESCHREIBUNGEN.
 
-Any Licensee who may distribute a Modified Software hereby expressly agrees to:
+6. Haftungsbeschränkung
 
-    indicate in the related documentation that it is based on the Software licensed hereunder, and reproduce the intellectual property notice for the Software,
+ÜBER DIE IN ZIFFER 5 GENANNTE GEWÄHRLEISTUNG HINAUS HAFTET DER LIZENZGEBER IHNEN GEGENÜBER FÜR SCHÄDEN JEGLICHER ART NUR BEI GROBER FAHRLÄSSIGKEIT ODER VORSATZ, UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG FÜR FOLGE- ODER ANDERE SCHÄDEN, AUCH WENN ER ÜBER DIE MÖGLICHKEIT IHRES EINTRITTS UNTERRICHTET WURDE.
 
-    ensure that written indications of the Software intended use, intellectual property notice and license hereunder are included in easily accessible format from the Modified Software interface,
+7. Erlöschen
 
-    mention, on a freely accessible website describing the Modified Software, at least throughout the distribution term thereof, that it is based on the Software licensed hereunder, and reproduce the Software intellectual property notice,
+    a. Diese Lizenz und die durch sie erteilte Nutzungsbewilligung erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder einer weiteren Handlung einer der Vertragsparteien bedarf. Mit natürlichen oder juristischen Personen, die Bearbeitungen des Schutzgegenstandes oder diesen enthaltende Sammelwerke sowie entsprechende Vervielfältigungsstücke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort.
 
-    where it is distributed to a third party that may distribute a Modified Software without having to make its source code available, make its best efforts to ensure that said third party agrees to comply with the obligations set forth in this Article .
+    b. Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand ausläuft. Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand unter anderen Lizenzbedingungen anzubieten oder die eigene Weitergabe des Schutzgegenstandes jederzeit einzustellen, solange die Ausübung dieses Rechts nicht einer Kündigung oder einem Widerruf dieser Lizenz (oder irgendeiner Weiterlizenzierung, die auf Grundlage dieser Lizenz bereits erfolgt ist bzw. zukünftig noch erfolgen muss) dient und diese Lizenz unter Berücksichtigung der oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam bleibt.
 
-If the Software, whether or not modified, is distributed with an External Module designed for use in connection with the Software, the Licensee shall submit said External Module to the foregoing obligations.
-5.3.5 COMPATIBILITY WITH THE CeCILL AND CeCILL-C LICENSES
+8. Sonstige Bestimmungen
 
-Where a Modified Software contains a Contribution subject to the CeCILL license, the provisions set forth in Article 5.3.4 shall be optional.
+    a. Jedes Mal wenn Sie den Schutzgegenstand für sich genommen oder als Teil eines Sammelwerkes verbreiten oder öffentlich wiedergeben, bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
 
-A Modified Software may be distributed under the CeCILL-C license. In such a case the provisions set forth in Article 5.3.4 shall be optional.
-Article 6 - INTELLECTUAL PROPERTY
-6.1 OVER THE INITIAL SOFTWARE
+    b. Jedes Mal wenn Sie eine Bearbeitung des Schutzgegenstandes verbreiten oder öffentlich wiedergeben, bietet der Lizenzgeber dem Empfänger eine Lizenz am ursprünglichen Schutzgegenstand zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
 
-The Holder owns the economic rights over the Initial Software. Any or all use of the Initial Software is subject to compliance with the terms and conditions under which the Holder has elected to distribute its work and no one shall be entitled to modify the terms and conditions for the distribution of said Initial Software.
+    c. Sollte eine Bestimmung dieser Lizenz unwirksam sein, so bleibt davon die Wirksamkeit der Lizenz im Übrigen unberührt.
 
-The Holder undertakes that the Initial Software will remain ruled at least by this Agreement, for the duration set forth in Article 4.2.
-6.2 OVER THE CONTRIBUTIONS
+    d. Keine Bestimmung dieser Lizenz soll als abbedungen und kein Verstoß gegen sie als zulässig gelten, solange die von dem Verzicht oder von dem Verstoß betroffene Seite nicht schriftlich zugestimmt hat.
 
-The Licensee who develops a Contribution is the owner of the intellectual property rights over this Contribution as defined by applicable law.
-6.3 OVER THE EXTERNAL MODULES
+    e. Diese Lizenz (zusammen mit in ihr ausdrücklich vorgesehenen Erlaubnissen, Mitteilungen und Zustimmungen, soweit diese tatsächlich vorliegen) stellt die vollständige Vereinbarung zwischen dem Lizenzgeber und Ihnen in Bezug auf den Schutzgegenstand dar. Es bestehen keine Abreden, Vereinbarungen oder Erklärungen in Bezug auf den Schutzgegenstand, die in dieser Lizenz nicht genannt sind. Rechtsgeschäftliche Änderungen des Verhältnisses zwischen dem Lizenzgeber und Ihnen sind nur über Modifikationen dieser Lizenz möglich. Der Lizenzgeber ist an etwaige zusätzliche, einseitig durch Sie übermittelte Bestimmungen nicht gebunden. Diese Lizenz kann nur durch schriftliche Vereinbarung zwischen Ihnen und dem Lizenzgeber modifiziert werden. Derlei Modifikationen wirken ausschließlich zwischen dem Lizenzgeber und Ihnen und wirken sich nicht auf die Dritten gemäß 8.a) und b) angebotenen Lizenzen aus.
 
-The Licensee who develops an External Module is the owner of the intellectual property rights over this External Module as defined by applicable law and is free to choose the type of agreement that shall govern its distribution.
-6.4 JOINT PROVISIONS
+    f. Sofern zwischen Ihnen und dem Lizenzgeber keine anderweitige Vereinbarung getroffen wurde und soweit Wahlfreiheit besteht, findet auf diesen Lizenzvertrag das Recht der Republik Österreich Anwendung.
 
-The Licensee expressly undertakes:
+Creative Commons Notice
 
-    not to remove, or modify, in any manner, the intellectual property notices attached to the Software;
+Creative Commons ist nicht Partei dieser Lizenz und übernimmt keinerlei Gewähr oder dergleichen in Bezug auf den Schutzgegenstand. Creative Commons haftet Ihnen oder einer anderen Partei unter keinem rechtlichen Gesichtspunkt für irgendwelche Schäden, die - abstrakt oder konkret, zufällig oder vorhersehbar - im Zusammenhang mit dieser Lizenz entstehen. Unbeschadet der vorangegangen beiden Sätze, hat Creative Commons alle Rechte und Pflichten eines Lizenzgebers, wenn es sich ausdrücklich als Lizenzgeber im Sinne dieser Lizenz bezeichnet.
 
-    to reproduce said notices, in an identical manner, in the copies of the Software modified or not.
+Creative Commons gewährt den Parteien nur insoweit das Recht, das Logo und die Marke "Creative Commons" zu nutzen, als dies notwendig ist, um der Öffentlichkeit gegenüber kenntlich zu machen, dass der Schutzgegenstand unter einer CCPL steht. Ein darüber hinaus gehender Gebrauch der Marke "Creative Commons" oder einer verwandten Marke oder eines verwandten Logos bedarf der vorherigen schriftlichen Zustimmung von Creative Commons. Jeder erlaubte Gebrauch richtet sich nach der Creative Commons Marken-Nutzungs-Richtlinie in der jeweils aktuellen Fassung, die von Zeit zu Zeit auf der Website veröffentlicht oder auf andere Weise auf Anfrage zugänglich gemacht wird. Zur Klarstellung: Die genannten Einschränkungen der Markennutzung sind nicht Bestandteil dieser Lizenz.
 
-The Licensee undertakes not to directly or indirectly infringe the intellectual property rights of the Holder and/or Contributors on the Software and to take, where applicable, vis-à-vis its staff, any and all measures required to ensure respect of said intellectual property rights of the Holder and/or Contributors.
-Article 7 - RELATED SERVICES
-
-7.1 Under no circumstances shall the Agreement oblige the Licensor to provide technical assistance or maintenance services for the Software.
-
-However, the Licensor is entitled to offer this type of services. The terms and conditions of such technical assistance, and/or such maintenance, shall be set forth in a separate instrument. Only the Licensor offering said maintenance and/or technical assistance services shall incur liability therefor.
-
-7.2 Similarly, any Licensor is entitled to offer to its licensees, under its sole responsibility, a warranty, that shall only be binding upon itself, for the redistribution of the Software and/or the Modified Software, under terms and conditions that it is free to decide. Said warranty, and the financial terms and conditions of its application, shall be subject of a separate instrument executed between the Licensor and the Licensee.
-Article 8 - LIABILITY
-
-8.1 Subject to the provisions of Article 8.2, the Licensee shall be entitled to claim compensation for any direct loss it may have suffered from the Software as a result of a fault on the part of the relevant Licensor, subject to providing evidence thereof.
-
-8.2 The Licensor's liability is limited to the commitments made under this Agreement and shall not be incurred as a result of in particular: (i) loss due the Licensee's total or partial failure to fulfill its obligations, (ii) direct or consequential loss that is suffered by the Licensee due to the use or performance of the Software, and (iii) more generally, any consequential loss. In particular the Parties expressly agree that any or all pecuniary or business loss (i.e. loss of data, loss of profits, operating loss, loss of customers or orders, opportunity cost, any disturbance to business activities) or any or all legal proceedings instituted against the Licensee by a third party, shall constitute consequential loss and shall not provide entitlement to any or all compensation from the Licensor.
-Article 9 - WARRANTY
-
-9.1 The Licensee acknowledges that the scientific and technical state-of-the-art when the Software was distributed did not enable all possible uses to be tested and verified, nor for the presence of possible defects to be detected. In this respect, the Licensee's attention has been drawn to the risks associated with loading, using, modifying and/or developing and reproducing the Software which are reserved for experienced users.
-
-The Licensee shall be responsible for verifying, by any or all means, the suitability of the product for its requirements, its good working order, and for ensuring that it shall not cause damage to either persons or properties.
-
-9.2 The Licensor hereby represents, in good faith, that it is entitled to grant all the rights over the Software (including in particular the rights set forth in Article 5).
-
-9.3 The Licensee acknowledges that the Software is supplied "as is" by the Licensor without any other express or tacit warranty, other than that provided for in Article 9.2 and, in particular, without any warranty as to its commercial value, its secured, safe, innovative or relevant nature.
-
-Specifically, the Licensor does not warrant that the Software is free from any error, that it will operate without interruption, that it will be compatible with the Licensee's own equipment and software configuration, nor that it will meet the Licensee's requirements.
-
-9.4 The Licensor does not either expressly or tacitly warrant that the Software does not infringe any third party intellectual property right relating to a patent, software or any other property right. Therefore, the Licensor disclaims any and all liability towards the Licensee arising out of any or all proceedings for infringement that may be instituted in respect of the use, modification and redistribution of the Software. Nevertheless, should such proceedings be instituted against the Licensee, the Licensor shall provide it with technical and legal assistance for its defense. Such technical and legal assistance shall be decided on a case-by-case basis between the relevant Licensor and the Licensee pursuant to a memorandum of understanding. The Licensor disclaims any and all liability as regards the Licensee's use of the name of the Software. No warranty is given as regards the existence of prior rights over the name of the Software or as regards the existence of a trademark.
-Article 10 - TERMINATION
-
-10.1 In the event of a breach by the Licensee of its obligations hereunder, the Licensor may automatically terminate this Agreement thirty (30) days after notice has been sent to the Licensee and has remained ineffective.
-
-10.2 A Licensee whose Agreement is terminated shall no longer be authorized to use, modify or distribute the Software. However, any licenses that it may have granted prior to termination of the Agreement shall remain valid subject to their having been granted in compliance with the terms and conditions hereof.
-Article 11 - MISCELLANEOUS
-11.1 EXCUSABLE EVENTS
-
-Neither Party shall be liable for any or all delay, or failure to perform the Agreement, that may be attributable to an event of force majeure, an act of God or an outside cause, such as defective functioning or interruptions of the electricity or telecommunications networks, network paralysis following a virus attack, intervention by government authorities, natural disasters, water damage, earthquakes, fire, explosions, strikes and labor unrest, war, etc.
-
-11.2 Any failure by either Party, on one or more occasions, to invoke one or more of the provisions hereof, shall under no circumstances be interpreted as being a waiver by the interested Party of its right to invoke said provision(s) subsequently.
-
-11.3 The Agreement cancels and replaces any or all previous agreements, whether written or oral, between the Parties and having the same purpose, and constitutes the entirety of the agreement between said Parties concerning said purpose. No supplement or modification to the terms and conditions hereof shall be effective as between the Parties unless it is made in writing and signed by their duly authorized representatives.
-
-11.4 In the event that one or more of the provisions hereof were to conflict with a current or future applicable act or legislative text, said act or legislative text shall prevail, and the Parties shall make the necessary amendments so as to comply with said act or legislative text. All other provisions shall remain effective. Similarly, invalidity of a provision of the Agreement, for any reason whatsoever, shall not cause the Agreement as a whole to be invalid.
-11.5 LANGUAGE
-
-The Agreement is drafted in both French and English and both versions are deemed authentic.
-Article 12 - NEW VERSIONS OF THE AGREEMENT
-
-12.1 Any person is authorized to duplicate and distribute copies of this Agreement.
-
-12.2 So as to ensure coherence, the wording of this Agreement is protected and may only be modified by the authors of the License, who reserve the right to periodically publish updates or new versions of the Agreement, each with a separate number. These subsequent versions may address new issues encountered by Free Software.
-
-12.3 Any Software distributed under a given version of the Agreement may only be subsequently distributed under the same version of the Agreement or a subsequent version.
-Article 13 - GOVERNING LAW AND JURISDICTION
-
-13.1 The Agreement is governed by French law. The Parties agree to endeavor to seek an amicable solution to any disagreements or disputes that may arise during the performance of the Agreement.
-
-13.2 Failing an amicable solution within two (2) months as from their occurrence, and unless emergency proceedings are necessary, the disagreements or disputes shall be referred to the Paris Courts having jurisdiction, by the more diligent Party.
-
-1 CeCILL stands for Ce(a) C(nrs) I(nria) L(ogiciel) L(ibre)
-
-Version 1.0 dated 2006-09-05. 
+Creative Commons kann kontaktiert werden über https://creativecommons.org/.
