@@ -1,4 +1,7 @@
 ## Diary
+### week 15
+mon: edited the script so that it prints out all empty licenses shortcodes so that i can now check which have one-click licenses to manually copy from or not
+
 ### week 14
 fri: have to go through all empty licenses that actually might have contained a simple one click URL to fetch the license. we incease the scope for this one.
 

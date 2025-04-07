@@ -68,3 +68,10 @@ for key in licenses:
   if licenses[key]:
     file_object = open('stage2-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
+
+empty_licenses = []
+for key in licenses:
+  if licenses[key] == ' ':
+    empty_licenses.append(key)
+print(empty_licenses)
+print(len(empty_licenses))
