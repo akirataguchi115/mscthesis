@@ -1,0 +1,3 @@
+    This license is the disjunction of the Artistic License 1.0 and the GNU GPL—in other words, you can choose either of those two licenses. It qualifies as a free software license, but it may not be a real copyleft. It is compatible with the GNU GPL because the GNU GPL is one of the alternatives.
+
+    We recommend you use this license for any Perl 4 or Perl 5 package you write, to promote coherence and uniformity in Perl programming. Outside of Perl, we urge you not to use this license; it is better to use just the GNU GPL.

@@ -1,5 +1,7 @@
 ## Diary
 ### week 15
+fri: 26 licenses left this was actually pretty fast.
+
 thu: 82 licenses left ffs. god give me strength.
 
 mon: edited the script so that it prints out all empty licenses shortcodes so that i can now check which have one-click licenses to manually copy from or not
