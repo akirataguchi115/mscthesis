@@ -1,5 +1,7 @@
 ## Diary
 ### week 15
+sat: 13 licenses left.
+
 fri: 26 licenses left this was actually pretty fast.
 
 thu: 82 licenses left ffs. god give me strength.
