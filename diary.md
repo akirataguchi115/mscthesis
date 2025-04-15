@@ -1,5 +1,7 @@
 ## Diary
 ### week 16
+tue: i gotta put my stage 1 and 2 into github as markdown tables. do that next.
+
 mon: zero licenses left missing licenses on stage 2. now i gotta include and exclude. i could do it so that inclusion principle is stronger than exclusion principle. i should maybe first include licenses then check the exclusion folder which licenses it contains. then check somewhat - no, nvm scrap that. we do it so that we find and remove duplicates now since thats something we have to do only once anyways its not going to change. inclusion and exclusion is something that we need to do more times than just once. first number then dash then the license name in the duplicate finding. remove empty licenses from that license list. it should be 780 - 26 = 754.
 
 ### week 15
