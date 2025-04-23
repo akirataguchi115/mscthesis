@@ -1,3 +1,10 @@
-This file is free software; the Free Software Foundation gives
-unlimited permission to copy and/or distribute it, with or without
-modifications, as long as this notice is preserved.
+SAX2 is Free!
+
+I hereby abandon any property rights to SAX 2.0 (the Simple API for
+XML), and release all of the SAX 2.0 source code, compiled code, and
+documentation contained in this distribution into the Public Domain.
+SAX comes with NO WARRANTY or guarantee of fitness for any
+purpose.
+
+David Megginson, david@megginson.com
+2000-05-05

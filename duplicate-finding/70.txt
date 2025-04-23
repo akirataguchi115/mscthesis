@@ -1,45 +1,114 @@
-Academic Free License
-v. 2.0
+ACPI - Software License Agreement
 
-This Academic Free License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
+Software License Agreement IMPORTANT - READ BEFORE COPYING, INSTALLING
+OR USING.
 
-    Licensed under the Academic Free License version 2.0
+Do not use or load this software and any associated materials
+(collectively, the "Software") until you have carefully read the
+following terms and conditions. By loading or using the Software, you
+agree to the terms of this Agreement. If you do not wish to so agree, do
+not install or use the Software.
 
-1) Grant of Copyright License. Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license to do the following:
+1. COPYRIGHT NOTICE Some or all of this work - Copyright © 1999-2005,
+Intel Corp. All rights reserved.
 
-    a) to reproduce the Original Work in copies;
+2. LICENSE
 
-    b) to prepare derivative works ("Derivative Works") based upon the Original Work;
+2.1. This is your license from Intel Corp. under its intellectual
+property rights. You may have additional license terms from the party
+that provided you this software, covering your right to use that party's
+intellectual property rights.
 
-    c) to distribute copies of the Original Work and Derivative Works to the public;
+2.2. Intel grants, free of charge, to any person ("Licensee") obtaining
+a copy of the source code appearing in this file ("Covered Code") an
+irrevocable, perpetual, worldwide license under Intel's copyrights in
+the base code distributed originally by Intel ("Original Intel Code") to
+copy, make derivatives, distribute, use and display any portion of the
+Covered Code in any form, with the right to sublicense such rights; and
 
-    d) to perform the Original Work publicly; and
+2.3. Intel grants Licensee a non-exclusive and non-transferable patent
+license (with the right to sublicense), under only those claims of Intel
+patents that are infringed by the Original Intel Code, to make, use,
+sell, offer to sell, and import the Covered Code and derivative works
+thereof solely to the minimum extent necessary to exercise the above
+copyright license, and in no event shall the patent license extend to
+any additions to or modifications of the Original Intel Code. No other
+license or right is granted directly or by implication, estoppel or
+otherwise; The above copyright and patent license is granted only if the
+following conditions are met:
 
-    e) to display the Original Work publicly. 
+3. CONDITIONS
 
-2) Grant of Patent License. Licensor hereby grants You a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, to make, use, sell and offer for sale the Original Work and Derivative Works.
+3.1. Redistribution of Source with Rights to Further Distribute Source.
+Redistribution of source code of any substantial portion of the Covered
+Code or modification with rights to further distribute source must
+include the above Copyright Notice, the above License, this list of
+Conditions, and the following Disclaimer and Export Compliance
+provision. In addition, Licensee must cause all Covered Code to which
+Licensee contributes to contain a file documenting the changes Licensee
+made to create that Covered Code and the date of any change. Licensee
+must include in that file the documentation of any changes made by any
+predecessor Licensee. Licensee must include a prominent statement that
+the modification is derived, directly or indirectly, from Original Intel
+Code.
 
-3) Grant of Source Code License. The term "Source Code" means the preferred form of the Original Work for making modifications to it and all available documentation describing how to modify the Original Work. Licensor hereby agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes. Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository reasonably calculated to permit inexpensive and convenient access by You for as long as Licensor continues to distribute the Original Work, and by publishing the address of that information repository in a notice immediately following the copyright notice that applies to the Original Work.
+3.2. Redistribution of Source with no Rights to Further Distribute
+Source. Redistribution of source code of any substantial portion of the
+Covered Code or modification without rights to further distribute source
+must include the following Disclaimer and Export Compliance provision in
+the documentation and/or other materials provided with distribution. In
+addition, Licensee may not authorize further sublicense of source of any
+portion of the Covered Code, and must include terms to the effect that
+the license from Licensee to its licensee is limited to the intellectual
+property embodied in the software Licensee provides to its licensee, and
+not to intellectual property embodied in modifications its licensee may
+make.
 
-4) Exclusions From License Grant. Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work without express prior written permission of the Licensor. Nothing in this License shall be deemed to grant any rights to trademarks, copyrights, patents, trade secrets or any other intellectual property of Licensor except as expressly stated herein. No patent license is granted to make, use, sell or offer to sell embodiments of any patent claims other than the licensed claims defined in Section 2. No right is granted to the trademarks of Licensor even if such marks are included in the Original Work. Nothing in this License shall be interpreted to prohibit Licensor from licensing under different terms from this License any Original Work that Licensor otherwise would have a right to license.
+3.3. Redistribution of Executable. Redistribution in executable form of
+any substantial portion of the Covered Code or modification must
+reproduce the above Copyright Notice, and the following Disclaimer and
+Export Compliance provision in the documentation and/or other materials
+provided with the distribution.
 
-5) This section intentionally omitted.
+3.4. Intel retains all right, title, and interest in and to the Original
+Intel Code.
 
-6) Attribution Rights. You must retain, in the Source Code of any Derivative Works that You create, all copyright, patent or trademark notices from the Source Code of the Original Work, as well as any notices of licensing and any descriptive text identified therein as an "Attribution Notice." You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
-7) Warranty of Provenance and Disclaimer of Warranty. Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License with the permission of the contributor(s) of those copyrights and patent rights. Except as expressly stated in the immediately proceeding sentence, the Original Work is provided under this License on an "AS IS" BASIS and WITHOUT WARRANTY, either express or implied, including, without limitation, the warranties of NON-INFRINGEMENT, MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY OF THE ORIGINAL WORK IS WITH YOU. This DISCLAIMER OF WARRANTY constitutes an essential part of this License. No license to Original Work is granted hereunder except under this disclaimer.
+3.5. Neither the name Intel nor any other trademark owned or controlled
+by Intel shall be used in advertising or otherwise to promote the sale,
+use or other dealings in products derived from or relating to the
+Covered Code without prior written authorization from Intel.
 
-8) Limitation of Liability. Under no circumstances and under no legal theory, whether in tort (including negligence), contract, or otherwise, shall the Licensor be liable to any person for any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or the use of the Original Work including, without limitation, damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses. This limitation of liability shall not apply to liability for death or personal injury resulting from Licensor's negligence to the extent applicable law prohibits such limitation. Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so this exclusion and limitation may not apply to You.
+4. DISCLAIMER AND EXPORT COMPLIANCE
 
-9) Acceptance and Termination. If You distribute copies of the Original Work or a Derivative Work, You must make a reasonable effort under the circumstances to obtain the express assent of recipients to the terms of this License. Nothing else but this License (or another written agreement between Licensor and You) grants You permission to create Derivative Works based upon the Original Work or to exercise any of the rights granted in Section 1 herein, and any attempt to do so except under the terms of this License (or another written agreement between Licensor and You) is expressly prohibited by U.S. copyright law, the equivalent laws of other countries, and by international treaty. Therefore, by exercising any of the rights granted to You in Section 1 herein, You indicate Your acceptance of this License and all of its terms and conditions.
+4.1. INTEL MAKES NO WARRANTY OF ANY KIND REGARDING ANY SOFTWARE PROVIDED
+HERE. ANY SOFTWARE ORIGINATING FROM INTEL OR DERIVED FROM INTEL SOFTWARE
+IS PROVIDED "AS IS," AND INTEL WILL NOT PROVIDE ANY SUPPORT, ASSISTANCE,
+INSTALLATION, TRAINING OR OTHER SERVICES. INTEL WILL NOT PROVIDE ANY
+UPDATES, ENHANCEMENTS OR EXTENSIONS. INTEL SPECIFICALLY DISCLAIMS ANY
+IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT AND FITNESS FOR A
+PARTICULAR PURPOSE.
 
-10) Termination for Patent Action. This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, for patent infringement (i) against Licensor with respect to a patent applicable to software or (ii) against any entity with respect to a patent applicable to the Original Work (but excluding combinations of the Original Work with other software or hardware).
+4.2. IN NO EVENT SHALL INTEL HAVE ANY LIABILITY TO LICENSEE, ITS
+LICENSEES OR ANY OTHER THIRD PARTY, FOR ANY LOST PROFITS, LOST DATA,
+LOSS OF USE OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR
+FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS
+AGREEMENT, UNDER ANY CAUSE OF ACTION OR THEORY OF LIABILITY, AND
+IRRESPECTIVE OF WHETHER INTEL HAS ADVANCE NOTICE OF THE POSSIBILITY OF
+SUCH DAMAGES. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING THE FAILURE
+OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
 
-11) Jurisdiction, Venue and Governing Law. Any action or suit relating to this License may be brought only in the courts of a jurisdiction wherein the Licensor resides or in which Licensor conducts its primary business, and under the laws of that jurisdiction excluding its conflict-of-law provisions. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any use of the Original Work outside the scope of this License or after its termination shall be subject to the requirements and penalties of the U.S. Copyright Act, 17 U.S.C. 101 et seq., the equivalent laws of other countries, and international treaty. This section shall survive the termination of this License.
-
-12) Attorneys Fees. In any action to enforce the terms of this License or seeking damages relating thereto, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including anyluding any appeal of such action. This section shall survive the termination of this License.
-
-13) Miscellaneous. This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
-
-14) Definition of "You" in This License. "You" throughout this License, whether in upper or lower case, means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License. For legal entities, "You" includes any entity that controls, is controlled by, or is under common control with you. For purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
-
-15) Right to Use. You may use the Original Work in all ways not otherwise restricted or conditioned by this License or by law, and Licensor promises not to interfere with or be responsible for such uses by You.
+4.3. Licensee shall not export, either directly or indirectly, any of
+this software or system incorporating such software without first
+obtaining any required license or other approval from the U. S.
+Department of Commerce or any other agency or department of the United
+States Government. In the event Licensee exports any such software from
+the United States or re-exports any such software from a foreign
+destination, Licensee shall ensure that the distribution and export/re-
+export of the software is in compliance with all laws, regulations,
+orders, or other restrictions of the U.S. Export Administration
+Regulations. Licensee agrees that neither it nor any of its subsidiaries
+will export/re-export any technical data, process, software, or service,
+directly or indirectly, to any country for which the United States
+government or any agency thereof requires an export license, other
+governmental approval, or letter of assurance, without first obtaining
+such license, approval or letter.

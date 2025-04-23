@@ -1,54 +1,38 @@
-JasPer License Version 2.0
+Detection Rule License (DRL) 1.1
 
-Copyright (c) 2001-2006 Michael David Adams
-Copyright (c) 1999-2000 Image Power, Inc.
-Copyright (c) 1999-2000 The University of British Columbia
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this rule set and associated documentation files (the "Rules"), to deal 
+in the Rules without restriction, including without limitation the rights to 
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies 
+of the Rules, and to permit persons to whom the Rules are furnished to do so, 
+subject to the following conditions:
 
-All rights reserved.
+If you share the Rules (including in modified form), you must retain the 
+following if it is supplied within the Rules:
 
-Permission is hereby granted, free of charge, to any person (the
-"User") obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without restriction,
-including without limitation the rights to use, copy, modify, merge,
-publish, distribute, and/or sell copies of the Software, and to permit
-persons to whom the Software is furnished to do so, subject to the
-following conditions:
+1. identification of the authors(s) ("author" field) of the Rule and any 
+   others designated to receive attribution, in any reasonable manner 
+   requested by the Rule author (including by pseudonym if designated).
 
-1.  The above copyright notices and this permission notice (which
-includes the disclaimer below) shall be included in all copies or
-substantial portions of the Software.
+2. a URI or hyperlink to the Rule set or explicit Rule to the extent 
+   reasonably practicable
 
-2.  The name of a copyright holder shall not be used to endorse or
-promote products derived from the Software without specific prior
-written permission.
+3. indicate the Rules are licensed under this Detection Rule License, and 
+   include the text of, or the URI or hyperlink to, this Detection Rule 
+   License to the extent reasonably practicable
 
-THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS
-LICENSE.  NO USE OF THE SOFTWARE IS AUTHORIZED HEREUNDER EXCEPT UNDER
-THIS DISCLAIMER.  THE SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS
-"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
-BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.  IN NO
-EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL
-INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
-FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
-NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
-WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.  
+If you use the Rules (including in modified form) on data, messages based on 
+matches with the Rules must retain the following if it is supplied within the 
+Rules:
 
-NO ASSURANCES ARE
-PROVIDED BY THE COPYRIGHT HOLDERS THAT THE SOFTWARE DOES NOT INFRINGE
-THE PATENT OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY OTHER ENTITY.
-EACH COPYRIGHT HOLDER DISCLAIMS ANY LIABILITY TO THE USER FOR CLAIMS
-BROUGHT BY ANY OTHER ENTITY BASED ON INFRINGEMENT OF INTELLECTUAL
-PROPERTY RIGHTS OR OTHERWISE.  AS A CONDITION TO EXERCISING THE RIGHTS
-GRANTED HEREUNDER, EACH USER HEREBY ASSUMES SOLE RESPONSIBILITY TO SECURE
-ANY OTHER INTELLECTUAL PROPERTY RIGHTS NEEDED, IF ANY.  
+1. identification of the authors(s) ("author" field) of the Rule and any 
+   others designated to receive attribution, in any reasonable manner 
+   requested by the Rule author (including by pseudonym if designated).
 
-THE SOFTWARE
-IS NOT FAULT-TOLERANT AND IS NOT INTENDED FOR USE IN MISSION-CRITICAL
-SYSTEMS, SUCH AS THOSE USED IN THE OPERATION OF NUCLEAR FACILITIES,
-AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL
-SYSTEMS, DIRECT LIFE SUPPORT MACHINES, OR WEAPONS SYSTEMS, IN WHICH
-THE FAILURE OF THE SOFTWARE OR SYSTEM COULD LEAD DIRECTLY TO DEATH,
-PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE ("HIGH
-RISK ACTIVITIES").  THE COPYRIGHT HOLDERS SPECIFICALLY DISCLAIM ANY
-EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+THE RULES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE RULES OR THE USE OR OTHER DEALINGS IN THE 
+RULES.

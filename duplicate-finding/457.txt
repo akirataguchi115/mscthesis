@@ -1,9 +1,12 @@
-THIS MATERIAL IS PROVIDED AS IS, WITH ABSOLUTELY NO WARRANTY EXPRESSED
-OR IMPLIED. ANY USE IS AT YOUR OWN RISK.
+Permission to use, reproduce, display and distribute the listed typefaces
+is hereby granted, provided that the Adobe Copyright notice appears in all
+whole and partial copies of the software and that the following trademark
+symbol and attribution appear in all unmodified copies of the software:
 
-Permission is hereby granted to use or copy this program for any
-purpose, provided the above notices are retained on all copies.
+The Adobe typefaces (Type 1 font program, bitmaps and Adobe Font Metric
+files) donated are:
 
-Permission to modify the code and to distribute modified code is
-granted, provided the above notices are retained, and a notice that
-the code was modified is included with the above copyright notice.
+        Utopia Regular
+        Utopia Italic
+        Utopia Bold
+        Utopia Bold Italic

@@ -1,20 +1,14 @@
-This software is provided 'as-is', without any express or implied warranty. In
-no event will the authors be held liable for any damages arising from the use of
-this software.
+The AT&T Public License is a nonfree license. It has several serious problems:
 
-Permission is granted to anyone to use this software for any purpose, including
-commercial applications, and to alter it and redistribute it freely, subject to
-the following restrictions:
+    The patent license is voided by any modification, no matter how small, of the pertinent code.
+    You must demand a written agreement when you distribute the sources or patches.
+    It requires notifying AT&T if you distribute a patch.
+    Your license can be terminated through no fault of yours, under section 8/3.
+    It makes compliance with export control laws a condition of the license.
+    Some versions of the license require you to provide support.
+    Some versions of the license say you cannot sell a copy of the software for more than the expense of distribution.
 
-1. The origin of this software must not be misrepresented; you must not claim
-that you wrote the original software. If you use this software in a product, an
-acknowledgment (see the following) in the product documentation is required.
+The license has two other obnoxious features:
 
-Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004 James
-W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002
-Philip A. Craig
-
-2. Altered source versions must be plainly marked as such, and must not be
-misrepresented as being the original software.
-
-3. This notice may not be removed or altered from any source distribution.
+    It has a very broad reverse license to AT&T, which goes far beyond the use of your code, even your code modified.
+    It asserts one needs a license from AT&T to make a link to their web site. This is not an immediate practical problem, since the license says it gives permission to make such a link. (Anyway, people shouldn't make links to sites about nonfree software.) But such a claim should not be made or propagated.

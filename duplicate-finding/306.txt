@@ -1,207 +1,93 @@
-PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
---------------------------------------------
+Licence Libre du Québec – Réciprocité (LiLiQ-R)
+Version 1.1
 
-1. This LICENSE AGREEMENT is between the Python Software Foundation
-("PSF"), and the Individual or Organization ("Licensee") accessing and
-otherwise using this software ("Python") in source or binary form and
-its associated documentation.
+1. Préambule 
+Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité (LiLiQ-R) (ci-après appelée la « licence »).
 
-2. Subject to the terms and conditions of this License Agreement, PSF hereby
-grants Licensee a nonexclusive, royalty-free, world-wide license to reproduce,
-analyze, test, perform and/or display publicly, prepare derivative works,
-distribute, and otherwise use Python alone or in any derivative version,
-provided, however, that PSF's License Agreement and PSF's notice of copyright,
-i.e., "Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
-2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022 Python Software Foundation;
-All Rights Reserved" are retained in Python alone or in any derivative version
-prepared by Licensee.
+2. Définitions 
+Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
 
-3. In the event Licensee prepares a derivative work that is based on
-or incorporates Python or any part thereof, and wants to make
-the derivative work available to others as provided herein, then
-Licensee hereby agrees to include in any such work a brief summary of
-the changes made to Python.
+« concédant » : le titulaire du droit d'auteur sur le logiciel, ou toute personne dûment autorisée par ce dernier à accorder la présente licence; 
+« contributeur » : le titulaire du droit d'auteur ou toute personne autorisée par ce dernier à soumettre au concédant une contribution. Un contributeur dont sa contribution est incorporée au logiciel est considéré comme un concédant en regard de sa contribution; 
+« contribution » : tout logiciel original, ou partie de logiciel original soumis et destiné à être incorporé dans le logiciel; 
+« distribution » : le fait de délivrer une copie du logiciel; 
+« licencié » : toute personne qui possède une copie du logiciel et qui exerce les droits concédés par la licence; 
+« logiciel » : une œuvre protégée par le droit d'auteur, telle qu'un programme d'ordinateur et sa documentation, pour laquelle le titulaire du droit d'auteur a précisé qu'elle est sujette aux termes de la présente licence; 
+« logiciel dérivé » : tout logiciel original réalisé par un licencié, autre que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité ou une partie importante du logiciel; 
+« logiciel modifié » : toute modification par un licencié de l'un des fichiers source du logiciel ou encore tout nouveau fichier source qui incorpore le logiciel ou une partie importante de ce dernier.
 
-4. PSF is making Python available to Licensee on an "AS IS"
-basis.  PSF MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PSF MAKES NO AND
-DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS
-FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON WILL NOT
-INFRINGE ANY THIRD PARTY RIGHTS.
+3. Licence de droit d'auteur 
+Sous réserve des termes de la licence, le concédant accorde au licencié une licence non exclusive et libre de redevances lui permettant d’exercer les droits suivants sur le logiciel :
 
-5. PSF SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON
-FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS
-A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING PYTHON,
-OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
+1 Produire ou reproduire la totalité ou une partie importante; 
+2 Exécuter ou représenter la totalité ou une partie importante en public; 
+3 Publier la totalité ou une partie importante.
 
-6. This License Agreement will automatically terminate upon a material
-breach of its terms and conditions.
+Cette licence est accordée sans limite territoriale et sans limite de temps.
 
-7. Nothing in this License Agreement shall be deemed to create any
-relationship of agency, partnership, or joint venture between PSF and
-Licensee.  This License Agreement does not grant permission to use PSF
-trademarks or trade name in a trademark sense to endorse or promote
-products or services of Licensee, or any third party.
+L'exercice complet de ces droits est sujet à la distribution par le concédant du code source du logiciel, lequel doit être sous une forme permettant d'y apporter des modifications. Le concédant peut aussi distribuer le logiciel accompagné d'une offre de distribuer le code source du logiciel, sans frais supplémentaires, autres que ceux raisonnables afin de permettre la livraison du code source. Cette offre doit être valide pendant une durée raisonnable.
 
-8. By copying, installing or otherwise using Python, Licensee
-agrees to be bound by the terms and conditions of this License
-Agreement.
+4. Distribution 
+Le licencié peut distribuer des copies du logiciel, d'un logiciel modifié ou dérivé, sous réserve de respecter les conditions suivantes :
 
+1 Le logiciel doit être accompagné d'un exemplaire de cette licence; 
+2 Si le logiciel a été modifié, le licencié doit en faire la mention, de préférence dans chacun des fichiers modifiés dont la nature permet une telle mention; 
+3 Les étiquettes ou mentions faisant état des droits d'auteur, des marques de commerce, des garanties ou de la paternité concernant le logiciel ne doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
 
-BEOPEN.COM LICENSE AGREEMENT FOR PYTHON 2.0
--------------------------------------------
+4.1. Réciprocité 
+Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire une concession sur le logiciel selon les termes de la présente licence. Le licencié doit offrir une concession selon les termes de la présente licence pour tout logiciel modifié qu'il distribue.
 
-BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
+Chaque fois que le licencié distribue le logiciel ou un logiciel modifié, ce dernier doit assumer l'obligation d'en distribuer le code source, de la manière prévue au troisième alinéa de l'article 3.
 
-1. This LICENSE AGREEMENT is between BeOpen.com ("BeOpen"), having an
-office at 160 Saratoga Avenue, Santa Clara, CA 95051, and the
-Individual or Organization ("Licensee") accessing and otherwise using
-this software in source or binary form and its associated
-documentation ("the Software").
+4.2. Compatibilité 
+Dans la mesure où le licencié souhaite distribuer un logiciel modifié combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible.
 
-2. Subject to the terms and conditions of this BeOpen Python License
-Agreement, BeOpen hereby grants Licensee a non-exclusive,
-royalty-free, world-wide license to reproduce, analyze, test, perform
-and/or display publicly, prepare derivative works, distribute, and
-otherwise use the Software alone or in any derivative version,
-provided, however, that the BeOpen Python License is retained in the
-Software, alone or in any derivative version prepared by Licensee.
+Un licencié qui est titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible ne peut pas se prévaloir de cette offre. Il en est de même pour toute autre personne dûment autorisée à sous-licencier par le titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible.
 
-3. BeOpen is making the Software available to Licensee on an "AS IS"
-basis.  BEOPEN MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, BEOPEN MAKES NO AND
-DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS
-FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE SOFTWARE WILL NOT
-INFRINGE ANY THIRD PARTY RIGHTS.
+Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable ou supérieur à celui de la présente licence, sans toutefois être moindre, notamment :
 
-4. BEOPEN SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF THE
-SOFTWARE FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS
-AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THE SOFTWARE, OR ANY
-DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
+1 Common Development and Distribution License (CDDL-1.0) 
+2 Common Public License Version 1.0 (CPL-1.0) 
+3 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1) 
+4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C) 
+5 Eclipse Public License - v 1.0 (EPL-1.0) 
+6 European Union Public License, version 1.1 (EUPL v. 1.1) 
+7 Licence Libre du Québec – Réciprocité forte version 1.1 (LiLiQ-R+ 1.1) 
+8 GNU General Public License Version 2 (GNU GPLv2) 
+9 GNU General Public License Version 3 (GNU GPLv3) 
+10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1) 
+11 GNU Lesser General Public License Version 3 (GNU LGPLv3) 
+12 Mozilla Public License Version 2.0 (MPL-2.0)
 
-5. This License Agreement will automatically terminate upon a material
-breach of its terms and conditions.
+5. Contributions 
+Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
 
-6. This License Agreement shall be governed by and interpreted in all
-respects by the law of the State of California, excluding conflict of
-law provisions.  Nothing in this License Agreement shall be deemed to
-create any relationship of agency, partnership, or joint venture
-between BeOpen and Licensee.  This License Agreement does not grant
-permission to use BeOpen trademarks or trade names in a trademark
-sense to endorse or promote products or services of Licensee, or any
-third party.  As an exception, the "BeOpen Python" logos available at
-http://www.pythonlabs.com/logos.html may be used according to the
-permissions granted on that web page.
+6. Marques de commerce 
+La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
 
-7. By copying, installing or otherwise using the software, Licensee
-agrees to be bound by the terms and conditions of this License
-Agreement.
+7. Garanties 
+Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
 
+Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support.
 
-CNRI LICENSE AGREEMENT FOR PYTHON 1.6.1
----------------------------------------
+8. Responsabilité 
+Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence.
 
-1. This LICENSE AGREEMENT is between the Corporation for National
-Research Initiatives, having an office at 1895 Preston White Drive,
-Reston, VA 20191 ("CNRI"), and the Individual or Organization
-("Licensee") accessing and otherwise using Python 1.6.1 software in
-source or binary form and its associated documentation.
+Le concédant ne saurait être tenu responsable du préjudice subi par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
 
-2. Subject to the terms and conditions of this License Agreement, CNRI
-hereby grants Licensee a nonexclusive, royalty-free, world-wide
-license to reproduce, analyze, test, perform and/or display publicly,
-prepare derivative works, distribute, and otherwise use Python 1.6.1
-alone or in any derivative version, provided, however, that CNRI's
-License Agreement and CNRI's notice of copyright, i.e., "Copyright (c)
-1995-2001 Corporation for National Research Initiatives; All Rights
-Reserved" are retained in Python 1.6.1 alone or in any derivative
-version prepared by Licensee.  Alternately, in lieu of CNRI's License
-Agreement, Licensee may substitute the following text (omitting the
-quotes): "Python 1.6.1 is made available subject to the terms and
-conditions in CNRI's License Agreement.  This Agreement together with
-Python 1.6.1 may be located on the internet using the following
-unique, persistent identifier (known as a handle): 1895.22/1013.  This
-Agreement may also be obtained from a proxy server on the internet
-using the following URL: http://hdl.handle.net/1895.22/1013".
+9. Résiliation 
+La présente licence est résiliée de plein droit dès que les droits qui y sont accordés ne sont pas exercés conformément aux termes qui y sont stipulés.
 
-3. In the event Licensee prepares a derivative work that is based on
-or incorporates Python 1.6.1 or any part thereof, and wants to make
-the derivative work available to others as provided herein, then
-Licensee hereby agrees to include in any such work a brief summary of
-the changes made to Python 1.6.1.
+Toutefois, si le défaut est corrigé dans un délai de 30 jours de sa prise de connaissance par la personne en défaut, et qu'il s'agit du premier défaut, la licence est accordée de nouveau.
 
-4. CNRI is making Python 1.6.1 available to Licensee on an "AS IS"
-basis.  CNRI MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
-IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, CNRI MAKES NO AND
-DISCLAIMS ANY REPRESENTATION OR WARRANTY OF MERCHANTABILITY OR FITNESS
-FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF PYTHON 1.6.1 WILL NOT
-INFRINGE ANY THIRD PARTY RIGHTS.
+Pour tout défaut subséquent, le consentement exprès du concédant est nécessaire afin que la licence soit accordée de nouveau.
 
-5. CNRI SHALL NOT BE LIABLE TO LICENSEE OR ANY OTHER USERS OF PYTHON
-1.6.1 FOR ANY INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES OR LOSS AS
-A RESULT OF MODIFYING, DISTRIBUTING, OR OTHERWISE USING PYTHON 1.6.1,
-OR ANY DERIVATIVE THEREOF, EVEN IF ADVISED OF THE POSSIBILITY THEREOF.
+10. Version de la licence 
+Le Centre de services partagés du Québec, ses ayants cause ou toute personne qu'il désigne, peuvent diffuser des versions révisées ou modifiées de cette licence. Chaque version recevra un numéro unique. Si un logiciel est déjà soumis aux termes d'une version spécifique, c'est seulement cette version qui liera les parties à la licence.
 
-6. This License Agreement will automatically terminate upon a material
-breach of its terms and conditions.
+Le concédant peut aussi choisir de concéder la licence sous la version actuelle ou toute version ultérieure, auquel cas le licencié peut choisir sous quelle version la licence lui est accordée.
 
-7. This License Agreement shall be governed by the federal
-intellectual property law of the United States, including without
-limitation the federal copyright law, and, to the extent such
-U.S. federal law does not apply, by the law of the Commonwealth of
-Virginia, excluding Virginia's conflict of law provisions.
-Notwithstanding the foregoing, with regard to derivative works based
-on Python 1.6.1 that incorporate non-separable material that was
-previously distributed under the GNU General Public License (GPL), the
-law of the Commonwealth of Virginia shall govern this License
-Agreement only as to issues arising under or with respect to
-Paragraphs 4, 5, and 7 of this License Agreement.  Nothing in this
-License Agreement shall be deemed to create any relationship of
-agency, partnership, or joint venture between CNRI and Licensee.  This
-License Agreement does not grant permission to use CNRI trademarks or
-trade name in a trademark sense to endorse or promote products or
-services of Licensee, or any third party.
+11. Divers 
+Dans la mesure où le concédant est un ministère, un organisme public ou une personne morale de droit public, créés en vertu d'une loi de l'Assemblée nationale du Québec, la licence est régie par le droit applicable au Québec et en cas de contestation, les tribunaux du Québec seront seuls compétents.
 
-8. By clicking on the "ACCEPT" button where indicated, or by copying,
-installing or otherwise using Python 1.6.1, Licensee agrees to be
-bound by the terms and conditions of this License Agreement.
-
-        ACCEPT
-
-
-CWI LICENSE AGREEMENT FOR PYTHON 0.9.0 THROUGH 1.2
---------------------------------------------------
-
-Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam,
-The Netherlands.  All rights reserved.
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted,
-provided that the above copyright notice appear in all copies and that
-both that copyright notice and this permission notice appear in
-supporting documentation, and that the name of Stichting Mathematisch
-Centrum or CWI not be used in advertising or publicity pertaining to
-distribution of the software without specific, written prior
-permission.
-
-STICHTING MATHEMATISCH CENTRUM DISCLAIMS ALL WARRANTIES WITH REGARD TO
-THIS SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS, IN NO EVENT SHALL STICHTING MATHEMATISCH CENTRUM BE LIABLE
-FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT
-OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
-
-ZERO-CLAUSE BSD LICENSE FOR CODE IN THE PYTHON DOCUMENTATION
-----------------------------------------------------------------------
-
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
+La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant droit, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.

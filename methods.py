@@ -23,7 +23,7 @@ for filename in manual_txts:
   with open('manual-licenses/' + filename + '.txt', 'r') as file_object:
     licenses[filename] = file_object.read()
 
-# Print out missing licenses that need to fetched manually
+# Print out licenses that need to be added manually
 manual_licenses = []
 for key, value in licenses.items():
   if value == None:
@@ -38,28 +38,21 @@ print('These ' + str(len(empty_licenses)) + ' license texts were empty')
 print(empty_licenses.keys())
 licenses = {k: v for k, v in licenses.items() if v != ' '}
 
-
-
-# with open ('exceptions.json', 'r') as file_object:
-#   json_loader = json.load(file_object)
-#   for license_key in json_loader:
-#     licenses.pop(license_key)
-
+# Find duplicates for researcher
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
-number = 0
-# are there going to be any None values at this point anyway?
-text_list = [x for x in list(licenses.values()) if x is not None]
-text_list = [license for license in text_list]
+number = 1
+text_list = [x for x in list(licenses.values())]
 text_list.sort()
 for license_text in text_list:
   if license_text:
-    file_object = open('duplicate-finding/' + str(number) + '.txt', 'w')
+    # put shortcode name here as well as the number but number first
+    file_object = open('duplicate-finding/' + "CONTINUEHERELJDAFJADSÖLKF" + str(number) + '.txt', 'w')
     file_object.write(license_text)
     number += 1
 
-# onko excelissä tarvittavat tiedot lisenssien alkuperästä joita voidaan silti käyttää manuaalisten lisenssien etsinnässä
+
 if path.exists('stage2-licenses'):
   rmtree('stage2-licenses')
 Path('stage2-licenses').mkdir(parents=True, exist_ok=True)

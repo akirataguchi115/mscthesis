@@ -1,15 +1,17 @@
-Redistribution and use in source and binary forms, with or without
-modification, is permitted provided that the following conditions
-are met:
-1. Redistributions of source code must retain the above copyright
-   notice immediately at the beginning of the file, without modification,
-   this list of conditions, and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-3. This work was done expressly for inclusion into FreeBSD. Other use
-   is permitted provided this notation is included.
-4. Absolutely no warranty of function or purpose is made by the author
-   David Nugent.
-5. Modifications may be freely made to this file providing the above
-   conditions are met.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be included in all copies
+of the Software and its documentation and acknowledgment shall be given in the
+documentation and software packages that this Software was used.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.

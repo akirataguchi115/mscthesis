@@ -1,110 +1,353 @@
-Creative Commons Namensnennung - Keine kommerzielle Nutzung 3.0 Deutschland
+Computer Associates Trusted Open Source License
 
-  CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG. DIE BEREITSTELLUNG DIESER LIZENZ FÜHRT ZU KEINEM MANDATSVERHÄLTNIS. CREATIVE COMMONS STELLT DIESE INFORMATIONEN OHNE GEWÄHR ZUR VERFÜGUNG. CREATIVE COMMONS ÜBERNIMMT KEINE GEWÄHRLEISTUNG FÜR DIE GELIEFERTEN INFORMATIONEN UND SCHLIEßT DIE HAFTUNG FÜR SCHÄDEN AUS, DIE SICH AUS DEREN GEBRAUCH ERGEBEN.
+Version 1.1
 
-Lizenz
+PLEASE READ THIS DOCUMENT CAREFULLY AND IN ITS ENTIRETY. THE
+ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMPUTER
+ASSOCIATES TRUSTED OPEN SOURCE LICENSE ("LICENSE"). ANY USE,
+REPRODUCTION, MODIFICATION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES
+THE RECIPIENT'S ACCEPTANCE OF THIS LICENSE.
 
-DER GEGENSTAND DIESER LIZENZ (WIE UNTER "SCHUTZGEGENSTAND" DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE ("CCPL", "LIZENZ" ODER "LIZENZVERTRAG") ZUR VERFÜGUNG GESTELLT. DER SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER ANDERE GESETZE GESCHÜTZT. JEDE FORM DER NUTZUNG DES SCHUTZGEGENSTANDES, DIE NICHT AUFGRUND DIESER LIZENZ ODER DURCH GESETZE GESTATTET IST, IST UNZULÄSSIG.
+License Background
 
-DURCH DIE AUSÜBUNG EINES DURCH DIESE LIZENZ GEWÄHRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÄREN SIE SICH MIT DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. SOWEIT DIESE LIZENZ ALS LIZENZVERTRAG ANZUSEHEN IST, GEWÄHRT IHNEN DER LIZENZGEBER DIE IN DER LIZENZ GENANNTEN RECHTE UNENTGELTLICH UND IM AUSTAUSCH DAFÜR, DASS SIE DAS GEBUNDENSEIN AN DIE LIZENZBEDINGUNGEN AKZEPTIEREN.
+Computer Associates International, Inc. (CA) believes in open source. We
+believe that the open source development approach can take appropriate
+software programs to unprecedented levels of quality, growth, and
+innovation. To demonstrate our continuing commitment to open source, we
+are releasing the Program (as defined below) under this License.
 
-1. Definitionen
+This License is intended to permit contributors and recipients of the
+Program to use the Program, including its source code, freely and
+without many of the concerns of some other open source licenses.
+Although we expect the underlying Program, and Contributions (as defined
+below) made to such Program, to remain open, this License is designed to
+permit you to maintain your own software programs free of this License
+unless you choose to do so. Thus, only your Contributions to the Program
+must be distributed under the terms of this License.
 
-     a. Der Begriff "Abwandlung" im Sinne dieser Lizenz bezeichnet das Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes, solange die eigenpersönlichen Züge des Schutzgegenstandes darin nicht verblassen und daran eigene Schutzrechte entstehen. Das kann insbesondere eine Bearbeitung, Umgestaltung, Änderung, Anpassung, Übersetzung oder Heranziehung des Schutzgegenstandes zur Vertonung von Laufbildern sein. Nicht als Abwandlung des Schutzgegenstandes gelten seine Aufnahme in eine Sammlung oder ein Sammelwerk und die freie Benutzung des Schutzgegenstandes.
+The provisions that follow set forth the terms and conditions under
+which you may use the Program.
 
-     b. Der Begriff "Sammelwerk" im Sinne dieser Lizenz meint eine Zusammenstellung von literarischen, künstlerischen oder wissenschaftlichen Inhalten, sofern diese Zusammenstellung aufgrund von Auswahl und Anordnung der darin enthaltenen selbständigen Elemente eine geistige Schöpfung darstellt, unabhängig davon, ob die Elemente systematisch oder methodisch angelegt und dadurch einzeln zugänglich sind oder nicht.
+1. DEFINITIONS
 
-     c. "Verbreiten" im Sinne dieser Lizenz bedeutet, den Schutzgegenstand oder Abwandlungen im Original oder in Form von Vervielfältigungsstücken, mithin in körperlich fixierter Form der Öffentlichkeit anzubieten oder in Verkehr zu bringen.
+1.1 Contribution means (a) in the case of CA, the Original Program; and
+(b) in the case of each Contributor (including CA), changes and
+additions to the Program, where such changes and/or additions to the
+Program originate from and are distributed by that particular
+Contributor to unaffiliated third parties. A Contribution originates
+from a Contributor if it was added to the Program by such Contributor
+itself or anyone acting on such Contributors behalf. Contributions do
+not include additions to the Program which: (x) are separate modules of
+software distributed in conjunction with the Program under their own
+license agreement, and (y) are not derivative works of the Program.
 
-     d. Der "Lizenzgeber" im Sinne dieser Lizenz ist diejenige natürliche oder juristische Person oder Gruppe, die den Schutzgegenstand unter den Bedingungen dieser Lizenz anbietet und insoweit als Rechteinhaberin auftritt.
+1.2 Contributor means CA and any other person or entity that distributes
+the Program.
 
-     e. "Rechteinhaber" im Sinne dieser Lizenz ist der Urheber des Schutzgegenstandes oder jede andere natürliche oder juristische Person oder Gruppe von Personen, die am Schutzgegenstand ein Immaterialgüterrecht erlangt hat, welches die in Abschnitt 3 genannten Handlungen erfasst und bei dem eine Einräumung von Nutzungsrechten oder eine Weiterübertragung an Dritte möglich ist.
+1.3 Contributor Version means as to a Contributor, that version of the
+Program that includes the Contributors Contribution but not any
+Contributions made to the Program thereafter.
 
-     f. Der Begriff "Schutzgegenstand" bezeichnet in dieser Lizenz den literarischen, künstlerischen oder wissenschaftlichen Inhalt, der unter den Bedingungen dieser Lizenz angeboten wird. Das kann insbesondere eine persönliche geistige Schöpfung jeglicher Art, ein Werk der kleinen Münze, ein nachgelassenes Werk oder auch ein Lichtbild oder anderes Objekt eines verwandten Schutzrechts sein, unabhängig von der Art seiner Fixierung und unabhängig davon, auf welche Weise jeweils eine Wahrnehmung erfolgen kann, gleichviel ob in analoger oder digitaler Form. Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff "Schutzgegenstand" im Sinne dieser Lizenz.
+1.4 Larger Work means a work that combines the Program or portions
+thereof with code not governed by the terms of this License.
 
-     g. Mit "Sie" bzw. "Ihne*" ist die natürliche oder juristische Person gemeint, die in dieser Lizenz im Abschnitt 3 genannte Nutzungen des Schutzgegenstandes vornimmt und zuvor in Hinblick auf den Schutzgegenstand nicht gegen Bedingungen dieser Lizenz verstoßen oder aber die ausdrückliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewährten Nutzungsrechte trotz eines vorherigen Verstoßes auszuüben.
+1.5 Licensed Patents mean patents licensable by a Contributor that are
+infringed by the use or sale of its Contribution alone or when combined
+with the Program.
 
-     h. Unter "Öffentlich Zeigen" im Sinne dieser Lizenz sind Veröffentlichungen und Präsentationen des Schutzgegenstandes zu verstehen, die für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt sind und in unkörperlicher Form mittels öffentlicher Wiedergabe in Form von Vortrag, Aufführung, Vorführung, Darbietung, Sendung, Weitersendung, zeit- und ortsunabhängiger Zugänglichmachung oder in körperlicher Form mittels Ausstellung erfolgen, unabhängig von bestimmten Veranstaltungen und unabhängig von den zum Einsatz kommenden Techniken und Verfahren, einschließlich drahtgebundener oder drahtloser Mittel und Einstellen in das Internet.
+1.6 Original Program means the original version of the software to which
+this License is attached and as released by CA, including source code,
+object code and documentation, if any.
 
-     i. "Vervielfältigen" im Sinne dieser Lizenz bedeutet, mittels beliebiger Verfahren Vervielfältigungsstücke des Schutzgegenstandes herzustellen, insbesondere durch Ton- oder Bildaufzeichnungen, und umfasst auch den Vorgang, erstmals körperliche Fixierungen des Schutzgegenstandes sowie Vervielfältigungsstücke dieser Fixierungen anzufertigen, sowie die Übertragung des Schutzgegenstandes auf einen Bild- oder Tonträger oder auf ein anderes elektronisches Medium, gleichviel ob in digitaler oder analoger Form.
+1.7 Program means the Original Program and Contributions.
 
-2. Schranken des Immaterialgüterrechts. Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu vereiteln, die Ihnen aufgrund der Schranken des Urheberrechts oder anderer Rechtsnormen bereits ohne Weiteres zustehen oder sich aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
+1.8 Recipient means anyone who modifies, copies, uses or distributes the
+Program.
 
-3. Einräumung von Nutzungsrechten. Unter den Bedingungen dieser Lizenz räumt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 4.e) - das vergütungsfreie, räumlich und zeitlich (für die Dauer des Schutzrechts am Schutzgegenstand) unbeschränkte einfache Recht ein, den Schutzgegenstand auf die folgenden Arten und Weisen zu nutzen ("unentgeltlich eingeräumtes einfaches Nutzungsrecht für jedermann"):
+2. GRANT OF RIGHTS
 
-     a. Den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen;
+2.1 Subject to the terms of this License, each Contributor hereby grants
+Recipient an irrevocable, non-exclusive, worldwide, royalty-free license
+to reproduce, prepare derivative works of, publicly display, publicly
+perform, distribute and sublicense the Contribution of such Contributor,
+if any, and such derivative works, in source code and object code form.
+For the avoidance of doubt, the license provided in this Section 2.1
+shall not include a license to any Licensed Patents of a Contributor.
 
-     b. Abwandlungen des Schutzgegenstandes anzufertigen, einschließlich Übersetzungen unter Nutzung jedweder Medien, sofern deutlich erkennbar gemacht wird, dass es sich um Abwandlungen handelt;
+2.2 Subject to the terms of this License, each Contributor hereby grants
+Recipient an irrevocable, non-exclusive, worldwide, royalty-free license
+to the Licensed Patents to the extent necessary to make, use, sell,
+offer to sell and import the Contribution of such Contributor, if any,
+in source code and object code form. The license granted in this Section
+2.2 shall apply to the combination of the Contribution and the Program
+if, at the time the Contribution is added by the Contributor, such
+addition of the Contribution causes the Licensed Patents to be infringed
+by such combination. Notwithstanding the foregoing, no license is
+granted under this Section 2.2: (a) for any code or works that do not
+include the Contributor Version, as it exists and is used in accordance
+with the terms hereof; (b) for infringements caused by: (i) third party
+modifications of the Contributor Version; or (ii) the combination of
+Contributions made by each such Contributor with other software (except
+as part of the Contributor Version) or other devices; or (c) with
+respect to Licensed Patents infringed by the Program in the absence of
+Contributions made by that Contributor.
 
-     c. den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich zu zeigen und zu verbreiten;
+2.3 Recipient understands that although each Contributor grants the
+licenses to its Contributions set forth herein, except as provided in
+Section 2.4, no assurances are provided by any Contributor that the
+Program does not infringe the patent or other intellectual property
+rights of any other person or entity. Each Contributor disclaims any
+liability to Recipient for claims brought by any other person or entity
+based on infringement of intellectual property rights or otherwise. As a
+condition to exercising the rights and licenses granted hereunder, each
+Recipient hereby assumes sole responsibility to secure any other
+intellectual property rights needed, if any.
 
-     d. Abwandlungen des Schutzgegenstandes zu veröffentlichen, öffentlich zu zeigen und zu verbreiten.
+2.4 Each Contributor represents and warrants that it has all right,
+title and interest in the copyrights in its Contributions, and has the
+right to grant the copyright licenses set forth in this License.
 
-Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten eingeräumt. Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten. Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind und einen immaterialgüterrechtlichen Schutz eigener Art genießen, verzichtet der Lizenzgeber auf sämtliche aus diesem Schutz resultierenden Rechte.
+3. DISTRIBUTION REQUIREMENTS
 
-4. Bedingungen. Die Einräumung des Nutzungsrechts gemäß Abschnitt 3 dieser Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
+3.1 If the Program is distributed in object code form, then a prominent
+notice must be included in the code itself as well as in any related
+documentation, stating that the source code for the Program is available
+from the Contributor with information on how and where to obtain the
+source code. A Contributor may choose to distribute the Program in
+object code form under its own license agreement, provided that:
 
-     a. Sie dürfen den Schutzgegenstand ausschließlich unter den Bedingungen dieser Lizenz verbreiten oder öffentlich zeigen. Sie müssen dabei stets eine Kopie dieser Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen. Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen dieser Lizenz oder die durch diese Lizenz gewährten Rechte beschränken. Sie dürfen den Schutzgegenstand nicht unterlizenzieren. Bei jeder Kopie des Schutzgegenstandes, die Sie verbreiten oder öffentlich zeigen, müssen Sie alle Hinweise unverändert lassen, die auf diese Lizenz und den Haftungsausschluss hinweisen. Wenn Sie den Schutzgegenstand verbreiten oder öffentlich zeigen, dürfen Sie (in Bezug auf den Schutzgegenstand) keine technischen Maßnahmen ergreifen, die den Nutzer des Schutzgegenstandes in der Ausübung der ihm durch diese Lizenz gewährten Rechte behindern können. Dieser Abschnitt 4.a) gilt auch für den Fall, dass der Schutzgegenstand einen Bestandteil eines Sammelwerkes bildet, was jedoch nicht bedeutet, dass das Sammelwerk insgesamt dieser Lizenz unterstellt werden muss. Sofern Sie ein Sammelwerk erstellen, müssen Sie auf die Mitteilung eines Lizenzgebers hin aus dem Sammelwerk die in Abschnitt 4.c) aufgezählten Hinweise entfernen. Wenn Sie eine Abwandlung vornehmen, müssen Sie auf die Mitteilung eines Lizenzgebers hin von der Abwandlung die in Abschnitt 4.c) aufgezählten Hinweise entfernen.
+a. it complies with the terms and conditions of this License; and 
+b. its license agreement: 
+	i. effectively disclaims on behalf of all Contributors all warranties and 
+	conditions, express and implied, including warranties or conditions of title
+	and non-infringement, and implied warranties or conditions of 
+	merchantability and fitness for a particular purpose, to the maximum extent
+	permitted by applicable law;
+	ii. effectively excludes on behalf of all Contributors all liability for 
+	damages, including direct, indirect, special, incidental and consequential 
+	damages, such as lost profits, to the maximum extent permitted by applicable
+	law; 
+	iii. states that any provisions which are inconsistent with this License are
+	offered by that Contributor alone and not by any other party; and 
+	iv. states that source code for the Program is available from such 
+	Contributor at the cost of distribution, and informs licensees how to obtain
+	it in a reasonable manner.
 
-     b. Die Rechteeinräumung gemäß Abschnitt 3 gilt nur für Handlungen, die nicht vorrangig auf einen geschäftlichen Vorteil oder eine geldwerte Vergütung gerichtet sind ("nicht-kommerzielle Nutzung", "Non-commercial-Option"). Wird Ihnen in Zusammenhang mit dem Schutzgegenstand dieser Lizenz ein anderer Schutzgegenstand überlassen, ohne dass eine vertragliche Verpflichtung hierzu besteht (etwa im Wege von File-Sharing), so wird dies nicht als auf geschäftlichen Vorteil oder geldwerte Vergütung gerichtet angesehen, wenn in Verbindung mit dem Austausch der Schutzgegenstände tatsächlich keine Zahlung oder geldwerte Vergütung geleistet wird.
+3.2 When the Program is made available in source code form:
 
-     c. Die Verbreitung und das öffentliche Zeigen des Schutzgegenstandes oder auf ihm aufbauender Abwandlungen oder ihn enthaltender Sammelwerke ist Ihnen nur unter der Bedingung gestattet, dass Sie, vorbehaltlich etwaiger Mitteilungen im Sinne von Abschnitt 4.a), alle dazu gehörenden Rechtevermerke unberührt lassen. Sie sind verpflichtet, die Rechteinhaberschaft in einer der Nutzung entsprechenden, angemessenen Form anzuerkennen, indem Sie - soweit bekannt - Folgendes angeben:
+a. it must be made available under this License; and 
+b. a copy of this License must be included with each copy of the Program.
 
-          i. Den Namen (oder das Pseudonym, falls ein solches verwendet wird) des Rechteinhabers und / oder, falls der Lizenzgeber im Rechtevermerk, in den Nutzungsbedingungen oder auf andere angemessene Weise eine Zuschreibung an Dritte vorgenommen hat (z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) ("Zuschreibungsempfänger"), Namen bzw. Bezeichnung dieses oder dieser Dritten;
+3.3 This License is intended to facilitate the commercial distribution
+of the Program by any Contributor. However, Contributors may only charge
+Recipients a one-time, upfront fee for the distribution of the Program.
+Contributors may not charge Recipients any recurring charge, license
+fee, or any ongoing royalty for the Recipients exercise of its rights
+under this License to the Program. Contributors shall make the source
+code for the Contributor Version they distribute available at a cost, if
+any, equal to the cost to the Contributor to physically copy and
+distribute the work. It is not the intent of this License to prohibit a
+Contributor from charging fees for any service or maintenance that a
+Contributor may charge to a Recipient, so long as such fees are not an
+attempt to circumvent the foregoing restrictions on charging royalties
+or other recurring fees for the Program itself.
 
-          ii. den Titel des Inhaltes;
+3.4 A Contributor may create a Larger Work by combining the Program with
+other software code not governed by the terms of this License, and
+distribute the Larger Work as a single product. In such a case, the
+Contributor must make sure that the requirements of this License are
+fulfilled for the Program. Any Contributor who includes the Program in a
+commercial product offering, including as part of a Larger Work, may
+subject itself, but not any other Contributor, to additional contractual
+commitments, including, but not limited to, performance warranties and
+non-infringement representations on suchContributors behalf. No
+Contributor may create any additional liability for other Contributors.
+Therefore, if a Contributor includes the Program in a commercial product
+offering, such Contributor (Commercial Contributor) hereby agrees to
+defend and indemnify every other Contributor (Indemnified Contributor)
+who made Contributions to the Program distributed by the Commercial
+Contributor against any losses, damages and costs (collectively Losses)
+arising from claims, lawsuits and other legal actions brought by a third
+party against the Indemnified Contributor to the extent caused by the
+acts or omissions, including any additional contractual commitments, of
+such Commercial Contributor in connection with its distribution of the
+Program. The obligations in this section do not apply to any claims or
+Losses relating to any actual or alleged intellectual property
+infringement.
 
-          iii. in einer praktikablen Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand;
+3.5 If Contributor has knowledge that a license under a third partys
+intellectual property rights is required to exercise the rights granted
+by such Contributor under Sections 2.1 or 2.2, Contributor must (a)
+include a text file with the Program source code distribution titled
+../IP_ISSUES, and (b) notify CA in writing at Computer Associates
+International, Inc., One Computer Associates Plaza, Islandia, New York
+11749, Attn: Open Source Group or by email at opensource@ca.com, both
+describing the claim and the party making the claim in sufficient detail
+that a Recipient and CA will know whom to contact with regard to such
+matter. If Contributor obtains such knowledge after the Contribution is
+made available, Contributor shall also promptly modify the IP_ISSUES
+file in all copies Contributor makes available thereafter and shall take
+other steps (such as notifying appropriate mailing lists or newsgroups)
+reasonably calculated to inform those who received the Program that such
+new knowledge has been obtained.
 
-          iv. und im Falle einer Abwandlung des Schutzgegenstandes in Übereinstimmung mit Abschnitt 3.b) einen Hinweis darauf, dass es sich um eine Abwandlung handelt.
+3.6 Recipient shall not remove, obscure, or modify any CA or other
+Contributor copyright or patent proprietary notices appearing in the
+Program, whether in the source code, object code or in any
+documentation. In addition to the obligations set forth in Section 4,
+each Contributor must identify itself as the originator of its
+Contribution, if any, in a manner that reasonably allows subsequent
+Recipients to identify the originator of the Contribution.
 
-        Die nach diesem Abschnitt 4.c) erforderlichen Angaben können in jeder angemessenen Form gemacht werden; im Falle einer Abwandlung des Schutzgegenstandes oder eines Sammelwerkes müssen diese Angaben das Minimum darstellen und bei gemeinsamer Nennung mehrerer Rechteinhaber dergestalt erfolgen, dass sie zumindest ebenso hervorgehoben sind wie die Hinweise auf die übrigen Rechteinhaber. Die Angaben nach diesem Abschnitt dürfen Sie ausschließlich zur Angabe der Rechteinhaberschaft in der oben bezeichneten Weise verwenden. Durch die Ausübung Ihrer Rechte aus dieser Lizenz dürfen Sie ohne eine vorherige, separat und schriftlich vorliegende Zustimmung des Lizenzgebers und / oder des Zuschreibungsempfängers weder explizit noch implizit irgendeine Verbindung zum Lizenzgeber oder Zuschreibungsempfänger und ebenso wenig eine Unterstützung oder Billigung durch ihn andeuten.
+4. CONTRIBUTION RESTRICTIONS
 
-     d. Die oben unter 4.a) bis c) genannten Einschränkungen gelten nicht für solche Teile des Schutzgegenstandes, die allein deshalb unter den Schutzgegenstandsbegriff fallen, weil sie als Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen.
+4.1 Each Contributor must cause the Program to which the Contributor
+provides a Contribution to contain a file documenting the changes the
+Contributor made to create its version of the Program and the date of
+any change. Each Contributor must also include a prominent statement
+that the Contribution is derived, directly or indirectly, from the
+Program distributed by a prior Contributor, including the name of the
+prior Contributor from which such Contribution was derived, in (a) the
+Program source code, and (b) in any notice in an executable version or
+related documentation in which the Contributor describes the origin or
+ownership of the Program.
 
-     e. Bezüglich Vergütung für die Nutzung des Schutzgegenstandes gilt Folgendes:
+5. NO WARRANTY
 
-          i. Unverzichtbare gesetzliche Vergütungsansprüche: Soweit unverzichtbare Vergütungsansprüche im Gegenzug für gesetzliche Lizenzen vorgesehen oder Pauschalabgabensysteme (zum Beispiel für Leermedien) vorhanden sind, behält sich der Lizenzgeber das ausschließliche Recht vor, die entsprechende Vergütung einzuziehen für jede Ausübung eines Rechts aus dieser Lizenz durch Sie.
+5.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE, THE PROGRAM IS
+PROVIDED AS IS AND IN ITS PRESENT STATE AND CONDITION. NO WARRANTY,
+REPRESENTATION, CONDITION, UNDERTAKING OR TERM, EXPRESS OR IMPLIED,
+STATUTORY OR OTHERWISE, AS TO THE CONDITION, QUALITY, DURABILITY,
+PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A
+PARTICULAR PURPOSE OR USE OF THE PROGRAM IS GIVEN OR ASSUMED BY ANY
+CONTRIBUTOR AND ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS,
+UNDERTAKINGS AND TERMS ARE HEREBY EXCLUDED TO THE FULLEST EXTENT
+PERMITTED BY LAW.
 
-          ii. Vergütung bei Zwangslizenzen: Sofern Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, behält sich der Lizenzgeber das ausschließliche Recht auf Einziehung der entsprechenden Vergütung für den Fall vor, dass Sie eine Nutzung des Schutzgegenstandes für andere als die in Abschnitt 4.b) als nicht-kommerziell definierten Zwecke vornehmen, verzichtet für alle übrigen, lizenzgerechten Fälle von Nutzung jedoch auf jegliche Vergütung.
+5.2 Each Recipient is solely responsible for determining the
+appropriateness of using and distributing the Program and assumes all
+risks associated with its exercise of rights under this License,
+including but not limited to the risks and costs of program errors,
+compliance with applicable laws, damage to or loss of data, programs or
+equipment, and unavailability or interruption of operations.
 
-          iii. Vergütung in sonstigen Fällen: Bezüglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie, die nicht unter die beiden vorherigen Abschnitte (i) und (ii) fällt, verzichtet der Lizenzgeber auf jegliche Vergütung, unabhängig davon, ob eine Einziehung der Vergütung durch ihn selbst oder nur durch eine Verwertungsgesellschaft möglich wäre. Der Lizenzgeber behält sich jedoch das ausschließliche Recht auf Einziehung der entsprechenden Vergütung (durch ihn selbst oder eine Verwertungsgesellschaft) für den Fall vor, dass Sie eine Nutzung des Schutzgegenstandes für andere als die in Abschnitt 4.b) als nicht-kommerziell definierten Zwecke vornehmen.
+5.3 Each Recipient acknowledges that the Program is not intended for use
+in the operation of nuclear facilities, aircraft navigation,
+communication systems, or air traffic control machines in which case the
+failure of the Program could lead to death, personal injury, or severe
+physical or environmental damage.
 
-     f. Persönlichkeitsrechte bleiben - soweit sie bestehen - von dieser Lizenz unberührt.
+6. DISCLAIMER OF LIABILITY
 
-5. Gewährleistung
+6.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS LICENSE, AND TO THE EXTENT
+PERMITTED BY LAW, NO CONTRIBUTOR SHALL HAVE ANY LIABILITY FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED
+HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-SOFERN KEINE ANDERS LAUTENDE, SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE UND SOWEIT MÄNGEL NICHT ARGLISTIG VERSCHWIEGEN WURDEN, BIETET DER LIZENZGEBER DEN SCHUTZGEGENSTAND UND DIE EINRÄUMUNG VON RECHTEN UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG AN UND ÜBERNIMMT WEDER AUSDRÜCKLICH NOCH KONKLUDENT GARANTIEN IRGENDEINER ART. DIES UMFASST INSBESONDERE DAS FREISEIN VON SACH- UND RECHTSMÄNGELN, UNABHÄNGIG VON DEREN ERKENNBARKEIT FÜR DEN LIZENZGEBER, DIE VERKEHRSFÄHIGKEIT DES SCHUTZGEGENSTANDES, SEINE VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DIE KORREKTHEIT VON BESCHREIBUNGEN. DIESE GEWÄHRLEISTUNGSBESCHRÄNKUNG GILT NICHT, SOWEIT MÄNGEL ZU SCHÄDEN DER IN ABSCHNITT 6 BEZEICHNETEN ART FÜHREN UND AUF SEITEN DES LIZENZGEBERS DAS JEWEILS GENANNTE VERSCHULDEN BZW. VERTRETENMÜSSEN EBENFALLS VORLIEGT.
+7. TRADEMARKS AND BRANDING
 
-6. Haftungsbeschränkung
+7.1 This License does not grant any Recipient or any third party any
+rights to use the trademarks or trade names now or subsequently posted
+at http://www.ca.com/catrdmrk.htm, or any other trademarks, service
+marks, logos or trade names belonging to CA (collectively CA Marks) or
+to any trademark, service mark, logo or trade name belonging to any
+Contributor. Recipient agrees not to use any CA Marks in or as part of
+the name of products derived from the Original Program or to endorse or
+promote products derived from the Original Program.
 
-DER LIZENZGEBER HAFTET IHNEN GEGENÜBER IN BEZUG AUF SCHÄDEN AUS DER VERLETZUNG DES LEBENS, DES KÖRPERS ODER DER GESUNDHEIT NUR, SOFERN IHM WENIGSTENS FAHRLÄSSIGKEIT VORZUWERFEN IST, FÜR SONSTIGE SCHÄDEN NUR BEI GROBER FAHRLÄSSIGKEIT ODER VORSATZ, UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG.
+7.2 Subject to Section 7.1, Recipients may distribute the Program under
+trademarks, logos, and product names belonging to the Recipient provided
+that all copyright and other attribution notices remain in the Program.
 
-7. Erlöschen
+8. PATENT LITIGATION
 
-     a. Diese Lizenz und die durch sie eingeräumten Nutzungsrechte erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder einer weiteren Handlung einer der Vertragsparteien bedarf. Mit natürlichen oder juristischen Personen, die Abwandlungen des Schutzgegenstandes oder diesen enthaltende Sammelwerke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort.
+8.1 If Recipient institutes patent litigation against any person or
+entity (including a cross-claim or counterclaim in a lawsuit) alleging
+that the Program itself (excluding combinations of the Program with
+other software or hardware) infringes such Recipients patent(s), then
+such Recipients rights granted under Section 2.2 shall terminate as of
+the date such litigation is filed.
 
-     b. Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand ausläuft. Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand unter anderen Lizenzbedingungen anzubieten oder die eigene Weitergabe des Schutzgegenstandes jederzeit einzustellen, solange die Ausübung dieses Rechts nicht einer Kündigung oder einem Widerruf dieser Lizenz (oder irgendeiner Weiterlizenzierung, die auf Grundlage dieser Lizenz bereits erfolgt ist bzw. zukünftig noch erfolgen muss) dient und diese Lizenz unter Berücksichtigung der oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam bleibt.
+9. OWNERSHIP
 
-8. Sonstige Bestimmungen
+9.1 Subject to the licenses granted under this License in Sections 2.1
+and 2.2 above, each Contributor retains all rights, title and interest
+in and to any Contributions made by such Contributor. CA retains all
+rights, title and interest in and to the Original Program and any
+Contributions made by or on behalf of CA (CA Contributions), and such CA
+Contributions will not be automatically subject to this License. CA may,
+at its sole discretion, choose to license such CA Contributions under
+this License, or on different terms from those contained in this License
+or may choose not to license them at all.
 
-     a. Jedes Mal wenn Sie den Schutzgegenstand für sich genommen oder als Teil eines Sammelwerkes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
+10. TERMINATION
 
-     b. Jedes Mal wenn Sie eine Abwandlung des Schutzgegenstandes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz am ursprünglichen Schutzgegenstand zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
+10.1 All of Recipients rights under this License shall terminate if it
+fails to comply with any of the material terms or conditions of this
+License and does not cure such failure in a reasonable period of time
+after becoming aware of such noncompliance. If Recipients rights under
+this License terminate, Recipient agrees to cease use and distribution
+of the Program as soon as reasonably practicable. However, Recipients
+obligations under this License and any licenses granted by Recipient as
+a Contributor relating to the Program shall continue and survive
+termination.
 
-     c. Sollte eine Bestimmung dieser Lizenz unwirksam sein, so bleibt davon die Wirksamkeit der Lizenz im Übrigen unberührt.
+11. GENERAL
 
-     d. Keine Bestimmung dieser Lizenz soll als abbedungen und kein Verstoß gegen sie als zulässig gelten, solange die von dem Verzicht oder von dem Verstoß betroffene Seite nicht schriftlich zugestimmt hat.
+11.1 If any provision of this License is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this License, and without further action
+by the parties hereto, such provision shall be reformed to the minimum
+extent necessary to make such provision valid and enforceable.
 
-     e. Diese Lizenz (zusammen mit in ihr ausdrücklich vorgesehenen Erlaubnissen, Mitteilungen und Zustimmungen, soweit diese tatsächlich vorliegen) stellt die vollständige Vereinbarung zwischen dem Lizenzgeber und Ihnen in Bezug auf den Schutzgegenstand dar. Es bestehen keine Abreden, Vereinbarungen oder Erklärungen in Bezug auf den Schutzgegenstand, die in dieser Lizenz nicht genannt sind. Rechtsgeschäftliche Änderungen des Verhältnisses zwischen dem Lizenzgeber und Ihnen sind nur über Modifikationen dieser Lizenz möglich. Der Lizenzgeber ist an etwaige zusätzliche, einseitig durch Sie übermittelte Bestimmungen nicht gebunden. Diese Lizenz kann nur durch schriftliche Vereinbarung zwischen Ihnen und dem Lizenzgeber modifiziert werden. Derlei Modifikationen wirken ausschließlich zwischen dem Lizenzgeber und Ihnen und wirken sich nicht auf die Dritten gemäß Ziffern 8.a) und b) angeboteten Lizenzen aus.
+11.2 CA may publish new versions (including revisions) of this License
+from time to time. Each new version of the License will be given a
+distinguishing version number. The Program (including Contributions) may
+always be distributed subject to the version of the License under which
+it was received. In addition, after a new version of the License is
+published, Contributor may elect to distribute the Program (including
+its Contributions) under the new version. No one other than CA has the
+right to modify this License.
 
-     f. Sofern zwischen Ihnen und dem Lizenzgeber keine anderweitige Vereinbarung getroffen wurde und soweit Wahlfreiheit besteht, findet auf diesen Lizenzvertrag das Recht der Bundesrepublik Deutschland Anwendung.
+11.3 If it is impossible for Recipient to comply with any of the terms
+of this License with respect to some or all of the Program due to
+statute, judicial order, or regulation, then Recipient must: (a) comply
+with the terms of this License to the maximum extent possible; and (b)
+describe the limitations and the code they affect. Such description must
+be included in the IP_ISSUES file described in Section 3.5 and must be
+included with all distributions of the Program source code. Except to
+the extent prohibited by statute or regulation, such description must be
+sufficiently detailed for a Recipient of ordinary skill to be able to
+understand it.
 
+11.4 This License is governed by the laws of the State of New York. No
+Recipient will bring a legal action under this License more than one
+year after the cause of action arose. Each Recipient waives its rights
+to a jury trial in any resulting litigation. Any litigation or other
+dispute resolution between a Recipient and CA relating to this License
+shall take place in the State of New York, and Recipient and CA hereby
+consent to the personal jurisdiction of, and venue in, the state and
+federal courts within that district with respect to this License. The
+application of the United Nations Convention on Contracts for the
+International Sale of Goods is expressly excluded.
 
-Creative Commons Notice
+11.5 Where Recipient is located in the province of Quebec, Canada, the
+following clause applies: The parties hereby confirm that they have
+requested that this License and all related documents be drafted in
+English. Les parties contractantes confirment qu'elles ont exige que le
+present contrat et tous les documents associes soient rediges en
+anglais.
 
-Creative Commons ist nicht Partei dieser Lizenz und übernimmt keinerlei Gewähr oder dergleichen in Bezug auf den Schutzgegenstand. Creative Commons haftet Ihnen oder einer anderen Partei unter keinem rechtlichen Gesichtspunkt für irgendwelche Schäden, die - abstrakt oder konkret, zufällig oder vorhersehbar - im Zusammenhang mit dieser Lizenz entstehen. Unbeschadet der vorangegangen beiden Sätze, hat Creative Commons alle Rechte und Pflichten eines Lizenzgebers, wenn es sich ausdrücklich als Lizenzgeber im Sinne dieser Lizenz bezeichnet.
+11.6 The Program is subject to all export and import laws, restrictions
+and regulations of the country in which Recipient receives the Program.
+Recipient is solely responsible for complying with and ensuring that
+Recipient does not export, re-export, or import the Program in violation
+of such laws, restrictions or regulations, or without any necessary
+licenses and authorizations.
 
-Creative Commons gewährt den Parteien nur insoweit das Recht, das Logo und die Marke "Creative Commons" zu nutzen, als dies notwendig ist, um der Öffentlichkeit gegenüber kenntlich zu machen, dass der Schutzgegenstand unter einer CCPL steht. Ein darüber hinaus gehender Gebrauch der Marke "Creative Commons" oder einer verwandten Marke oder eines verwandten Logos bedarf der vorherigen schriftlichen Zustimmung von Creative Commons. Jeder erlaubte Gebrauch richtet sich nach der Creative Commons Marken-Nutzungs-Richtlinie in der jeweils aktuellen Fassung, die von Zeit zu Zeit auf der Website veröffentlicht oder auf andere Weise auf Anfrage zugänglich gemacht wird. Zur Klarstellung: Die genannten Einschränkungen der Markennutzung sind nicht Bestandteil dieser Lizenz.
-
-Creative Commons kann kontaktiert werden über https://creativecommons.org/.
+11.7 This License constitutes the entire agreement between the parties
+with respect to the subject matter hereof.

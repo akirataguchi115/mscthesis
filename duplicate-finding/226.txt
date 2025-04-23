@@ -1,37 +1,72 @@
-IEC Code Components End-user licence agreement
+Credits and license terms:
 
-Code Components in IEC standards (International Standards, Technical Specifications or
-Technical Reports) which have been identified and approved for licensing, are licensed subject to
-the following conditions:
+In order to resolve any possible confusion regarding the authorship of
+gd, the following copyright statement covers all of the authors who
+have required such a statement. If you are aware of any oversights in
+this copyright notice, please contact Pierre-A. Joye who will be
+pleased to correct them.
 
-- Redistributions of software must retain the Copyright Notice, this list of conditions and the
-disclaimer below (“Disclaimer”).
-- The software license extends to modifications permitted under the relevant IEC standard.
-- The software license extends to clarifications and corrections approved by IEC.
-- Neither the name of IEC, nor the names of specific contributors, may be used to endorse or
-promote products derived from this software without specific prior written permission. The
-relevant IEC standard may be referenced when claiming compliance with the relevant IEC
-standard.
-- The user of Code Components shall attribute each such Code Component to IEC and identify
-the IEC standard from which it is taken. Such attribution (e.g., “This code was derived from IEC
-[insert standard reference number:publication year] within modifications permitted in the
-relevant IEC standard. Please reproduce this note if possible.”), may be placed in the code itself
-or any other reasonable location.
+* Portions copyright 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001,
+  2002, 2003, 2004 by Cold Spring Harbor Laboratory. Funded under
+  Grant P41-RR02188 by the National Institutes of Health.
 
-Code Components means components included in IEC standards that are intended to be directly
-processed by a computer and also includes any text found between the markers <CODE
-BEGINS> and <CODE ENDS>, or otherwise clearly labeled in this standard as a Code
-Component.
+* Portions copyright 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003,
+  2004 by Boutell.Com, Inc.
 
-The Disclaimer is:
-EACH OF THE CODE COMPONENTS IS PROVIDED BY THE COPYRIGHT HOLDERS AND
-CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT
-NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
-PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
-OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE CODE
-COMPONENTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+* Portions relating to GD2 format copyright 1999, 2000, 2001, 2002,
+  2003, 2004 Philip Warner.
+
+* Portions relating to PNG copyright 1999, 2000, 2001, 2002, 2003,
+  2004 Greg Roelofs.
+
+* Portions relating to gdttf.c copyright 1999, 2000, 2001, 2002,
+  2003, 2004 John Ellson (ellson@graphviz.org).
+
+* Portions relating to gdft.c copyright 2001, 2002, 2003, 2004 John
+  Ellson (ellson@graphviz.org).
+
+* Portions copyright 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007
+  Pierre-Alain Joye (pierre@libgd.org).
+
+* Portions relating to JPEG and to color quantization copyright
+  2000, 2001, 2002, 2003, 2004, Doug Becker and copyright (C) 1994,
+  1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004 Thomas
+  G. Lane. This software is based in part on the work of the
+  Independent JPEG Group. See the file README-JPEG.TXT for more
+  information.
+
+* Portions relating to GIF compression copyright 1989 by Jef
+  Poskanzer and David Rowley, with modifications for thread safety
+  by Thomas Boutell.
+
+* Portions relating to GIF decompression copyright 1990, 1991, 1993
+  by David Koblas, with modifications for thread safety by Thomas
+  Boutell.
+
+* Portions relating to WBMP copyright 2000, 2001, 2002, 2003, 2004
+  Maurice Szmurlo and Johan Van den Brande.
+
+* Portions relating to GIF animations copyright 2004 Jaakko Hyvätti
+  (jaakko.hyvatti@iki.fi)
+
+Permission has been granted to copy, distribute and modify gd in
+any context without fee, including a commercial application,
+provided that this notice is present in user-accessible supporting
+documentation.
+
+This does not affect your ownership of the derived work itself,
+and the intent is to assure proper credit for the authors of gd,
+not to interfere with your productive use of gd. If you have
+questions, ask. "Derived works" includes all programs that utilize
+the library. Credit must be given in user-accessible
+documentation.
+
+This software is provided "AS IS." The copyright holders disclaim
+all warranties, either express or implied, including but not
+limited to implied warranties of merchantability and fitness for a
+particular purpose, with respect to this code and accompanying
+documentation.
+
+Although their code does not appear in the current release, the
+authors wish to thank David Koblas, David Rowley, and Hutchison
+Avenue Software Corporation for their prior contributions.

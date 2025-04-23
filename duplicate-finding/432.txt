@@ -1,7 +1,10 @@
-Redistribution of this program in any form, with or without
-modifications, is permitted, provided that the above copyright is
-retained in distributions of this program in source form.
-
-(This is a free, non-copyleft license compatible with pretty much any
-other free or proprietary license, including the GPL. It's essentially
-a scaled-down version of the "modified" BSD license.)
+Permission to use, copy, modify, and distribute this material
+for any purpose and without fee is hereby granted, provided
+that the above copyright notice and this permission notice
+appear in all copies, and that the name of Bellcore not be
+used in advertising or publicity pertaining to this
+material without the specific, prior written permission
+of an authorized representative of Bellcore.	BELLCORE
+MAKES NO REPRESENTATIONS ABOUT THE ACCURACY OR SUITABILITY
+OF THIS MATERIAL FOR ANY PURPOSE.  IT IS PROVIDED "AS IS",
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.

@@ -1,518 +1,101 @@
-CONTRAT DE LICENCE DE LOGICIEL LIBRE CeCILL-B
+BitTorrent Open Source License
+Version 1.1
 
+This BitTorrent Open Source License (the "License") applies to the BitTorrent client and related software products as well as any updates or maintenance releases of that software ("BitTorrent Products") that are distributed by BitTorrent, Inc. ("Licensor"). Any BitTorrent Product licensed pursuant to this License is a Licensed Product. Licensed Product, in its entirety, is protected by U.S. copyright law. This License identifies the terms under which you may use, copy, distribute or modify Licensed Product.
 
-    Avertissement
+Preamble
 
-Ce contrat est une licence de logiciel libre issue d'une concertation
-entre ses auteurs afin que le respect de deux grands principes préside à
-sa rédaction:
+This Preamble is intended to describe, in plain English, the nature and scope of this License. However, this Preamble is not a part of this license. The legal effect of this License is dependent only upon the terms of the License and not this Preamble.
 
-    * d'une part, le respect des principes de diffusion des logiciels
-      libres: accès au code source, droits étendus conférés aux
-      utilisateurs,
-    * d'autre part, la désignation d'un droit applicable, le droit
-      français, auquel elle est conforme, tant au regard du droit de la
-      responsabilité civile que du droit de la propriété intellectuelle
-      et de la protection qu'il offre aux auteurs et titulaires des
-      droits patrimoniaux sur un logiciel.
+This License complies with the Open Source Definition and is derived from the Jabber Open Source License 1.0 (the "JOSL"), which has been approved by Open Source Initiative. Sections 4(c) and 4(f)(iii) from the JOSL have been deleted.
 
-Les auteurs de la licence CeCILL-B (pour Ce[a] C[nrs] I[nria] L[ogiciel]
-L[ibre]) sont:
+This License provides that:
 
-Commissariat à l'Energie Atomique - CEA, établissement public de
-recherche à caractère scientifique, technique et industriel, dont le
-siège est situé 25 rue Leblanc, immeuble Le Ponant D, 75015 Paris.
+    1. You may use or give away the Licensed Product, alone or as a component of an aggregate software distribution containing programs from several different sources. No royalty or other fee is required.
+    2. Both Source Code and executable versions of the Licensed Product, including Modifications made by previous Contributors, are available for your use. (The terms "Licensed Product," "Modifications," "Contributors" and "Source Code" are defined in the License.)
+    3. You are allowed to make Modifications to the Licensed Product, and you can create Derivative Works from it. (The term "Derivative Works" is defined in the License.)
+    4. By accepting the Licensed Product under the provisions of this License, you agree that any Modifications you make to the Licensed Product and then distribute are governed by the provisions of this License. In particular, you must make the Source Code of your Modifications available to others free of charge and without a royalty.
+    5. You may sell, accept donations or otherwise receive compensation for executable versions of a Licensed Product, without paying a royalty or other fee to the Licensor or any Contributor, provided that such executable versions contain your or another Contributor's material Modifications. For the avoidance of doubt, to the extent your executable version of a Licensed Product does not contain your or another Contributor's material Modifications, you may not sell, accept donations or otherwise receive compensation for such executable.
 
-Centre National de la Recherche Scientifique - CNRS, établissement
-public à caractère scientifique et technologique, dont le siège est
-situé 3 rue Michel-Ange, 75794 Paris cedex 16.
+    You may use the Licensed Product for any purpose, but the Licensor is not providing you any warranty whatsoever, nor is the Licensor accepting any liability in the event that the Licensed Product doesn't work properly or causes you any injury or damages.
+    6. If you sublicense the Licensed Product or Derivative Works, you may charge fees for warranty or support, or for accepting indemnity or liability obligations to your customers. You cannot charge for, sell, accept donations or otherwise receive compensation for the Source Code.
+    7. If you assert any patent claims against the Licensor relating to the Licensed Product, or if you breach any terms of the License, your rights to the Licensed Product under this License automatically terminate.
 
-Institut National de Recherche en Informatique et en Automatique -
-INRIA, établissement public à caractère scientifique et technologique,
-dont le siège est situé Domaine de Voluceau, Rocquencourt, BP 105, 78153
-Le Chesnay cedex.
+You may use this License to distribute your own Derivative Works, in which case the provisions of this License will apply to your Derivative Works just as they do to the original Licensed Product.
 
+Alternatively, you may distribute your Derivative Works under any other OSI-approved Open Source license, or under a proprietary license of your choice. If you use any license other than this License, however, you must continue to fulfill the requirements of this License (including the provisions relating to publishing the Source Code) for those portions of your Derivative Works that consist of the Licensed Product, including the files containing
+Modifications.
 
-    Préambule
+New versions of this License may be published from time to time in connection with new versions of a Licensed Product or otherwise. You may choose to continue to use the license terms in this version of the License for the Licensed Product that was originally licensed hereunder, however, the new versions of this License will at all times apply to new versions of the Licensed Product released by Licensor after the release of the new version of this License. Only the Licensor has the right to change the License terms as they apply to the Licensed Product.
 
-Ce contrat est une licence de logiciel libre dont l'objectif est de
-conférer aux utilisateurs une très large liberté de modification et de
-redistribution du logiciel régi par cette licence.
+This License relies on precise definitions for certain terms. Those terms are defined when they are first used, and the definitions are repeated for your convenience in a Glossary at the end of the License.
 
-L'exercice de cette liberté est assorti d'une obligation forte de
-citation à la charge de ceux qui distribueraient un logiciel incorporant
-un logiciel régi par la présente licence afin d'assurer que les
-contributions de tous soient correctement identifiées et reconnues.
+License Terms
 
-L'accessibilité au code source et les droits de copie, de modification
-et de redistribution qui découlent de ce contrat ont pour contrepartie
-de n'offrir aux utilisateurs qu'une garantie limitée et de ne faire
-peser sur l'auteur du logiciel, le titulaire des droits patrimoniaux et
-les concédants successifs qu'une responsabilité restreinte.
+    1. Grant of License From Licensor. Subject to the terms and conditions of this License, Licensor hereby grants you a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims, to do the following:
+        a. Use, reproduce, modify, display, perform, sublicense and distribute any Modifications created by a Contributor or portions thereof, in both Source Code or as an executable program, either on an unmodified basis or as part of Derivative Works.
+        b. Under claims of patents now or hereafter owned or controlled by Contributor, to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof, but solely to the extent that any such claim is necessary to enable you to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof or Derivative Works thereof.
+    2. Grant of License to Modifications From Contributor. "Modifications" means any additions to or deletions from the substance or structure of (i) a file containing a Licensed Product, or (ii) any new file that contains any part of a Licensed Product. Hereinafter in this License, the term "Licensed Product" shall include all previous Modifications that you receive from any Contributor. Subject to the terms and conditions of this License, By application of the provisions in Section 4(a) below, each person or entity who created or contributed to the creation of, and distributed, a Modification (a "Contributor") hereby grants you a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims, to do the following:
+        a. Use, reproduce, modify, display, perform, sublicense and distribute any Modifications created by such Contributor or portions thereof, in both Source Code or as an executable program, either on an unmodified basis or as part of Derivative Works.
+        b. Under claims of patents now or hereafter owned or controlled by Contributor, to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof, but solely to the extent that any such claim is necessary to enable you to make, use, sell, offer for sale, have made, and/or otherwise dispose of Modifications or portions thereof or Derivative Works thereof.
+    3. Exclusions From License Grant. Nothing in this License shall be deemed to grant any rights to trademarks, copyrights, patents, trade secrets or any other intellectual property of Licensor or any Contributor except as expressly stated herein. No patent license is granted separate from the Licensed Product, for code that you delete from the Licensed Product, or for combinations of the Licensed Product with other software or hardware. No right is granted to the trademarks of Licensor or any Contributor even if such marks are included in the Licensed Product. Nothing in this License shall be interpreted to prohibit Licensor from licensing under different terms from this License any code that Licensor otherwise would have a right to license. As an express condition for your use of the Licensed Product, you hereby agree that you will not, without the prior written consent of Licensor, use any trademarks, copyrights, patents, trade secrets or any other intellectual property of Licensor or any Contributor except as expressly stated herein. For the avoidance of doubt and without limiting the foregoing, you hereby agree that you will not use or display any trademark of Licensor or any Contributor in any domain name, directory filepath, advertisement, link or other reference to you in any manner or in any media.
+    4. Your Obligations Regarding Distribution.
+        a. Application of This License to Your Modifications. As an express condition for your use of the Licensed Product, you hereby agree that any Modifications that you create or to which you contribute, and which you distribute, are governed by the terms of this License including, without limitation, Section 2. Any Modifications that you create or to which you contribute may be distributed only under the terms of this License or a future version of this License released under Section 7. You must include a copy of this License with every copy of the Modifications you distribute. You agree not to offer or impose any terms on any Source Code or executable version of the Licensed Product or Modifications that alter or restrict the applicable version of this License or the recipients' rights hereunder. However, you may include an additional document offering the additional rights described in Section 4(d).
+        b. Availability of Source Code. You must make available, without charge, under the terms of this License, the Source Code of the Licensed Product and any Modifications that you distribute, either on the same media as you distribute any executable or other form of the Licensed Product, or via a mechanism generally accepted in the software development community for the electronic transfer of data (an "Electronic Distribution Mechanism"). The Source Code for any version of Licensed Product or Modifications that you distribute must remain available for as long as any executable or other form of the Licensed Product is distributed by you. You are responsible for ensuring that the Source Code version remains available even if the Electronic Distribution Mechanism is maintained by a third party.
+        c. Intellectual Property Matters.
+            i. Third Party Claims. If you have knowledge that a license to a third party's intellectual property right is required to exercise the rights granted by this License, you must include a text file with the Source Code distribution titled "LEGAL" that describes the claim and the party making the claim in sufficient detail that a recipient will know whom to contact. If you obtain such knowledge after you make any Modifications available as described in Section 4(b), you shall promptly modify the LEGAL file in all copies you make available thereafter and shall take other steps (such as notifying appropriate mailing lists or newsgroups) reasonably calculated to inform those who received the Licensed Product from you that new knowledge has been obtained.
+            ii. Contributor APIs. If your Modifications include an application programming interface ("API") and you have knowledge of patent licenses that are reasonably necessary to implement that API, you must also include this information in the LEGAL file.
+            iii. Representations. You represent that, except as disclosed pursuant to 4(c)(i) above, you believe that any Modifications you distribute are your original creations and that you have sufficient rights to grant the rights conveyed by this License.
+        d. Required Notices. You must duplicate this License in any documentation you provide along with the Source Code of any Modifications you create or to which you contribute, and which you distribute, wherever you describe recipients' rights relating to Licensed Product. You must duplicate the notice contained in Exhibit A (the "Notice") in each file of the Source Code of any copy you distribute of the Licensed Product. If you created a Modification, you may add your name as a Contributor to the Notice. If it is not possible to put the Notice in a particular Source Code file due to its structure, then you must include such Notice in a location (such as a relevant directory file) where a user would be likely to look for such a notice. You may choose to offer, and charge a fee for, warranty, support, indemnity or liability obligations to one or more recipients of Licensed Product. However, you may do so only on your own behalf, and not on behalf of the Licensor or any Contributor. You must make it clear that any such warranty, support, indemnity or liability obligation is offered by you alone, and you hereby agree to indemnify the Licensor and every Contributor for any liability incurred by the Licensor or such Contributor as a result of warranty, support, indemnity or liability terms you offer.
+        e. Distribution of Executable Versions. You may distribute Licensed Product as an executable program under a license of your choice that may contain terms different from this License provided (i) you have satisfied the requirements of Sections 4(a) through 4(d) for that distribution, (ii) you include a conspicuous notice in the executable version, related documentation and collateral materials stating that the Source Code version of the Licensed Product is available under the terms of this License, including a description of how and where you have fulfilled the obligations of Section 4(b), and (iii) you make it clear that any terms that differ from this License are offered by you alone, not by Licensor or any Contributor. You hereby agree to indemnify the Licensor and every Contributor for any liability incurred by Licensor or such Contributor as a result of any terms you offer.
+        f. Distribution of Derivative Works. You may create Derivative Works (e.g., combinations of some or all of the Licensed Product with other code) and distribute the Derivative Works as products under any other license you select, with the proviso that the requirements of this License are fulfilled for those portions of the Derivative Works that consist of the Licensed Product or any Modifications thereto.
+        g. Compensation for Distribution of Executable Versions of Licensed Products, Modifications or Derivative Works. Notwithstanding any provision of this License to the contrary, by distributing, selling, licensing, sublicensing or otherwise making available any Licensed Product, or Modification or Derivative Work thereof, you and Licensor hereby acknowledge and agree that you may sell, license or sublicense for a fee, accept donations or otherwise receive compensation for executable versions of a Licensed Product, without paying a royalty or other fee to the Licensor or any other Contributor, provided that such executable versions (i) contain your or another Contributor's material Modifications, or (ii) are otherwise material Derivative Works. For purposes of this License, an executable version of the Licensed Product will be deemed to contain a material Modification, or will otherwise be deemed a material Derivative Work, if (a) the Licensed Product is modified with your own or a third party's software programs or other code, and/or the Licensed Product is combined with a number of your own or a third party's software programs or code, respectively, and (b) such software programs or code add or contribute material value, functionality or features to the License Product. For the avoidance of doubt, to the extent your executable version of a Licensed Product does not contain your or another Contributor's material Modifications or is otherwise not a material Derivative Work, in each case as contemplated herein, you may not sell, license or sublicense for a fee, accept donations or otherwise receive compensation for such executable. Additionally, without limitation of the foregoing and notwithstanding any provision of this License to the contrary, you cannot charge for, sell, license or sublicense for a fee, accept donations or otherwise receive compensation for the Source Code.
+    5. Inability to Comply Due to Statute or Regulation. If it is impossible for you to comply with any of the terms of this License with respect to some or all of the Licensed Product due to statute, judicial order, or regulation, then you must (i) comply with the terms of this License to the maximum extent possible, (ii) cite the statute or regulation that prohibits you from adhering to the License, and (iii) describe the limitations and the code they affect. Such description must be included in the LEGAL file described in Section 4(d), and must be included with all distributions of the Source Code. Except to the extent prohibited by statute or regulation, such description must be sufficiently detailed for a recipient of ordinary skill at computer programming to be able to understand it.
+    6. Application of This License. This License applies to code to which Licensor or Contributor has attached the Notice in Exhibit A, which is incorporated herein by this reference.
+    7. Versions of This License.
+        a. New Versions. Licensor may publish from time to time revised and/or new versions of the License.
+        b. Effect of New Versions. Once Licensed Product has been published under a particular version of the License, you may always continue to use it under the terms of that version, provided that any such license be in full force and effect at the time, and has not been revoked or otherwise terminated. You may also choose to use such Licensed Product under the terms of any subsequent version (but not any prior version) of the License published by Licensor. No one other than Licensor has the right to modify the terms applicable to Licensed Product created under this License.
+        c. Derivative Works of this License. If you create or use a modified version of this License, which you may do only in order to apply it to software that is not already a Licensed Product under this License, you must rename your license so that it is not confusingly similar to this License, and must make it clear that your license contains terms that differ from this License. In so naming your license, you may not use any trademark of Licensor or any Contributor.
+    8. Disclaimer of Warranty. LICENSED PRODUCT IS PROVIDED UNDER THIS LICENSE ON AN AS IS BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE LICENSED PRODUCT IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LICENSED PRODUCT IS WITH YOU. SHOULD LICENSED PRODUCT PROVE DEFECTIVE IN ANY RESPECT, YOU (AND NOT THE LICENSOR OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF LICENSED PRODUCT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+    9. Termination.
+        a. Automatic Termination Upon Breach. This license and the rights granted hereunder will terminate automatically if you fail to comply with the terms herein and fail to cure such breach within ten (10) days of being notified of the breach by the Licensor. For purposes of this provision, proof of delivery via email to the address listed in the 'WHOIS' database of the registrar for any website through which you distribute or market any Licensed Product, or to any alternate email address which you designate in writing to the Licensor, shall constitute sufficient notification. All sublicenses to the Licensed Product that are properly granted shall survive any termination of this license so long as they continue to complye with the terms of this License. Provisions that, by their nature, must remain in effect beyond the termination of this License, shall survive.
+        b. Termination Upon Assertion of Patent Infringement. If you initiate litigation by asserting a patent infringement claim (excluding declaratory judgment actions) against Licensor or a Contributor (Licensor or Contributor against whom you file such an action is referred to herein as Respondent) alleging that Licensed Product directly or indirectly infringes any patent, then any and all rights granted by such Respondent to you under Sections 1 or 2 of this License shall terminate prospectively upon sixty (60) days notice from Respondent (the "Notice Period") unless within that Notice Period you either agree in writing (i) to pay Respondent a mutually agreeable reasonably royalty for your past or future use of Licensed Product made by such Respondent, or (ii) withdraw your litigation claim with respect to Licensed Product against such Respondent. If within said Notice Period a reasonable royalty and payment arrangement are not mutually agreed upon in writing by the parties or the litigation claim is not withdrawn, the rights granted by Licensor to you under Sections 1 and 2 automatically terminate at the expiration of said Notice Period.
+        c. Reasonable Value of This License. If you assert a patent infringement claim against Respondent alleging that Licensed Product directly or indirectly infringes any patent where such claim is resolved (such as by license or settlement) prior to the initiation of patent infringement litigation, then the reasonable value of the licenses granted by said Respondent under Sections 1 and 2 shall be taken into account in determining the amount or value of any payment or license.
+        d. No Retroactive Effect of Termination. In the event of termination under Sections 9(a) or 9(b) above, all end user license agreements (excluding licenses to distributors and resellers) that have been validly granted by you or any distributor hereunder prior to termination shall survive termination.
+    10. Limitation of Liability. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR, ANY CONTRIBUTOR, OR ANY DISTRIBUTOR OF LICENSED PRODUCT, OR ANY SUPPLIER OF ANY OF SUCH PARTIES, BE LIABLE TO ANY PERSON FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION OF LIABILITY SHALL NOT APPLY TO LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM SUCH PARTYS NEGLIGENCE TO THE EXTENT APPLICABLE LAW PROHIBITS SUCH LIMITATION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+    11. Responsibility for Claims. As between Licensor and Contributors, each party is responsible for claims and damages arising, directly or indirectly, out of its utilization of rights under this License. You agree to work with Licensor and Contributors to distribute such responsibility on an equitable basis. Nothing herein is intended or shall be deemed to constitute any admission of liability.
+    12. U.S. Government End Users. The Licensed Product is a commercial item, as that term is defined in 48 C.F.R. 2.101 (Oct. 1995), consisting of commercial computer software and commercial computer software documentation, as such terms are used in 48 C.F.R. 12.212 (Sept. 1995). Consistent with 48 C.F.R. 12.212 and 48 C.F.R. 227.7202-1 through 227.7202-4 (June 1995), all U.S. Government End Users acquire Licensed Product with only those rights set forth herein.
+    13. Miscellaneous. This License represents the complete agreement concerning the subject matter hereof. If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable. This License shall be governed by California law provisions (except to the extent applicable law, if any, provides otherwise), excluding its conflict-of-law provisions. You expressly agree that in any litigation relating to this license the losing party shall be responsible for costs including, without limitation, court costs and reasonable attorneys fees and expenses. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded. Any law or regulation that provides that the language of a contract shall be construed against the drafter shall not apply to this License.
+    14. Definition of You in This License. You throughout this License, whether in upper or lower case, means an individual or a legal entity exercising rights under, and complying with all of the terms of, this License or a future version of this License issued under Section 7. For legal entities, you includes any entity that controls, is controlled by, is under common control with, or affiliated with, you. For purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. You are responsible for advising any affiliated entity of the terms of this License, and that any rights or privileges derived from or obtained by way of this License are subject to the restrictions outlined herein.
+    15. Glossary. All defined terms in this License that are used in more than one Section of this License are repeated here, in alphabetical order, for the convenience of the reader. The Section of this License in which each defined term is first used is shown in parentheses.
 
-A cet égard l'attention de l'utilisateur est attirée sur les risques
-associés au chargement, à l'utilisation, à la modification et/ou au
-développement et à la reproduction du logiciel par l'utilisateur étant
-donné sa spécificité de logiciel libre, qui peut le rendre complexe à
-manipuler et qui le réserve donc à des développeurs ou des
-professionnels avertis possédant des connaissances informatiques
-approfondies. Les utilisateurs sont donc invités à charger et tester
-l'adéquation du logiciel à leurs besoins dans des conditions permettant
-d'assurer la sécurité de leurs systèmes et/ou de leurs données et, plus
-généralement, à l'utiliser et l'exploiter dans les mêmes conditions de
-sécurité. Ce contrat peut être reproduit et diffusé librement, sous
-réserve de le conserver en l'état, sans ajout ni suppression de clauses.
+    Contributor: Each person or entity who created or contributed to the creation of, and distributed, a Modification. (See Section 2)
 
-Ce contrat est susceptible de s'appliquer à tout logiciel dont le
-titulaire des droits patrimoniaux décide de soumettre l'exploitation aux
-dispositions qu'il contient.
+    Derivative Works: That term as used in this License is defined under U.S. copyright law. (See Section 1(b))
 
+    License: This BitTorrent Open Source License. (See first paragraph of License)
 
-    Article 1 - DEFINITIONS
+    Licensed Product: Any BitTorrent Product licensed pursuant to this License. The term "Licensed Product" includes all previous Modifications from any Contributor that you receive. (See first paragraph of License and Section 2)
 
-Dans ce contrat, les termes suivants, lorsqu'ils seront écrits avec une
-lettre capitale, auront la signification suivante:
+    Licensor: BitTorrent, Inc. (See first paragraph of License)
 
-Contrat: désigne le présent contrat de licence, ses éventuelles versions
-postérieures et annexes.
+    Modifications: Any additions to or deletions from the substance or structure of (i) a file containing Licensed
+    Product, or (ii) any new file that contains any part of Licensed Product. (See Section 2)
 
-Logiciel: désigne le logiciel sous sa forme de Code Objet et/ou de Code
-Source et le cas échéant sa documentation, dans leur état au moment de
-l'acceptation du Contrat par le Licencié.
+    Notice: The notice contained in Exhibit A. (See Section 4(e))
 
-Logiciel Initial: désigne le Logiciel sous sa forme de Code Source et
-éventuellement de Code Objet et le cas échéant sa documentation, dans
-leur état au moment de leur première diffusion sous les termes du Contrat.
+    Source Code: The preferred form for making modifications to the Licensed Product, including all modules contained therein, plus any associated interface definition files, scripts used to control compilation and installation of an executable program, or a list of differential comparisons against the Source Code of the Licensed Product. (See Section 1(a))
 
-Logiciel Modifié: désigne le Logiciel modifié par au moins une
-Contribution.
+    You: This term is defined in Section 14 of this License.
 
-Code Source: désigne l'ensemble des instructions et des lignes de
-programme du Logiciel et auquel l'accès est nécessaire en vue de
-modifier le Logiciel.
+EXHIBIT A
 
-Code Objet: désigne les fichiers binaires issus de la compilation du
-Code Source.
+The Notice below must appear in each file of the Source Code of any copy you distribute of the Licensed Product or any hereto. Contributors to any Modifications may add their own copyright notices to identify their own contributions.
 
-Titulaire: désigne le ou les détenteurs des droits patrimoniaux d'auteur
-sur le Logiciel Initial.
+License:
 
-Licencié: désigne le ou les utilisateurs du Logiciel ayant accepté le
-Contrat.
+The contents of this file are subject to the BitTorrent Open Source License Version 1.1 (the License). You may not copy or use this file, in either source code or executable form, except in compliance with the License. You may obtain a copy of the License at http://www.bittorrent.com/license/.
 
-Contributeur: désigne le Licencié auteur d'au moins une Contribution.
+Software distributed under the License is distributed on an AS IS basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for the specific language governing rights and limitations under the License.
 
-Concédant: désigne le Titulaire ou toute personne physique ou morale
-distribuant le Logiciel sous le Contrat.
-
-Contribution: désigne l'ensemble des modifications, corrections,
-traductions, adaptations et/ou nouvelles fonctionnalités intégrées dans
-le Logiciel par tout Contributeur, ainsi que tout Module Interne.
-
-Module: désigne un ensemble de fichiers sources y compris leur
-documentation qui permet de réaliser des fonctionnalités ou services
-supplémentaires à ceux fournis par le Logiciel.
-
-Module Externe: désigne tout Module, non dérivé du Logiciel, tel que ce
-Module et le Logiciel s'exécutent dans des espaces d'adressage
-différents, l'un appelant l'autre au moment de leur exécution.
-
-Module Interne: désigne tout Module lié au Logiciel de telle sorte
-qu'ils s'exécutent dans le même espace d'adressage.
-
-Parties: désigne collectivement le Licencié et le Concédant.
-
-Ces termes s'entendent au singulier comme au pluriel.
-
-
-    Article 2 - OBJET
-
-Le Contrat a pour objet la concession par le Concédant au Licencié d'une
-licence non exclusive, cessible et mondiale du Logiciel telle que
-définie ci-après à l'article 5 pour toute la durée de protection des droits 
-portant sur ce Logiciel. 
-
-
-    Article 3 - ACCEPTATION
-
-3.1 L'acceptation par le Licencié des termes du Contrat est réputée
-acquise du fait du premier des faits suivants:
-
-    * (i) le chargement du Logiciel par tout moyen notamment par
-      téléchargement à partir d'un serveur distant ou par chargement à
-      partir d'un support physique;
-    * (ii) le premier exercice par le Licencié de l'un quelconque des
-      droits concédés par le Contrat.
-
-3.2 Un exemplaire du Contrat, contenant notamment un avertissement
-relatif aux spécificités du Logiciel, à la restriction de garantie et à
-la limitation à un usage par des utilisateurs expérimentés a été mis à
-disposition du Licencié préalablement à son acceptation telle que
-définie à l'article 3.1 ci dessus et le Licencié reconnaît en avoir pris
-connaissance.
-
-
-    Article 4 - ENTREE EN VIGUEUR ET DUREE
-
-
-      4.1 ENTREE EN VIGUEUR
-
-Le Contrat entre en vigueur à la date de son acceptation par le Licencié
-telle que définie en 3.1.
-
-
-      4.2 DUREE
-
-Le Contrat produira ses effets pendant toute la durée légale de
-protection des droits patrimoniaux portant sur le Logiciel.
-
-
-    Article 5 - ETENDUE DES DROITS CONCEDES
-
-Le Concédant concède au Licencié, qui accepte, les droits suivants sur
-le Logiciel pour toutes destinations et pour la durée du Contrat dans
-les conditions ci-après détaillées.
-
-Par ailleurs, si le Concédant détient ou venait à détenir un ou
-plusieurs brevets d'invention protégeant tout ou partie des
-fonctionnalités du Logiciel ou de ses composants, il s'engage à ne pas
-opposer les éventuels droits conférés par ces brevets aux Licenciés
-successifs qui utiliseraient, exploiteraient ou modifieraient le
-Logiciel. En cas de cession de ces brevets, le Concédant s'engage à
-faire reprendre les obligations du présent alinéa aux cessionnaires.
-
-
-      5.1 DROIT D'UTILISATION
-
-Le Licencié est autorisé à utiliser le Logiciel, sans restriction quant
-aux domaines d'application, étant ci-après précisé que cela comporte:
-
-   1. la reproduction permanente ou provisoire du Logiciel en tout ou
-      partie par tout moyen et sous toute forme.
-
-   2. le chargement, l'affichage, l'exécution, ou le stockage du
-      Logiciel sur tout support.
-
-   3. la possibilité d'en observer, d'en étudier, ou d'en tester le
-      fonctionnement afin de déterminer les idées et principes qui sont
-      à la base de n'importe quel élément de ce Logiciel; et ceci,
-      lorsque le Licencié effectue toute opération de chargement,
-      d'affichage, d'exécution, de transmission ou de stockage du
-      Logiciel qu'il est en droit d'effectuer en vertu du Contrat.
-
-
-      5.2 DROIT D'APPORTER DES CONTRIBUTIONS
-
-Le droit d'apporter des Contributions comporte le droit de traduire,
-d'adapter, d'arranger ou d'apporter toute autre modification au Logiciel
-et le droit de reproduire le logiciel en résultant.
-
-Le Licencié est autorisé à apporter toute Contribution au Logiciel sous
-réserve de mentionner, de façon explicite, son nom en tant qu'auteur de
-cette Contribution et la date de création de celle-ci.
-
-
-      5.3 DROIT DE DISTRIBUTION
-
-Le droit de distribution comporte notamment le droit de diffuser, de
-transmettre et de communiquer le Logiciel au public sur tout support et
-par tout moyen ainsi que le droit de mettre sur le marché à titre
-onéreux ou gratuit, un ou des exemplaires du Logiciel par tout procédé.
-
-Le Licencié est autorisé à distribuer des copies du Logiciel, modifié ou
-non, à des tiers dans les conditions ci-après détaillées.
-
-
-        5.3.1 DISTRIBUTION DU LOGICIEL SANS MODIFICATION
-
-Le Licencié est autorisé à distribuer des copies conformes du Logiciel,
-sous forme de Code Source ou de Code Objet, à condition que cette
-distribution respecte les dispositions du Contrat dans leur totalité et
-soit accompagnée:
-
-   1. d'un exemplaire du Contrat,
-
-   2. d'un avertissement relatif à la restriction de garantie et de
-      responsabilité du Concédant telle que prévue aux articles 8
-      et 9,
-
-et que, dans le cas où seul le Code Objet du Logiciel est redistribué,
-le Licencié permette un accès effectif au Code Source complet du
-Logiciel pendant au moins toute la durée de sa distribution du Logiciel,
-étant entendu que le coût additionnel d'acquisition du Code Source ne
-devra pas excéder le simple coût de transfert des données.
-
-
-        5.3.2 DISTRIBUTION DU LOGICIEL MODIFIE
-
-Lorsque le Licencié apporte une Contribution au Logiciel, le Logiciel
-Modifié peut être distribué sous un contrat de licence autre que le
-présent Contrat sous réserve du respect des dispositions de l'article
-5.3.4.
-
-
-        5.3.3 DISTRIBUTION DES MODULES EXTERNES
-
-Lorsque le Licencié a développé un Module Externe les conditions du
-Contrat ne s'appliquent pas à ce Module Externe, qui peut être distribué
-sous un contrat de licence différent.
-
-
-        5.3.4 CITATIONS
-
-Le Licencié qui distribue un Logiciel Modifié s'engage expressément:
-
-   1. à indiquer dans sa documentation qu'il a été réalisé à partir du
-      Logiciel régi par le Contrat, en reproduisant les mentions de
-      propriété intellectuelle du Logiciel,
-
-   2. à faire en sorte que l'utilisation du Logiciel, ses mentions de
-      propriété intellectuelle et le fait qu'il est régi par le Contrat
-      soient indiqués dans un texte facilement accessible depuis
-      l'interface du Logiciel Modifié,
-
-   3. à mentionner, sur un site Web librement accessible décrivant le
-      Logiciel Modifié, et pendant au moins toute la durée de sa
-      distribution, qu'il a été réalisé à partir du Logiciel régi par le
-      Contrat, en reproduisant les mentions de propriété intellectuelle
-      du Logiciel,
-
-   4. lorsqu'il le distribue à un tiers susceptible de distribuer
-      lui-même un Logiciel Modifié, sans avoir à en distribuer le code
-      source, à faire ses meilleurs efforts pour que les obligations du
-      présent article 5.3.4 soient reprises par le dit tiers.
-
-Lorsque le Logiciel modifié ou non est distribué avec un Module Externe
-qui a été conçu pour l'utiliser, le Licencié doit soumettre le dit
-Module Externe aux obligations précédentes.
-
-
-        5.3.5 COMPATIBILITE AVEC LES LICENCES CeCILL et CeCILL-C
-
-Lorsqu'un Logiciel Modifié contient une Contribution soumise au contrat
-de licence CeCILL, les stipulations prévues à l'article 5.3.4 sont 
-facultatives.
-
-Un Logiciel Modifié peut être distribué sous le contrat de licence
-CeCILL-C. Les stipulations prévues à l'article 5.3.4 sont alors 
-facultatives.
-
-
-    Article 6 - PROPRIETE INTELLECTUELLE
-
-
-      6.1 SUR LE LOGICIEL INITIAL
-
-Le Titulaire est détenteur des droits patrimoniaux sur le Logiciel
-Initial. Toute utilisation du Logiciel Initial est soumise au respect
-des conditions dans lesquelles le Titulaire a choisi de diffuser son
-oeuvre et nul autre n'a la faculté de modifier les conditions de
-diffusion de ce Logiciel Initial.
-
-Le Titulaire s'engage à ce que le Logiciel Initial reste au moins régi
-par le Contrat et ce, pour la durée visée à l'article 4.2.
-
-
-      6.2 SUR LES CONTRIBUTIONS
-
-Le Licencié qui a développé une Contribution est titulaire sur celle-ci
-des droits de propriété intellectuelle dans les conditions définies par
-la législation applicable.
-
-
-      6.3 SUR LES MODULES EXTERNES
-
-Le Licencié qui a développé un Module Externe est titulaire sur celui-ci
-des droits de propriété intellectuelle dans les conditions définies par
-la législation applicable et reste libre du choix du contrat régissant
-sa diffusion.
-
-
-      6.4 DISPOSITIONS COMMUNES
-
-Le Licencié s'engage expressément:
-
-   1. à ne pas supprimer ou modifier de quelque manière que ce soit les
-      mentions de propriété intellectuelle apposées sur le Logiciel;
-
-   2. à reproduire à l'identique lesdites mentions de propriété
-      intellectuelle sur les copies du Logiciel modifié ou non.
-
-Le Licencié s'engage à ne pas porter atteinte, directement ou
-indirectement, aux droits de propriété intellectuelle du Titulaire et/ou
-des Contributeurs sur le Logiciel et à prendre, le cas échéant, à
-l'égard de son personnel toutes les mesures nécessaires pour assurer le
-respect des dits droits de propriété intellectuelle du Titulaire et/ou
-des Contributeurs.
-
-
-    Article 7 - SERVICES ASSOCIES
-
-7.1 Le Contrat n'oblige en aucun cas le Concédant à la réalisation de
-prestations d'assistance technique ou de maintenance du Logiciel.
-
-Cependant le Concédant reste libre de proposer ce type de services. Les
-termes et conditions d'une telle assistance technique et/ou d'une telle
-maintenance seront alors déterminés dans un acte séparé. Ces actes de
-maintenance et/ou assistance technique n'engageront que la seule
-responsabilité du Concédant qui les propose.
-
-7.2 De même, tout Concédant est libre de proposer, sous sa seule
-responsabilité, à ses licenciés une garantie, qui n'engagera que lui,
-lors de la redistribution du Logiciel et/ou du Logiciel Modifié et ce,
-dans les conditions qu'il souhaite. Cette garantie et les modalités
-financières de son application feront l'objet d'un acte séparé entre le
-Concédant et le Licencié.
-
-
-    Article 8 - RESPONSABILITE
-
-8.1 Sous réserve des dispositions de l'article 8.2, le Licencié a la 
-faculté, sous réserve de prouver la faute du Concédant concerné, de
-solliciter la réparation du préjudice direct qu'il subirait du fait du
-Logiciel et dont il apportera la preuve.
-
-8.2 La responsabilité du Concédant est limitée aux engagements pris en
-application du Contrat et ne saurait être engagée en raison notamment:
-(i) des dommages dus à l'inexécution, totale ou partielle, de ses
-obligations par le Licencié, (ii) des dommages directs ou indirects
-découlant de l'utilisation ou des performances du Logiciel subis par le
-Licencié et (iii) plus généralement d'un quelconque dommage indirect. En
-particulier, les Parties conviennent expressément que tout préjudice
-financier ou commercial (par exemple perte de données, perte de
-bénéfices, perte d'exploitation, perte de clientèle ou de commandes,
-manque à gagner, trouble commercial quelconque) ou toute action dirigée
-contre le Licencié par un tiers, constitue un dommage indirect et
-n'ouvre pas droit à réparation par le Concédant.
-
-
-    Article 9 - GARANTIE
-
-9.1 Le Licencié reconnaît que l'état actuel des connaissances
-scientifiques et techniques au moment de la mise en circulation du
-Logiciel ne permet pas d'en tester et d'en vérifier toutes les
-utilisations ni de détecter l'existence d'éventuels défauts. L'attention
-du Licencié a été attirée sur ce point sur les risques associés au
-chargement, à l'utilisation, la modification et/ou au développement et à
-la reproduction du Logiciel qui sont réservés à des utilisateurs avertis.
-
-Il relève de la responsabilité du Licencié de contrôler, par tous
-moyens, l'adéquation du produit à ses besoins, son bon fonctionnement et
-de s'assurer qu'il ne causera pas de dommages aux personnes et aux biens.
-
-9.2 Le Concédant déclare de bonne foi être en droit de concéder
-l'ensemble des droits attachés au Logiciel (comprenant notamment les
-droits visés à l'article 5).
-
-9.3 Le Licencié reconnaît que le Logiciel est fourni "en l'état" par le
-Concédant sans autre garantie, expresse ou tacite, que celle prévue à
-l'article 9.2 et notamment sans aucune garantie sur sa valeur commerciale,
-son caractère sécurisé, innovant ou pertinent.
-
-En particulier, le Concédant ne garantit pas que le Logiciel est exempt
-d'erreur, qu'il fonctionnera sans interruption, qu'il sera compatible
-avec l'équipement du Licencié et sa configuration logicielle ni qu'il
-remplira les besoins du Licencié.
-
-9.4 Le Concédant ne garantit pas, de manière expresse ou tacite, que le
-Logiciel ne porte pas atteinte à un quelconque droit de propriété
-intellectuelle d'un tiers portant sur un brevet, un logiciel ou sur tout
-autre droit de propriété. Ainsi, le Concédant exclut toute garantie au
-profit du Licencié contre les actions en contrefaçon qui pourraient être
-diligentées au titre de l'utilisation, de la modification, et de la
-redistribution du Logiciel. Néanmoins, si de telles actions sont
-exercées contre le Licencié, le Concédant lui apportera son aide
-technique et juridique pour sa défense. Cette aide technique et
-juridique est déterminée au cas par cas entre le Concédant concerné et
-le Licencié dans le cadre d'un protocole d'accord. Le Concédant dégage
-toute responsabilité quant à l'utilisation de la dénomination du
-Logiciel par le Licencié. Aucune garantie n'est apportée quant à
-l'existence de droits antérieurs sur le nom du Logiciel et sur
-l'existence d'une marque.
-
-
-    Article 10 - RESILIATION
-
-10.1 En cas de manquement par le Licencié aux obligations mises à sa
-charge par le Contrat, le Concédant pourra résilier de plein droit le
-Contrat trente (30) jours après notification adressée au Licencié et
-restée sans effet.
-
-10.2 Le Licencié dont le Contrat est résilié n'est plus autorisé à
-utiliser, modifier ou distribuer le Logiciel. Cependant, toutes les
-licences qu'il aura concédées antérieurement à la résiliation du Contrat
-resteront valides sous réserve qu'elles aient été effectuées en
-conformité avec le Contrat.
-
-
-    Article 11 - DISPOSITIONS DIVERSES
-
-
-      11.1 CAUSE EXTERIEURE
-
-Aucune des Parties ne sera responsable d'un retard ou d'une défaillance
-d'exécution du Contrat qui serait dû à un cas de force majeure, un cas
-fortuit ou une cause extérieure, telle que, notamment, le mauvais
-fonctionnement ou les interruptions du réseau électrique ou de
-télécommunication, la paralysie du réseau liée à une attaque
-informatique, l'intervention des autorités gouvernementales, les
-catastrophes naturelles, les dégâts des eaux, les tremblements de terre,
-le feu, les explosions, les grèves et les conflits sociaux, l'état de
-guerre...
-
-11.2 Le fait, par l'une ou l'autre des Parties, d'omettre en une ou
-plusieurs occasions de se prévaloir d'une ou plusieurs dispositions du
-Contrat, ne pourra en aucun cas impliquer renonciation par la Partie
-intéressée à s'en prévaloir ultérieurement.
-
-11.3 Le Contrat annule et remplace toute convention antérieure, écrite
-ou orale, entre les Parties sur le même objet et constitue l'accord
-entier entre les Parties sur cet objet. Aucune addition ou modification
-aux termes du Contrat n'aura d'effet à l'égard des Parties à moins
-d'être faite par écrit et signée par leurs représentants dûment habilités.
-
-11.4 Dans l'hypothèse où une ou plusieurs des dispositions du Contrat
-s'avèrerait contraire à une loi ou à un texte applicable, existants ou
-futurs, cette loi ou ce texte prévaudrait, et les Parties feraient les
-amendements nécessaires pour se conformer à cette loi ou à ce texte.
-Toutes les autres dispositions resteront en vigueur. De même, la
-nullité, pour quelque raison que ce soit, d'une des dispositions du
-Contrat ne saurait entraîner la nullité de l'ensemble du Contrat.
-
-
-      11.5 LANGUE
-
-Le Contrat est rédigé en langue française et en langue anglaise, ces
-deux versions faisant également foi.
-
-
-    Article 12 - NOUVELLES VERSIONS DU CONTRAT
-
-12.1 Toute personne est autorisée à copier et distribuer des copies de
-ce Contrat.
-
-12.2 Afin d'en préserver la cohérence, le texte du Contrat est protégé
-et ne peut être modifié que par les auteurs de la licence, lesquels se
-réservent le droit de publier périodiquement des mises à jour ou de
-nouvelles versions du Contrat, qui posséderont chacune un numéro
-distinct. Ces versions ultérieures seront susceptibles de prendre en
-compte de nouvelles problématiques rencontrées par les logiciels libres.
-
-12.3 Tout Logiciel diffusé sous une version donnée du Contrat ne pourra
-faire l'objet d'une diffusion ultérieure que sous la même version du
-Contrat ou une version postérieure.
-
-
-    Article 13 - LOI APPLICABLE ET COMPETENCE TERRITORIALE
-
-13.1 Le Contrat est régi par la loi française. Les Parties conviennent
-de tenter de régler à l'amiable les différends ou litiges qui
-viendraient à se produire par suite ou à l'occasion du Contrat.
-
-13.2 A défaut d'accord amiable dans un délai de deux (2) mois à compter
-de leur survenance et sauf situation relevant d'une procédure d'urgence,
-les différends ou litiges seront portés par la Partie la plus diligente
-devant les Tribunaux compétents de Paris.
-
-
-Version 1.0 du 2006-09-05.
+BitTorrent, Inc. 

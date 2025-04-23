@@ -1,101 +1,293 @@
-Creative Commons Namensnennung - Keine kommerzielle Nutzung - Keine Bearbeitungen 3.0 Deutschland
+Community Specification License 1.0
 
-  CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG. DIE BEREITSTELLUNG DIESER LIZENZ FÜHRT ZU KEINEM MANDATSVERHÄLTNIS. CREATIVE COMMONS STELLT DIESE INFORMATIONEN OHNE GEWÄHR ZUR VERFÜGUNG. CREATIVE COMMONS ÜBERNIMMT KEINE GEWÄHRLEISTUNG FÜR DIE GELIEFERTEN INFORMATIONEN UND SCHLIEßT DIE HAFTUNG FÜR SCHÄDEN AUS, DIE SICH AUS DEREN GEBRAUCH ERGEBEN.
+The Purpose of this License. This License sets forth the terms under which
+1) Contributor will participate in and contribute to the development
+of specifications, standards, best practices, guidelines, and other
+similar materials under this Working Group, and 2) how the materials
+developed under this License may be used. It is not intended for source
+code. Capitalized terms are defined in the License’s last section.
 
-Lizenz
+1. Copyright.
 
-DER GEGENSTAND DIESER LIZENZ (WIE UNTER "SCHUTZGEGENSTAND" DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE ("CCPL", "LIZENZ" ODER "LIZENZVERTRAG") ZUR VERFÜGUNG GESTELLT. DER SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER ANDERE GESETZE GESCHÜTZT. JEDE FORM DER NUTZUNG DES SCHUTZGEGENSTANDES, DIE NICHT AUFGRUND DIESER LIZENZ ODER DURCH GESETZE GESTATTET IST, IST UNZULÄSSIG.
+1.1. Copyright License. Contributor grants everyone a non-sublicensable,
+perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as expressly stated in this License) copyright license, without
+any obligation for accounting, to reproduce, prepare derivative works
+of, publicly display, publicly perform, and distribute any materials
+it submits to the full extent of its copyright interest in those
+materials. Contributor also acknowledges that the Working Group may
+exercise copyright rights in the Specification, including the rights to
+submit the Specification to another standards organization.
 
-DURCH DIE AUSÜBUNG EINES DURCH DIESE LIZENZ GEWÄHRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÄREN SIE SICH MIT DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. SOWEIT DIESE LIZENZ ALS LIZENZVERTRAG ANZUSEHEN IST, GEWÄHRT IHNEN DER LIZENZGEBER DIE IN DER LIZENZ GENANNTEN RECHTE UNENTGELTLICH UND IM AUSTAUSCH DAFÜR, DASS SIE DAS GEBUNDENSEIN AN DIE LIZENZBEDINGUNGEN AKZEPTIEREN.
+1.2. Copyright Attribution. As a condition, anyone exercising this
+copyright license must include attribution to the Working Group in any
+derivative work based on materials developed by the Working Group.
+That attribution must include, at minimum, the material’s name,
+version number, and source from where the materials were retrieved.
+Attribution is not required for implementations of the Specification.
 
-1. Definitionen
+2. Patents.
 
-     a. Der Begriff "Abwandlung" im Sinne dieser Lizenz bezeichnet das Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes, solange die eigenpersönlichen Züge des Schutzgegenstandes darin nicht verblassen und daran eigene Schutzrechte entstehen. Das kann insbesondere eine Bearbeitung, Umgestaltung, Änderung, Anpassung, Übersetzung oder Heranziehung des Schutzgegenstandes zur Vertonung von Laufbildern sein. Nicht als Abwandlung des Schutzgegenstandes gelten seine Aufnahme in eine Sammlung oder ein Sammelwerk und die freie Benutzung des Schutzgegenstandes.
+2.1. Patent License.
 
-     b. Der Begriff "Sammelwerk" im Sinne dieser Lizenz meint eine Zusammenstellung von literarischen, künstlerischen oder wissenschaftlichen Inhalten, sofern diese Zusammenstellung aufgrund von Auswahl und Anordnung der darin enthaltenen selbständigen Elemente eine geistige Schöpfung darstellt, unabhängig davon, ob die Elemente systematisch oder methodisch angelegt und dadurch einzeln zugänglich sind oder nicht.
+2.1.1. As a Result of Contributions.
 
-     c. "Verbreiten" im Sinne dieser Lizenz bedeutet, den Schutzgegenstand im Original oder in Form von Vervielfältigungsstücken, mithin in körperlich fixierter Form der Öffentlichkeit anzubieten oder in Verkehr zu bringen.
+2.1.1.1. As a Result of Contributions to Draft Specifications.
+Contributor grants Licensee a non-sublicensable, perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable (except as
+expressly stated in this License) license to its Necessary Claims in 1)
+Contributor’s Contributions and 2) to the Draft Specification that
+is within Scope as of the date of that Contribution, in both cases for
+Licensee’s Implementation of the Draft Specification, except for those
+patent claims excluded by Contributor under Section 3.
 
-     d. Der "Lizenzgeber" im Sinne dieser Lizenz ist diejenige natürliche oder juristische Person oder Gruppe, die den Schutzgegenstand unter den Bedingungen dieser Lizenz anbietet und insoweit als Rechteinhaberin auftritt.
+2.1.1.2. For Approved Specifications. Contributor grants Licensee a
+non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as expressly stated in this License)
+license to its Necessary Claims included the Approved Specification
+that are within Scope for Licensee’s Implementation of the Approved
+Specification, except for those patent claims excluded by Contributor
+under Section 3.
 
-     e. "Rechteinhaber" im Sinne dieser Lizenz ist der Urheber des Schutzgegenstandes oder jede andere natürliche oder juristische Person oder Gruppe von Personen, die am Schutzgegenstand ein Immaterialgüterrecht erlangt hat, welches die in Abschnitt 3 genannten Handlungen erfasst und bei dem eine Einräumung von Nutzungsrechten oder eine Weiterübertragung an Dritte möglich ist.
+2.1.2. Patent Grant from Licensee. Licensee grants each other Licensee
+a non-sublicensable, perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as expressly stated in this License)
+license to its Necessary Claims for its Implementation, except for those
+patent claims excluded under Section 3.
 
-     f. Der Begriff "Schutzgegenstand" bezeichnet in dieser Lizenz den literarischen, künstlerischen oder wissenschaftlichen Inhalt, der unter den Bedingungen dieser Lizenz angeboten wird. Das kann insbesondere eine persönliche geistige Schöpfung jeglicher Art, ein Werk der kleinen Münze, ein nachgelassenes Werk oder auch ein Lichtbild oder anderes Objekt eines verwandten Schutzrechts sein, unabhängig von der Art seiner Fixierung und unabhängig davon, auf welche Weise jeweils eine Wahrnehmung erfolgen kann, gleichviel ob in analoger oder digitaler Form. Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff "Schutzgegenstand" im Sinne dieser Lizenz.
+2.1.3. Licensee Acceptance. The patent grants set forth in Section 2.1
+extend only to Licensees that have indicated their agreement to this
+License as follows:
 
-     g. Mit "Sie" bzw. "Ihnen" ist die natürliche oder juristische Person gemeint, die in dieser Lizenz im Abschnitt 3 genannte Nutzungen des Schutzgegenstandes vornimmt und zuvor in Hinblick auf den Schutzgegenstand nicht gegen Bedingungen dieser Lizenz verstoßen oder aber die ausdrückliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewährten Nutzungsrechte trotz eines vorherigen Verstoßes auszuüben.
+2.1.3.1. Source Code Distributions. For distribution in source code,
+by including this License in the root directory of the source code with
+the Implementation;
 
-     h. Unter "Öffentlich Zeigen" im Sinne dieser Lizenz sind Veröffentlichungen und Präsentationen des Schutzgegenstandes zu verstehen, die für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt sind und in unkörperlicher Form mittels öffentlicher Wiedergabe in Form von Vortrag, Aufführung, Vorführung, Darbietung, Sendung, Weitersendung, zeit- und ortsunabhängiger Zugänglichmachung oder in körperlicher Form mittels Ausstellung erfolgen, unabhängig von bestimmten Veranstaltungen und unabhängig von den zum Einsatz kommenden Techniken und Verfahren, einschließlich drahtgebundener oder drahtloser Mittel und Einstellen in das Internet.
+2.1.3.2. Non-Source Code Distributions. For distribution in any form
+other than source code, by including this License in the documentation,
+legal notices, via notice in the software, and/or other written materials
+provided with the Implementation; or
 
-     i. "Vervielfältigen" im Sinne dieser Lizenz bedeutet, mittels beliebiger Verfahren Vervielfältigungsstücke des Schutzgegenstandes herzustellen, insbesondere durch Ton- oder Bildaufzeichnungen, und umfasst auch den Vorgang, erstmals körperliche Fixierungen des Schutzgegenstandes sowie Vervielfältigungsstücke dieser Fixierungen anzufertigen, sowie die Übertragung des Schutzgegenstandes auf einen Bild- oder Tonträger oder auf ein anderes elektronisches Medium, gleichviel ob in digitaler oder analoger Form.
+2.1.3.3. Via Notices.md. By issuing pull request or commit to the
+Specification’s repository’s Notices.md file by the Implementer’s
+authorized representative, including the Implementer’s name, authorized
+individual and system identifier, and Specification version.
 
-2. Schranken des Immaterialgüterrechts. Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu vereiteln, die Ihnen aufgrund der Schranken des Urheberrechts oder anderer Rechtsnormen bereits ohne Weiteres zustehen oder sich aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
+2.1.4. Defensive Termination. If any Licensee files or maintains a
+claim in a court asserting that a Necessary Claim is infringed by an
+Implementation, any licenses granted under this License to the Licensee
+are immediately terminated unless 1) that claim is directly in response
+to a claim against Licensee regarding an Implementation, or 2) that claim
+was brought to enforce the terms of this License, including intervention
+in a third-party action by a Licensee.
 
-3. Einräumung von Nutzungsrechten. Unter den Bedingungen dieser Lizenz räumt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 4.e) - das vergütungsfreie, räumlich und zeitlich (für die Dauer des Schutzrechts am Schutzgegenstand) unbeschränkte einfache Recht ein, den Schutzgegenstand auf die folgenden Arten und Weisen zu nutzen ("unentgeltlich eingeräumtes einfaches Nutzungsrecht für jedermann"):
+2.1.5. Additional Conditions. This License is not an assurance (i)
+that any of Contributor’s copyrights or issued patent claims cover
+an Implementation of the Specification or are enforceable or (ii) that
+an Implementation of the Specification would not infringe intellectual
+property rights of any third party.
 
-     a. den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen;
+2.2. Patent Licensing Commitment. In addition to the rights granted
+in Section 2.1, Contributor agrees to grant everyone a no charge,
+royalty-free license on reasonable and non-discriminatory terms
+to Contributor’s Necessary Claims that are within Scope for:
+1) Implementations of a Draft Specification, where such license
+applies only to those Necessary Claims infringed by implementing
+Contributor's Contribution(s) included in that Draft Specification,
+and 2) Implementations of the Approved Specification.
 
-     b. den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich zu zeigen und zu verbreiten.
+This patent licensing commitment does not apply to those claims subject
+to Contributor’s Exclusion Notice under Section 3.
 
-Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten eingeräumt. Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Weitergehende Änderungen oder Abwandlungen sind jedoch untersagt. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten. Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind und einen immaterialgüterrechtlichen Schutz eigener Art genießen, verzichtet der Lizenzgeber auf sämtliche aus diesem Schutz resultierenden Rechte.
+2.3. Effect of Withdrawal. Contributor may withdraw from the Working Group
+by issuing a pull request or commit providing notice of withdrawal to
+the Working Group repository’s Notices.md file. All of Contributor’s
+existing commitments and obligations with respect to the Working Group
+up to the date of that withdrawal notice will remain in effect, but no
+new obligations will be incurred.
 
-4. Bedingungen. Die Einräumung des Nutzungsrechts gemäß Abschnitt 3 dieser Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
+2.4. Binding Encumbrance. This License is binding on any future owner,
+assignee, or party who has been given the right to enforce any Necessary
+Claims against third parties.
 
-     a. Sie dürfen den Schutzgegenstand ausschließlich unter den Bedingungen dieser Lizenz verbreiten oder öffentlich zeigen. Sie müssen dabei stets eine Kopie dieser Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen. Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen dieser Lizenz oder die durch diese Lizenz gewährten Rechte beschränken. Sie dürfen den Schutzgegenstand nicht unterlizenzieren. Bei jeder Kopie des Schutzgegenstandes, die Sie verbreiten oder öffentlich zeigen, müssen Sie alle Hinweise unverändert lassen, die auf diese Lizenz und den Haftungsausschluss hinweisen. Wenn Sie den Schutzgegenstand verbreiten oder öffentlich zeigen, dürfen Sie (in Bezug auf den Schutzgegenstand) keine technischen Maßnahmen ergreifen, die den Nutzer des Schutzgegenstandes in der Ausübung der ihm durch diese Lizenz gewährten Rechte behindern können. Dieser Abschnitt 4.a) gilt auch für den Fall, dass der Schutzgegenstand einen Bestandteil eines Sammelwerkes bildet, was jedoch nicht bedeutet, dass das Sammelwerk insgesamt dieser Lizenz unterstellt werden muss. Sofern Sie ein Sammelwerk erstellen, müssen Sie auf die Mitteilung eines Lizenzgebers hin aus dem Sammelwerk die in Abschnitt 4.c) aufgezählten Hinweise entfernen.
+3. Patent Exclusion.
 
-     b. Die Rechteeinräumung gemäß Abschnitt 3 gilt nur für Handlungen, die nicht vorrangig auf einen geschäftlichen Vorteil oder eine geldwerte Vergütung gerichtet sind ("nicht-kommerzielle Nutzung", "Non-commercial-Option"). Wird Ihnen in Zusammenhang mit dem Schutzgegenstand dieser Lizenz ein anderer Schutzgegenstand überlassen, ohne dass eine vertragliche Verpflichtung hierzu besteht (etwa im Wege von File-Sharing), so wird dies nicht als auf geschäftlichen Vorteil oder geldwerte Vergütung gerichtet angesehen, wenn in Verbindung mit dem Austausch der Schutzgegenstände tatsächlich keine Zahlung oder geldwerte Vergütung geleistet wird.
+3.1. As a Result of Contributions. Contributor may exclude Necessary
+Claims from its licensing commitments incurred under Section 2.1.1
+by issuing an Exclusion Notice within 45 days of the date of that
+Contribution. Contributor may not issue an Exclusion Notice for any
+material that has been included in a Draft Deliverable for more than 45
+days prior to the date of that Contribution.
 
-     c. Die Verbreitung und das öffentliche Zeigen des Schutzgegenstandes oder ihn enthaltender Sammelwerke ist Ihnen nur unter der Bedingung gestattet, dass Sie, vorbehaltlich etwaiger Mitteilungen im Sinne von Abschnitt 4.a), alle dazu gehörenden Rechtevermerke unberührt lassen. Sie sind verpflichtet, die Rechteinhaberschaft in einer der Nutzung entsprechenden, angemessenen Form anzuerkennen, indem Sie - soweit bekannt - Folgendes angeben:
+3.2. As a Result of a Draft Specification Becoming an Approved
+Specification. Prior to the adoption of a Draft Specification as an
+Approved Specification, Contributor may exclude Necessary Claims from
+its licensing commitments under this Agreement by issuing an Exclusion
+Notice. Contributor may not issue an Exclusion Notice for patents that
+were eligible to have been excluded pursuant to Section 3.1.
 
-          i. Den Namen (oder das Pseudonym, falls ein solches verwendet wird) des Rechteinhabers und / oder, falls der Lizenzgeber im Rechtevermerk, in den Nutzungsbedingungen oder auf andere angemessene Weise eine Zuschreibung an Dritte vorgenommen hat (z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) ("Zuschreibungsempfänger"), Namen bzw. Bezeichnung dieses oder dieser Dritten;
+4. Source Code License. Any source code developed by the Working Group is
+solely subject the source code license included in the Working Group’s
+repository for that code. If no source code license is included, the
+source code will be subject to the MIT License.
 
-          ii. den Titel des Inhaltes;
+5. No Other Rights. Except as specifically set forth in this License, no
+other express or implied patent, trademark, copyright, or other rights are
+granted under this License, including by implication, waiver, or estoppel.
 
-          iii. in einer praktikablen Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand.
+6. Antitrust Compliance. Contributor acknowledge that it may compete
+with other participants in various lines of business and that it is
+therefore imperative that they and their respective representatives
+act in a manner that does not violate any applicable antitrust laws and
+regulations. This License does not restrict any Contributor from engaging
+in similar specification development projects. Each Contributor may
+design, develop, manufacture, acquire or market competitive deliverables,
+products, and services, and conduct its business, in whatever way it
+chooses. No Contributor is obligated to announce or market any products
+or services. Without limiting the generality of the foregoing, the
+Contributors agree not to have any discussion relating to any product
+pricing, methods or channels of product distribution, division of markets,
+allocation of customers or any other topic that should not be discussed
+among competitors under the auspices of the Working Group.
 
-        Die nach diesem Abschnitt 4.c) erforderlichen Angaben können in jeder angemessenen Form gemacht werden; im Falle eines Sammelwerkes müssen diese Angaben das Minimum darstellen und bei gemeinsamer Nennung mehrerer Rechteinhaber dergestalt erfolgen, dass sie zumindest ebenso hervorgehoben sind wie die Hinweise auf die übrigen Rechteinhaber. Die Angaben nach diesem Abschnitt dürfen Sie ausschließlich zur Angabe der Rechteinhaberschaft in der oben bezeichneten Weise verwenden. Durch die Ausübung Ihrer Rechte aus dieser Lizenz dürfen Sie ohne eine vorherige, separat und schriftlich vorliegende Zustimmung des Lizenzgebers und / oder des Zuschreibungsempfängers weder explizit noch implizit irgendeine Verbindung zum Lizenzgeber oder Zuschreibungsempfänger und ebenso wenig eine Unterstützung oder Billigung durch ihn andeuten.
+7. Non-Circumvention. Contributor agrees that it will not intentionally
+take or willfully assist any third party to take any action for the
+purpose of circumventing any obligations under this License.
 
-     d. Die oben unter 4.a) bis c) genannten Einschränkungen gelten nicht für solche Teile des Schutzgegenstandes, die allein deshalb unter den Schutzgegenstandsbegriff fallen, weil sie als Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen.
+8. Representations, Warranties and Disclaimers.
 
-     e. Bezüglich Vergütung für die Nutzung des Schutzgegenstandes gilt Folgendes:
+8.1. Representations, Warranties and Disclaimers. Contributor and Licensee
+represents and warrants that 1) it is legally entitled to grant the
+rights set forth in this License and 2) it will not intentionally include
+any third party materials in any Contribution unless those materials are
+available under terms that do not conflict with this License. IN ALL OTHER
+RESPECTS ITS CONTRIBUTIONS ARE PROVIDED "AS IS." The entire risk as to
+implementing or otherwise using the Contribution or the Specification
+is assumed by the implementer and user. Except as stated herein,
+CONTRIBUTOR AND LICENSEE EXPRESSLY DISCLAIM ANY WARRANTIES (EXPRESS,
+IMPLIED, OR OTHERWISE), INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY,
+NON-INFRINGEMENT, FITNESS FOR A PARTICULAR PURPOSE, CONDITIONS OF QUALITY,
+OR TITLE, RELATED TO THE CONTRIBUTION OR THE SPECIFICATION. IN NO EVENT
+WILL ANY PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY
+FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF
+ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
+THIS AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING
+NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. Any obligations regarding
+the transfer, successors in interest, or assignment of Necessary Claims
+will be satisfied if Contributor or Licensee notifies the transferee
+or assignee of any patent that it knows contains Necessary Claims or
+necessary claims under this License. Nothing in this License requires
+Contributor to undertake a patent search. If Contributor is 1) employed by
+or acting on behalf of an employer, 2) is making a Contribution under the
+direction or control of a third party, or 3) is making the Contribution
+as a consultant, contractor, or under another similar relationship with
+a third party, Contributor represents that they have been authorized by
+that party to enter into this License on its behalf.
 
-          i. Unverzichtbare gesetzliche Vergütungsansprüche: Soweit unverzichtbare Vergütungsansprüche im Gegenzug für gesetzliche Lizenzen vorgesehen oder Pauschalabgabensysteme (zum Beispiel für Leermedien) vorhanden sind, behält sich der Lizenzgeber das ausschließliche Recht vor, die entsprechende Vergütung einzuziehen für jede Ausübung eines Rechts aus dieser Lizenz durch Sie.
+8.2. Distribution Disclaimer. Any distributions of technical
+information to third parties must include a notice materially similar
+to the following: “THESE MATERIALS ARE PROVIDED “AS IS.” The
+Contributors and Licensees expressly disclaim any warranties (express,
+implied, or otherwise), including implied warranties of merchantability,
+non-infringement, fitness for a particular purpose, or title, related to
+the materials. The entire risk as to implementing or otherwise using the
+materials is assumed by the implementer and user. IN NO EVENT WILL THE
+CONTRIBUTORS OR LICENSEES BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS
+OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
+OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO
+THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF
+CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT
+THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
 
-          ii. Vergütung bei Zwangslizenzen: Sofern Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, behält sich der Lizenzgeber das ausschließliche Recht auf Einziehung der entsprechenden Vergütung für den Fall vor, dass Sie eine Nutzung des Schutzgegenstandes für andere als die in Abschnitt 4.b) als nicht-kommerziell definierten Zwecke vornehmen, verzichtet für alle übrigen, lizenzgerechten Fälle von Nutzung jedoch auf jegliche Vergütung.
+9. Definitions.
 
-          iii. Vergütung in sonstigen Fällen: Bezüglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie, die nicht unter die beiden vorherigen Abschnitte (i) und (ii) fällt, verzichtet der Lizenzgeber auf jegliche Vergütung, unabhängig davon, ob eine Einziehung der Vergütung durch ihn selbst oder nur durch eine Verwertungsgesellschaft möglich wäre. Der Lizenzgeber behält sich jedoch das ausschließliche Recht auf Einziehung der entsprechenden Vergütung (durch ihn selbst oder eine Verwertungsgesellschaft) für den Fall vor, dass Sie eine Nutzung des Schutzgegenstandes für andere als die in Abschnitt 4.b) als nicht-kommerziell definierten Zwecke vornehmen.
+9.1. Affiliate. “Affiliate” means an entity that directly or
+indirectly Controls, is Controlled by, or is under common Control of
+that party.
 
-     f. Persönlichkeitsrechte bleiben - soweit sie bestehen - von dieser Lizenz unberührt.
+9.2. Approved Specification. “Approved Specification” means the final
+version and contents of any Draft Specification designated as an Approved
+Specification as set forth in the accompanying Governance.md file.
 
-5. Gewährleistung
+9.3. Contribution. “Contribution” means any original work of
+authorship, including any modifications or additions to an existing
+work, that Contributor submits for inclusion in a Draft Specification,
+which is included in a Draft Specification or Approved Specification.
 
-SOFERN KEINE ANDERS LAUTENDE, SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE UND SOWEIT MÄNGEL NICHT ARGLISTIG VERSCHWIEGEN WURDEN, BIETET DER LIZENZGEBER DEN SCHUTZGEGENSTAND UND DIE EINRÄUMUNG VON RECHTEN UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG AN UND ÜBERNIMMT WEDER AUSDRÜCKLICH NOCH KONKLUDENT GARANTIEN IRGENDEINER ART. DIES UMFASST INSBESONDERE DAS FREISEIN VON SACH- UND RECHTSMÄNGELN, UNABHÄNGIG VON DEREN ERKENNBARKEIT FÜR DEN LIZENZGEBER, DIE VERKEHRSFÄHIGKEIT DES SCHUTZGEGENSTANDES, SEINE VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DIE KORREKTHEIT VON BESCHREIBUNGEN. DIESE GEWÄHRLEISTUNGSBESCHRÄNKUNG GILT NICHT, SOWEIT MÄNGEL ZU SCHÄDEN DER IN ABSCHNITT 6 BEZEICHNETEN ART FÜHREN UND AUF SEITEN DES LIZENZGEBERS DAS JEWEILS GENANNTE VERSCHULDEN BZW. VERTRETENMÜSSEN EBENFALLS VORLIEGT.
+9.4. Contributor. “Contributor” means any person or entity that has
+indicated its acceptance of the License 1) by making a Contribution to
+the Specification, or 2) by entering into the Community Specification
+Contributor License Agreement for the Specification. Contributor includes
+its Affiliates, assigns, agents, and successors in interest.
 
-6. Haftungsbeschränkung
+9.5. Control. “Control” means direct or indirect control of more
+than 50% of the voting power to elect directors of that corporation,
+or for any other entity, the power to direct management of such entity.
 
-DER LIZENZGEBER HAFTET IHNEN GEGENÜBER IN BEZUG AUF SCHÄDEN AUS DER VERLETZUNG DES LEBENS, DES KÖRPERS ODER DER GESUNDHEIT NUR, SOFERN IHM WENIGSTENS FAHRLÄSSIGKEIT VORZUWERFEN IST, FÜR SONSTIGE SCHÄDEN NUR BEI GROBER FAHRLÄSSIGKEIT ODER VORSATZ, UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG.
+9.6. Draft Specification. “Draft Specification” means all versions
+of the material (except an Approved Specification) developed by this
+Working Group for the purpose of creating, commenting on, revising,
+updating, modifying, or adding to any document that is to be considered
+for inclusion in the Approved Specification.
 
-7. Erlöschen
+9.7. Exclusion Notice. “Exclusion Notice” means a written notice
+made by making a pull request or commit to the repository’s Notices.md
+file that identifies patents that Contributor is excluding from its
+patent licensing commitments under this License. The Exclusion Notice
+for issued patents and published applications must include the Draft
+Specification’s name, patent number(s) or title and application
+number(s), as the case may be, for each of the issued patent(s) or
+pending patent application(s) that the Contributor is excluding from the
+royalty-free licensing commitment set forth in this License. If an issued
+patent or pending patent application that may contain Necessary Claims
+is not set forth in the Exclusion Notice, those Necessary Claims shall
+continue to be subject to the licensing commitments under this License.
+The Exclusion Notice for unpublished patent applications must provide
+either: (i) the text of the filed application; or (ii) identification
+of the specific part(s) of the Draft Specification whose implementation
+makes the excluded claim a Necessary Claim. If (ii) is chosen, the
+effect of the exclusion will be limited to the identified part(s) of
+the Draft Specification.
 
-     a. Diese Lizenz und die durch sie eingeräumten Nutzungsrechte erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder einer weiteren Handlung einer der Vertragsparteien bedarf. Mit natürlichen oder juristischen Personen, die den Schutzgegenstand enthaltende Sammelwerke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort.
+9.8. Implementation. “Implementation” means making, using, selling,
+offering for sale, importing or distributing any implementation of the
+Specification 1) only to the extent it implements the Specification and 2)
+so long as all required portions of the Specification are implemented.
 
-     b. Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand ausläuft. Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand unter anderen Lizenzbedingungen anzubieten oder die eigene Weitergabe des Schutzgegenstandes jederzeit einzustellen, solange die Ausübung dieses Rechts nicht einer Kündigung oder einem Widerruf dieser Lizenz (oder irgendeiner Weiterlizenzierung, die auf Grundlage dieser Lizenz bereits erfolgt ist bzw. zukünftig noch erfolgen muss) dient und diese Lizenz unter Berücksichtigung der oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam bleibt.
+9.9. License. “License” means this Community Specification License.
 
-8. Sonstige Bestimmungen
+9.10. Licensee. “Licensee” means any person or entity that has
+indicated its acceptance of the License as set forth in Section 2.1.3.
+Licensee includes its Affiliates, assigns, agents, and successors in
+interest.
 
-     a. Jedes Mal wenn Sie den Schutzgegenstand für sich genommen oder als Teil eines Sammelwerkes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
+9.11. Necessary Claims. “Necessary Claims” are those patent claims, if
+any, that a party owns or controls, including those claims later acquired,
+that are necessary to implement the required portions (including the
+required elements of optional portions) of the Specification that are
+described in detail and not merely referenced in the Specification.
 
-     b. Sollte eine Bestimmung dieser Lizenz unwirksam sein, so bleibt davon die Wirksamkeit der Lizenz im Übrigen unberührt.
+9.12. Specification. “Specification” means a Draft Specification
+or Approved Specification included in the Working Group’s repository
+subject to this License, and the version of the Specification implemented
+by the Licensee.
 
-     c. Keine Bestimmung dieser Lizenz soll als abbedungen und kein Verstoß gegen sie als zulässig gelten, solange die von dem Verzicht oder von dem Verstoß betroffene Seite nicht schriftlich zugestimmt hat.
+9.13. Scope. “Scope” has the meaning as set forth in the accompanying
+Scope.md file included in this Specification’s repository. Changes
+to Scope do not apply retroactively. If no Scope is provided, each
+Contributor’s Necessary Claims are limited to that Contributor’s
+Contributions.
 
-     d. Diese Lizenz (zusammen mit in ihr ausdrücklich vorgesehenen Erlaubnissen, Mitteilungen und Zustimmungen, soweit diese tatsächlich vorliegen) stellt die vollständige Vereinbarung zwischen dem Lizenzgeber und Ihnen in Bezug auf den Schutzgegenstand dar. Es bestehen keine Abreden, Vereinbarungen oder Erklärungen in Bezug auf den Schutzgegenstand, die in dieser Lizenz nicht genannt sind. Rechtsgeschäftliche Änderungen des Verhältnisses zwischen dem Lizenzgeber und Ihnen sind nur über Modifikationen dieser Lizenz möglich. Der Lizenzgeber ist an etwaige zusätzliche, einseitig durch Sie übermittelte Bestimmungen nicht gebunden. Diese Lizenz kann nur durch schriftliche Vereinbarung zwischen Ihnen und dem Lizenzgeber modifiziert werden. Derlei Modifikationen wirken ausschließlich zwischen dem Lizenzgeber und Ihnen und wirken sich nicht auf die Dritten gemäß Ziffern 8.a) angeboteten Lizenzen aus.
+9.14. Working Group. “Working Group” means this project to develop
+specifications, standards, best practices, guidelines, and other similar
+materials under this License.
 
-     e. Sofern zwischen Ihnen und dem Lizenzgeber keine anderweitige Vereinbarung getroffen wurde und soweit Wahlfreiheit besteht, findet auf diesen Lizenzvertrag das Recht der Bundesrepublik Deutschland Anwendung.
 
-Creative Commons Notice
 
-Creative Commons ist nicht Partei dieser Lizenz und übernimmt keinerlei Gewähr oder dergleichen in Bezug auf den Schutzgegenstand. Creative Commons haftet Ihnen oder einer anderen Partei unter keinem rechtlichen Gesichtspunkt für irgendwelche Schäden, die - abstrakt oder konkret, zufällig oder vorhersehbar - im Zusammenhang mit dieser Lizenz entstehen. Unbeschadet der vorangegangen beiden Sätze, hat Creative Commons alle Rechte und Pflichten eines Lizenzgebers, wenn es sich ausdrücklich als Lizenzgeber im Sinne dieser Lizenz bezeichnet.
+The text of this Community Specification License is Copyright 2020
+Joint Development Foundation and is licensed under the Creative
+Commons Attribution 4.0 International License available at
+https://creativecommons.org/licenses/by/4.0/.
 
-Creative Commons gewährt den Parteien nur insoweit das Recht, das Logo und die Marke "Creative Commons" zu nutzen, als dies notwendig ist, um der Öffentlichkeit gegenüber kenntlich zu machen, dass der Schutzgegenstand unter einer CCPL steht. Ein darüber hinaus gehender Gebrauch der Marke "Creative Commons" oder einer verwandten Marke oder eines verwandten Logos bedarf der vorherigen schriftlichen Zustimmung von Creative Commons. Jeder erlaubte Gebrauch richtet sich nach der Creative Commons Marken-Nutzungs-Richtlinie in der jeweils aktuellen Fassung, die von Zeit zu Zeit auf der Website veröffentlicht oder auf andere Weise auf Anfrage zugänglich gemacht wird. Zur Klarstellung: Die genannten Einschränkungen der Markennutzung sind nicht Bestandteil dieser Lizenz.
-
-Creative Commons kann kontaktiert werden über https://creativecommons.org/.
+SPDX-License-Identifier: CC-BY-4.0

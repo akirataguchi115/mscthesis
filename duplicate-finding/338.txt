@@ -1,26 +1,39 @@
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+NVIDIA Corporation("NVIDIA") supplies this software to you in
+consideration of your agreement to the following terms, and your use,
+installation, modification or redistribution of this NVIDIA software
+constitutes acceptance of these terms.  If you do not agree with these
+terms, please do not use, install, modify or redistribute this NVIDIA
+software.
 
-The above copyright notice and this permission notice shall be included in all
-copies of the Software and its Copyright notices. In addition publicly
-documented acknowledgment must be given that this software has been used if no
-source code of this software is made available publicly. This includes
-acknowledgments in either Copyright notices, Manuals, Publicity and Marketing
-documents or any documentation provided with any product containing this
-software. This License does not apply to any software that links to the
-libraries provided by this software (statically or dynamically), but only to the
-software provided.
+In consideration of your agreement to abide by the following terms, and
+subject to these terms, NVIDIA grants you a personal, non-exclusive
+license, under NVIDIA's copyrights in this original NVIDIA software (the
+"NVIDIA Software"), to use, reproduce, modify and redistribute the
+NVIDIA Software, with or without modifications, in source and/or binary
+forms; provided that if you redistribute the NVIDIA Software, you must
+retain the copyright notice of NVIDIA, this notice and the following
+text and disclaimers in all such redistributions of the NVIDIA Software.
+Neither the name, trademarks, service marks nor logos of NVIDIA
+Corporation may be used to endorse or promote products derived from the
+NVIDIA Software without specific prior written permission from NVIDIA.
+Except as expressly stated in this notice, no other rights or licenses
+express or implied, are granted by NVIDIA herein, including but not
+limited to any patent rights that may be infringed by your derivative
+works or by other works in which the NVIDIA Software may be
+incorporated. No hardware is licensed hereunder. 
 
-Please see the COPYING.PLAIN for a plain-english explanation of this notice and
-it's intent.
+THE NVIDIA SOFTWARE IS BEING PROVIDED ON AN "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+INCLUDING WITHOUT LIMITATION, WARRANTIES OR CONDITIONS OF TITLE,
+NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
+ITS USE AND OPERATION EITHER ALONE OR IN COMBINATION WITH OTHER
+PRODUCTS.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+IN NO EVENT SHALL NVIDIA BE LIABLE FOR ANY SPECIAL, INDIRECT,
+INCIDENTAL, EXEMPLARY, CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, LOST PROFITS; PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) OR ARISING IN ANY WAY
+OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF THE
+NVIDIA SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT,
+TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF
+NVIDIA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

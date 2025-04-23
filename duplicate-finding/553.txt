@@ -1,13 +1,20 @@
-This program is free software; you can redistribute it freely.
-Use it at your own risk; there is NO WARRANTY.
+TERMS AND CONDITIONS OF USE
 
-Redistribution of modified versions is permitted provided that the following
-conditions are met:
+Redistribution and use in source form, with or without modification, are
+permitted provided that redistributions of source code must retain the
+above copyright notice, this list of conditions and the following
+disclaimer.
 
-1. All copyright & permission notices are preserved.
+This software is provided `as is' by Mark Salyzyn and any express or implied
+warranties, including, but not limited to, the implied warranties of
+merchantability and fitness for a particular purpose, are disclaimed. In no
+event shall Mark Salyzyn be liable for any direct, indirect, incidental,
+special, exemplary or consequential damages (including, but not limited to,
+procurement of substitute goods or services; loss of use, data, or profits;
+or business interruptions) however caused and on any theory of liability,
+whether in contract, strict liability, or tort (including negligence or
+otherwise) arising in any way out of the use of this software, even if
+advised of the possibility of such damage.
 
-2.a) Only changes required for packaging or porting are made. 
-or
-2.b) It is clearly stated who last changed the program. The program is renamed
-or the version number is of the form x.y.z, where x.y is the version of the
-original program and z is an arbitrary suffix.
+Any restrictions or encumberances added to this source code or derivitives,
+is prohibited.

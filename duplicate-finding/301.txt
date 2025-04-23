@@ -1,46 +1,203 @@
-Open Use of Data Agreement v1.0
-This is the Open Use of Data Agreement, Version 1.0 (the "O-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
+LaTeX Project Public License
+============================
+ LPPL Version 1.0  1999-03-01
 
-Provision of the Data
+Copyright 1999 LaTeX3 Project
+    Everyone is permitted to copy and distribute verbatim copies
+    of this license document, but modification is not allowed.
 
-1.1. You may use, modify, and distribute the Data made available to you by the Data Provider under this O-UDA if you follow the O-UDA's terms.
+Preamble
+========
+The LaTeX Project Public License (LPPL) is the license under which the
+base LaTeX distribution is distributed. As described below you may use
+this licence for any software that you wish to distribute. 
 
-1.2. Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the O-UDA.
+It may be particularly suitable if your software is TeX related (such
+as a LaTeX package file) but it may be used for any software, even if
+it is unrelated to TeX.
 
-1.3 This O-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+To use this license, the files of your distribution should have an
+explicit copyright notice giving your name and the year, together
+with a reference to this license.
 
-No Restrictions on Use or Results
+A typical example would be
 
-2.1. The O-UDA does not impose any restriction with respect to:
+   %% pig.sty
+   %% Copyright 2001 M. Y. Name
 
-2.1.1. the use or modification of Data; or
+   % This program can redistributed and/or modified under the terms
+   % of the LaTeX Project Public License Distributed from CTAN
+   % archives in directory macros/latex/base/lppl.txt; either
+   % version 1 of the License, or (at your option) any later version.
 
-2.1.2. the use, modification, or distribution of Results.
+Given such a notice in the file, the conditions of this document would
+apply, with:
 
-Redistribution of Data
+`The Program' referring to the software `pig.sty'  and 
+`The Copyright Holder' referring to the person `M. Y. Name'.
 
-3.1. You may redistribute the Data under terms of your choice, so long as:
+To see a real example, see the file legal.txt which carries the
+copyright notice for the base latex distribution.
 
-3.1.1. You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and
+This license gives terms under which files of The Program may be
+distributed and modified. Individual files may have specific further
+constraints on modification, but no file should have restrictions on
+distribution other than those specified below. 
+This is to ensure that a distributor wishing to distribute a complete
+unmodified copy of The Program need only check the conditions in this
+file, and does not need to check every file in The Program for extra
+restrictions. If you do need to modify the distribution terms of some
+files, do not refer to this license, instead distribute The Program
+under a different license. You may use the parts of the text of LPPL as
+a model for your own license, but your license should not directly refer
+to the LPPL or otherwise give the impression that The Program is
+distributed under the LPPL. 
 
-3.1.2. Your terms include a warranty disclaimer and limitation of liability for Upstream Data Providers at least as broad as those contained in Section 4.2 and 4.3 of the O-UDA.
 
-No Warranty, Limitation of Liability
+The LaTeX Project Public License
+================================
+Terms And Conditions For Copying, Distribution And Modification
+===============================================================
 
-4.1. Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
 
-4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+WARRANTY
+========
+There is no warranty for The Program, to the extent permitted by
+applicable law.  Except when otherwise stated in writing, The
+Copyright Holder provides The Program `as is' without warranty of any
+kind, either expressed or implied, including, but not limited to, the
+implied warranties of merchantability and fitness for a particular
+purpose.  The entire risk as to the quality and performance of the
+program is with you.  Should The Program prove defective, you assume
+the cost of all necessary servicing, repair or correction.
 
-4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+In no event unless required by applicable law or agreed to in writing
+will The Copyright Holder, or any of the individual authors named in
+the source for The Program, be liable to you for damages, including
+any general, special, incidental or consequential damages arising out
+of any use of The Program or out of inability to use The Program
+(including but not limited to loss of data or data being rendered
+inaccurate or losses sustained by you or by third parties as a result
+of a failure of The Program to operate with any other programs), even
+if such holder or other party has been advised of the possibility of
+such damages.
 
-Definitions
 
-5.1. "Data" means the material you receive under the O-UDA in modified or unmodified form, but not including Results.
+DISTRIBUTION
+============
+Redistribution of unchanged files is allowed provided that all files
+that make up the distribution of The Program are distributed.
+In particular this means that The Program has to be distributed
+including its documentation if documentation was part of the original
+distribution.
 
-5.2. "Data Provider" means the source from which you receive the Data and with whom you enter into the O-UDA.
+The distribution of The Program will contain a prominent file
+listing all the files covered by this license.
 
-5.3. "Downstream Recipient" means any person or persons who receives the Data directly or indirectly from you in accordance with the O-UDA.
+If you receive only some of these files from someone, complain!
 
-5.4. "Result" means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
+The distribution of changed versions of certain files included in the
+The Program, and the reuse of code from The Program, are allowed
+under the following restrictions:
 
-5.5. "Upstream Data Providers" means the source or sources from which the Data Provider directly or indirectly received, under the terms of the O-UDA, material that is included in the Data.
+ * It is allowed only if the legal notice in the file does not
+   expressly forbid it.
+   See note below, under "Conditions on individual files".
+ 
+ * You rename the file before you make any changes to it, unless the
+   file explicitly says that renaming is not required.  Any such changed
+   files must be distributed under a license that forbids distribution
+   of those files, and any files derived from them, under the names used
+   by the original files in the distribution of The Program.
+
+ * You change any `identification string' in The Program to clearly 
+   indicate that the file is not part of the standard system.
+
+ * If The Program includes an `error report address' so that errors
+   may be reported to The Copyright Holder, or other specified
+   addresses, this address must be changed in any modified versions of
+   The Program, so that reports for files not maintained by the
+   original program maintainers are directed to the maintainers of the
+   changed files. 
+
+ * You acknowledge the source and authorship of the original version
+   in the modified file.
+
+ * You also distribute the unmodified version of the file or
+   alternatively provide sufficient information so that the
+   user of your modified file can be reasonably expected to be
+   able to obtain an original, unmodified copy of The Program.
+   For example, you may specify a URL to a site that you expect
+   will freely provide the user with a copy of The Program (either
+   the version on which your modification is based, or perhaps a
+   later version).
+
+ * If The Program is intended to be used with, or is based on, LaTeX,
+   then files with the following file extensions which have special
+   meaning in LaTeX Software, have special modification rules under the
+   license:
+ 
+    - Files with extension `.ins' (installation files): these files may
+      not be modified at all because they contain the legal notices
+      that are placed in the generated files.
+ 
+    - Files with extension `.fd' (LaTeX font definitions files): these
+      files are allowed to be modified without changing the name, but
+      only to enable use of all available fonts and to prevent attempts
+      to access unavailable fonts. However, modified files are not
+      allowed to be distributed in place of original files.
+ 
+    - Files with extension `.cfg' (configuration files): these files
+      can be created or modified to enable easy configuration of the
+      system.  The documentation in cfgguide.tex in the base LaTeX
+      distribution describes when it makes sense to modify or generate
+      such files.
+ 
+
+The above restrictions are not intended to prohibit, and hence do
+not apply to, the updating, by any method, of a file so that it
+becomes identical to the latest version of that file in The Program.
+
+========================================================================
+
+NOTES
+=====
+We believe that these requirements give you the freedom you to make
+modifications that conform with whatever technical specifications you
+wish, whilst maintaining the availability, integrity and reliability of
+The Program.  If you do not see how to achieve your goal whilst
+adhering to these requirements then read the document cfgguide.tex
+in the base LaTeX distribution for suggestions. 
+
+Because of the portability and exchangeability aspects of systems
+like LaTeX, The LaTeX3 Project deprecates the distribution of
+non-standard versions of components of LaTeX or of generally available
+contributed code for them but such distributions are permitted under the
+above restrictions.
+
+The document modguide.tex in the base LaTeX distribution details
+the reasons for the legal requirements detailed above.
+Even if The Program is unrelated to LaTeX, the argument in
+modguide.tex may still apply, and should be read before
+a modified version of The Program is distributed.
+
+
+Conditions on individual files
+==============================
+The individual files may bear additional conditions which supersede
+the general conditions on distribution and modification contained in
+this file. If there are any such files, the distribution of The
+Program will contain a prominent file that lists all the exceptional
+files.
+
+Typical examples of files with more restrictive modification
+conditions would be files that contain the text of copyright notices.
+
+ * The conditions on individual files differ only in the
+   extent of *modification* that is allowed.
+
+ * The conditions on *distribution* are the same for all the files.
+   Thus a (re)distributor of a complete, unchanged copy of The Program
+   need meet only the conditions in this file; it is not necessary to
+   check the header of every file in the distribution to check that a
+   distribution meets these requirements.

@@ -1,59 +1,251 @@
-Attribution-NonCommercial 2.5
+Aladdin Free Public License
+(Version 9, September 18, 2000)
 
-CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
-License
+Copyright (C) 1994, 1995, 1997, 1998, 1999, 2000 Aladdin Enterprises,
+Menlo Park, California, U.S.A. All rights reserved.
 
-THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+    NOTE: This License is not the same as any of the GNU Licenses
+    published by the Free Software Foundation. Its terms are
+    substantially different from those of the GNU Licenses. If you are
+    familiar with the GNU Licenses, please read this license with
+    extra care.
 
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+Aladdin Enterprises hereby grants to anyone the permission to apply
+this License to their own work, as long as the entire License
+(including the above notices and this paragraph) is copied with no
+changes, additions, or deletions except for changing the first
+paragraph of Section 0 to include a suitable description of the work
+to which the license is being applied and of the person or entity that
+holds the copyright in the work, and, if the License is being applied
+to a work created in a country other than the United States, replacing
+the first paragraph of Section 6 with an appropriate reference to the
+laws of the appropriate country.
 
-1. Definitions
+This License is not an Open Source license: among other things, it
+places restrictions on distribution of the Program, specifically
+including sale of the Program. While Aladdin Enterprises respects and
+supports the philosophy of the Open Source Definition, and shares the
+desire of the GNU project to keep licensed software freely
+redistributable in both source and object form, we feel that Open
+Source licenses unfairly prevent developers of useful software from
+being compensated proportionately when others profit financially from
+their work. This License attempts to ensure that those who receive,
+redistribute, and contribute to the licensed Program according to the
+Open Source and Free Software philosophies have the right to do so,
+while retaining for the developer(s) of the Program the power to make
+those who use the Program to enhance the value of commercial products
+pay for the privilege of doing so.  0. Subject Matter This License
+applies to the computer programs known as "AFPL Ghostscript", "AFPL
+Ghostscript PCL5e", "AFPL Ghostscript PCL5c", and "AFPL Ghostscript
+PXL".  The "Program", below, refers to such program. The Program is a
+copyrighted work whose copyright is held by Artifex Software Inc.,
+located in San Rafael California and artofcode LLC, located in
+Benicia, California (the "Licensor"). Please note that AFPL
+Ghostscript is neither the program known as "GNU Ghostscript" nor the
+version of Ghostscript available for commercial licensing from Artifex
+Software Inc.
 
-"Collective Work" means a work, such as a periodical issue, anthology or encyclopedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole. A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this License.
-"Derivative Work" means a work based upon the Work or upon the Work and other pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which the Work may be recast, transformed, or adapted, except that a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this License. For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered a Derivative Work for the purpose of this License.
-"Licensor" means the individual or entity that offers the Work under the terms of this License.
-"Original Author" means the individual or entity who created the Work.
-"Work" means the copyrightable work of authorship offered under the terms of this License.
-"You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
-2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights arising from fair use, first sale or other limitations on the exclusive rights of the copyright owner under copyright law or other applicable laws.
+A "work based on the Program" means either the Program or any
+derivative work of the Program, as defined in the United States
+Copyright Act of 1976, such as a translation or a modification.
 
-3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+BY MODIFYING OR DISTRIBUTING THE PROGRAM (OR ANY WORK BASED ON THE
+PROGRAM), YOU INDICATE YOUR ACCEPTANCE OF THIS LICENSE TO DO SO, AND
+ALL ITS TERMS AND CONDITIONS FOR COPYING, DISTRIBUTING OR MODIFYING
+THE PROGRAM OR WORKS BASED ON IT. NOTHING OTHER THAN THIS LICENSE
+GRANTS YOU PERMISSION TO MODIFY OR DISTRIBUTE THE PROGRAM OR ITS
+DERIVATIVE WORKS. THESE ACTIONS ARE PROHIBITED BY LAW. IF YOU DO NOT
+ACCEPT THESE TERMS AND CONDITIONS, DO NOT MODIFY OR DISTRIBUTE THE
+PROGRAM.
 
-to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
-to create and reproduce Derivative Works;
-to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
-to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission Derivative Works;
-The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by Licensor are hereby reserved, including but not limited to the rights set forth in Sections 4(d) and 4(e).
+1. Licenses.
 
-4. Restrictions.The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+Licensor hereby grants you the following rights, provided that you
+comply with all of the restrictions set forth in this License and
+provided, further, that you distribute an unmodified copy of this
+License with the Program:
 
-You may distribute, publicly display, publicly perform, or publicly digitally perform the Work only under the terms of this License, and You must include a copy of, or the Uniform Resource Identifier for, this License with every copy or phonorecord of the Work You distribute, publicly display, publicly perform, or publicly digitally perform. You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties. You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement. The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this License. If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any credit as required by clause 4(c), as requested. If You create a Derivative Work, upon notice from any Licensor You must, to the extent practicable, remove from the Derivative Work any credit as required by clause 4(c), as requested.
-You may not exercise any of the rights granted to You in Section 3 above in any manner that is primarily intended for or directed toward commercial advantage or private monetary compensation. The exchange of the Work for other copyrighted works by means of digital file-sharing or otherwise shall not be considered to be intended for or directed toward commercial advantage or private monetary compensation, provided there is no payment of any monetary compensation in connection with the exchange of copyrighted works.
-If you distribute, publicly display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must keep intact all copyright notices for the Work and provide, reasonable to the medium or means You are utilizing: (i) the name of Original Author (or pseudonym, if applicable) if supplied, and/or (ii) if the Original Author and/or Licensor designate another party or parties (e.g. a sponsor institute, publishing entity, journal) for attribution in Licensor's copyright notice, terms of service or by other reasonable means, the name of such party or parties; the title of the Work if supplied; to the extent reasonably practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and in the case of a Derivative Work, a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
-For the avoidance of doubt, where the Work is a musical composition:
+(a) You may copy and distribute literal (i.e., verbatim) copies of the
+    Program's source code as you receive it throughout the world, in
+    any medium.
 
-Performance Royalties Under Blanket Licenses. Licensor reserves the exclusive right to collect, whether individually or via a performance rights society (e.g. ASCAP, BMI, SESAC), royalties for the public performance or public digital performance (e.g. webcast) of the Work if that performance is primarily intended for or directed toward commercial advantage or private monetary compensation.
-Mechanical Rights and Statutory Royalties. Licensor reserves the exclusive right to collect, whether individually or via a music rights agency or designated agent (e.g. Harry Fox Agency), royalties for any phonorecord You create from the Work ("cover version") and distribute, subject to the compulsory license created by 17 USC Section 115 of the US Copyright Act (or the equivalent in other jurisdictions), if Your distribution of such cover version is primarily intended for or directed toward commercial advantage or private monetary compensation.
-Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a sound recording, Licensor reserves the exclusive right to collect, whether individually or via a performance-rights society (e.g. SoundExchange), royalties for the public digital performance (e.g. webcast) of the Work, subject to the compulsory license created by 17 USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions), if Your public digital performance is primarily intended for or directed toward commercial advantage or private monetary compensation.
-5. Representations, Warranties and Disclaimer
+(b) You may modify the Program, create works based on the Program and
+    distribute copies of such throughout the world, in any medium.
 
-UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+2. Restrictions.
 
-6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+This license is subject to the following restrictions:
 
-7. Termination
+(a) Distribution of the Program or any work based on the Program by a
+    commercial organization to any third party is prohibited if any
+    payment is made in connection with such distribution, whether
+    directly (as in payment for a copy of the Program) or indirectly
+    (as in payment for some service related to the Program, or payment
+    for some product or service that includes a copy of the Program
+    "without charge"; these are only examples, and not an exhaustive
+    enumeration of prohibited activities). The following methods of
+    distribution involving payment shall not in and of themselves be a
+    violation of this restriction:
 
-This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Derivative Works or Collective Works from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
-Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
-8. Miscellaneous
+    (i) Posting the Program on a public access information storage and
+        retrieval service for which a fee is received for retrieving
+        information (such as an on-line service), provided that the
+        fee is not content-dependent (i.e., the fee would be the same
+        for retrieving the same volume of information consisting of
+        random data) and that access to the service and to the Program
+        is available independent of any other product or service. An
+        example of a service that does not fall under this section is
+        an on-line service that is operated by a company and that is
+        only available to customers of that company. (This is not an
+        exhaustive enumeration.)
 
-Each time You distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
-Each time You distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
-If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
-No term or provision of this License shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
-This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
-Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the Work. Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
+   (ii) Distributing the Program on removable computer-readable media,
+        provided that the files containing the Program are reproduced
+        entirely and verbatim on such media, that all information on
+        such media be redistributable for non-commercial purposes
+        without charge, and that such media are distributed by
+        themselves (except for accompanying documentation) independent
+        of any other product or service. Examples of such media
+        include CD-ROM, magnetic tape, and optical storage
+        media. (This is not intended to be an exhaustive list.) An
+        example of a distribution that does not fall under this
+        section is a CD-ROM included in a book or magazine. (This is
+        not an exhaustive enumeration.)
 
-Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time.
+(b) Activities other than copying, distribution and modification of
+    the Program are not subject to this License and they are outside
+    its scope. Functional use (running) of the Program is not
+    restricted, and any output produced through the use of the Program
+    is subject to this license only if its contents constitute a work
+    based on the Program (independent of having been made by running
+    the Program).
 
-Creative Commons may be contacted at http://creativecommons.org/.
+(c) You must meet all of the following conditions with respect to any
+    work that you distribute or publish that in whole or in part
+    contains or is derived from the Program or any part thereof ("the
+    Work"):
+
+    (i) If you have modified the Program, you must cause the Work to
+        carry prominent notices stating that you have modified the
+        Program's files and the date of any change. In each source
+        file that you have modified, you must include a prominent
+        notice that you have modified the file, including your name,
+        your e-mail address (if any), and the date and purpose of the
+        change;
+
+   (ii) You must cause the Work to be licensed as a whole and at no
+        charge to all third parties under the terms of this License;
+
+  (iii) If the Work normally reads commands interactively when run,
+        you must cause it, at each time the Work commences operation,
+        to print or display an announcement including an appropriate
+        copyright notice and a notice that there is no warranty (or
+        else, saying that you provide a warranty). Such notice must
+        also state that users may redistribute the Work only under the
+        conditions of this License and tell the user how to view the
+        copy of this License included with the Work. (Exceptions: if
+        the Program is interactive but normally prints or displays
+        such an announcement only at the request of a user, such as in
+        an "About box", the Work is required to print or display the
+        notice only under the same circumstances; if the Program
+        itself is interactive but does not normally print such an
+        announcement, the Work is not required to print an
+        announcement.);
+
+   (iv) You must accompany the Work with the complete corresponding
+        machine-readable source code, delivered on a medium
+        customarily used for software interchange. The source code for
+        a work means the preferred form of the work for making
+        modifications to it. For an executable work, complete source
+        code means all the source code for all modules it contains,
+        plus any associated interface definition files, plus the
+        scripts used to control compilation and installation of the
+        executable code. If you distribute with the Work any component
+        that is normally distributed (in either source or binary form)
+        with the major components (compiler, kernel, and so on) of the
+        operating system on which the executable runs, you must also
+        distribute the source code of that component if you have it
+        and are allowed to do so;
+
+    (v) If you distribute any written or printed material at all with
+        the Work, such material must include either a written copy of
+        this License, or a prominent written indication that the Work
+        is covered by this License and written instructions for
+        printing and/or displaying the copy of the License on the
+        distribution medium;
+
+   (vi) You may not impose any further restrictions on the recipient's
+        exercise of the rights granted herein.
+
+If distribution of executable or object code is made by offering the
+equivalent ability to copy from a designated place, then offering
+equivalent ability to copy the source code from the same place counts
+as distribution of the source code, even though third parties are not
+compelled to copy the source code along with the object code.
+
+3. Reservation of Rights.
+
+No rights are granted to the Program except as expressly set forth
+herein. You may not copy, modify, sublicense, or distribute the
+Program except as expressly provided under this License. Any attempt
+otherwise to copy, modify, sublicense or distribute the Program is
+void, and will automatically terminate your rights under this
+License. However, parties who have received copies, or rights, from
+you under this License will not have their licenses terminated so long
+as such parties remain in full compliance.
+
+4. Other Restrictions.
+
+If the distribution and/or use of the Program is restricted in certain
+countries for any reason, Licensor may add an explicit geographical
+distribution limitation excluding those countries, so that
+distribution is permitted only in or among countries not thus
+excluded. In such case, this License incorporates the limitation as if
+written in the body of this License.
+
+5. Limitations.
+
+THE PROGRAM IS PROVIDED TO YOU "AS IS," WITHOUT WARRANTY. THERE IS NO
+WARRANTY FOR THE PROGRAM, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY
+RIGHTS. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL LICENSOR, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
+ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT
+NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR
+LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM
+TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+6. General.
+
+This License is governed by the laws of the State of California,
+U.S.A., excluding choice of law rules.
+
+If any part of this License is found to be in conflict with the law,
+that part shall be interpreted in its broadest meaning consistent with
+the law, and no other parts of the License shall be affected.
+
+For United States Government users, the Program is provided with
+RESTRICTED RIGHTS. If you are a unit or agency of the United States
+Government or are acquiring the Program for any such unit or agency,
+the following apply:
+
+    If the unit or agency is the Department of Defense ("DOD"), the
+    Program and its documentation are classified as "commercial
+    computer software" and "commercial computer software
+    documentation" respectively and, pursuant to DFAR Section
+    227.7202, the Government is acquiring the Program and its
+    documentation in accordance with the terms of this License. If the
+    unit or agency is other than DOD, the Program and its
+    documentation are classified as "commercial computer software" and
+    "commercial computer software documentation" respectively and,
+    pursuant to FAR Section 12.212, the Government is acquiring the
+    Program and its documentation in accordance with the terms of this
+    License. 

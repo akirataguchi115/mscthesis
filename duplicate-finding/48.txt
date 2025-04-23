@@ -1,11 +1,3 @@
-<Font Name> is a Reserved Font Name for this Font Software.
-<Additional Font Name> is a Reserved Font Name for this Font Software.
-
-This Font Software is licensed under the SIL Open Font License, Version 1.0.
-No modification of the license is permitted, only verbatim copy is allowed.
-This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
-
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.0 - 22 November 2005
 -----------------------------------------------------------

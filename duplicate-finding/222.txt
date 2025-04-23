@@ -1,441 +1,108 @@
-GPL -PA
-GENERAL PUBLIC LICENSE
-FOR COMPUTER PROGRAMS
-OF THE PUBLIC ADMINISTRATION
-
-Version 1.1
-May 30th, 2005
-
-PRINCIPLES
-
-NOTE: These principles are not a part of the licensing agrement for
-the GPL-PA (General Public License for Computer Programs for the
-Public Administration) They have a merely informative nature and have
-the objective of guiding the interpretation of this LICENSE.
-
-This license:
-
-1.Establishes licensing norms for use, publication, distribution,
-reproduction and alterations for computer programs that are property
-of the Public Administration, in view of principles of legality and of
-the quality of being public present in article 37, head paragraph, of
-the Federal Constitution of 1988 and article 27, head paragraph, of
-the Constitution of the State of Paraná.
-
-2.Guarantees that any interested person may use, publish, distribute,
-reproduce or alter the PROGRAM hereby licensed, so that it fosters
-technical training, in the terms of articles 6, 205, 206, ll of the
-Federal Constitution of 1988, of article 203 of the Constitution of
-the State of Paraná and of articles 2 and 4 of Law 7.23284 (National
-Policy for Information Technology)
-
-3.Requires that the PROGRAM be distributed accompanied by its
-source-code, which will constitute an integral part that cannot be
-dissociated, requires that all those rights be transferred or
-relicensed free of charge.
-
-4.Admits that there may be charges for services rendered, such as the
-recording of a CD or similar media, delivery service, preparing
-alterations or customizations of the program, technical support and
-other;
-
-5.States that the PROGRAM does not have any warranty, given that it is
-not an object of commerce. The warranty will apply only for billed
-services, such as the ones listed in item 4, above, pursuant to
-applicable Law;
-
-6.It does not authorize the PROGRAM or its parts to be distributed
-upon payment and/or in systems that are merely compiled (proprietary
-systems);
-
-7.Has as its objective to make available to society the knowledge
-involved in the production of the PROGRAM hereby licensed, as well as
-to offer the possibility of full auditing of the way it works. The
-goal is to comply with what was stipulated in article 218 of the
-Federal Constitution of 1988, in articles 200 and 201 of the
-Constitution of the State of Paraná and in Law 7.232/84
-
-8.It does not imply the transfer of property of the PROGRAM, and does
-not constitute renouncing, abdication or concession of author rights.
-
-GPL -PA
-GENERAL PUBLIC LICENSE
-FOR COMPUTER PROGRAMS
-OF THE PUBLIC ADMINISTRATION
-
-Version 1.1
-May 30th, 2005
-
-1.PARTIES
-The parties to this license contract are:
-
-1.1.The holders of author rights for the PROGRAM specified at the end
-of this LICENCE – from now on called only LICENSOR - , and
-
-1.2.Any entity, institutional or individual- from now on called only
-LICENSEE – that USES, PUBLISHES, DISTRIBUTES, REPRODUCES OR ALTERS THE
-PROGRAM specified below.
-
-The parties have agreed to sign the present LICENSING CONTRACT OF USE,
-PUBLICATION, DISTRIBUTION, REPRODUCTION, AND ALTERATION OF OPEN CODE
-COMPUTER PROGRAM, referred to in this LICENSE as PROGRAM.
-
-2.TERMS USED IN THIS LICENSE
-
-2.1.The term “computer program” is defined in article of Law number
-9.609/98 as “the expression of an organized group of instructions in
-codified or natural language, contained in physical support of any
-nature, of necessary use in automatic machines of information
-treatment, devices, instruments or peripheral equipment, based on
-digital or analogue technology, in order to make them function in a
-particular way for a particular purpose".
-
-2.2.The PROGRAM licensing includes the following distribution forms:
-
-2.2.1.Compiled: term which represents any distribution prepared to be
-understood by the machines on which the execution of the PROGRAM is
-meant to occur;
-
-2.2.2.The source-code: term which represents the appropriate way to
-make alterations in the PROGRAM. The source-code distributed must
-include all the source-codes from all the modules contained in and
-necessary to the normal functioning of the PROGRAM, in addition to the
-routines used for controlling its compilation and installation. It is
-not necessary to include in the source-code anything that is already
-normally distributed, whether in the form of source-code or compiled,
-such as the components of the operational system in which the PROGRAM
-will be executed.
-
-2.3.It is the principle of this LICENSE to make public the necessary
-knowledge for the preparation and comprehension of the working
-mechanisms of the PROGRAM, so that all DISTRIBUTION is accompanied by
-the most appropriate form for its study and alteration.
-
-2.4.The term LICENSE or GPL-PA will be used hereafter to designate
-this licensing term. The concepts here expressed are those of the
-applicable legislation, notably of Law 9.61098.
-
-3.OBJECT: LICENSING FOR USE, PUBLICATION, DISTRIBUTION, REPRODUCTION
-AND ALTERATION OF COMPUTER PROGRAM.
-
-3.1.The object of this contract is the free-of-charge licensing, by
-the LICENSOR to the LICENSEEE, of the rights for USE, DISTRIBUTION,
-REPRODUCTION AND ALTERATION, understood according to article 5 of Law
-9.61098, of the PROGRAM that is property of the LICENSOR.
-
-3.2.The free-of-charge nature of the license here presented does not
-preclude charges for other services or costs, such as for example
-DEVELOPING, APROPRIATING, IMPLANTING or costs associated with the
-DISTRIBUTION OF THE PROGRAM.
-
-3.3.THE LICENSOR may not, after the PUBLICATION or DISTRIBUTION of the
-PROGRAM, object with regard to any of the rights which are the object
-of this term, when exercised according to what is hereby agreed.
-
-3.4.THE PROGRAM that is the object of this LICENSE has not been placed
-in the public domain and its property continues to belong to the
-LICENSOR, independently of registration, according to article 2, § 3
-of Law 9.609/98.
-
-4.LIMITATION OF WARRANTIES
-
-4.1.The rights for the PROGRAM are licensed free of charge, and are
-not , under any circumstances, the object of commerce. This LICENSE is
-a charitable, free-of charge contract, with the warranty foreseen by
-article 8 of Law 9.609/98 not applying to the PROGRAM, the same being
-true for ANY OF THE WARRANTIES foreseen by Law 8.078/90. The LICENSOR
-will not be compelled to provide support, assistance or explanations
-to the LICENSEE.
-
-4.2.As an exception, the holders of author’s rights for derived
-computer programs may guarantee the part that is due to them, without
-any commitment from the authors of originating versions.
-
-4.3.Except in the case of illegal act, fraud or violation by the
-LICENSOR, all damages arising from the USE, PUBLICATION, DISTRIBUTION,
-REPRODUCTION OR ALTERATION of the PROGRAM are the sole responsibility
-of the LICENSEE, or of the respective authors of each ALTERATION.
-
-4.4.Pursuant to article 114 of the Civil Code and article 4 of Law
-9.610/98, this LICENSE will be interpreted restrictively.
-
-5.GENERAL LICENSING CONDITIONS
-
-5.1.The USE, PUBLICATION, DISTRIBUTION, REPRODUCTION or ALTERATION of
-the PROGRAM in disagreement with the conditions established on the
-LICENSE are hereby forbidden.
-
-6.GENERAL RIGHTS OF THE LICENSEE
-
-6.1.The LICENSEE has the right to USE, PUBLISH, DISTRIBUTE, REPRODUCE
-or ALTER the PROGRAM according to what was stipulated in this LICENSE.
-
-7.GENERAL OBLIGATIONS OF THE LICENSEE
-
-7.1.When accepting this LICENSE, the LICENSEE obliges himself to all
-of its terms and conditions. In the event that the LICENSEE does not
-agree completely with what is set forth herein, he will not be allowed
-to USE, PUBLISH, DISTRIBUTE, REPRODUCE or ALTER the PROGRAM.
-
-7.2.The LICENSEE can never alter the PROGRAM or part of it, nor any
-computer program derived from the PROGRAM or part of it, in:
-
-7.2.1.a PROGRAM licensed through payment or compensation of any kind;
-
-7.2.2.a PROGRAM distributed without accompaniment or the offer of
-accompaniment of the respective source-code.
-
-7.3.The LICENSEE cannot withdraw the credits of the LICENSOR for the
-part of the Program that is due to him. According to item 8.3, below,
-such withdrawal can occur only when required by the LICENSOR, and as
-the exclusive way to exercise the moral right of objection to
-unauthorized alterations which damage his honor and reputation,
-according to what was foreseen in Article 2, paragraph 1 of Law
-9.609/98.
-
-7.4.Independently of registering the PROGRAM before the appropriate
-bodies by the LICENSOR, the LICENSEE also commits himself not to
-register the PROGRAM, or any aspect of it, and not to seek any
-equivalent way of protection or appropriation with the objective of
-restricting the full transference to third parties of all the rights
-that are object of this LICENSE. Thus, as an example, the LICENSEE is
-forbidden from seeking patents for the PROGRAM or registering the name
-or any other distinctive sign of it before the INPI.
+Creative Commons Namensnennung 3.0 Deutschland
 
-8.GENERAL RIGHTS OF THE LICENSOR
-
-8.1.The LICENSOR retains author rights to claim the paternity of the
-PROGRAM, according to what is set forth in Law 9.609/98, in article 2,
-paragraph 1 .
-
-8.2.It is also the right of the LICENSOR to have all the conventional
-signs indicating his authorship, placed by him or at his request, kept
-the same way as originally placed. This right is extended also to
-derived computer programs.
-
-8.3.However, the LICENSOR may, at any time, request the removal of all
-the conventional signs indicating his authorship, placed by him or at
-his request, of a computer program derived from the PROGRAM when he
-judges that the alterations performed may damage his honor or
-reputation.
-
-9.GENERAL OBLIGATIONS OF THE LICENSOR
-
-9.1.The LICENSOR must always DISTRIBUTE the PROGRAM in two formats,
-namely, compiled and source-code, having observed the dispositions of
-item 12.1, below.
-
-9.2.The LICENSOR may never revoke any right given hereby; he also may
-not alter the rights of any previous versions of the PROGRAM already
-licensed.
-
-9.3.It is the obligation of the LICENSOR, to ensure that the PROGRAM
-may be distributed according to this LICENSE, to waive the right to
-object to alterations to the PROGRAM. He may, in the event that he
-disagrees with the alterations performed in computer programs derived
-from the PROGRAM, request the elimination of his distinctive signs
-placed on the derived program, according to item 8.3, above.
-
-10.USE OF THE PROGRAM
-
-10.1.The USE of the PROGRAM is allowed for all interested persons,
-provided the terms of this LICENSE are respected.
-
-10.1.1.By USE it is to be understood: the employment of the PROGRAM
-under normal conditions, in accordance to what is described in its
-technical documentation.
-
-10.1.2.The USE can also relate to the source-code form of the PROGRAM,
-which purpose is to make public the structure of the compiled form of
-the program, as well as to allow the development of new derived
-computer programs or programs that use part of the PROGRAM.
+  CREATIVE COMMONS IST KEINE RECHTSANWALTSKANZLEI UND LEISTET KEINE RECHTSBERATUNG. DIE BEREITSTELLUNG DIESER LIZENZ FÜHRT ZU KEINEM MANDATSVERHÄLTNIS. CREATIVE COMMONS STELLT DIESE INFORMATIONEN OHNE GEWÄHR ZUR VERFÜGUNG. CREATIVE COMMONS ÜBERNIMMT KEINE GEWÄHRLEISTUNG FÜR DIE GELIEFERTEN INFORMATIONEN UND SCHLIEßT DIE HAFTUNG FÜR SCHÄDEN AUS, DIE SICH AUS DEREN GEBRAUCH ERGEBEN.
 
-10.2.There are no restrictions to USE of the PROGRAM for commercial
-activities of the LICENSEE, as long as the terms of this LICENSE are
-respected, notably the obligations of item 7, above.
+Lizenz
 
-10.3.In the event that parts of the PROGRAM are used in other computer
-programs, these must necessarily be licensed by this LICENSE. As an
-exception to this rule, the computer program that uses parts of the
-PROGRAM may be licensed in a different way provided its normal
-functioning is independent of the copied part and the latter is
-accompanied by its source-code form.
-
-10.4.Regarding works derived from the PROGRAM, it is understood, for
-all purposes, that the LICENSOR is the author of the derivations.
-
-11.PUBLICATION OF THE PROGRAM
+DER GEGENSTAND DIESER LIZENZ (WIE UNTER "SCHUTZGEGENSTAND" DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER CREATIVE COMMONS PUBLIC LICENSE ("CCPL", "LIZENZ" ODER "LIZENZVERTRAG") ZUR VERFÜGUNG GESTELLT. DER SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER ANDERE GESETZE GESCHÜTZT. JEDE FORM DER NUTZUNG DES SCHUTZGEGENSTANDES, DIE NICHT AUFGRUND DIESER LIZENZ ODER DURCH GESETZE GESTATTET IST, IST UNZULÄSSIG.
 
-11.1.The LICENSEE may freely PUBLISH the PROGRAM, in any medium and
-for any purpose.
-
-11.2.Any PUBLICATION OF the PROGRAM shall be accompanied by a complete
-copy of this LICENSE, which is an integral part of the PROGRAM, in
-accordance with article 9 of Law 9.609/98.
-
-11.3.When it is in source-code format, the PROGRAM must contain, at
-the beginning of all text files integrating it, reference to this
-LICENSE, which must be done in the following manner:
-
-BEGIN COMMENT MARKER
-
-This program is licensed in accordance with the GPL-PA (GENERAL PUBLIC
-LICENSE FOR COMPUTER PROGRAMS OF THE PUBLIC ADMINISTRATION), version
-1.1 or any later version.
-
-The GPL-PA shall accompany all PUBLICATION, DISTRIBUTION and
-REPRODUCTION of this PROGRAM.
-
-In the event that a copy of the GPL-PA is not available together with
-this Program, you may contact the LICENSOR or directly access:
-
-http://www.celepar.pr.gov.br/licenca/LPG-AP.pdf
-
-In order to USE, PUBLISH, DISTRIBUTE, REPRODUCE or ALTER the PROGRAM
-it is necessary to agree with the terms of the GPL-PA .
-
-END COMMENT MARKER 11.4.In the event that the PROGRAM is a collective
-work, according to what was specified in item13, article 88 of the Law
-9610/98 will not apply to the PUBLICATION.
-
-12.DISTRIBUTION OF THE PROGRAM
-
-12.1.The rights of DISTRIBUTION of the PROGRAM apply to the compiled
-and source-code forms. The LICENSEE may distribute the program
-concomitantly in the two forms mentioned (compiled and source-code) or
-even with a valid offer of distribution of both forms, following the
-terms below.
+DURCH DIE AUSÜBUNG EINES DURCH DIESE LIZENZ GEWÄHRTEN RECHTS AN DEM SCHUTZGEGENSTAND ERKLÄREN SIE SICH MIT DEN LIZENZBEDINGUNGEN RECHTSVERBINDLICH EINVERSTANDEN. SOWEIT DIESE LIZENZ ALS LIZENZVERTRAG ANZUSEHEN IST, GEWÄHRT IHNEN DER LIZENZGEBER DIE IN DER LIZENZ GENANNTEN RECHTE UNENTGELTLICH UND IM AUSTAUSCH DAFÜR, DASS SIE DAS GEBUNDENSEIN AN DIE LIZENZBEDINGUNGEN AKZEPTIEREN.
 
-12.2.The partial DISTRIBUTION of the PROGRAM, which includes only the
-source-code or only the compiled form, is forbidden. Thus, the
-DISTRIBUTION must obey one of the following options:
+1. Definitionen
 
-12.2.1.Include the complete compiled form and the source-code form,
-which shall be distributed in a medium or media habitually used to
-exchange software; or,
+     a. Der Begriff "Abwandlung" im Sinne dieser Lizenz bezeichnet das Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes, solange die eigenpersönlichen Züge des Schutzgegenstandes darin nicht verblassen und daran eigene Schutzrechte entstehen. Das kann insbesondere eine Bearbeitung, Umgestaltung, Änderung, Anpassung, Übersetzung oder Heranziehung des Schutzgegenstandes zur Vertonung von Laufbildern sein. Nicht als Abwandlung des Schutzgegenstandes gelten seine Aufnahme in eine Sammlung oder ein Sammelwerk und die freie Benutzung des Schutzgegenstandes.
 
-12.2.2.Include the compiled form and a written offer, with at least a
-three-year validity, to provide any interested person, for a cost
-which can not be superior to that of the distribution, a complete copy
-of the corresponding source-code form, in a medium or media usually
-used for exchanging software; or,
+     b. Der Begriff "Sammelwerk" im Sinne dieser Lizenz meint eine Zusammenstellung von literarischen, künstlerischen oder wissenschaftlichen Inhalten, sofern diese Zusammenstellung aufgrund von Auswahl und Anordnung der darin enthaltenen selbständigen Elemente eine geistige Schöpfung darstellt, unabhängig davon, ob die Elemente systematisch oder methodisch angelegt und dadurch einzeln zugänglich sind oder nicht.
 
-12.2.3.Include the compiled form and the information received by the
-LICENSEE regarding the offer to distribute the corresponding
-source-code. (This alternative is allowed only for non-commercial
-distribution and only if the program has been received in its compiled
-form accompanied by this offer, according with item 12.2.2, above).
+     c. "Verbreiten" im Sinne dieser Lizenz bedeutet, den Schutzgegenstand oder Abwandlungen im Original oder in Form von Vervielfältigungsstücken, mithin in körperlich fixierter Form der Öffentlichkeit anzubieten oder in Verkehr zu bringen.
 
-12.3.Any DISTRIBUTION of the PROGRAM shall be accompanied by a copy of
-this LICENSE.
+     d. Der "Lizenzgeber" im Sinne dieser Lizenz ist diejenige natürliche oder juristische Person oder Gruppe, die den Schutzgegenstand unter den Bedingungen dieser Lizenz anbietet und insoweit als Rechteinhaberin auftritt.
 
-12.4.There is no restrictioin to the DISTRIBUTION of the PROGRAM for
-commercial purposes, if it is clear that there will be no charges for
-the PROGRAM, but only for the means and services of distribution.
-
-13.REPRODUCTION OF THE PROGRAM
-
-13.1.There are no restrictions regarding the number of copies of the
-PROGRAM that the LICENSEE can make. Its REPRODUCTION is free in any
-medium, but it should respect the restrictions on item 11, according
-to the destination of each REPRODUCTION.
-
-13.2.Any REPRODUCTION of the PROGRAM must be accompanied by a copy of
-this LICENSE, according to item 12.3, above.
-
-14.ALTERATION OF THE PROGRAM
-
-14.1.The LICENSEE is allowed to make alterations to the PROGRAM. Any
-ALTERATION, however, must be identified and acknowledged in the
-source-code, for purposes of identification of authorship.
-
-14.2.It is forbidden to make alterations in the credits and
-distinctive signs placed by the LICENSOR and by any author of
-originating versions, except when allowed explicitly by the LICENSOR.
-
-14.3.The COMPUTER PROGRAMS resulting from the alteration of the
-PROGRAM will also be subjected to this LICENSE, whether it is a new
-program or only a new version of the PROGRAM.
-
-14.4.The authors of the PROGRAM will be able to use other forms of
-licensing for their contribution part, if it may be used separately,
-according to article 15, paragraph 2 of Law 9.610/98.
-
-14.5.A PROGRAM that is subject to the GPL–PA will always have a
-reference to this LICENSE and to its address on the Internet (URL) in
-a place that is easily accessed by users of the PROGRAM.
-
-14.6.In the cases in which the PROGRAM has the participation of
-different people for its preparation, the aforementioned will be
-considered a collective work in the terms of article 5,Vlll, h of Law
-9610/98.the ownership rights are retained under the responsibility of
-the organizer- in the present case, the LICENSOR.
-
-14.7.The inclusion of contributions of third parties in the collective
-work hereby licensed, when described in this manner, is assumed to be
-free of charge. Authors other than the organizer of the collective
-work abdicate their ownership rights over it, as well as the right
-foreseen in article 88, ll of Law 9.610/98,referring to the
-publication of the names of all the participants of the work.
-
-15.ATTACHEMENTS TO THIS LICENSE
-
-15.1.This LICENSE does not allow any alteration in its content, not
-even for validating its integrity. However, as an alternative for
-small adaptations or additions, it accepts attachments in separate
-files, provided they have been approved by the LICENSOR.
-
-15.2.Such attachments cannot, under any circumstance, conflict with
-the content of this license, and any such contrary dispositions shall
-be null and void.
-
-15.3.When the LICENSE is accompanied by attachments, these will be
-considered a part of the LICENSE and must accompany all subsequent
-licensing.
-
-16.TERM
-
-16.1.The present instrument will be valid for the period of 50 (fifty)
-years, in the terms of article 2, paragraph 2, of Law 9.609/98.
-
-17.CESSATION OF LICENCING
-
-17.1.The lack of observance of any of the clauses of this license will
-result in the immediate cessation of all rights of the LICENSEE over
-the PROGRAM, without the need for denouncing this text.
-
-NEW VERSIONS OF THIS LICENSE
-
-17.2.The current version of this LICENSE, along with the previous
-ones, shall be available at
-[http://www.celepar.pr.gov.br/licenca/LPG-AP.pdf].
-
-17.3.The redistribution of this PROGRAM may be carried out using the
-version of this LICENSE that accompanies it, or the most recent
-available version at the address cited above.
-
-17.4.The new versions of the LICENSE cannot, however, under any
-circumstance, withdraw rights already guaranteed for any of the
-parties in the version in force when accepted.
-
-18.VENUE
-
-18.1.The parties choose the forum of the judiciary district or
-headquarters of the holder of author rights of the PROGRAM as venue,
-renouncing any other, regardless of how privileged it may be, in order
-to resolve questions arising form the present instrument which cannot
-be resolved extrajudicially or administratively.
-
-I. LICENSOR:
-Name:
-Identification Document:
-Address:
-Postal Code:
-Neighborhood:
-City:
-State:
-Country:
-Web-site:
-Contact E-mail:
-Telephone:
-Legal Responsible person: 
+     e. "Rechteinhaber" im Sinne dieser Lizenz ist der Urheber des Schutzgegenstandes oder jede andere natürliche oder juristische Person oder Gruppe von Personen, die am Schutzgegenstand ein Immaterialgüterrecht erlangt hat, welches die in Abschnitt 3 genannten Handlungen erfasst und bei dem eine Einräumung von Nutzungsrechten oder eine Weiterübertragung an Dritte möglich ist.
+
+     f. Der Begriff "Schutzgegenstand" bezeichnet in dieser Lizenz den literarischen, künstlerischen oder wissenschaftlichen Inhalt, der unter den Bedingungen dieser Lizenz angeboten wird. Das kann insbesondere eine persönliche geistige Schöpfung jeglicher Art, ein Werk der kleinen Münze, ein nachgelassenes Werk oder auch ein Lichtbild oder anderes Objekt eines verwandten Schutzrechts sein, unabhängig von der Art seiner Fixierung und unabhängig davon, auf welche Weise jeweils eine Wahrnehmung erfolgen kann, gleichviel ob in analoger oder digitaler Form. Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff "Schutzgegenstand" im Sinne dieser Lizenz.
+
+     g. Mit "Sie" bzw. "Ihnen" ist die natürliche oder juristische Person gemeint, die in dieser Lizenz im Abschnitt 3 genannte Nutzungen des Schutzgegenstandes vornimmt und zuvor in Hinblick auf den Schutzgegenstand nicht gegen Bedingungen dieser Lizenz verstoßen oder aber die ausdrückliche Erlaubnis des Lizenzgebers erhalten hat, die durch diese Lizenz gewährten Nutzungsrechte trotz eines vorherigen Verstoßes auszuüben.
+
+     h. Unter "Öffentlich Zeigen" im Sinne dieser Lizenz sind Veröffentlichungen und Präsentationen des Schutzgegenstandes zu verstehen, die für eine Mehrzahl von Mitgliedern der Öffentlichkeit bestimmt sind und in unkörperlicher Form mittels öffentlicher Wiedergabe in Form von Vortrag, Aufführung, Vorführung, Darbietung, Sendung, Weitersendung, zeit- und ortsunabhängiger Zugänglichmachung oder in körperlicher Form mittels Ausstellung erfolgen, unabhängig von bestimmten Veranstaltungen und unabhängig von den zum Einsatz kommenden Techniken und Verfahren, einschließlich drahtgebundener oder drahtloser Mittel und Einstellen in das Internet.
+
+     i. "Vervielfältigen" im Sinne dieser Lizenz bedeutet, mittels beliebiger Verfahren Vervielfältigungsstücke des Schutzgegenstandes herzustellen, insbesondere durch Ton- oder Bildaufzeichnungen, und umfasst auch den Vorgang, erstmals körperliche Fixierungen des Schutzgegenstandes sowie Vervielfältigungsstücke dieser Fixierungen anzufertigen, sowie die Übertragung des Schutzgegenstandes auf einen Bild- oder Tonträger oder auf ein anderes elektronisches Medium, gleichviel ob in digitaler oder analoger Form.
+
+2. Schranken des Immaterialgüterrechts. Diese Lizenz ist in keiner Weise darauf gerichtet, Befugnisse zur Nutzung des Schutzgegenstandes zu vermindern, zu beschränken oder zu vereiteln, die Ihnen aufgrund der Schranken des Urheberrechts oder anderer Rechtsnormen bereits ohne Weiteres zustehen oder sich aus dem Fehlen eines immaterialgüterrechtlichen Schutzes ergeben.
+
+3. Einräumung von Nutzungsrechten. Unter den Bedingungen dieser Lizenz räumt Ihnen der Lizenzgeber - unbeschadet unverzichtbarer Rechte und vorbehaltlich des Abschnitts 3.e) - das vergütungsfreie, räumlich und zeitlich (für die Dauer des Schutzrechts am Schutzgegenstand) unbeschränkte einfache Recht ein, den Schutzgegenstand auf die folgenden Arten und Weisen zu nutzen ("unentgeltlich eingeräumtes einfaches Nutzungsrecht für jedermann"):
+
+     a. den Schutzgegenstand in beliebiger Form und Menge zu vervielfältigen, ihn in Sammelwerke zu integrieren und ihn als Teil solcher Sammelwerke zu vervielfältigen;
+
+     b. Abwandlungen des Schutzgegenstandes anzufertigen, einschließlich Übersetzungen unter Nutzung jedweder Medien, sofern deutlich erkennbar gemacht wird, dass es sich um Abwandlungen handelt;
+
+     c. den Schutzgegenstand, allein oder in Sammelwerke aufgenommen, öffentlich zu zeigen und zu verbreiten;
+
+     d. Abwandlungen des Schutzgegenstandes zu veröffentlichen, öffentlich zu zeigen und zu verbreiten.
+
+     e. Bezüglich Vergütung für die Nutzung des Schutzgegenstandes gilt Folgendes:
+
+          i. Unverzichtbare gesetzliche Vergütungsansprüche: Soweit unverzichtbare Vergütungsansprüche im Gegenzug für gesetzliche Lizenzen vorgesehen oder Pauschalabgabensysteme (zum Beispiel für Leermedien) vorhanden sind, behält sich der Lizenzgeber das ausschließliche Recht vor, die entsprechende Vergütung einzuziehen für jede Ausübung eines Rechts aus dieser Lizenz durch Sie.
+
+          ii. Vergütung bei Zwangslizenzen: Sofern Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, verzichtet der Lizenzgeber für alle Fälle einer lizenzgerechten Nutzung des Schutzgegenstandes durch Sie auf jegliche Vergütung.
+
+          iii. Vergütung in sonstigen Fällen: Bezüglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie, die nicht unter die beiden vorherigen Abschnitte (i) und (ii) fällt, verzichtet der Lizenzgeber auf jegliche Vergütung, unabhängig davon, ob eine Einziehung der Vergütung durch ihn selbst oder nur durch eine Verwertungsgesellschaft möglich wäre.
+
+Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten eingeräumt. Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten. Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind und einen immaterialgüterrechtlichen Schutz eigener Art genießen, verzichtet der Lizenzgeber auf sämtliche aus diesem Schutz resultierenden Rechte.
+
+4. Bedingungen. Die Einräumung des Nutzungsrechts gemäß Abschnitt 3 dieser Lizenz erfolgt ausdrücklich nur unter den folgenden Bedingungen:
+
+     a. Sie dürfen den Schutzgegenstand ausschließlich unter den Bedingungen dieser Lizenz verbreiten oder öffentlich zeigen. Sie müssen dabei stets eine Kopie dieser Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen. Sie dürfen keine Vertrags- oder Nutzungsbedingungen anbieten oder fordern, die die Bedingungen dieser Lizenz oder die durch diese Lizenz gewährten Rechte beschränken. Sie dürfen den Schutzgegenstand nicht unterlizenzieren. Bei jeder Kopie des Schutzgegenstandes, die Sie verbreiten oder öffentlich zeigen, müssen Sie alle Hinweise unverändert lassen, die auf diese Lizenz und den Haftungsausschluss hinweisen. Wenn Sie den Schutzgegenstand verbreiten oder öffentlich zeigen, dürfen Sie (in Bezug auf den Schutzgegenstand) keine technischen Maßnahmen ergreifen, die den Nutzer des Schutzgegenstandes in der Ausübung der ihm durch diese Lizenz gewährten Rechte behindern können. Dieser Abschnitt 4.a) gilt auch für den Fall, dass der Schutzgegenstand einen Bestandteil eines Sammelwerkes bildet, was jedoch nicht bedeutet, dass das Sammelwerk insgesamt dieser Lizenz unterstellt werden muss. Sofern Sie ein Sammelwerk erstellen, müssen Sie auf die Mitteilung eines Lizenzgebers hin aus dem Sammelwerk die in Abschnitt 4.b) aufgezählten Hinweise entfernen. Wenn Sie eine Abwandlung vornehmen, müssen Sie auf die Mitteilung eines Lizenzgebers hin von der Abwandlung die in Abschnitt 4.b) aufgezählten Hinweise entfernen.
+
+     b. Die Verbreitung und das öffentliche Zeigen des Schutzgegenstandes oder auf ihm aufbauender Abwandlungen oder ihn enthaltender Sammelwerke ist Ihnen nur unter der Bedingung gestattet, dass Sie, vorbehaltlich etwaiger Mitteilungen im Sinne von Abschnitt 4.a), alle dazu gehörenden Rechtevermerke unberührt lassen. Sie sind verpflichtet, die Rechteinhaberschaft in einer der Nutzung entsprechenden, angemessenen Form anzuerkennen, indem Sie - soweit bekannt - Folgendes angeben:
+
+          i. Den Namen (oder das Pseudonym, falls ein solches verwendet wird) des Rechteinhabers und / oder, falls der Lizenzgeber im Rechtevermerk, in den Nutzungsbedingungen oder auf andere angemessene Weise eine Zuschreibung an Dritte vorgenommen hat (z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) ("Zuschreibungsempfänger"), Namen bzw. Bezeichnung dieses oder dieser Dritten;
+
+          ii. den Titel des Inhaltes;
+
+          iii. in einer praktikablen Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand;
+
+          iv. und im Falle einer Abwandlung des Schutzgegenstandes in Übereinstimmung mit Abschnitt 3.b) einen Hinweis darauf, dass es sich um eine Abwandlung handelt.
+
+        Die nach diesem Abschnitt 4.b) erforderlichen Angaben können in jeder angemessenen Form gemacht werden; im Falle einer Abwandlung des Schutzgegenstandes oder eines Sammelwerkes müssen diese Angaben das Minimum darstellen und bei gemeinsamer Nennung mehrerer Rechteinhaber dergestalt erfolgen, dass sie zumindest ebenso hervorgehoben sind wie die Hinweise auf die übrigen Rechteinhaber. Die Angaben nach diesem Abschnitt dürfen Sie ausschließlich zur Angabe der Rechteinhaberschaft in der oben bezeichneten Weise verwenden. Durch die Ausübung Ihrer Rechte aus dieser Lizenz dürfen Sie ohne eine vorherige, separat und schriftlich vorliegende Zustimmung des Lizenzgebers und / oder des Zuschreibungsempfängers weder explizit noch implizit irgendeine Verbindung zum Lizenzgeber oder Zuschreibungsempfänger und ebenso wenig eine Unterstützung oder Billigung durch ihn andeuten.
+
+     c. Die oben unter 4.a) und b) genannten Einschränkungen gelten nicht für solche Teile des Schutzgegenstandes, die allein deshalb unter den Schutzgegenstandsbegriff fallen, weil sie als Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen.
+
+     d. Persönlichkeitsrechte bleiben - soweit sie bestehen - von dieser Lizenz unberührt.
+
+5. Gewährleistung
+
+SOFERN KEINE ANDERS LAUTENDE, SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE UND SOWEIT MÄNGEL NICHT ARGLISTIG VERSCHWIEGEN WURDEN, BIETET DER LIZENZGEBER DEN SCHUTZGEGENSTAND UND DIE EINRÄUMUNG VON RECHTEN UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG AN UND ÜBERNIMMT WEDER AUSDRÜCKLICH NOCH KONKLUDENT GARANTIEN IRGENDEINER ART. DIES UMFASST INSBESONDERE DAS FREISEIN VON SACH- UND RECHTSMÄNGELN, UNABHÄNGIG VON DEREN ERKENNBARKEIT FÜR DEN LIZENZGEBER, DIE VERKEHRSFÄHIGKEIT DES SCHUTZGEGENSTANDES, SEINE VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DIE KORREKTHEIT VON BESCHREIBUNGEN. DIESE GEWÄHRLEISTUNGSBESCHRÄNKUNG GILT NICHT, SOWEIT MÄNGEL ZU SCHÄDEN DER IN ABSCHNITT 6 BEZEICHNETEN ART FÜHREN UND AUF SEITEN DES LIZENZGEBERS DAS JEWEILS GENANNTE VERSCHULDEN BZW. VERTRETENMÜSSEN EBENFALLS VORLIEGT.
+
+6. Haftungsbeschränkung
+
+DER LIZENZGEBER HAFTET IHNEN GEGENÜBER IN BEZUG AUF SCHÄDEN AUS DER VERLETZUNG DES LEBENS, DES KÖRPERS ODER DER GESUNDHEIT NUR, SOFERN IHM WENIGSTENS FAHRLÄSSIGKEIT VORZUWERFEN IST, FÜR SONSTIGE SCHÄDEN NUR BEI GROBER FAHRLÄSSIGKEIT ODER VORSATZ, UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG.
+
+7. Erlöschen
+
+     a. Diese Lizenz und die durch sie eingeräumten Nutzungsrechte erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder einer weiteren Handlung einer der Vertragsparteien bedarf. Mit natürlichen oder juristischen Personen, die Abwandlungen des Schutzgegenstandes oder diesen enthaltende Sammelwerke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort.
+
+     b. Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand ausläuft. Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand unter anderen Lizenzbedingungen anzubieten oder die eigene Weitergabe des Schutzgegenstandes jederzeit einzustellen, solange die Ausübung dieses Rechts nicht einer Kündigung oder einem Widerruf dieser Lizenz (oder irgendeiner Weiterlizenzierung, die auf Grundlage dieser Lizenz bereits erfolgt ist bzw. zukünftig noch erfolgen muss) dient und diese Lizenz unter Berücksichtigung der oben zum Erlöschen genannten Bedingungen vollumfänglich wirksam bleibt.
+
+8. Sonstige Bestimmungen
+
+     a. Jedes Mal, wenn Sie den Schutzgegenstand für sich genommen oder als Teil eines Sammelwerkes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
+
+     b. Jedes Mal, wenn Sie eine Abwandlung des Schutzgegenstandes verbreiten oder öffentlich zeigen, bietet der Lizenzgeber dem Empfänger eine Lizenz am ursprünglichen Schutzgegenstand zu den gleichen Bedingungen und im gleichen Umfang an, wie Ihnen in Form dieser Lizenz.
+
+     c. Sollte eine Bestimmung dieser Lizenz unwirksam sein, so bleibt davon die Wirksamkeit der Lizenz im Übrigen davon unberührt.
+
+     d. Keine Bestimmung dieser Lizenz soll als abbedungen und kein Verstoß gegen sie als zulässig gelten, solange die von dem Verzicht oder von dem Verstoß betroffene Seite nicht schriftlich zugestimmt hat.
+
+     e. Diese Lizenz (zusammen mit in ihr ausdrücklich vorgesehenen Erlaubnissen, Mitteilungen und Zustimmungen, soweit diese tatsächlich vorliegen) stellt die vollständige Vereinbarung zwischen dem Lizenzgeber und Ihnen in Bezug auf den Schutzgegenstand dar. Es bestehen keine Abreden, Vereinbarungen oder Erklärungen in Bezug auf den Schutzgegenstand, die in dieser Lizenz nicht genannt sind. Rechtsgeschäftliche Änderungen des Verhältnisses zwischen dem Lizenzgeber und Ihnen sind nur über Modifikationen dieser Lizenz möglich. Der Lizenzgeber ist an etwaige zusätzliche, einseitig durch Sie übermittelte Bestimmungen nicht gebunden. Diese Lizenz kann nur durch schriftliche Vereinbarung zwischen Ihnen und dem Lizenzgeber modifiziert werden. Derlei Modifikationen wirken ausschließlich zwischen dem Lizenzgeber und Ihnen und wirken sich nicht auf die Dritten gemäß Ziffern 8.a) und b) angebotenen Lizenzen aus.
+
+     f. Sofern zwischen Ihnen und dem Lizenzgeber keine anderweitige Vereinbarung getroffen wurde und soweit Wahlfreiheit besteht, findet auf diesen Lizenzvertrag das Recht der Bundesrepublik Deutschland Anwendung.
+
+
+Creative Commons Notice
+
+Creative Commons ist nicht Partei dieser Lizenz und übernimmt keinerlei Gewähr oder dergleichen in Bezug auf den Schutzgegenstand. Creative Commons haftet Ihnen oder einer anderen Partei unter keinem rechtlichen Gesichtspunkt für irgendwelche Schäden, die - abstrakt oder konkret, zufällig oder vorhersehbar - im Zusammenhang mit dieser Lizenz entstehen. Unbeschadet der vorangegangen beiden Sätze, hat Creative Commons alle Rechte und Pflichten eines Lizenzgebers, wenn es sich ausdrücklich als Lizenzgeber im Sinne dieser Lizenz bezeichnet.
+
+Creative Commons gewährt den Parteien nur insoweit das Recht, das Logo und die Marke "Creative Commons" zu nutzen, als dies notwendig ist, um der Öffentlichkeit gegenüber kenntlich zu machen, dass der Schutzgegenstand unter einer CCPL steht. Ein darüber hinaus gehender Gebrauch der Marke "Creative Commons" oder einer verwandten Marke oder eines verwandten Logos bedarf der vorherigen schriftlichen Zustimmung von Creative Commons. Jeder erlaubte Gebrauch richtet sich nach der Creative Commons Marken-Nutzungs-Richtlinie in der jeweils aktuellen Fassung, die von Zeit zu Zeit auf der Website veröffentlicht oder auf andere Weise auf Anfrage zugänglich gemacht wird. Zur Klarstellung: Die genannten Einschränkungen der Markennutzung sind nicht Bestandteil dieser Lizenz.
+
+Creative Commons kann kontaktiert werden über https://creativecommons.org/.

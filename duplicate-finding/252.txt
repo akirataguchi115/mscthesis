@@ -1,17 +1,23 @@
-Licence Version 2
+Eiffel Forum License, version 1
 
-This software is provided 'as-is', without warranty of any kind, express or implied. In no event will the authors or copyright holders be held liable for any damages arising from the use of this software.
+Permission is hereby granted to use, copy, modify and/or distribute
+this package, provided that:
 
-Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+  - copyright notices are retained unchanged
 
-     1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated.
+  - any distribution of this package, whether modified or not,
+    includes this file
 
-     2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+Permission is hereby also granted to distribute binary programs which
+depend on this package, provided that:
 
-     3. You must not use any of the names of the authors or copyright holders of the original software for advertising or publicity pertaining to distribution without specific, written prior permission.
+  - if the binary program depends on a modified version of this
+    package, you must publicly release the modified version of this
+    package
 
-     4. If you change this software and redistribute parts or all of it in any form, you must make the source code of the altered version of this software available.
-
-     5. This notice may not be removed or altered from any source distribution.
-
-This licence is governed by the Laws of Germany. Disputes shall be settled by Saarbruecken City Court.
+THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.

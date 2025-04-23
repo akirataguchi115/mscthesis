@@ -1,47 +1,35 @@
-xinetd License
+The authors make NO WARRANTY or representation, either express or
+implied, with respect to this software, its quality, accuracy,
+merchantability, or fitness for a particular purpose.  This software is
+provided "AS IS", and you, its user, assume the entire risk as to its
+quality and accuracy.
 
-ORIGINAL LICENSE:
-This software is
+This software is copyright (C) 1991, 1992, Thomas G. Lane.  All Rights
+Reserved except as specified below.
 
-(c) Copyright 1992 by Panagiotis Tsirigotis
+Permission is hereby granted to use, copy, modify, and distribute this
+software (or portions thereof) for any purpose, without fee, subject to
+these conditions:  
 
-The author (Panagiotis Tsirigotis) grants permission to use, copy, and
-distribute this software and its documentation for any purpose and without fee,
-provided that the above copyright notice extant in files in this distribution is
-not removed from files included in any redistribution and that this copyright
-notice is also included in any redistribution.
+(1) If any part of the source code for this software
+is distributed, then this README file must be included, with this
+copyright and no-warranty notice unaltered; and any additions,
+deletions, or changes to the original files must be clearly indicated
+in accompanying documentation.
 
-Modifications to this software may be distributed, either by distributing the
-modified software or by distributing patches to the original software, under the
-following additional terms:
+(2) If only executable code is
+distributed, then the accompanying documentation must state that "this
+software is based in part on the work of the Independent JPEG Group".
 
-1. The version number will be modified as follows:
+(3) Permission for use of this software is granted only if the user
+accepts full responsibility for any undesirable consequences; the
+authors accept NO LIABILITY for damages of any kind.
 
-a. The first 3 components of the version number (i.e <number>.<number>.<number>)
-will remain unchanged.
+Permission is NOT granted for the use of any IJG author's name or
+company name in advertising or publicity relating to this software or
+products derived from it.  This software may be referred to only as
+"the Independent JPEG Group's software".
 
-b. A new component will be appended to the version number to indicate the
-modification level. The form of this component is up to the author of the
-modifications.
-
-2. The author of the modifications will include his/her name by appending it
-along with the new version number to this file and will be responsible for any
-wrong behavior of the modified software.
-
-The author makes no representations about the suitability of this software for
-any purpose. It is provided "as is" without any express or implied warranty.
-
-Modifications: Version: 2.1.8.7-current Copyright 1998-2001 by Rob Braun
-
-Sensor Addition Version: 2.1.8.9pre14a Copyright 2001 by Steve Grubb
-
-This is an exerpt from an email I recieved from the original author, allowing
-xinetd as maintained by me, to use the higher version numbers:
-
-I appreciate your maintaining the version string guidelines as specified in the
-copyright. But I did not mean them to last as long as they did.
-
-So, if you want, you may use any 2.N.* (N >= 3) version string for future xinetd
-versions that you release. Note that I am excluding the 2.2.* line; using that
-would only create confusion. Naming the next release 2.3.0 would put to rest the
-confusion about 2.2.1 and 2.1.8.*.
+We specifically permit and encourage the use of this software as the
+basis of commercial products, provided that all warranty or liability
+claims are assumed by the product vendor.

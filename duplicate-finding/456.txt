@@ -1,29 +1,27 @@
-THE TTYP0 LICENSE
+Permission to use, copy, modify, distribute, and sublicense this software and
+its documentation for any purpose and without fee is hereby granted, provided
+that the above copyright notices appear in all copies and that both those
+copyright notices and this permission notice appear in supporting documentation
+and that the name of Adobe Systems Incorporated not be used in advertising or
+publicity pertaining to distribution of the software without specific, written
+prior permission. No trademark license to use the Adobe trademarks is hereby
+granted. If the Adobe trademark "Display PostScript"(tm) is used to describe
+this software, its functionality or for any other purpose, such use shall be
+limited to a statement that this software works in conjunction with the Display
+PostScript system. Proper trademark attribution to reflect Adobe's ownership of
+the trademark shall be given whenever any such reference to the Display
+PostScript system is made.
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this font software and associated files (the "Software"),
-to deal in the Software without restriction, including without
-limitation the rights to use, copy, modify, merge, publish,
-distribute, embed, sublicense, and/or sell copies of the Software,
-and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
+ADOBE MAKES NO REPRESENTATIONS ABOUT THE SUITABILITY OF THE SOFTWARE FOR ANY
+PURPOSE. IT IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED WARRANTY. ADOBE
+DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE, INCLUDING ALL IMPLIED
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-
+INFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL ADOBE BE LIABLE TO YOU OR
+ANY OTHER PARTY FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY
+DAMAGES WHATSOEVER WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE, STRICT
+LIABILITY OR ANY OTHER ACTION ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE. ADOBE WILL NOT PROVIDE ANY TRAINING OR OTHER
+SUPPORT FOR THE SOFTWARE.
 
-(1) The above copyright notice, this permission notice, and the
-    disclaimer below shall be included in all copies or substantial
-    portions of the Software.
-
-(2) If the design of any glyphs in the fonts that are contained in the
-    Software or generated during the installation process is modified
-    or if additional glyphs are added to the fonts, the fonts
-    must be renamed. The new names may not contain the word "UW",
-    irrespective of capitalisation; the new names may contain the word
-    "ttyp0", irrespective of capitalisation, only if preceded by a
-    foundry name different from "UW".
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Adobe, PostScript, and Display PostScript are trademarks of Adobe Systems
+Incorporated which may be registered in certain jurisdictions

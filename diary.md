@@ -1,6 +1,11 @@
 ## Diary
+### week 17 
+wed: i gotta put stage 2 licenses in an .md as well. the last table of licenses can be as appendix in the thesis as well but i also want the licenses of stage 3 to exist in github in LICENSENAME.txt as well. now i will remove duplicates but wth why is there only 621 licenses in duplicate finding. now theres 752 but it should be 754 why?
+
+is it possible that an empty license exists in my full licenses and its not a manual license. lol no it was just that my plan9 manual license was empty instead of a space character.
+
 ### week 16
-wed: stage 2 having the sources is just too large scope for this thesis. i gotta move on. i gotta put stage 2 licenses 
+wed: stage 2 having the sources is just too large scope for this thesis. i gotta move on.
 
 tue: i gotta put my stage 1 and 2 into github as markdown tables. do that next.
 

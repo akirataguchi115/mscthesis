@@ -1,517 +1,458 @@
-RealNetworks Public Source License Version 1.0
-(Rev. Date October 28, 2002)
-
-1. General Definitions. This License applies to any program or other work which
-RealNetworks, Inc., or any other entity that elects to use this license,
-("Licensor") makes publicly available and which contains a notice placed by
-Licensor identifying such program or work as "Original Code" and stating that it
-is subject to the terms of this RealNetworks Public Source License version 1.0
-(or subsequent version thereof) ("License"). You are not required to accept this
-License. However, nothing else grants You permission to use, copy, modify or
-distribute the software or its derivative works. These actions are prohibited by
-law if You do not accept this License. Therefore, by modifying, copying or
-distributing the software (or any work based on the software), You indicate your
-acceptance of this License to do so, and all its terms and conditions. In
-addition, you agree to the terms of this License by clicking the Accept button
-or downloading the software. As used in this License:
-
-1.1 "Applicable Patent Rights" mean: (a) in the case where Licensor is the
-grantor of rights, claims of patents that (i) are now or hereafter acquired,
-owned by or assigned to Licensor and (ii) are necessarily infringed by using or
-making the Original Code alone and not in combination with other software or
-hardware; and (b) in the case where You are the grantor of rights, claims of
-patents that (i) are now or hereafter acquired, owned by or assigned to You and
-(ii) are infringed (directly or indirectly) by using or making Your
-Modifications, taken alone or in combination with Original Code.
-
-1.2 "Compatible Source License" means any one of the licenses listed on Exhibit
-B or at https://www.helixcommunity.org/content/complicense or other licenses
-specifically identified by Licensor in writing. Notwithstanding any term to the
-contrary in any Compatible Source License, any code covered by any Compatible
-Source License that is used with Covered Code must be made readily available in
-Source Code format for royalty-free use under the terms of the Compatible Source
-License or this License.
-
-1.3 "Contributor" means any person or entity that creates or contributes to the
-creation of Modifications.
-
-1.4 "Covered Code" means the Original Code, Modifications, the combination of
-Original Code and any Modifications, and/or any respective portions thereof.
-
-1.5 "Deploy" means to use, sublicense or distribute Covered Code other than for
-Your internal research and development (R&D) and/or Personal Use, and includes
-without limitation, any and all internal use or distribution of Covered Code
-within Your business or organization except for R&D use and/or Personal Use, as
-well as direct or indirect sublicensing or distribution of Covered Code by You
-to any third party in any form or manner.
-
-1.6 "Derivative Work" means either the Covered Code or any derivative work under
-United States copyright law, and including any work containing or including any
-portion of the Covered Code or Modifications, either verbatim or with
-modifications and/or translated into another language. Derivative Work also
-includes any work which combines any portion of Covered Code or Modifications
-with code not otherwise governed by the terms of this License.
-
-1.7 "Externally Deploy" means to Deploy the Covered Code in any way that may be
-accessed or used by anyone other than You, used to provide any services to
-anyone other than You, or used in any way to deliver any content to anyone other
-than You, whether the Covered Code is distributed to those parties, made
-available as an application intended for use over a computer network, or used to
-provide services or otherwise deliver content to anyone other than You.
-
-1.8. "Interface" means interfaces, functions, properties, class definitions,
-APIs, header files, GUIDs, V-Tables, and/or protocols allowing one piece of
-software, firmware or hardware to communicate or interoperate with another piece
-of software, firmware or hardware.
-
-1.9 "Modifications" mean any addition to, deletion from, and/or change to, the
-substance and/or structure of the Original Code, any previous Modifications, the
-combination of Original Code and any previous Modifications, and/or any
-respective portions thereof. When code is released as a series of files, a
-Modification is: (a) any addition to or deletion from the contents of a file
-containing Covered Code; and/or (b) any new file or other representation of
-computer program statements that contains any part of Covered Code.
-
-1.10 "Original Code" means (a) the Source Code of a program or other work as
-originally made available by Licensor under this License, including the Source
-Code of any updates or upgrades to such programs or works made available by
-Licensor under this License, and that has been expressly identified by Licensor
-as such in the header file(s) of such work; and (b) the object code compiled
-from such Source Code and originally made available by Licensor under this
-License.
-
-1.11 "Personal Use" means use of Covered Code by an individual solely for his or
-her personal, private and non-commercial purposes. An individual's use of
-Covered Code in his or her capacity as an officer, employee, member, independent
-contractor or agent of a corporation, business or organization (commercial or
-non-commercial) does not qualify as Personal Use.
-
-1.12 "Source Code" means the human readable form of a program or other work that
-is suitable for making modifications to it, including all modules it contains,
-plus any associated interface definition files, scripts used to control
-compilation and installation of an executable (object code).
-
-1.13 "You" or "Your" means an individual or a legal entity exercising rights
-under this License. For legal entities, "You" or "Your" includes any entity
-which controls, is controlled by, or is under common control with, You, where
-"control" means (a) the power, direct or indirect, to cause the direction or
-management of such entity, whether by contract or otherwise, or (b) ownership of
-fifty percent (50%) or more of the outstanding shares or beneficial ownership of
-such entity.
-
-2. Permitted Uses; Conditions & Restrictions. Subject to the terms and
-conditions of this License, Licensor hereby grants You, effective on the date
-You accept this License (via downloading or using Covered Code or otherwise
-indicating your acceptance of this License), a worldwide, royalty-free,
-non-exclusive copyright license, to the extent of Licensor's copyrights cover
-the Original Code, to do the following:
-
-2.1 You may reproduce, display, perform, modify and Deploy Covered Code,
-provided that in each instance:
-
-(a) You must retain and reproduce in all copies of Original Code the copyright
-and other proprietary notices and disclaimers of Licensor as they appear in the
-Original Code, and keep intact all notices in the Original Code that refer to
-this License;
-
-(b) You must include a copy of this License with every copy of Source Code of
-Covered Code and documentation You distribute, and You may not offer or impose
-any terms on such Source Code that alter or restrict this License or the
-recipients' rights hereunder, except as permitted under Section 6;
-
-(c) You must duplicate, to the extent it does not already exist, the notice in
-Exhibit A in each file of the Source Code of all Your Modifications, and cause
-the modified files to carry prominent notices stating that You changed the files
-and the date of any change;
-
-(d) You must make Source Code of all Your Externally Deployed Modifications
-publicly available under the terms of this License, including the license grants
-set forth in Section 3 below, for as long as you Deploy the Covered Code or
-twelve (12) months from the date of initial Deployment, whichever is longer. You
-should preferably distribute the Source Code of Your Deployed Modifications
-electronically (e.g. download from a web site); and
-
-(e) if You Deploy Covered Code in object code, executable form only, You must
-include a prominent notice, in the code itself as well as in related
-documentation, stating that Source Code of the Covered Code is available under
-the terms of this License with information on how and where to obtain such
-Source Code. You must also include the Object Code Notice set forth in Exhibit A
-in the "about" box or other appropriate place where other copyright notices are
-placed, including any packaging materials.
-
-2.2 You expressly acknowledge and agree that although Licensor and each
-Contributor grants the licenses to their respective portions of the Covered Code
-set forth herein, no assurances are provided by Licensor or any Contributor that
-the Covered Code does not infringe the patent or other intellectual property
-rights of any other entity. Licensor and each Contributor disclaim any liability
-to You for claims brought by any other entity based on infringement of
-intellectual property rights or otherwise. As a condition to exercising the
-rights and licenses granted hereunder, You hereby assume sole responsibility to
-secure any other intellectual property rights needed, if any. For example, if a
-third party patent license is required to allow You to make, use, sell, import
-or offer for sale the Covered Code, it is Your responsibility to acquire such
-license(s).
-
-2.3 Subject to the terms and conditions of this License, Licensor hereby grants
-You, effective on the date You accept this License (via downloading or using
-Covered Code or otherwise indicating your acceptance of this License), a
-worldwide, royalty-free, perpetual, non-exclusive patent license under
-Licensor's Applicable Patent Rights to make, use, sell, offer for sale and
-import the Covered Code, provided that in each instance you comply with the
-terms of this License.
-
-3. Your Grants. In consideration of, and as a condition to, the licenses granted
-to You under this License:
-
-(a) You grant to Licensor and all third parties a non-exclusive, perpetual,
-irrevocable, royalty free license under Your Applicable Patent Rights and other
-intellectual property rights owned or controlled by You, to make, sell, offer
-for sale, use, import, reproduce, display, perform, modify, distribute and
-Deploy Your Modifications of the same scope and extent as Licensor's licenses
-under Sections 2.1 and 2.2; and
-
-(b) You grant to Licensor and its subsidiaries a non-exclusive, worldwide,
-royalty-free, perpetual and irrevocable license, under Your Applicable Patent
-Rights and other intellectual property rights owned or controlled by You, to
-make, use, sell, offer for sale, import, reproduce, display, perform,
-distribute, modify or have modified (for Licensor and/or its subsidiaries),
-sublicense and distribute Your Modifications, in any form and for any purpose,
-through multiple tiers of distribution.
-
-(c) You agree not use any information derived from Your use and review of the
-Covered Code, including but not limited to any algorithms or inventions that may
-be contained in the Covered Code, for the purpose of asserting any of Your
-patent rights, or assisting a third party to assert any of its patent rights,
-against Licensor or any Contributor.
-
-4. Derivative Works. You may create a Derivative Work by combining Covered Code
-with other code not otherwise governed by the terms of this License and
-distribute the Derivative Work as an integrated product. In each such instance,
-You must make sure the requirements of this License are fulfilled for the
-Covered Code or any portion thereof, including all Modifications.
-
-4.1 You must cause any Derivative Work that you distribute, publish or
-Externally Deploy, that in whole or in part contains or is derived from the
-Covered Code or any part thereof, to be licensed as a whole at no charge to all
-third parties under the terms of this License and no other license except as
-provided in Section 4.2. You also must make Source Code available for the
-Derivative Work under the same terms as Modifications, described in Sections 2
-and 3, above.
-
-4.2 Compatible Source Licenses. Software modules that have been independently
-developed without any use of Covered Code and which contain no portion of the
-Covered Code, Modifications or other Derivative Works, but are used or combined
-in any way wtih the Covered Code or any Derivative Work to form a larger
-Derivative Work, are exempt from the conditions described in Section 4.1 but
-only to the extent that: the software module, including any software that is
-linked to, integrated with, or part of the same applications as, the software
-module by any method must be wholly subject to one of the Compatible Source
-Licenses. Notwithstanding the foregoing, all Covered Code must be subject to the
-terms of this License. Thus, the entire Derivative Work must be licensed under a
-combination of the RPSL (for Covered Code) and a Compatible Source License for
-any independently developed software modules within the Derivative Work. The
-foregoing requirement applies even if the Compatible Source License would
-ordinarily allow the software module to link with, or form larger works with,
-other software that is not subject to the Compatible Source License. For
-example, although the Mozilla Public License v1.1 allows Mozilla code to be
-combined with proprietary software that is not subject to the MPL, if
-MPL-licensed code is used with Covered Code the MPL-licensed code could not be
-combined or linked with any code not governed by the MPL. The general intent of
-this section 4.2 is to enable use of Covered Code with applications that are
-wholly subject to an acceptable open source license. You are responsible for
-determining whether your use of software with Covered Code is allowed under Your
-license to such software.
-
-4.3 Mere aggregation of another work not based on the Covered Code with the
-Covered Code (or with a work based on the Covered Code) on a volume of a storage
-or distribution medium does not bring the other work under the scope of this
-License. If You deliver the Covered Code for combination and/or integration with
-an application previously provided by You (for example, via automatic updating
-technology), such combination and/or integration constitutes a Derivative Work
-subject to the terms of this License.
-
-5. Exclusions From License Grant. Nothing in this License shall be deemed to
-grant any rights to trademarks, copyrights, patents, trade secrets or any other
-intellectual property of Licensor or any Contributor except as expressly stated
-herein. No right is granted to the trademarks of Licensor or any Contributor
-even if such marks are included in the Covered Code. Nothing in this License
-shall be interpreted to prohibit Licensor from licensing under different terms
-from this License any code that Licensor otherwise would have a right to
-license. Modifications, Derivative Works and/or any use or combination of
-Covered Code with other technology provided by Licensor or third parties may
-require additional patent licenses from Licensor which Licensor may grant in its
-sole discretion. No patent license is granted separate from the Original Code or
-combinations of the Original Code with other software or hardware.
-
-5.1. Trademarks. This License does not grant any rights to use the trademarks or
-trade names owned by Licensor ("Licensor Marks" defined in Exhibit C) or to any
-trademark or trade name belonging to any Contributor. No Licensor Marks may be
-used to endorse or promote products derived from the Original Code other than as
-permitted by the Licensor Trademark Policy defined in Exhibit C.
-
-6. Additional Terms. You may choose to offer, and to charge a fee for, warranty,
-support, indemnity or liability obligations and/or other rights consistent with
-the scope of the license granted herein ("Additional Terms") to one or more
-recipients of Covered Code. However, You may do so only on Your own behalf and
-as Your sole responsibility, and not on behalf of Licensor or any Contributor.
-You must obtain the recipient's agreement that any such Additional Terms are
-offered by You alone, and You hereby agree to indemnify, defend and hold
-Licensor and every Contributor harmless for any liability incurred by or claims
-asserted against Licensor or such Contributor by reason of any such Additional
-Terms.
-
-7. Versions of the License. Licensor may publish revised and/or new versions of
-this License from time to time. Each version will be given a distinguishing
-version number. Once Original Code has been published under a particular version
-of this License, You may continue to use it under the terms of that version. You
-may also choose to use such Original Code under the terms of any subsequent
-version of this License published by Licensor. No one other than Licensor has
-the right to modify the terms applicable to Covered Code created under this
-License.
-
-8. NO WARRANTY OR SUPPORT. The Covered Code may contain in whole or in part
-pre-release, untested, or not fully tested works. The Covered Code may contain
-errors that could cause failures or loss of data, and may be incomplete or
-contain inaccuracies. You expressly acknowledge and agree that use of the
-Covered Code, or any portion thereof, is at Your sole and entire risk. THE
-COVERED CODE IS PROVIDED "AS IS" AND WITHOUT WARRANTY, UPGRADES OR SUPPORT OF
-ANY KIND AND LICENSOR AND LICENSOR'S LICENSOR(S) (COLLECTIVELY REFERRED TO AS
-"LICENSOR" FOR THE PURPOSES OF SECTIONS 8 AND 9) AND ALL CONTRIBUTORS EXPRESSLY
-DISCLAIM ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT
-NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF
-SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET
-ENJOYMENT, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. LICENSOR AND EACH
-CONTRIBUTOR DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE
-COVERED CODE, THAT THE FUNCTIONS CONTAINED IN THE COVERED CODE WILL MEET YOUR
-REQUIREMENTS, THAT THE OPERATION OF THE COVERED CODE WILL BE UNINTERRUPTED OR
-ERROR-FREE, OR THAT DEFECTS IN THE COVERED CODE WILL BE CORRECTED. NO ORAL OR
-WRITTEN DOCUMENTATION, INFORMATION OR ADVICE GIVEN BY LICENSOR, A LICENSOR
-AUTHORIZED REPRESENTATIVE OR ANY CONTRIBUTOR SHALL CREATE A WARRANTY. You
-acknowledge that the Covered Code is not intended for use in high risk
-activities, including, but not limited to, the design, construction, operation
-or maintenance of nuclear facilities, aircraft navigation, aircraft
-communication systems, or air traffic control machines in which case the failure
-of the Covered Code could lead to death, personal injury, or severe physical or
-environmental damage. Licensor disclaims any express or implied warranty of
-fitness for such uses.
-
-9. LIMITATION OF LIABILITY. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT
-SHALL LICENSOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY INCIDENTAL, SPECIAL,
-INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR
-YOUR USE OR INABILITY TO USE THE COVERED CODE, OR ANY PORTION THEREOF, WHETHER
-UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE OR STRICT
-LIABILITY), PRODUCTS LIABILITY OR OTHERWISE, EVEN IF LICENSOR OR SUCH
-CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND
-NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME
-JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY OF INCIDENTAL OR
-CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY TO YOU. In no event
-shall Licensor's total liability to You for all damages (other than as may be
-required by applicable law) under this License exceed the amount of ten dollars
-($10.00).
-
-10. Ownership. Subject to the licenses granted under this License, each
-Contributor retains all rights, title and interest in and to any Modifications
-made by such Contributor. Licensor retains all rights, title and interest in and
-to the Original Code and any Modifications made by or on behalf of Licensor
-("Licensor Modifications"), and such Licensor Modifications will not be
-automatically subject to this License. Licensor may, at its sole discretion,
-choose to license such Licensor Modifications under this License, or on
-different terms from those contained in this License or may choose not to
-license them at all.
-
-11. Termination. 
-
-11.1 Term and Termination. The term of this License is perpetual unless
-terminated as provided below. This License and the rights granted hereunder will
-terminate:
-
-(a) automatically without notice from Licensor if You fail to comply with any
-term(s) of this License and fail to cure such breach within 30 days of becoming
-aware of such breach;
-
-(b) immediately in the event of the circumstances described in Section 12.5(b);
-or
-
-(c) automatically without notice from Licensor if You, at any time during the
-term of this License, commence an action for patent infringement against
-Licensor (including by cross-claim or counter claim in a lawsuit);
-
-(d) upon written notice from Licensor if You, at any time during the term of
-this License, commence an action for patent infringement against any third party
-alleging that the Covered Code itself (excluding combinations with other
-software or hardware) infringes any patent (including by cross-claim or counter
-claim in a lawsuit).
-
-11.2 Effect of Termination. Upon termination, You agree to immediately stop any
-further use, reproduction, modification, sublicensing and distribution of the
-Covered Code and to destroy all copies of the Covered Code that are in your
-possession or control. All sublicenses to the Covered Code which have been
-properly granted prior to termination shall survive any termination of this
-License. Provisions which, by their nature, should remain in effect beyond the
-termination of this License shall survive, including but not limited to Sections
-3, 5, 8, 9, 10, 11, 12.2 and 13. No party will be liable to any other for
-compensation, indemnity or damages of any sort solely as a result of terminating
-this License in accordance with its terms, and termination of this License will
-be without prejudice to any other right or remedy of any party.
-
-12. Miscellaneous.
-
-12.1 Government End Users. The Covered Code is a "commercial item" as defined in
-FAR 2.101. Government software and technical data rights in the Covered Code
-include only those rights customarily provided to the public as defined in this
-License. This customary commercial license in technical data and software is
-provided in accordance with FAR 12.211 (Technical Data) and 12.212 (Computer
-Software) and, for Department of Defense purchases, DFAR 252.227-7015 (Technical
-Data -- Commercial Items) and 227.7202-3 (Rights in Commercial Computer Software
-or Computer Software Documentation). Accordingly, all U.S. Government End Users
-acquire Covered Code with only those rights set forth herein.
-
-12.2 Relationship of Parties. This License will not be construed as creating an
-agency, partnership, joint venture or any other form of legal association
-between or among You, Licensor or any Contributor, and You will not represent to
-the contrary, whether expressly, by implication, appearance or otherwise.
-
-12.3 Independent Development. Nothing in this License will impair Licensor's
-right to acquire, license, develop, have others develop for it, market and/or
-distribute technology or products that perform the same or similar functions as,
-or otherwise compete with, Modifications, Derivative Works, technology or
-products that You may develop, produce, market or distribute.
-
-12.4 Waiver; Construction. Failure by Licensor or any Contributor to enforce any
-provision of this License will not be deemed a waiver of future enforcement of
-that or any other provision. Any law or regulation which provides that the
-language of a contract shall be construed against the drafter will not apply to
-this License.
-
-12.5 Severability. (a) If for any reason a court of competent jurisdiction finds
-any provision of this License, or portion thereof, to be unenforceable, that
-provision of the License will be enforced to the maximum extent permissible so
-as to effect the economic benefits and intent of the parties, and the remainder
-of this License will continue in full force and effect. (b) Notwithstanding the
-foregoing, if applicable law prohibits or restricts You from fully and/or
-specifically complying with Sections 2 and/or 3 or prevents the enforceability
-of either of those Sections, this License will immediately terminate and You
-must immediately discontinue any use of the Covered Code and destroy all copies
-of it that are in your possession or control.
-
-12.6 Dispute Resolution. Any litigation or other dispute resolution between You
-and Licensor relating to this License shall take place in the Seattle,
-Washington, and You and Licensor hereby consent to the personal jurisdiction of,
-and venue in, the state and federal courts within that District with respect to
-this License. The application of the United Nations Convention on Contracts for
-the International Sale of Goods is expressly excluded.
-
-12.7 Export/Import Laws. This software is subject to all export and import laws
-and restrictions and regulations of the country in which you receive the Covered
-Code and You are solely responsible for ensuring that You do not export,
-re-export or import the Covered Code or any direct product thereof in violation
-of any such restrictions, laws or regulations, or without all necessary
-authorizations.
-
-12.8 Entire Agreement; Governing Law. This License constitutes the entire
-agreement between the parties with respect to the subject matter hereof. This
-License shall be governed by the laws of the United States and the State of
-Washington.
-
-Where You are located in the province of Quebec, Canada, the following clause
-applies: The parties hereby confirm that they have requested that this License
-and all related documents be drafted in English. Les parties ont exig&eacute;
-que le pr&eacute;sent contrat et tous les documents connexes soient
-r&eacute;dig&eacute;s en anglais.
-
-                                EXHIBIT A.  
-
-"Copyright &copy; 1995-2002
-RealNetworks, Inc. and/or its licensors. All Rights Reserved.
-
-The contents of this file, and the files included with this file, are subject to
-the current version of the RealNetworks Public Source License Version 1.0 (the
-"RPSL") available at https://www.helixcommunity.org/content/rpsl unless you have
-licensed the file under the RealNetworks Community Source License Version 1.0
-(the "RCSL") available at https://www.helixcommunity.org/content/rcsl, in which
-case the RCSL will apply. You may also obtain the license terms directly from
-RealNetworks. You may not use this file except in compliance with the RPSL or,
-if you have a valid RCSL with RealNetworks applicable to this file, the RCSL.
-Please see the applicable RPSL or RCSL for the rights, obligations and
-limitations governing use of the contents of the file.
-
-This file is part of the Helix DNA Technology. RealNetworks is the developer of
-the Original code and owns the copyrights in the portions it created.
-
-This file, and the files included with this file, is distributed and made
-available on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
-IMPLIED, AND REALNETWORKS HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING
-WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
-PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
-
-Contributor(s):   
-
-Technology Compatibility Kit Test
-Suite(s) Location (if licensed under the RCSL):   
-
-Object Code Notice: Helix DNA Client technology included. Copyright (c)
-RealNetworks, Inc., 1995-2002. All rights reserved.
-
-
-                                EXHIBIT B 
-
-Compatible Source Licenses for the RealNetworks Public Source License. The
-following list applies to the most recent version of the license as of October
-25, 2002, unless otherwise indicated.
-
-* Academic Free License
-* Apache Software License
-* Apple Public Source License
-* Artistic license
-* Attribution Assurance Licenses
-* BSD license
-* Common Public License (1)
-* Eiffel Forum License
-* GNU General Public License (GPL) (1)
-* GNU Library or "Lesser" General Public License (LGPL) (1)
-* IBM Public License
-* Intel Open Source License
-* Jabber Open Source License
-* MIT license
-* MITRE Collaborative Virtual Workspace License (CVW License)
-* Motosoto License
-* Mozilla Public License 1.0 (MPL)
-* Mozilla Public License 1.1 (MPL)
-* Nokia Open Source License
-* Open Group Test Suite License
-* Python Software Foundation License
-* Ricoh Source Code Public License
-* Sun Industry Standards Source License (SISSL)
-* Sun Public License
-* University of Illinois/NCSA Open Source License
-* Vovida Software License v. 1.0
-* W3C License
-* X.Net License
-* Zope Public License
-* zlib/libpng license
-
-(1) Note: because this license contains certain reciprocal licensing terms that
-purport to extend to independently developed code, You may be prohibited under
-the terms of this otherwise compatible license from using code licensed under
-its terms with Covered Code because Covered Code may only be licensed under the
-RealNetworks Public Source License. Any attempt to apply non RPSL license terms,
-including without limitation the GPL, to Covered Code is expressly forbidden.
-You are responsible for ensuring that Your use of Compatible Source Licensed
-code does not violate either the RPSL or the Compatible Source License.
-
-The latest version of this list can be found at:
-https://www.helixcommunity.org/content/complicense
-
-                                EXHIBIT C 
-
-RealNetworks' Trademark policy.  
-
-RealNetworks defines the following trademarks collectively as "Licensor
-Trademarks": "RealNetworks", "RealPlayer", "RealJukebox", "RealSystem",
-"RealAudio", "RealVideo", "RealOne Player", "RealMedia", "Helix" or any other
-trademarks or trade names belonging to RealNetworks.
-
-RealNetworks "Licensor Trademark Policy" forbids any use of Licensor Trademarks
-except as permitted by and in strict compliance at all times with RealNetworks'
-third party trademark usage guidelines which are posted at
-http://www.realnetworks.com/info/helixlogo.html.
+Permission is granted to copy, distribute
+and/or modify this document under the terms of the GNU Free Documentation
+License, Version 1.3 or any later version published by the Free Software
+Foundation; with the Invariant Sections being LIST THEIR TITLES , with the
+Front-Cover Texts being LIST , and with the Back-Cover Texts being LIST . A
+copy of the license is included in the section entitled "GNU Free
+Documentation License".
+
+                GNU Free Documentation License
+                 Version 1.3, 3 November 2008
+
+
+ Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
+     <http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+0. PREAMBLE
+
+The purpose of this License is to make a manual, textbook, or other
+functional and useful document "free" in the sense of freedom: to
+assure everyone the effective freedom to copy and redistribute it,
+with or without modifying it, either commercially or noncommercially.
+Secondarily, this License preserves for the author and publisher a way
+to get credit for their work, while not being considered responsible
+for modifications made by others.
+
+This License is a kind of "copyleft", which means that derivative
+works of the document must themselves be free in the same sense.  It
+complements the GNU General Public License, which is a copyleft
+license designed for free software.
+
+We have designed this License in order to use it for manuals for free
+software, because free software needs free documentation: a free
+program should come with manuals providing the same freedoms that the
+software does.  But this License is not limited to software manuals;
+it can be used for any textual work, regardless of subject matter or
+whether it is published as a printed book.  We recommend this License
+principally for works whose purpose is instruction or reference.
+
+
+1. APPLICABILITY AND DEFINITIONS
+
+This License applies to any manual or other work, in any medium, that
+contains a notice placed by the copyright holder saying it can be
+distributed under the terms of this License.  Such a notice grants a
+world-wide, royalty-free license, unlimited in duration, to use that
+work under the conditions stated herein.  The "Document", below,
+refers to any such manual or work.  Any member of the public is a
+licensee, and is addressed as "you".  You accept the license if you
+copy, modify or distribute the work in a way requiring permission
+under copyright law.
+
+A "Modified Version" of the Document means any work containing the
+Document or a portion of it, either copied verbatim, or with
+modifications and/or translated into another language.
+
+A "Secondary Section" is a named appendix or a front-matter section of
+the Document that deals exclusively with the relationship of the
+publishers or authors of the Document to the Document's overall
+subject (or to related matters) and contains nothing that could fall
+directly within that overall subject.  (Thus, if the Document is in
+part a textbook of mathematics, a Secondary Section may not explain
+any mathematics.)  The relationship could be a matter of historical
+connection with the subject or with related matters, or of legal,
+commercial, philosophical, ethical or political position regarding
+them.
+
+The "Invariant Sections" are certain Secondary Sections whose titles
+are designated, as being those of Invariant Sections, in the notice
+that says that the Document is released under this License.  If a
+section does not fit the above definition of Secondary then it is not
+allowed to be designated as Invariant.  The Document may contain zero
+Invariant Sections.  If the Document does not identify any Invariant
+Sections then there are none.
+
+The "Cover Texts" are certain short passages of text that are listed,
+as Front-Cover Texts or Back-Cover Texts, in the notice that says that
+the Document is released under this License.  A Front-Cover Text may
+be at most 5 words, and a Back-Cover Text may be at most 25 words.
+
+A "Transparent" copy of the Document means a machine-readable copy,
+represented in a format whose specification is available to the
+general public, that is suitable for revising the document
+straightforwardly with generic text editors or (for images composed of
+pixels) generic paint programs or (for drawings) some widely available
+drawing editor, and that is suitable for input to text formatters or
+for automatic translation to a variety of formats suitable for input
+to text formatters.  A copy made in an otherwise Transparent file
+format whose markup, or absence of markup, has been arranged to thwart
+or discourage subsequent modification by readers is not Transparent.
+An image format is not Transparent if used for any substantial amount
+of text.  A copy that is not "Transparent" is called "Opaque".
+
+Examples of suitable formats for Transparent copies include plain
+ASCII without markup, Texinfo input format, LaTeX input format, SGML
+or XML using a publicly available DTD, and standard-conforming simple
+HTML, PostScript or PDF designed for human modification.  Examples of
+transparent image formats include PNG, XCF and JPG.  Opaque formats
+include proprietary formats that can be read and edited only by
+proprietary word processors, SGML or XML for which the DTD and/or
+processing tools are not generally available, and the
+machine-generated HTML, PostScript or PDF produced by some word
+processors for output purposes only.
+
+The "Title Page" means, for a printed book, the title page itself,
+plus such following pages as are needed to hold, legibly, the material
+this License requires to appear in the title page.  For works in
+formats which do not have any title page as such, "Title Page" means
+the text near the most prominent appearance of the work's title,
+preceding the beginning of the body of the text.
+
+The "publisher" means any person or entity that distributes copies of
+the Document to the public.
+
+A section "Entitled XYZ" means a named subunit of the Document whose
+title either is precisely XYZ or contains XYZ in parentheses following
+text that translates XYZ in another language.  (Here XYZ stands for a
+specific section name mentioned below, such as "Acknowledgements",
+"Dedications", "Endorsements", or "History".)  To "Preserve the Title"
+of such a section when you modify the Document means that it remains a
+section "Entitled XYZ" according to this definition.
+
+The Document may include Warranty Disclaimers next to the notice which
+states that this License applies to the Document.  These Warranty
+Disclaimers are considered to be included by reference in this
+License, but only as regards disclaiming warranties: any other
+implication that these Warranty Disclaimers may have is void and has
+no effect on the meaning of this License.
+
+2. VERBATIM COPYING
+
+You may copy and distribute the Document in any medium, either
+commercially or noncommercially, provided that this License, the
+copyright notices, and the license notice saying this License applies
+to the Document are reproduced in all copies, and that you add no
+other conditions whatsoever to those of this License.  You may not use
+technical measures to obstruct or control the reading or further
+copying of the copies you make or distribute.  However, you may accept
+compensation in exchange for copies.  If you distribute a large enough
+number of copies you must also follow the conditions in section 3.
+
+You may also lend copies, under the same conditions stated above, and
+you may publicly display copies.
+
+
+3. COPYING IN QUANTITY
+
+If you publish printed copies (or copies in media that commonly have
+printed covers) of the Document, numbering more than 100, and the
+Document's license notice requires Cover Texts, you must enclose the
+copies in covers that carry, clearly and legibly, all these Cover
+Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on
+the back cover.  Both covers must also clearly and legibly identify
+you as the publisher of these copies.  The front cover must present
+the full title with all words of the title equally prominent and
+visible.  You may add other material on the covers in addition.
+Copying with changes limited to the covers, as long as they preserve
+the title of the Document and satisfy these conditions, can be treated
+as verbatim copying in other respects.
+
+If the required texts for either cover are too voluminous to fit
+legibly, you should put the first ones listed (as many as fit
+reasonably) on the actual cover, and continue the rest onto adjacent
+pages.
+
+If you publish or distribute Opaque copies of the Document numbering
+more than 100, you must either include a machine-readable Transparent
+copy along with each Opaque copy, or state in or with each Opaque copy
+a computer-network location from which the general network-using
+public has access to download using public-standard network protocols
+a complete Transparent copy of the Document, free of added material.
+If you use the latter option, you must take reasonably prudent steps,
+when you begin distribution of Opaque copies in quantity, to ensure
+that this Transparent copy will remain thus accessible at the stated
+location until at least one year after the last time you distribute an
+Opaque copy (directly or through your agents or retailers) of that
+edition to the public.
+
+It is requested, but not required, that you contact the authors of the
+Document well before redistributing any large number of copies, to
+give them a chance to provide you with an updated version of the
+Document.
+
+
+4. MODIFICATIONS
+
+You may copy and distribute a Modified Version of the Document under
+the conditions of sections 2 and 3 above, provided that you release
+the Modified Version under precisely this License, with the Modified
+Version filling the role of the Document, thus licensing distribution
+and modification of the Modified Version to whoever possesses a copy
+of it.  In addition, you must do these things in the Modified Version:
+
+A. Use in the Title Page (and on the covers, if any) a title distinct
+   from that of the Document, and from those of previous versions
+   (which should, if there were any, be listed in the History section
+   of the Document).  You may use the same title as a previous version
+   if the original publisher of that version gives permission.
+B. List on the Title Page, as authors, one or more persons or entities
+   responsible for authorship of the modifications in the Modified
+   Version, together with at least five of the principal authors of the
+   Document (all of its principal authors, if it has fewer than five),
+   unless they release you from this requirement.
+C. State on the Title page the name of the publisher of the
+   Modified Version, as the publisher.
+D. Preserve all the copyright notices of the Document.
+E. Add an appropriate copyright notice for your modifications
+   adjacent to the other copyright notices.
+F. Include, immediately after the copyright notices, a license notice
+   giving the public permission to use the Modified Version under the
+   terms of this License, in the form shown in the Addendum below.
+G. Preserve in that license notice the full lists of Invariant Sections
+   and required Cover Texts given in the Document's license notice.
+H. Include an unaltered copy of this License.
+I. Preserve the section Entitled "History", Preserve its Title, and add
+   to it an item stating at least the title, year, new authors, and
+   publisher of the Modified Version as given on the Title Page.  If
+   there is no section Entitled "History" in the Document, create one
+   stating the title, year, authors, and publisher of the Document as
+   given on its Title Page, then add an item describing the Modified
+   Version as stated in the previous sentence.
+J. Preserve the network location, if any, given in the Document for
+   public access to a Transparent copy of the Document, and likewise
+   the network locations given in the Document for previous versions
+   it was based on.  These may be placed in the "History" section.
+   You may omit a network location for a work that was published at
+   least four years before the Document itself, or if the original
+   publisher of the version it refers to gives permission.
+K. For any section Entitled "Acknowledgements" or "Dedications",
+   Preserve the Title of the section, and preserve in the section all
+   the substance and tone of each of the contributor acknowledgements
+   and/or dedications given therein.
+L. Preserve all the Invariant Sections of the Document,
+   unaltered in their text and in their titles.  Section numbers
+   or the equivalent are not considered part of the section titles.
+M. Delete any section Entitled "Endorsements".  Such a section
+   may not be included in the Modified Version.
+N. Do not retitle any existing section to be Entitled "Endorsements"
+   or to conflict in title with any Invariant Section.
+O. Preserve any Warranty Disclaimers.
+
+If the Modified Version includes new front-matter sections or
+appendices that qualify as Secondary Sections and contain no material
+copied from the Document, you may at your option designate some or all
+of these sections as invariant.  To do this, add their titles to the
+list of Invariant Sections in the Modified Version's license notice.
+These titles must be distinct from any other section titles.
+
+You may add a section Entitled "Endorsements", provided it contains
+nothing but endorsements of your Modified Version by various
+parties--for example, statements of peer review or that the text has
+been approved by an organization as the authoritative definition of a
+standard.
+
+You may add a passage of up to five words as a Front-Cover Text, and a
+passage of up to 25 words as a Back-Cover Text, to the end of the list
+of Cover Texts in the Modified Version.  Only one passage of
+Front-Cover Text and one of Back-Cover Text may be added by (or
+through arrangements made by) any one entity.  If the Document already
+includes a cover text for the same cover, previously added by you or
+by arrangement made by the same entity you are acting on behalf of,
+you may not add another; but you may replace the old one, on explicit
+permission from the previous publisher that added the old one.
+
+The author(s) and publisher(s) of the Document do not by this License
+give permission to use their names for publicity for or to assert or
+imply endorsement of any Modified Version.
+
+
+5. COMBINING DOCUMENTS
+
+You may combine the Document with other documents released under this
+License, under the terms defined in section 4 above for modified
+versions, provided that you include in the combination all of the
+Invariant Sections of all of the original documents, unmodified, and
+list them all as Invariant Sections of your combined work in its
+license notice, and that you preserve all their Warranty Disclaimers.
+
+The combined work need only contain one copy of this License, and
+multiple identical Invariant Sections may be replaced with a single
+copy.  If there are multiple Invariant Sections with the same name but
+different contents, make the title of each such section unique by
+adding at the end of it, in parentheses, the name of the original
+author or publisher of that section if known, or else a unique number.
+Make the same adjustment to the section titles in the list of
+Invariant Sections in the license notice of the combined work.
+
+In the combination, you must combine any sections Entitled "History"
+in the various original documents, forming one section Entitled
+"History"; likewise combine any sections Entitled "Acknowledgements",
+and any sections Entitled "Dedications".  You must delete all sections
+Entitled "Endorsements".
+
+
+6. COLLECTIONS OF DOCUMENTS
+
+You may make a collection consisting of the Document and other
+documents released under this License, and replace the individual
+copies of this License in the various documents with a single copy
+that is included in the collection, provided that you follow the rules
+of this License for verbatim copying of each of the documents in all
+other respects.
+
+You may extract a single document from such a collection, and
+distribute it individually under this License, provided you insert a
+copy of this License into the extracted document, and follow this
+License in all other respects regarding verbatim copying of that
+document.
+
+
+7. AGGREGATION WITH INDEPENDENT WORKS
+
+A compilation of the Document or its derivatives with other separate
+and independent documents or works, in or on a volume of a storage or
+distribution medium, is called an "aggregate" if the copyright
+resulting from the compilation is not used to limit the legal rights
+of the compilation's users beyond what the individual works permit.
+When the Document is included in an aggregate, this License does not
+apply to the other works in the aggregate which are not themselves
+derivative works of the Document.
+
+If the Cover Text requirement of section 3 is applicable to these
+copies of the Document, then if the Document is less than one half of
+the entire aggregate, the Document's Cover Texts may be placed on
+covers that bracket the Document within the aggregate, or the
+electronic equivalent of covers if the Document is in electronic form.
+Otherwise they must appear on printed covers that bracket the whole
+aggregate.
+
+
+8. TRANSLATION
+
+Translation is considered a kind of modification, so you may
+distribute translations of the Document under the terms of section 4.
+Replacing Invariant Sections with translations requires special
+permission from their copyright holders, but you may include
+translations of some or all Invariant Sections in addition to the
+original versions of these Invariant Sections.  You may include a
+translation of this License, and all the license notices in the
+Document, and any Warranty Disclaimers, provided that you also include
+the original English version of this License and the original versions
+of those notices and disclaimers.  In case of a disagreement between
+the translation and the original version of this License or a notice
+or disclaimer, the original version will prevail.
+
+If a section in the Document is Entitled "Acknowledgements",
+"Dedications", or "History", the requirement (section 4) to Preserve
+its Title (section 1) will typically require changing the actual
+title.
+
+
+9. TERMINATION
+
+You may not copy, modify, sublicense, or distribute the Document
+except as expressly provided under this License.  Any attempt
+otherwise to copy, modify, sublicense, or distribute it is void, and
+will automatically terminate your rights under this License.
+
+However, if you cease all violation of this License, then your license
+from a particular copyright holder is reinstated (a) provisionally,
+unless and until the copyright holder explicitly and finally
+terminates your license, and (b) permanently, if the copyright holder
+fails to notify you of the violation by some reasonable means prior to
+60 days after the cessation.
+
+Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.
+
+Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, receipt of a copy of some or all of the same material does
+not give you any rights to use it.
+
+
+10. FUTURE REVISIONS OF THIS LICENSE
+
+The Free Software Foundation may publish new, revised versions of the
+GNU Free Documentation License from time to time.  Such new versions
+will be similar in spirit to the present version, but may differ in
+detail to address new problems or concerns.  See
+http://www.gnu.org/copyleft/.
+
+Each version of the License is given a distinguishing version number.
+If the Document specifies that a particular numbered version of this
+License "or any later version" applies to it, you have the option of
+following the terms and conditions either of that specified version or
+of any later version that has been published (not as a draft) by the
+Free Software Foundation.  If the Document does not specify a version
+number of this License, you may choose any version ever published (not
+as a draft) by the Free Software Foundation.  If the Document
+specifies that a proxy can decide which future versions of this
+License can be used, that proxy's public statement of acceptance of a
+version permanently authorizes you to choose that version for the
+Document.
+
+11. RELICENSING
+
+"Massive Multiauthor Collaboration Site" (or "MMC Site") means any
+World Wide Web server that publishes copyrightable works and also
+provides prominent facilities for anybody to edit those works.  A
+public wiki that anybody can edit is an example of such a server.  A
+"Massive Multiauthor Collaboration" (or "MMC") contained in the site
+means any set of copyrightable works thus published on the MMC site.
+
+"CC-BY-SA" means the Creative Commons Attribution-Share Alike 3.0 
+license published by Creative Commons Corporation, a not-for-profit 
+corporation with a principal place of business in San Francisco, 
+California, as well as future copyleft versions of that license 
+published by that same organization.
+
+"Incorporate" means to publish or republish a Document, in whole or in 
+part, as part of another Document.
+
+An MMC is "eligible for relicensing" if it is licensed under this 
+License, and if all works that were first published under this License 
+somewhere other than this MMC, and subsequently incorporated in whole or 
+in part into the MMC, (1) had no cover texts or invariant sections, and 
+(2) were thus incorporated prior to November 1, 2008.
+
+The operator of an MMC Site may republish an MMC contained in the site
+under CC-BY-SA on the same site at any time before August 1, 2009,
+provided the MMC is eligible for relicensing.
+
+
+ADDENDUM: How to use this License for your documents
+
+To use this License in a document you have written, include a copy of
+the License in the document and put the following copyright and
+license notices just after the title page:
+
+    Copyright (c)  YEAR  YOUR NAME.
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+
+If you have Invariant Sections, Front-Cover Texts and Back-Cover Texts,
+replace the "with...Texts." line with this:
+
+    with the Invariant Sections being LIST THEIR TITLES, with the
+    Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
+
+If you have Invariant Sections without Cover Texts, or some other
+combination of the three, merge those two alternatives to suit the
+situation.
+
+If your document contains nontrivial examples of program code, we
+recommend releasing these examples in parallel under your choice of
+free software license, such as the GNU General Public License,
+to permit their use in free software.

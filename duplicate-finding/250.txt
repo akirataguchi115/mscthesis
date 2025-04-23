@@ -1,93 +1,277 @@
-Licence Libre du Québec – Réciprocité (LiLiQ-R)
-Version 1.1
+Eclipse Public License - v 2.0
 
-1. Préambule 
-Cette licence s'applique à tout logiciel distribué dont le titulaire du droit d'auteur précise qu'il est sujet aux termes de la Licence Libre du Québec – Réciprocité (LiLiQ-R) (ci-après appelée la « licence »).
+    THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
+    PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
+    OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
-2. Définitions 
-Dans la présente licence, à moins que le contexte n'indique un sens différent, on entend par:
+1. DEFINITIONS
 
-« concédant » : le titulaire du droit d'auteur sur le logiciel, ou toute personne dûment autorisée par ce dernier à accorder la présente licence; 
-« contributeur » : le titulaire du droit d'auteur ou toute personne autorisée par ce dernier à soumettre au concédant une contribution. Un contributeur dont sa contribution est incorporée au logiciel est considéré comme un concédant en regard de sa contribution; 
-« contribution » : tout logiciel original, ou partie de logiciel original soumis et destiné à être incorporé dans le logiciel; 
-« distribution » : le fait de délivrer une copie du logiciel; 
-« licencié » : toute personne qui possède une copie du logiciel et qui exerce les droits concédés par la licence; 
-« logiciel » : une œuvre protégée par le droit d'auteur, telle qu'un programme d'ordinateur et sa documentation, pour laquelle le titulaire du droit d'auteur a précisé qu'elle est sujette aux termes de la présente licence; 
-« logiciel dérivé » : tout logiciel original réalisé par un licencié, autre que le logiciel ou un logiciel modifié, qui produit ou reproduit la totalité ou une partie importante du logiciel; 
-« logiciel modifié » : toute modification par un licencié de l'un des fichiers source du logiciel ou encore tout nouveau fichier source qui incorpore le logiciel ou une partie importante de ce dernier.
+"Contribution" means:
 
-3. Licence de droit d'auteur 
-Sous réserve des termes de la licence, le concédant accorde au licencié une licence non exclusive et libre de redevances lui permettant d’exercer les droits suivants sur le logiciel :
+  a) in the case of the initial Contributor, the initial content
+     Distributed under this Agreement, and
 
-1 Produire ou reproduire la totalité ou une partie importante; 
-2 Exécuter ou représenter la totalité ou une partie importante en public; 
-3 Publier la totalité ou une partie importante.
+  b) in the case of each subsequent Contributor:
+     i) changes to the Program, and
+     ii) additions to the Program;
+  where such changes and/or additions to the Program originate from
+  and are Distributed by that particular Contributor. A Contribution
+  "originates" from a Contributor if it was added to the Program by
+  such Contributor itself or anyone acting on such Contributor's behalf.
+  Contributions do not include changes or additions to the Program that
+  are not Modified Works.
 
-Cette licence est accordée sans limite territoriale et sans limite de temps.
+"Contributor" means any person or entity that Distributes the Program.
 
-L'exercice complet de ces droits est sujet à la distribution par le concédant du code source du logiciel, lequel doit être sous une forme permettant d'y apporter des modifications. Le concédant peut aussi distribuer le logiciel accompagné d'une offre de distribuer le code source du logiciel, sans frais supplémentaires, autres que ceux raisonnables afin de permettre la livraison du code source. Cette offre doit être valide pendant une durée raisonnable.
+"Licensed Patents" mean patent claims licensable by a Contributor which
+are necessarily infringed by the use or sale of its Contribution alone
+or when combined with the Program.
 
-4. Distribution 
-Le licencié peut distribuer des copies du logiciel, d'un logiciel modifié ou dérivé, sous réserve de respecter les conditions suivantes :
+"Program" means the Contributions Distributed in accordance with this
+Agreement.
 
-1 Le logiciel doit être accompagné d'un exemplaire de cette licence; 
-2 Si le logiciel a été modifié, le licencié doit en faire la mention, de préférence dans chacun des fichiers modifiés dont la nature permet une telle mention; 
-3 Les étiquettes ou mentions faisant état des droits d'auteur, des marques de commerce, des garanties ou de la paternité concernant le logiciel ne doivent pas être modifiées ou supprimées, à moins que ces étiquettes ou mentions ne soient inapplicables à un logiciel modifié ou dérivé donné.
+"Recipient" means anyone who receives the Program under this Agreement
+or any Secondary License (as applicable), including Contributors.
 
-4.1. Réciprocité 
-Chaque fois que le licencié distribue le logiciel, le concédant offre au récipiendaire une concession sur le logiciel selon les termes de la présente licence. Le licencié doit offrir une concession selon les termes de la présente licence pour tout logiciel modifié qu'il distribue.
+"Derivative Works" shall mean any work, whether in Source Code or other
+form, that is based on (or derived from) the Program and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship.
 
-Chaque fois que le licencié distribue le logiciel ou un logiciel modifié, ce dernier doit assumer l'obligation d'en distribuer le code source, de la manière prévue au troisième alinéa de l'article 3.
+"Modified Works" shall mean any work in Source Code or other form that
+results from an addition to, deletion from, or modification of the
+contents of the Program, including, for purposes of clarity any new file
+in Source Code form that contains any contents of the Program. Modified
+Works shall not include works that contain only declarations,
+interfaces, types, classes, structures, or files of the Program solely
+in each case in order to link to, bind by name, or subclass the Program
+or Modified Works thereof.
 
-4.2. Compatibilité 
-Dans la mesure où le licencié souhaite distribuer un logiciel modifié combiné à un logiciel assujetti à une licence compatible, mais dont il ne serait pas possible d'en respecter les termes, le concédant offre, en plus de la présente concession, une concession selon les termes de cette licence compatible.
+"Distribute" means the acts of a) distributing or b) making available
+in any manner that enables the transfer of a copy.
 
-Un licencié qui est titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible ne peut pas se prévaloir de cette offre. Il en est de même pour toute autre personne dûment autorisée à sous-licencier par le titulaire exclusif du droit d'auteur sur le logiciel assujetti à une licence compatible.
+"Source Code" means the form of a Program preferred for making
+modifications, including but not limited to software source code,
+documentation source, and configuration files.
 
-Est considérée comme une licence compatible toute licence libre approuvée ou certifiée par la Free Software Foundation ou l'Open Source Initiative, dont le niveau de réciprocité est comparable ou supérieur à celui de la présente licence, sans toutefois être moindre, notamment :
+"Secondary License" means either the GNU General Public License,
+Version 2.0, or any later versions of that license, including any
+exceptions or additional permissions as identified by the initial
+Contributor.
 
-1 Common Development and Distribution License (CDDL-1.0) 
-2 Common Public License Version 1.0 (CPL-1.0) 
-3 Contrat de licence de logiciel libre CeCILL, version 2.1 (CECILL-2.1) 
-4 Contrat de licence de logiciel libre CeCILL-C (CECILL-C) 
-5 Eclipse Public License - v 1.0 (EPL-1.0) 
-6 European Union Public License, version 1.1 (EUPL v. 1.1) 
-7 Licence Libre du Québec – Réciprocité forte version 1.1 (LiLiQ-R+ 1.1) 
-8 GNU General Public License Version 2 (GNU GPLv2) 
-9 GNU General Public License Version 3 (GNU GPLv3) 
-10 GNU Lesser General Public License Version 2.1 (GNU LGPLv2.1) 
-11 GNU Lesser General Public License Version 3 (GNU LGPLv3) 
-12 Mozilla Public License Version 2.0 (MPL-2.0)
+2. GRANT OF RIGHTS
 
-5. Contributions 
-Sous réserve d'une entente distincte, toute contribution soumise par un contributeur au concédant pour inclusion dans le logiciel sera soumise aux termes de cette licence.
+  a) Subject to the terms of this Agreement, each Contributor hereby
+  grants Recipient a non-exclusive, worldwide, royalty-free copyright
+  license to reproduce, prepare Derivative Works of, publicly display,
+  publicly perform, Distribute and sublicense the Contribution of such
+  Contributor, if any, and such Derivative Works.
 
-6. Marques de commerce 
-La licence n'accorde aucune permission particulière qui permettrait d'utiliser les marques de commerce du concédant, autre que celle requise permettant d'identifier la provenance du logiciel.
+  b) Subject to the terms of this Agreement, each Contributor hereby
+  grants Recipient a non-exclusive, worldwide, royalty-free patent
+  license under Licensed Patents to make, use, sell, offer to sell,
+  import and otherwise transfer the Contribution of such Contributor,
+  if any, in Source Code or other form. This patent license shall
+  apply to the combination of the Contribution and the Program if, at
+  the time the Contribution is added by the Contributor, such addition
+  of the Contribution causes such combination to be covered by the
+  Licensed Patents. The patent license shall not apply to any other
+  combinations which include the Contribution. No hardware per se is
+  licensed hereunder.
 
-7. Garanties 
-Sauf mention contraire, le concédant distribue le logiciel sans aucune garantie, aux risques et périls de l'acquéreur de la copie du logiciel, et ce, sans assurer que le logiciel puisse répondre à un besoin particulier ou puisse donner un résultat quelconque.
+  c) Recipient understands that although each Contributor grants the
+  licenses to its Contributions set forth herein, no assurances are
+  provided by any Contributor that the Program does not infringe the
+  patent or other intellectual property rights of any other entity.
+  Each Contributor disclaims any liability to Recipient for claims
+  brought by any other entity based on infringement of intellectual
+  property rights or otherwise. As a condition to exercising the
+  rights and licenses granted hereunder, each Recipient hereby
+  assumes sole responsibility to secure any other intellectual
+  property rights needed, if any. For example, if a third party
+  patent license is required to allow Recipient to Distribute the
+  Program, it is Recipient's responsibility to acquire that license
+  before distributing the Program.
 
-Sans lier le concédant d'une quelconque manière, rien n'empêche un licencié d'offrir ou d'exclure des garanties ou du support.
+  d) Each Contributor represents that to its knowledge it has
+  sufficient copyright rights in its Contribution, if any, to grant
+  the copyright license set forth in this Agreement.
 
-8. Responsabilité 
-Le licencié est responsable de tout préjudice résultant de l'exercice des droits accordés par la licence.
+  e) Notwithstanding the terms of any Secondary License, no
+  Contributor makes additional grants to any Recipient (other than
+  those set forth in this Agreement) as a result of such Recipient's
+  receipt of the Program under the terms of a Secondary License
+  (if permitted under the terms of Section 3).
 
-Le concédant ne saurait être tenu responsable du préjudice subi par le licencié ou par des tiers, pour quelque cause que ce soit en lien avec la licence et les droits qui y sont accordés.
+3. REQUIREMENTS
 
-9. Résiliation 
-La présente licence est résiliée de plein droit dès que les droits qui y sont accordés ne sont pas exercés conformément aux termes qui y sont stipulés.
+3.1 If a Contributor Distributes the Program in any form, then:
 
-Toutefois, si le défaut est corrigé dans un délai de 30 jours de sa prise de connaissance par la personne en défaut, et qu'il s'agit du premier défaut, la licence est accordée de nouveau.
+  a) the Program must also be made available as Source Code, in
+  accordance with section 3.2, and the Contributor must accompany
+  the Program with a statement that the Source Code for the Program
+  is available under this Agreement, and informs Recipients how to
+  obtain it in a reasonable manner on or through a medium customarily
+  used for software exchange; and
 
-Pour tout défaut subséquent, le consentement exprès du concédant est nécessaire afin que la licence soit accordée de nouveau.
+  b) the Contributor may Distribute the Program under a license
+  different than this Agreement, provided that such license:
+     i) effectively disclaims on behalf of all other Contributors all
+     warranties and conditions, express and implied, including
+     warranties or conditions of title and non-infringement, and
+     implied warranties or conditions of merchantability and fitness
+     for a particular purpose;
 
-10. Version de la licence 
-Le Centre de services partagés du Québec, ses ayants cause ou toute personne qu'il désigne, peuvent diffuser des versions révisées ou modifiées de cette licence. Chaque version recevra un numéro unique. Si un logiciel est déjà soumis aux termes d'une version spécifique, c'est seulement cette version qui liera les parties à la licence.
+     ii) effectively excludes on behalf of all other Contributors all
+     liability for damages, including direct, indirect, special,
+     incidental and consequential damages, such as lost profits;
 
-Le concédant peut aussi choisir de concéder la licence sous la version actuelle ou toute version ultérieure, auquel cas le licencié peut choisir sous quelle version la licence lui est accordée.
+     iii) does not attempt to limit or alter the recipients' rights
+     in the Source Code under section 3.2; and
 
-11. Divers 
-Dans la mesure où le concédant est un ministère, un organisme public ou une personne morale de droit public, créés en vertu d'une loi de l'Assemblée nationale du Québec, la licence est régie par le droit applicable au Québec et en cas de contestation, les tribunaux du Québec seront seuls compétents.
+     iv) requires any subsequent distribution of the Program by any
+     party to be under a license that satisfies the requirements
+     of this section 3.
 
-La présente licence peut être distribuée sans conditions particulières. Toutefois, une version modifiée doit être distribuée sous un nom différent. Toute référence au Centre de services partagés du Québec, et, le cas échéant, ses ayant droit, doit être retirée, autre que celle permettant d'identifier la provenance de la licence.
+3.2 When the Program is Distributed as Source Code:
+
+  a) it must be made available under this Agreement, or if the
+  Program (i) is combined with other material in a separate file or
+  files made available under a Secondary License, and (ii) the initial
+  Contributor attached to the Source Code the notice described in
+  Exhibit A of this Agreement, then the Program may be made available
+  under the terms of such Secondary Licenses, and
+
+  b) a copy of this Agreement must be included with each copy of
+  the Program.
+
+3.3 Contributors may not remove or alter any copyright, patent,
+trademark, attribution notices, disclaimers of warranty, or limitations
+of liability ("notices") contained within the Program from any copy of
+the Program which they Distribute, provided that Contributors may add
+their own appropriate notices.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities
+with respect to end users, business partners and the like. While this
+license is intended to facilitate the commercial use of the Program,
+the Contributor who includes the Program in a commercial product
+offering should do so in a manner which does not create potential
+liability for other Contributors. Therefore, if a Contributor includes
+the Program in a commercial product offering, such Contributor
+("Commercial Contributor") hereby agrees to defend and indemnify every
+other Contributor ("Indemnified Contributor") against any losses,
+damages and costs (collectively "Losses") arising from claims, lawsuits
+and other legal actions brought by a third party against the Indemnified
+Contributor to the extent caused by the acts or omissions of such
+Commercial Contributor in connection with its distribution of the Program
+in a commercial product offering. The obligations in this section do not
+apply to any claims or Losses relating to any actual or alleged
+intellectual property infringement. In order to qualify, an Indemnified
+Contributor must: a) promptly notify the Commercial Contributor in
+writing of such claim, and b) allow the Commercial Contributor to control,
+and cooperate with the Commercial Contributor in, the defense and any
+related settlement negotiations. The Indemnified Contributor may
+participate in any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial
+product offering, Product X. That Contributor is then a Commercial
+Contributor. If that Commercial Contributor then makes performance
+claims, or offers warranties related to Product X, those performance
+claims and warranties are such Commercial Contributor's responsibility
+alone. Under this section, the Commercial Contributor would have to
+defend claims against the other Contributors related to those performance
+claims and warranties, and if a court requires any other Contributor to
+pay any damages as a result, the Commercial Contributor must pay
+those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS"
+BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. Each Recipient is solely responsible for determining the
+appropriateness of using and distributing the Program and assumes all
+risks associated with its exercise of rights under this Agreement,
+including but not limited to the risks and costs of program errors,
+compliance with applicable laws, damage to or loss of data, programs
+or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS
+SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
+PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE
+EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this Agreement, and without further
+action by the parties hereto, such provision shall be reformed to the
+minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that the
+Program itself (excluding combinations of the Program with other software
+or hardware) infringes such Recipient's patent(s), then such Recipient's
+rights granted under Section 2(b) shall terminate as of the date such
+litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it
+fails to comply with any of the material terms or conditions of this
+Agreement and does not cure such failure in a reasonable period of
+time after becoming aware of such noncompliance. If all Recipient's
+rights under this Agreement terminate, Recipient agrees to cease use
+and distribution of the Program as soon as reasonably practicable.
+However, Recipient's obligations under this Agreement and any licenses
+granted by Recipient relating to the Program shall continue and survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement,
+but in order to avoid inconsistency the Agreement is copyrighted and
+may only be modified in the following manner. The Agreement Steward
+reserves the right to publish new versions (including revisions) of
+this Agreement from time to time. No one other than the Agreement
+Steward has the right to modify this Agreement. The Eclipse Foundation
+is the initial Agreement Steward. The Eclipse Foundation may assign the
+responsibility to serve as the Agreement Steward to a suitable separate
+entity. Each new version of the Agreement will be given a distinguishing
+version number. The Program (including Contributions) may always be
+Distributed subject to the version of the Agreement under which it was
+received. In addition, after a new version of the Agreement is published,
+Contributor may elect to Distribute the Program (including its
+Contributions) under the new version.
+
+Except as expressly stated in Sections 2(a) and 2(b) above, Recipient
+receives no rights or licenses to the intellectual property of any
+Contributor under this Agreement, whether expressly, by implication,
+estoppel or otherwise. All rights in the Program not expressly granted
+under this Agreement are reserved. Nothing in this Agreement is intended
+to be enforceable by any entity that is not a Contributor or Recipient.
+No third-party beneficiary rights are created under this Agreement.
+
+Exhibit A - Form of Secondary Licenses Notice
+
+"This Source Code is also Distributed under one
+or more Secondary Licenses, as those terms are defined by
+the Eclipse Public License, v. 2.0: {name license(s),version(s),
+and exceptions or additional permissions here}."
+
+  Simply including a copy of this Agreement, including this Exhibit A
+  is not sufficient to license the Source Code under Secondary Licenses.
+
+  If it is not possible or desirable to put the notice in a particular
+  file, then You may include the notice in a location (such as a LICENSE
+  file in a relevant directory) where a recipient would be likely to
+  look for such a notice.
+
+  You may add additional accurate notices of copyright ownership.

@@ -1,21 +1,43 @@
-Copyright (Unpublished-all rights reserved under the copyright laws of the United States),
-U.S. Government as represented by the Administrator of the National Aeronautics and Space
-Administration. No copyright is claimed in the United States under Title 17, U.S. Code.
+COPYRIGHT NOTIFICATION
 
-Permission to freely use, copy, modify, and distribute this software and its documentation
-without fee is hereby granted, provided that this copyright notice and disclaimer of warranty
-appears in all copies.
+(C) COPYRIGHT 2004 UNIVERSITY OF CHICAGO
 
-DISCLAIMER:
+This program discloses material protectable under copyright laws of the United
+States. Permission to copy and modify this software and its documentation is
+hereby granted, provided that this notice is retained thereon and on all copies
+or modifications. The University of Chicago makes no representations as to the
+suitability and operability of this software for any purpose. It is provided "as
+is"; without express or implied warranty. Permission is hereby granted to use,
+reproduce, prepare derivative works, and to redistribute to others, so long as
+this original copyright notice is retained. Any publication resulting from
+research that made use of this software should cite this document.
 
-THE SOFTWARE IS PROVIDED 'AS IS' WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED,
-OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SOFTWARE WILL CONFORM TO
-SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
-AND FREEDOM FROM INFRINGEMENT, AND ANY WARRANTY THAT THE DOCUMENTATION WILL CONFORM TO
-THE SOFTWARE, OR ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR FREE. IN NO EVENT SHALL NASA
-BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL OR
-CONSEQUENTIAL DAMAGES, ARISING OUT OF, RESULTING FROM, OR IN ANY WAY CONNECTED WITH THIS
-SOFTWARE, WHETHER OR NOT BASED UPON WARRANTY, CONTRACT, TORT , OR OTHERWISE, WHETHER OR NOT
-INJURY WAS SUSTAINED BY PERSONS OR PROPERTY OR OTHERWISE, AND WHETHER OR NOT LOSS WAS
-SUSTAINED FROM, OR AROSE OUT OF THE RESULTS OF, OR USE OF, THE SOFTWARE OR SERVICES
-PROVIDED HEREUNDER.
+     This software was authored by:
+
+     Steven J. Benson Mathematics and Computer Science Division Argonne National
+     Laboratory Argonne IL 60439
+
+     Yinyu Ye Department of Management Science and Engineering Stanford
+     University Stanford, CA U.S.A
+
+     Any questions or comments on the software may be directed to
+     benson@mcs.anl.gov or yinyu-ye@stanford.edu
+
+Argonne National Laboratory with facilities in the states of Illinois and Idaho,
+is owned by The United States Government, and operated by the University of
+Chicago under provision of a contract with the Department of Energy.
+
+DISCLAIMER 
+
+THIS PROGRAM WAS PREPARED AS AN ACCOUNT OF WORK SPONSORED BY AN AGENCY OF THE
+UNITED STATES GOVERNMENT. NEITHER THE UNITED STATES GOVERNMENT NOR ANY AGENCY
+THEREOF, NOR THE UNIVERSITY OF CHICAGO, NOR ANY OF THEIR EMPLOYEES OR OFFICERS,
+MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LEGAL LIABILITY OR
+RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION,
+APPARATUS, PRODUCT, OR PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE WOULD NOT
+INFRINGE PRIVATELY OWNED RIGHTS. REFERENCE HEREIN TO ANY SPECIFIC COMMERCIAL
+PRODUCT, PROCESS, OR SERVICE BY TRADE NAME, TRADEMARK, MANUFACTURER, OR
+OTHERWISE, DOES NOT NECESSARILY CONSTITUTE OR IMPLY ITS ENDORSEMENT,
+RECOMMENDATION, OR FAVORING BY THE UNITED STATES GOVERNMENT OR ANY AGENCY
+THEREOF. THE VIEW AND OPINIONS OF AUTHORS EXPRESSED HEREIN DO NOT NECESSARILY
+STATE OR REFLECT THOSE OF THE UNITED STATES GOVERNMENT OR ANY AGENCY THEREOF.

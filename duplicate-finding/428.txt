@@ -1,23 +1,19 @@
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that:
+Permission to use, copy, modify and distribute this software and its
+documentation is hereby granted, provided that both the copyright notice and
+this permission notice appear in all copies of the software, derivative works or
+modified versions, and any portions thereof, and that both notices appear in
+supporting documentation.
 
-(1) source code distributions retain the above copyright notice and this
-paragraph in its entirety,
+CARNEGIE MELLON ALLOWS FREE USE OF THIS SOFTWARE IN ITS "AS IS" CONDITION.
+CARNEGIE MELLON DISCLAIMS ANY LIABILITY OF ANY KIND FOR ANY DAMAGES WHATSOEVER
+RESULTING FROM THE USE OF THIS SOFTWARE.
 
-(2) distributions including binary code include the above copyright notice and
-this paragraph in its entirety in the documentation or other materials provided
-with the distribution, and
+Carnegie Mellon requests users of this software to return to
 
-(3) all advertising materials mentioning features or use of this software
-display the following acknowledgement:
+  Software Distribution Coordinator or Software.Distribution@CS.CMU.EDU 
+  School of Computer Science 
+  Carnegie Mellon University 
+  Pittsburgh PA 15213-3890
 
-"This product includes software developed by the University of California,
-Lawrence Berkeley Laboratory and its contributors."
-
-Neither the name of the University nor the names of its contributors may be used
-to endorse or promote products derived from this software without specific prior
-written permission.
-
-THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES,
-INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
-FITNESS FOR A PARTICULAR PURPOSE.
+any improvements or extensions that they make and grant Carnegie the rights to
+redistribute these changes.
