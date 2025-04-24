@@ -1,5 +1,7 @@
 ## Diary
-### week 17 
+### week 17
+thu: how do i remove duplicates and mark them as duplicates. maybe ill just mark the duplicates in a text file with new lines and call it a day all on the validity threatness.
+
 wed: i gotta put stage 2 licenses in an .md as well. the last table of licenses can be as appendix in the thesis as well but i also want the licenses of stage 3 to exist in github in LICENSENAME.txt as well. now i will remove duplicates but wth why is there only 621 licenses in duplicate finding. now theres 752 but it should be 754 why?
 
 is it possible that an empty license exists in my full licenses and its not a manual license. lol no it was just that my plan9 manual license was empty instead of a space character.

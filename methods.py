@@ -43,14 +43,12 @@ if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
 number = 1
-text_list = [x for x in list(licenses.values())]
-text_list.sort()
-for license_text in text_list:
-  if license_text:
-    # put shortcode name here as well as the number but number first
-    file_object = open('duplicate-finding/' + "CONTINUEHERELJDAFJADSÖLKF" + str(number) + '.txt', 'w')
-    file_object.write(license_text)
-    number += 1
+licenses_in_tuples = sorted(list(licenses.items()), key=lambda x:x[1])
+for tuple in licenses_in_tuples:
+  # put shortcode name here as well as the number but number first
+  file_object = open('duplicate-finding/' + str(number) + '-' + tuple[0] + '.txt', 'w')
+  file_object.write(tuple[1])
+  number += 1
 
 
 if path.exists('stage2-licenses'):
