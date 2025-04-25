@@ -1,5 +1,7 @@
 ## Diary
 ### week 17
+fri: i have a problem. since whitespace is higher order in sort method in python than, say the character 'A', the license of AGPLv3 is wayy lower than the actual license with whitespace inserted on top of it. i do not know what to do. this might be farfetched but can i somehow take a cosine similarity between the license texts. jesus fucking christ what a dumpster fire. maybe ill just try the difflib and hope for the best. hope, that it will remove titles and law-wise unnecessary bits so that i can remove duplicates even somehow. to mitigate the validity threat ill document the removed duplicate shortcodes. surely this way no one is going to be upset.
+
 thu: how do i remove duplicates and mark them as duplicates. maybe ill just mark the duplicates in a text file with new lines and call it a day all on the validity threatness.
 
 wed: i gotta put stage 2 licenses in an .md as well. the last table of licenses can be as appendix in the thesis as well but i also want the licenses of stage 3 to exist in github in LICENSENAME.txt as well. now i will remove duplicates but wth why is there only 621 licenses in duplicate finding. now theres 752 but it should be 754 why?

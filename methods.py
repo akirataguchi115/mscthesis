@@ -31,6 +31,8 @@ for key, value in licenses.items():
 print('Fetch these ' + str(len(manual_licenses)) + ' licenses manually')
 print(str(manual_licenses) + '\n')
 
+# Remove already defined duplicates from licenses dict
+
 
 # Remove empty full license text pairs from licenses dict
 empty_licenses = {k: v for k, v in licenses.items() if v == ' '}
@@ -50,7 +52,7 @@ for tuple in licenses_in_tuples:
   file_object.write(tuple[1])
   number += 1
 
-
+# Write stage 2 licenses to IO
 if path.exists('stage2-licenses'):
   rmtree('stage2-licenses')
 Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
