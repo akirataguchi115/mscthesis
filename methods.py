@@ -2,6 +2,7 @@ import re, json
 from os import listdir, path
 from pathlib import Path
 from shutil import rmtree
+import difflib
 
 # Stage 2
 with open('stage1.txt') as file:
@@ -31,35 +32,14 @@ for key, value in licenses.items():
 print('Fetch these ' + str(len(manual_licenses)) + ' licenses manually')
 print(str(manual_licenses) + '\n')
 
-# Remove already defined duplicates from licenses dict
-
-
 # Remove empty full license text pairs from licenses dict
 empty_licenses = {k: v for k, v in licenses.items() if v == ' '}
 print('These ' + str(len(empty_licenses)) + ' license texts were empty')
 print(empty_licenses.keys())
 licenses = {k: v for k, v in licenses.items() if v != ' '}
 
-# Find duplicates for researcher
-if path.exists('duplicate-finding'):
-  rmtree('duplicate-finding')
-Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
-number = 1
-licenses_in_tuples = sorted(list(licenses.items()), key=lambda x:x[1])
-for tuple in licenses_in_tuples:
-  # put shortcode name here as well as the number but number first
-  file_object = open('duplicate-finding/' + str(number) + '-' + tuple[0] + '.txt', 'w')
-  file_object.write(tuple[1])
-  number += 1
-
-# Write stage 2 licenses to IO
-if path.exists('stage2-licenses'):
-  rmtree('stage2-licenses')
-Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
-for key in licenses:
-  if licenses[key]:
-    file_object = open('stage2-licenses/' + key + '.txt', 'w')
-    file_object.write(licenses[key])
+# Remove already defined duplicates from licenses dict
+licenses.remove(all duplicates)
 
 # Stage 3: Inclusion & Exclusion
 # if path.exists('excluded-licenses'):
@@ -76,3 +56,51 @@ for key in licenses:
 #     file_object = open('excluded-licenses/' + key + '.txt', 'w')
 #     file_object.write(licenses[key])
 #     excluded_licenses.append(licenses[key])
+
+# Stage 3
+# Find duplicates for researcher
+if path.exists('duplicate-finding'):
+  rmtree('duplicate-finding')
+Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
+# Make a list of tuples: (shortcode, license_text)
+licenses_list = list(licenses.items())
+
+# Prepare lowercased texts for comparison
+licenses_lower = [text.lower() for _, text in licenses_list]
+
+# Initialize sorting
+remaining = list(range(len(licenses_list)))
+sorted_indices = []
+current = remaining.pop(0)
+sorted_indices.append(current)
+
+# Sort by similarity step-by-step
+count = 0
+while remaining:
+    count += 1
+    print(count)
+    similarities = [
+        (i, difflib.SequenceMatcher(None, licenses_lower[current], licenses_lower[i]).ratio())
+        for i in remaining
+    ]
+    next_i, _ = max(similarities, key=lambda x: x[1])
+    current = remaining.pop(remaining.index(next_i))
+    sorted_indices.append(current)
+
+# Write sorted licenses to files
+number = 1
+for i in sorted_indices:
+    shortcode, license_text = licenses_list[i]
+    with open(f'duplicate-finding/{number}-{shortcode}.txt', 'w') as f:
+        f.write(license_text)
+    number += 1
+
+# Write stage 3 licenses to IO
+if path.exists('stage2-licenses'):
+  rmtree('stage2-licenses')
+Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
+for key in licenses:
+  if licenses[key]:
+    file_object = open('stage2-licenses/' + key + '.txt', 'w')
+    file_object.write(licenses[key])
+

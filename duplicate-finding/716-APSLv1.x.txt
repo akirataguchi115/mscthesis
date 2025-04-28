@@ -1,1 +1,0 @@
-Versions 1.0, 1.1 and 1.2 are not free software licenses. Please don't use these licenses, and we urge you to avoid any software that has been released under them. Version 2.0 of the APSL is a free software license.

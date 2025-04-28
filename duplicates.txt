@@ -1,0 +1,7 @@
+AGPL
+anticapitalist
+apache1
+apache2
+apsl1
+apsl2
+APSLv1.x

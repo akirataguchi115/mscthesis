@@ -1,7 +1,0 @@
-An “informal license” means a statement such as “do whatever you like with this” or “you can redistribute this code and change it.”
-
-In the United States, these licenses are supposed to be interpreted based on what the author seems to intend. So they probably mean what they appear to mean. That would make them non-copyleft free software licenses and compatible with the GNU GPL. However, an unlucky choice of wording could give it a different meaning.
-
-However, many other countries have a more rigid approach to copyright licenses. There is no telling what courts in those countries might decide an informal statement means. Courts might even decide that it is not a license at all.
-
-If you want your code to be free, don't invite gratuitous trouble for your users. Please choose and apply an established free software license. We offer recommendations that we suggest you follow.
