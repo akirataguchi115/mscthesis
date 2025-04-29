@@ -39,26 +39,32 @@ print(empty_licenses.keys())
 licenses = {k: v for k, v in licenses.items() if v != ' '}
 
 # Remove already defined duplicates from licenses dict
-licenses.remove(all duplicates)
+# this doesnt remove agpl  WHY+1+1+10110111!?!?!
+# oh lol it does but writing stage 2 licenses happens so late i cant see it manifest
+# need to write temporarily stage 2 licenses out before difflib mess
+with open('duplicates.txt') as file:
+  duplicates = file.read().splitlines()
+for shortcode in duplicates:
+  licenses.pop(shortcode, None)
+print(licenses.keys())
 
-# Stage 3: Inclusion & Exclusion
-# if path.exists('excluded-licenses'):
-#   rmtree('excluded-licenses')
-# Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
-# why can't i find arphic licenses anymore from the included licenses after inserting arhpic to manual licenses?
-# # create a dictionary inversed sort by keys and return n-1 and n+1 licenses from the each of the manually added licenses
-# excluded_licenses = []
-# search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
-# for key in licenses:
-#   if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
-#     pass
-#   elif licenses[key]:
-#     file_object = open('excluded-licenses/' + key + '.txt', 'w')
-#     file_object.write(licenses[key])
-#     excluded_licenses.append(licenses[key])
+# Stage 2: Inclusion & Exclusion
+if path.exists('excluded-licenses'):
+  rmtree('excluded-licenses')
+Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
+excluded_licenses = []
+search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
+for key in licenses:
+  if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
+    pass
+  elif licenses[key]:
+    file_object = open('excluded-licenses/' + key + '.txt', 'w')
+    file_object.write(licenses[key])
+    excluded_licenses.append(licenses[key])
+for shortcode in excluded_licenses:
+  licenses.pop(shortcode, None)
 
-# Stage 3
-# Find duplicates for researcher
+# Stage 3: Removal of duplicates
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
@@ -103,4 +109,3 @@ for key in licenses:
   if licenses[key]:
     file_object = open('stage2-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
-
