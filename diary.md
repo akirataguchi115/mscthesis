@@ -1,5 +1,7 @@
 ## Diary
 ### week 18
+fri: we just need to remove creative commons and gfdl licenses and then we call it a day. regex is hard. never mind it seems to match correctly but why tf does my script write the excluded licenses still to stage2licnses????
+
 tue: ohh sliid we bout to do some ratcliff-obershelp up in this binnich
 
 ### week 17

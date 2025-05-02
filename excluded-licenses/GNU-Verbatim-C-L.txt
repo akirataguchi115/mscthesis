@@ -1,0 +1,35 @@
+@copying
+   This document is a sample for allowing verbatim copying only.
+
+   Copyright @copyright{} 2005 Free Software Foundation, Inc.
+
+   @quotation
+   Permission is granted to make and distribute verbatim copies
+   of this entire document without royalty provided the
+   copyright notice and this permission notice are preserved.
+   @end quotation
+   @end copying
+
+The comment above is from:
+
+http://www.gnu.org/software/texinfo/manual/texinfo/html_node/Verbatim-Copying-License.html
+
+
+The standard copyright terms for GNU web pages is now the Creative
+Commons Attribution-NoDerivs 3.0 United States License. It used to be
+(and for a few pages still is): Verbatim copying and distribution of
+this entire article are permitted worldwide, without royalty, in any
+medium, provided this notice is preserved. Please note the following
+commentary about this “verbatim license” by Eben Moglen:
+
+“Our intention in using the phrase ‘verbatim copying in any medium’ is
+not to require retention of page headings and footers or other
+formatting features. Retention of weblinks in both hyperlinked and
+non-hyperlinked media (as notes or some other form of printed URL in
+non-HTML media) is required”.
+
+Creative Commons Attribution-NoDerivs 3.0 United States License:
+http://creativecommons.org/licenses/by-nd/3.0/us/
+
+The comment above is from:
+http://www.gnu.org/licenses/licenses.html#VerbatimCopying 

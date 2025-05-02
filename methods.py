@@ -39,23 +39,21 @@ print(empty_licenses.keys())
 licenses = {k: v for k, v in licenses.items() if v != ' '}
 
 # Remove already defined duplicates from licenses dict
-# this doesnt remove agpl  WHY+1+1+10110111!?!?!
-# oh lol it does but writing stage 2 licenses happens so late i cant see it manifest
-# need to write temporarily stage 2 licenses out before difflib mess
 with open('duplicates.txt') as file:
   duplicates = file.read().splitlines()
 for shortcode in duplicates:
   licenses.pop(shortcode, None)
-print(licenses.keys())
 
+# how do i exclude documentation from here do i need to manually exclude them? i can always just call it a day on validity threat and change it afterwards????
+# but why tf does my script write the excluded licenses still to stage2licnses????
 # Stage 2: Inclusion & Exclusion
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
 excluded_licenses = []
-search_string = r'\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
+search_string = r'^(?!.*\b(documentation\s+license|creative\s+commons)\b).*?\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
 for key in licenses:
-  if licenses[key] and re.findall(search_string, licenses[key], re.IGNORECASE):
+  if licenses[key] and re.search(search_string, licenses[key], flags=re.IGNORECASE | re.DOTALL):
     pass
   elif licenses[key]:
     file_object = open('excluded-licenses/' + key + '.txt', 'w')
@@ -63,6 +61,15 @@ for key in licenses:
     excluded_licenses.append(licenses[key])
 for shortcode in excluded_licenses:
   licenses.pop(shortcode, None)
+
+# Write inclusion and exclusion to stage 2 licenses
+if path.exists('stage2-licenses'):
+  rmtree('stage2-licenses')
+Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
+for key in licenses:
+  if licenses[key]:
+    file_object = open('stage2-licenses/' + key + '.txt', 'w')
+    file_object.write(licenses[key])
 
 # Stage 3: Removal of duplicates
 if path.exists('duplicate-finding'):
@@ -102,10 +109,10 @@ for i in sorted_indices:
     number += 1
 
 # Write stage 3 licenses to IO
-if path.exists('stage2-licenses'):
-  rmtree('stage2-licenses')
-Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
+if path.exists('stage3-licenses'):
+  rmtree('stage3-licenses')
+Path('stage3-licenses').mkdir(parents=True, exist_ok=True)
 for key in licenses:
   if licenses[key]:
-    file_object = open('stage2-licenses/' + key + '.txt', 'w')
+    file_object = open('stage3-licenses/' + key + '.txt', 'w')
     file_object.write(licenses[key])
