@@ -1,5 +1,6 @@
 import re, json
 from os import listdir, path
+import os
 from pathlib import Path
 from shutil import rmtree
 import difflib
@@ -26,9 +27,9 @@ for filename in manual_txts:
 
 # Print out licenses that need to be added manually
 manual_licenses = []
-for key, value in licenses.items():
+for shortcode, value in licenses.items():
   if value == None:
-    manual_licenses.append(key)
+    manual_licenses.append(shortcode)
 print('Fetch these ' + str(len(manual_licenses)) + ' licenses manually')
 print(str(manual_licenses) + '\n')
 
@@ -51,25 +52,41 @@ if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
 excluded_licenses = []
-search_string = r'^(?!.*\b(documentation\s+license|creative\s+commons)\b).*?\b(source|software|program|code|module|public\s+license|ware|\w+ware)\b'
-for key in licenses:
-  if licenses[key] and re.search(search_string, licenses[key], flags=re.IGNORECASE | re.DOTALL):
+search_string = r'^(?!.*\b(documentation\s+license|creative\s+commons)\b).*'
+# Remove manually included from the excluded licenses
+with open('inclusions.txt') as file:
+  inclusions = file.read().splitlines()
+# Remove manually excluded licenses
+with open ('exclusions.txt') as file:
+  exclusions = file.read().splitlines()
+  for shortcode in exclusions:
+    file_object = open('excluded-licenses/' + shortcode + '.txt', 'w')
+    file_object.write(licenses[shortcode])
+    licenses.pop(shortcode, None)
+
+for shortcode in licenses:
+  if (licenses[shortcode] and re.search(search_string, licenses[shortcode], flags=re.IGNORECASE | re.DOTALL)) or shortcode in inclusions:
     pass
-  elif licenses[key]:
-    file_object = open('excluded-licenses/' + key + '.txt', 'w')
-    file_object.write(licenses[key])
-    excluded_licenses.append(licenses[key])
+  elif licenses[shortcode]:
+    file_object = open('excluded-licenses/' + shortcode + '.txt', 'w')
+    file_object.write(licenses[shortcode])
+    excluded_licenses.append(shortcode)
 for shortcode in excluded_licenses:
   licenses.pop(shortcode, None)
 
-# Write inclusion and exclusion to stage 2 licenses
+# Write stage 2 inclusion, exclusion of texts and shortcodes to IO
 if path.exists('stage2-licenses'):
   rmtree('stage2-licenses')
 Path('stage2-licenses').mkdir(parents=True, exist_ok=True)
-for key in licenses:
-  if licenses[key]:
-    file_object = open('stage2-licenses/' + key + '.txt', 'w')
-    file_object.write(licenses[key])
+for shortcode in licenses:
+  if licenses[shortcode]:
+    file_object = open('stage2-licenses/' + shortcode + '.txt', 'w')
+    file_object.write(licenses[shortcode])
+if path.exists('stage2-licenses.txt'):
+  os.remove('stage2-licenses.txt')
+file_object = open('stage2-licenses.txt', 'w')
+for shortcode in licenses.keys():
+  file_object.write(shortcode + '\n')
 
 # Stage 3: Removal of duplicates
 if path.exists('duplicate-finding'):
@@ -108,11 +125,11 @@ for i in sorted_indices:
         f.write(license_text)
     number += 1
 
-# Write stage 3 licenses to IO
+# Write stage 3 license texts and shortcodes to IO
 if path.exists('stage3-licenses'):
   rmtree('stage3-licenses')
 Path('stage3-licenses').mkdir(parents=True, exist_ok=True)
-for key in licenses:
-  if licenses[key]:
-    file_object = open('stage3-licenses/' + key + '.txt', 'w')
-    file_object.write(licenses[key])
+for shortcode in licenses:
+  if licenses[shortcode]:
+    file_object = open('stage3-licenses/' + shortcode + '.txt', 'w')
+    file_object.write(licenses[shortcode])

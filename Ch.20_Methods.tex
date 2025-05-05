@@ -1,6 +1,8 @@
 \chapter{Methods\label{methods}}
 This chapter aims to establish a precisely defined and rigorous research approach to enhance transparency and repeatability. We will take the steps required to ensure that every phase and decision is thoroughly documented, enabling the reader to retrace the research process. In a thesis made by a single researcher the lack of cross-examination of results with multiple researchers and the validation of evaluation criteria for opinion bias pose threats to validity, as will be clarified further in \hyperref[discussion]{Chapter 4}. Therefore, special attention will be paid to address these concerns. By following this approach, this research endeavors to contribute to the existing body of knowledge in the field of computer science in a robust and reliable manner.
 
+\textcolor{red}{stage 1 licenses amount before rough deduplication could be a nice metric to say for my excel efforts. duplicates.txt can be just a one-time pass of the difflib duplicate thingy. ok now ill go through once the excluded and included licenses one by one and note any broader scale "mistakes" in the search string. gotta add sources on top of source}
+
 \textcolor{red}{at the end of this section i will have to document the timestamp at which point i accessed the docs of scancode-licesendb since. actually i might be a good idea to create a wayback machine attempt to capturing the state of the licensedb rn. nvm great wayback machine is not viable solution for that. just stating here that i downloaded the licensedb on 2025 mar 25 15:30}
 
 \textcolor{red}{it's good to note that when bumping into the missing license of attpubliclicense which was from gnu, it turned out that the license listing site doesnt state the license content whatsoever. i had to just put the comment of the license into manual licenses.}
@@ -31,7 +33,18 @@ This chapter aims to establish a precisely defined and rigorous research approac
 
 \textcolor{red}{i will call it a day to just remove creative commons licenses by exclusion string and remove GFDL licenses by manually providing a list of excluded licenses. the point of this thesis and this research is to provide how many public software licenses do we actually have so that we can understand the problem of open source and the reason why post-open source has begun to emerge. now i gotta just exclude and include (in that order) then just very lightly and cheaply remove the duplicates by checking licenses one by one with difflib}
 
-\textcolor{red}{how do i exclude documentation from here do i need to manually exclude them? i can always just call it a day on validity threat and change it afterwards????}
+\textcolor{red}{how do i exclude documentation from here do i need to manually exclude them? i can always just call it a day on validity threat and change it afterwards???? i started with}
+
+% r'^(?!.*\b(documentation\s+license|creative\s+commons)\b).*?\b(source|sources|software|program|programs|code|module|public\s+license|ware|\w+ware)\b'
+\textcolor{red}{but soon realized that the point of this thesis is to provide a clearer picture of the actual problem that im trying to diminish here: the huge amount of open source licenses that exist. instead im removing everything else but the documentation license and creative commons thingy from the search string. will go through the excluded licenses once more just to check if it caught anything wrong. the big idea here is that because the open source licenses and the public licenses used are already sometimes too vague to be legally valid should be just left as is and just remove the sort of licenses that are already specifically not-software specific, i.e. documentation licenses, or at least creative commons is not considered as such.}
+
+\textcolor{red}{the eye-pass of 87 excluded licenses included cal1.0 and cal-combined which seem to need to be included. made inclusions.txt to manually include them although containing the words creative commons, since those license texts were licensed themselves with creative commons. will eyeball the stage-2 shortcodes as well just to see anything i know by heart is not public software license. cc-by-sa-japanese was included so i had to make a manual exclusions.txt to manually mark licenses that are not public software licenses.}
+
+\textcolor{red}{stage 2: inclusion and exclusion is done. 656 licenses left to remove potential duplicates from using ratcliff and obershelp. then just writing. literally just writing after this.}
+
+\textcolor{orange}{so for stage 2: i output shortcodes to .txt and full licenses to folder. from .txt i bake them to google sheets and match the sources for them. from google sheets i put them to github markdown for reader to see.}
+
+\textcolor{red}{stage 3 is removing duplicates by a feel factor from the shortcodes and from the difflib sorted contents. this is also just a one pass test.}
 
 The systematic literature review method (SLR) is a well-established approach for conducting a comprehensive and rigorous analysis of the existing research on specific research question or subject \citep{kitchenham2007}. This paper presents a multivocal literature review (MLR). MLR is a SLR that includes both academic (AL) and grey literature (GL). This method was selected for this study to facilitate a thorough and scientifically interdisciplinary examination of PCLs in software engineering. The existing literature consists of PCLs and as such are considered gray literature, making the thesis a multivocal literature review.
 

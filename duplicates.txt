@@ -5,3 +5,5 @@ apache2
 apsl1
 apsl2
 APSLv1.x
+ZPL - 2.0
+ZPL - 2.1
