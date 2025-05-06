@@ -7,3 +7,22 @@ apsl2
 APSLv1.x
 ZPL - 2.0
 ZPL - 2.1
+Squeak
+SunSolarisSourceCode
+SML
+Eiffel
+comclause
+freetype
+NASA
+OculusRiftSDK
+Condor
+Scilab
+Zimbra
+QPL
+ArtisticLicense2
+ArtisticLicense
+oclc2-php
+CeCILL
+GNUGPLv3
+GNUGPL
+SunCommunitySourceLicense

@@ -4,6 +4,7 @@ import os
 from pathlib import Path
 from shutil import rmtree
 import difflib
+import time
 
 # Stage 2
 with open('stage1.txt') as file:
@@ -43,6 +44,9 @@ licenses = {k: v for k, v in licenses.items() if v != ' '}
 with open('duplicates.txt') as file:
   duplicates = file.read().splitlines()
 for shortcode in duplicates:
+  # pause execution if duplicate removal fails (expensive, O(n^3))
+  if not shortcode in licenses:
+    pause = input('holdup pause this should not happen')
   licenses.pop(shortcode, None)
 
 # how do i exclude documentation from here do i need to manually exclude them? i can always just call it a day on validity threat and change it afterwards????
@@ -52,7 +56,7 @@ if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
 Path('excluded-licenses').mkdir(parents=True, exist_ok=True)
 excluded_licenses = []
-search_string = r'^(?!.*\b(documentation\s+license|creative\s+commons)\b).*'
+search_string = r'^(?!.*\b(documentation\s+license|creative\s+commons|open data)\b).*'
 # Remove manually included from the excluded licenses
 with open('inclusions.txt') as file:
   inclusions = file.read().splitlines()
@@ -89,6 +93,7 @@ for shortcode in licenses.keys():
   file_object.write(shortcode + '\n')
 
 # Stage 3: Removal of duplicates
+start_time = time.time()
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
 Path('duplicate-finding').mkdir(parents=True, exist_ok=True)
@@ -124,6 +129,7 @@ for i in sorted_indices:
     with open(f'duplicate-finding/{number}-{shortcode}.txt', 'w') as f:
         f.write(license_text)
     number += 1
+print("--- %s seconds ---" % (time.time() - start_time))
 
 # Write stage 3 license texts and shortcodes to IO
 if path.exists('stage3-licenses'):
