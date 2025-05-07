@@ -26,3 +26,25 @@ CeCILL
 GNUGPLv3
 GNUGPL
 SunCommunitySourceLicense
+Jahia
+RPSL
+Watcom
+RPL
+Arphic-PL
+cpol
+fdk
+GPLv2
+josl
+bittorrent
+CDDL
+NPL
+SPL
+CPAL
+OpenPublicL
+eCos11
+AcademicFreeLicense
+EPL2
+lucent102
+CommonPublicLicense10
+EPL
+Bitstream Font License

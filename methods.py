@@ -93,6 +93,7 @@ for shortcode in licenses.keys():
   file_object.write(shortcode + '\n')
 
 # Stage 3: Removal of duplicates
+areyousure = input('Are you sure you want to delete duplicate-finding?')
 start_time = time.time()
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
