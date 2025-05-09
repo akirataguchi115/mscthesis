@@ -48,3 +48,19 @@ lucent102
 CommonPublicLicense10
 EPL
 Bitstream Font License
+UPL
+boost
+Unicode
+DOR
+PythonOld
+Python-1.6b1
+Wxwind
+Wx
+LGPLv3
+LGPL
+ClarifiedArtistic
+ArtisticLicense
+hippocratic
+clearbsd
+FreeBSD
+newOpenLDAP
