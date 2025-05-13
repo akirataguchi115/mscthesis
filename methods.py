@@ -5,8 +5,8 @@ from pathlib import Path
 from shutil import rmtree
 import difflib
 import time
+from sys import exit
 
-# Stage 2
 with open('stage1.txt') as file:
   licenses = dict.fromkeys(file.read().splitlines())
 
@@ -25,7 +25,6 @@ manual_txts = [f.removesuffix('.txt') for f in listdir('manual-licenses/') if (r
 for filename in manual_txts:
   with open('manual-licenses/' + filename + '.txt', 'r') as file_object:
     licenses[filename] = file_object.read()
-
 # Print out licenses that need to be added manually
 manual_licenses = []
 for shortcode, value in licenses.items():
@@ -44,13 +43,14 @@ licenses = {k: v for k, v in licenses.items() if v != ' '}
 with open('duplicates.txt') as file:
   duplicates = file.read().splitlines()
 for shortcode in duplicates:
+  print(shortcode)
   # pause execution if duplicate removal fails (expensive, O(n^3))
   if not shortcode in licenses:
+    print(licenses.keys())
+    print(shortcode)
     pause = input('holdup pause this should not happen')
   licenses.pop(shortcode, None)
 
-# how do i exclude documentation from here do i need to manually exclude them? i can always just call it a day on validity threat and change it afterwards????
-# but why tf does my script write the excluded licenses still to stage2licnses????
 # Stage 2: Inclusion & Exclusion
 if path.exists('excluded-licenses'):
   rmtree('excluded-licenses')
@@ -92,8 +92,24 @@ file_object = open('stage2-licenses.txt', 'w')
 for shortcode in licenses.keys():
   file_object.write(shortcode + '\n')
 
+# Write stage 3 license texts and shortcodes to IO
+if path.exists('stage3-licenses'):
+  rmtree('stage3-licenses')
+Path('stage3-licenses').mkdir(parents=True, exist_ok=True)
+for shortcode in licenses:
+  if licenses[shortcode]:
+    file_object = open('stage3-licenses/' + shortcode + '.txt', 'w')
+    file_object.write(licenses[shortcode])
+if path.exists('stage3-licenses.txt'):
+  os.remove('stage3-licenses.txt')
+file_object = open('stage3-licenses.txt', 'w')
+for shortcode in licenses.keys():
+  file_object.write(shortcode + '\n')
+
 # Stage 3: Removal of duplicates
-areyousure = input('Are you sure you want to delete duplicate-finding?')
+deadass = input('Are you sure you want to start duplicate finding? (y/n)')
+if deadass == 'n':
+  exit(0)
 start_time = time.time()
 if path.exists('duplicate-finding'):
   rmtree('duplicate-finding')
@@ -110,7 +126,7 @@ sorted_indices = []
 current = remaining.pop(0)
 sorted_indices.append(current)
 
-# Sort by similarity step-by-step
+# Sort by similarity
 count = 0
 while remaining:
     count += 1
@@ -131,12 +147,3 @@ for i in sorted_indices:
         f.write(license_text)
     number += 1
 print("--- %s seconds ---" % (time.time() - start_time))
-
-# Write stage 3 license texts and shortcodes to IO
-if path.exists('stage3-licenses'):
-  rmtree('stage3-licenses')
-Path('stage3-licenses').mkdir(parents=True, exist_ok=True)
-for shortcode in licenses:
-  if licenses[shortcode]:
-    file_object = open('stage3-licenses/' + shortcode + '.txt', 'w')
-    file_object.write(licenses[shortcode])

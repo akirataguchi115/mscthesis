@@ -59,8 +59,11 @@ Wx
 LGPLv3
 LGPL
 ClarifiedArtistic
-ArtisticLicense
 hippocratic
 clearbsd
 FreeBSD
 newOpenLDAP
+Phorum
+CryptixGeneralLicense
+Zend
+GNUAllPermissive
