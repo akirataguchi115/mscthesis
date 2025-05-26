@@ -50,13 +50,7 @@ This chapter aims to establish a precisely defined and rigorous research approac
 
 \textcolor{red}{stage 3 is removing duplicates by a feel factor from the shortcodes and from the difflib sorted contents. this is also just a one pass test.}
 
-The systematic literature review method (SLR) is a well-established approach for conducting a comprehensive and rigorous analysis of the existing research on specific research question or subject \citep{kitchenham2007}. This paper presents a multivocal literature review (MLR). MLR is a SLR that includes both academic (AL) and grey literature (GL) \citep{mantyla2019}. This method was selected for this study to facilitate a thorough and scientifically interdisciplinary examination of public licenses in software engineering. The existing literature consists of public licenses and as such are considered gray literature, making the thesis a multivocal literature review.
-
-\textcolor{orange}{CONVERT THIS NEXT The existing studies on green in software engineering are often narrow in
-scope or limited to specific areas, such as green IT in agile methodologies, as will be
-seen in subsequent chapters. Given the widespread use of IT in various industries, it was
-necessary to include studies from a range of scientific disciplines in order to gain a broad
-and comprehensive understanding of the subject and fill in any gaps between them.}
+The systematic literature review method is a well-established approach for conducting a comprehensive and rigorous analysis of the existing research on specific research question or subject \citep{kitchenham2007}. This paper presents a multivocal literature review. Multivocal literature review is type of systematic literature review that includes both academic literature and grey literature \citep{mantyla2019}. This method was selected for this study to facilitate a thorough and scientifically interdisciplinary examination of public licenses in software engineering. The existing literature consists of public software licenses not found in academic databases and as such are considered gray literature, making the thesis a multivocal literature review.
 
 This study follows the guidelines outlined by \cite{kitchenham2007}, to ensure its quality. The multivocal review method consists of three distinct phases: planning, conducting and reporting the review. This study stricly adhered to this structure. The phases can be further broken down into a research protocol, as illustrated in \hyperref[fig:slrphases]{Figure 2.1}. Adhering to the protocol is the first step in ensuring a well-documented and rigorous process, which increases the validity and auditability of the study.
 
@@ -72,30 +66,37 @@ The multivocal literature review process began with the formulation of research 
  To ensure the reliability and validity of the research protocol, it was validated against similar systematic literature reviews in computer science, the aforementioned guidelines by \cite{kitchenham2007}, and was further refined through an iterative process. Specifically, a subset of the data was tested on (The QGS) and any identified issues or problems were recorded and addressed. The details of this process are explained and thoroughly documented in the following sections. Similarly, the same approach was followed for the data extraction process, whereby a subset of literature was tested to refine the data extraction form. The revision of the form was undertaken as necessary to guarantee the completeness and accuracy of the extracted data.
 
 \section{Research questions}
-The research questions in this study served two primary purposes. Firstly, they aimed to provide an anaylsis of the existing multivocal literature on PCLs in software engineering for the researchers interested about the field. Secondly, the questions were designed to cater a secondary audience of professional software engineering practicioners. As discussed in the \hyperref[intro]{Chapter 1}, the following research questions were addressed in this thesis:
+The research questions in this study served two primary purposes. Firstly, they aimed to provide an anaylsis of the existing multivocal literature on public licenses in software engineering for the researchers interested about the field. Secondly, the questions were designed to cater a secondary audience of professional software engineering practicioners. As discussed in the \hyperref[intro]{Chapter 1}, the following research questions were addressed in this thesis:
 
 \begin{itemize}
-	\item RQ1: How many PCLs in software engineering does there exist?
-	\item RQ2: What is the average length of a PCL in software engineering?
-	\item RQ3: What are the most common components seen in PCLs in software engineering?
-	\item RQ4: What are the most common changes made to PCLS in software engineering?
+	\item RQ1: How many public software licenses are there in the top five software license listing cites?
+	\item RQ2: How much is there disagreement in the shortcode names between different public software licenses listing sites?
+	\item RQ3: How many public licenses in software engineering does there exist?
 \end{itemize}
 
-The multivocal literature review in this thesis begins with addressing RQ1, which aims to provide the amount of PCLs that exist in software engineering. The review takes into account attributes like versions, supersedences to a different license family, formal or otherwise and recognizability. These attributes give us different amounts to existing PCLs in software engineering. This information could be most valuable for the practicioners out of all the research questions in the thesis since it could give some sense of the scale when picking a PCL that would serve the practicioners' needs the best.
+The multivocal literature review in this thesis begins with addressing RQ1, which aims to provide the amount of public software licenses that exist in our five public license listing sites, per site. The review takes into account attributes like versions, supersedences to a different license family, formal or otherwise and recognizability. These attributes give us different amounts to existing PCLs in software engineering. This informatin could be most valuable to the researchers. The results can be used to introduce some notable background of the current public licenses in software engineering and enabling focus to more specific areas inside the topic of this thesis.
 
-Next RQ2 seeks to find the average length of the text of a PCL in software engineering. This research question has attributes like the number of characters, sentences, distinct sections and the size of the license on a computer screen. This information could be valuable for the practicioners mentioned in the previous parapgrah for the same reasons of getting a better overview of the PCLs in software engineering. The research questions could also be beneficial for the practicioners working directly within the meta plane of PCLs in software engineering. Let us refer to the latter as researchers.
+Next RQ2 seeks to find the amount of duplicate licenses between the license listing sites. Results to this research question are also mostly useful to researchers of the field. Moreover the documented methods are most likely the most valuable information for the researchers.
 
-Finally RQ3 and RQ4 attempt to distinguish the top level paragraphs and other components of the PCLS in software engineering and what are the common reasons for the changes made to them throughout the years. The research questions go over the content of the changes and the implied and expressed reasons for making the changes. The answers to these last two research questions could again be useful for the researchers. The results can be used to introduce some notable background of the current PCLs in software engineering and enabling focus to more specific areas inside this PCLs in software engineering.
+Finally RQ3 attempts to count the total number of individual public software licenses within the scope of this thesis. The research question builds on top of the results and methods of the previous research questions. This information could be most valuable for the practicioners since it could give some overview and a sense of the scale when picking a public software license that would serve the practicioners' needs the best.
 
+% where was search process conducted in (inclusion/exclusion in appendix a)
 \section{Search stragey}
-The search process was conducted on various PCL listing websites. The selection criteria for the literature were defined after the search process and the selection process was based on inclusion and exclusion criteria. The inclusion and exclusion criteria and each step of exclusion on the literature found was documented and is available as \hyperref[appendix:a]{Appendix A}. The used criteria are presented later in this chapter.
+The search process was conducted on five public license listing websites. The selection criteria for the literature were defined after the search process and the selection process was based on inclusion and exclusion criteria. The inclusion and exclusion criteria and each step of exclusion on the literature found are presented later in this chapter.
 
-The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining all relevant information from the selected literature. The data extraction form used included information such as license name, release year, text length and inferred purpose and is available  \hyperref[table:extraction]{Table 2.2}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
+% data extraction process
+The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining the relevant information from the selected literature. The data extraction form used included license shortcode used in the listing site, listing site name, full license text and is available  \hyperref[table:extraction]{Table 2.2}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
+
+% - more on where was search process conducted in
 \subsection{Search method}
-The search was conducted on various PCL listing websites, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using exclusion and quality criteria presented later in this chapter. Manual searching of databases with thousands of PCLs is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
-\subsection{Search scope and terms}
-Originally the search terms would have been present just like in a normal MLR or SLR. Keywords however produced highly varying and non-reproducabe results in Google Scholar and Google Search. Some PCL listing websites such as FSF's list of pages categorized as licenses could not be found from Google Search even with the \texttt{site} operator: \texttt{site:https://directory.fsf.org/wiki/Category:License}. Although the page has been up since 2013 for some reason Google has not crawled the page in 10 years \citep{fsf:licenselist}. Hence why this thesis does not include search terms per se.
+The search was conducted on five license listing websites, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using exclusion and quality criteria presented later in this chapter. Manual searching of databases with hundreds of public licenses is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
 
+% how were search terms determined (end condition)
+\subsection{Search scope and terms}
+Originally the search terms would have been present just like in a normal multivocal literature review or in a systematic literature review. Keywords however produced highly varying and non-reproducabe results in Google Scholar and Google Search. Some PCL listing websites such as FSF's list of pages categorized as licenses could not be found from Google Search even with the \texttt{site} operator: \\
+\texttt{site:https://directory.fsf.org/wiki/Category:License}. Although the page has been up since 2013, for some reason Google has not crawled the page in 10 years \citep{fsf:licenselist}. Hence why this thesis does not include search terms of the initial phase per se.
+
+% search string
 Instead, for establishing a QGS we started defining our search scope from the Wikipedia page of one of the most used open source license according to \cite{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.1}.
 
 \begin{table}[t]
@@ -119,7 +120,8 @@ Instead, for establishing a QGS we started defining our search scope from the Wi
 	\end{center}
 \end{table}
 
-As we defined PCLs in software engineering as copyright licenses where the licensees are not limited and the copyright license in question is meant be used in licensing software source code in \hyperref[methods]{Chapter 2} and our research questions focus on finding measurements and reasonings to the PCLs' various attributes, we decided to gather PCLs from the related web pages of the aforementioned categorizers: SPDX, FSF, OSI and GNU. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful PCL listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of PCL listing websites.
+% how many results
+As we defined public licenses in software engineering as licenses where the licensees are not limited and the license in question is meant be used in licensing software source code in \hyperref[intro]{Chapter 1} and our research questions focus on finding measurements and reasonings to the PCLs' various attributes, we decided to gather PCLs from the related web pages of the aforementioned categorizers: SPDX, FSF, OSI and GNU. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful PCL listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of PCL listing websites.
 
 With the search for the initial PCL listing websites completed we moved onto the search process itself.
 
@@ -135,7 +137,7 @@ The literature selection process was divided into multiple stages, as outlined i
 
 \textcolor{red}{does this figure 2.2 have to use these terms since im really just applying K \& C 2007 slr guidelines to a mlr. no it doesnt. change it when finishign up 2. methods.}
 
-In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}. The PCLs appear in the same order as decribed above: SPDX, DFSG, FSF, OSI and GNU. The appendix was also crafted in a spreadsheet software so that only the initial hit source was documented in the order described above. For example even if MIT license would be found on SPDX and DFSG \hyperref[appendix:a]{Appendix A} would only display MIT license with the ''First hit from'' value being SPDX. The initial list of 789 PCLs excluding duplicates is provided in \hyperref[appendix:a]{Appendix A}. 
+In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}. The PCLs appear in the same order as decribed above: SPDX, DFSG, FSF, OSI and GNU. The appendix was also crafted in a spreadsheet software so that only the initial hit source was documented in the order described above. For example even if MIT license would be found on SPDX and DFSG \hyperref[appendix:a]{Appendix A} would only display MIT license with the ''First hit from'' value being SPDX. The initial list of 789 PCLs excluding duplicates is provided in \hyperref[appendix:a]{Appendix A}. %cite mscthesis github repo here
 
 Some things must be mentioned about the process of the first stage. First, the FSF outputted a ''license'' named ''other''. This ''license'' included at the time of observation 5282 known programs to FSF whose PCLs were not documented yet by the FSF. Although some of the programs had straightforward PCLs such as GPL-2.0-only we decided to leave these PCLs out of the scope of this thesis due to the large amount of the programs. The second note is about GNU's PCLs. Since we had the most trouble scraping the identifiers automatically from this website we decided to limit the PCLs only to ''Software Licenses'' as defined by the table of contents on the website.
 
@@ -175,11 +177,9 @@ To answer the research questions of this thesis, a thorough examination of the s
 			\hline
 			\# & Field & Concern/Research question \\
 			\hline
-			F1 & Name & Documentation \\
-			F2 & Length & RQ3 \\
-			F3 & FSF approval &  Documentation\\
-			F4 & OSI approval & Documentation \\
-			F5 & Inferred purpose & RQ1, RQ2, RQ4 \\
+			F1 & Shortcode & RQ2, RQ3 \\
+			F2 & Listing site name & RQ1, RQ2 \\
+			F3 & Full text &  Documentation\\
 			\hline
 		\end{tabular}
 		\caption{Data extraction form}
