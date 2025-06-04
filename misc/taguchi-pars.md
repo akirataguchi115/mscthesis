@@ -18,7 +18,7 @@
 - state of terminology standardization
 - figure to demonstrate terms
 - free vs open
-- define PCLs in se
+- define public licenses in se
 - acknowledge the topic is complex
 
 ### 2 Methods
@@ -38,8 +38,8 @@
 ##### 2.2.1 Search method
 - more on where was search process conducted in
 ##### 2.2.2 Search scope and terms
-- how were search terms determined (end condition)
-- search string
+- how were search terms determined
+- web scrape beginning
 - how many results
 - finalized search string
 #### 2.3 Search process
