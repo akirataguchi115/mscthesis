@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:48:57.437Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VsRMRLsWe5qxLqzirkqI" version="24.3.1" type="device">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram name="Sivu-1" id="JalUmfeEbt0fBnljzWAW">
-    <mxGraphModel dx="1195" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,14 +128,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqzIoFAc2Cjl4wTiLsfB-19" value="Manual search in an effort to gather the first PCL listing websites&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="PqzIoFAc2Cjl4wTiLsfB-19" value="Manual search in an effort to gather the first license listing websites&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="1.3877787807814457e-16" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bxhx5Rng9wyngggRCBLE-3" value="Searches based on PCL popularity" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-0.08999999999999658" width="100" height="60" as="geometry" />
+        <mxCell id="bxhx5Rng9wyngggRCBLE-3" value="Search based on the public software license opularity" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="-0.09" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bxhx5Rng9wyngggRCBLE-4" value="Record (per search source):&lt;div&gt;&lt;ol&gt;&lt;li&gt;PCL listing websites&lt;/li&gt;&lt;li&gt;Search results&lt;/li&gt;&lt;li&gt;Number of literature returned&lt;/li&gt;&lt;li&gt;Metadata of literature returned&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="180.05" width="230" height="139.95" as="geometry" />
+        <mxCell id="bxhx5Rng9wyngggRCBLE-4" value="Record (per search source):&lt;div&gt;&lt;ol&gt;&lt;li&gt;License listing websites&lt;/li&gt;&lt;li&gt;Shortcodes&lt;/li&gt;&lt;li&gt;Number of literature returned&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="220" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="u-fK5fAdBzHKxq82xRCe-2" value="Stage 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="560" y="450" width="200" height="250" as="geometry">
@@ -162,8 +162,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-9" value="Record (per piece of literature):&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Record (in general):&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="840" y="484" width="230" height="200.01" as="geometry" />
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-9" value="Record (per piece of literature):&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Record (in general):&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="480" width="200" height="204.01" as="geometry" />
         </mxCell>
         <mxCell id="u-fK5fAdBzHKxq82xRCe-12" value="Stage 3" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="560" y="740" width="200" height="250" as="geometry">
@@ -182,7 +182,7 @@
             <mxPoint x="200" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u-fK5fAdBzHKxq82xRCe-20" value="Record:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="u-fK5fAdBzHKxq82xRCe-20" value="Record:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded and other than duplicate)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="790.06" width="230" height="150.03" as="geometry" />
         </mxCell>
         <mxCell id="FoHN8XGaP04GAPq_3NRo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u-fK5fAdBzHKxq82xRCe-5" target="u-fK5fAdBzHKxq82xRCe-13" edge="1">

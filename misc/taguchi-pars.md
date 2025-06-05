@@ -39,6 +39,7 @@
 - more on where was search process conducted in
 ##### 2.2.2 Search scope and terms
 - how were search terms determined
+- qgs on search string
 - web scrape beginning
 - how many results
 - finalized search string

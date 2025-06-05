@@ -96,10 +96,13 @@ The search was conducted on five license listing websites, as mentioned earlier,
 \subsection{Search scope and terms}
 The search terms, or in our case, the inclusion and exclusion string was determined through an iterative process that took into account the research questions and topic. Synonyms for key terms were included and combined using Boolean logic to form a comprehensive inclusion and exclusion string. As mentioned earlier the inclusion and exclusion criteria are presented later in this chapter.
 
-% web scrape beginning (The search string was established on a basis of a quasi-gold standard as proposed by (Zhang and Ali Babar, 2010)
-The inclusion and exclusion string was established on a basis of quasi-gold standard as proposed by \cite{qgs}. For establishing a QGS we employed a manually crafted inclusion and exclusion string based on the topic and research questions of this study. As we defined public licenses in software engineering as licenses where the licensees are not limited and the license in question is meant be used in licensing software source code in \hyperref[intro]{Chapter 1} and our research questions focus on finding useful metrics about the public licenses, we manually formulated the inclusion and exclusion string % what tf happens here
-we decided to gather PCLs from the related web pages of the aforementioned categorizers: SPDX, FSF, OSI and GNU.
-Instead, for establishing a QGS we started defining our search scope from the Wikipedia page of one of the most used open source license according to \cite{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.1}.
+% qgs on search string
+The inclusion and exclusion string was established on a basis of quasi-gold standard as proposed by \cite{qgs}. For establishing a quasi-gold standard we employed a manually crafted inclusion and exclusion string based on the topic and research questions of this study. As we defined public licenses in software engineering as licenses where the licensees are not limited and the license in question is meant be used in licensing software source code in \hyperref[intro]{Chapter 1} and our research questions focus on finding useful metrics about the public licenses, we manually formulated the inclusion and exclusion string in Python:
+\begin{verbatim}
+  ^(?!.*\b(documentation\s+license|creative\s+commons|open data)\b).*
+\end{verbatim}
+% web scrape beginning
+In order to run the inclusion and exclusion string that established the quality-gold standard against the literature we had to gather them first. We started defining our search scope from the Wikipedia page of one of the most used open source license according to \cite{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.1}.
 
 \begin{table}[t]
 	\begin{center}
@@ -121,14 +124,34 @@ Instead, for establishing a QGS we started defining our search scope from the Wi
 		\label{table:infobox}
 	\end{center}
 \end{table}
+The validity threats regarding this choice are discussed in a later chapter. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful PCL listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of PCL listing websites. Since the fields were roughly as follows: SPDX, FSF, OSI and GNU, after some investigating, we decided to start the search for public software licenses from the following license listing sites:
+
+\begin{table}[t]
+	\begin{center}
+		\begin{tabular}{||l||}
+			\hline
+			URL \\
+			\hline
+      https://spdx.org/licenses/ \\
+      https://wiki.debian.org/DFSGLicenses \\
+      https://directory.fsf.org/wiki?title=Category:License \\
+      https://opensource.org/licenses \\
+      https://www.gnu.org/licenses/license-list.html\\
+			\hline
+		\end{tabular}
+		\caption{License listing sites chosen}
+		\label{table:listing-sites}
+	\end{center}
+\end{table}
 
 % how many results
-As we defined public licenses in software engineering as licenses where the licensees are not limited and the license in question is meant be used in licensing software source code in \hyperref[intro]{Chapter 1} and our research questions focus on finding measurements and reasonings to the PCLs' various attributes, we decided to gather PCLs from the related web pages of the aforementioned categorizers: SPDX, FSF, OSI and GNU. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful PCL listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of PCL listing websites.
+The web pages were scraped of the public license shortcodes using the browser's developer tools. These shortcodes were imported into a spreadsheet editor with each shortcode under their corresponding listing site name. This resulted in 1057 public licenses. Because the same public license would sometimes occur in multiple listing sites strictly duplicate shortcodes were removed using the spreadsheet editor resulting in 780 public licenses. Removing the duplicates was not intelligent and left duplicates like ZPL-2.0 and ZPL - 2.0 as unique license shortcodes. This was tackled systematically in a later chapter. The table inthe state after the strict removal of duplicates is provided in this thesis' repository \citep{mscthesis} under the name ''stage1-licenses.md''.
 
-With the search for the initial PCL listing websites completed we moved onto the search process itself.
+With the search for the initial license listing websites completed we moved onto the search process itself.
 
 \section{Search process}
-The literature selection process was divided into multiple stages, as outlined in \hyperref[fig:search-process]{Figure 2.2}. The initial step involved the formation of the first PCL listing websites through which the first literature would be acquired from.
+% Study selection divided into multiple stages (figure)
+The literature selection process was divided into multiple stages, as outlined in \hyperref[fig:search-process]{Figure 2.2}. The initial step involved the formation of a inclusion and exclusion string through the use of a quasi-gold standard.
 
 \begin{figure}
 	\centering
@@ -137,8 +160,7 @@ The literature selection process was divided into multiple stages, as outlined i
 	\label{fig:search-process}
 \end{figure}
 
-\textcolor{red}{does this figure 2.2 have to use these terms since im really just applying K \& C 2007 slr guidelines to a mlr. no it doesnt. change it when finishign up 2. methods.}
-
+% first stage titles, abstracts and keywords CONTINUE HERE
 In the first stage, the search was conducted using the ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist}. The PCLs appear in the same order as decribed above: SPDX, DFSG, FSF, OSI and GNU. The appendix was also crafted in a spreadsheet software so that only the initial hit source was documented in the order described above. For example even if MIT license would be found on SPDX and DFSG \hyperref[appendix:a]{Appendix A} would only display MIT license with the ''First hit from'' value being SPDX. The initial list of 789 PCLs excluding duplicates is provided in \hyperref[appendix:a]{Appendix A}. %cite mscthesis github repo here
 
 Some things must be mentioned about the process of the first stage. First, the FSF outputted a ''license'' named ''other''. This ''license'' included at the time of observation 5282 known programs to FSF whose PCLs were not documented yet by the FSF. Although some of the programs had straightforward PCLs such as GPL-2.0-only we decided to leave these PCLs out of the scope of this thesis due to the large amount of the programs. The second note is about GNU's PCLs. Since we had the most trouble scraping the identifiers automatically from this website we decided to limit the PCLs only to ''Software Licenses'' as defined by the table of contents on the website.
