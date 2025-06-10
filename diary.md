@@ -1,6 +1,6 @@
 ## Diary
-### week 19
-mon: 
+### week 24
+tue: ah it seems i stopped writing thesis diary when the methods.py got finished lol. this whole day i wrote Methods and i just gotta remove the red notes i left for myself during the process of methods.py. the fucking foss oss free diagram i made is so cool i makes me kinda sick to see how i really cant use it if i wanna be true to myself.
 ### week 18
 fri: we just need to remove creative commons and gfdl licenses and then we call it a day. regex is hard. never mind it seems to match correctly but why tf does my script write the excluded licenses still to stage2licnses????
 

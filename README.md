@@ -8,6 +8,8 @@ ScanCode LicenseDB data is licensed under the Creative Commons Attribution Licen
 `sudo apt install texlive-full`
 
 `latexmk`
+
+To emulate the missing full license text stage 1, remove the `manual-licenses` directory.
 ## Timing
 
 week n send first draft, wait for comments, revise

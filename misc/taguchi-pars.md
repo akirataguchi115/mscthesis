@@ -45,22 +45,17 @@
 - finalized search string
 #### 2.3 Search process
 - Study selection divided into multiple stages (figure)
-- first stage titles, abstracts and keywords
-- second stage inclusion exclusion criteria (quality assesment incl/excl, manual excl in appendix b)
-- third stage manual review (final list of licenses in appendix c (maybe in hosted javascript githubpages as well))
+- first stage
+- second stage
+- third stage
 #### 2.4 Inclusion and exclusion criteria
-- inclusion criterias (second phase from github /licenses api)
-- exclusion criterias
+- incl excl regex string
+- fetch licenses from scancode
 - comments on applying
-#### 2.5 Quality and evidence criteria
-- quality criteria was also taken into consideration
-- quality criteria
-- quality assesment and figure
-#### 2.6 Data collection and data analysis
+#### 2.5 Data collection and data analysis
 - what was done to answer rq (table data extraction form)
-- aim of scope and evidence levels (alves et al)
-- categorization of results
-- nex chapter presents outcomes
+- third stage how to
+- next chapter presents outcomes
 
 ### 3 Results
 - information about chapter
