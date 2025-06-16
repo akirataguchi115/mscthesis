@@ -12,9 +12,11 @@
 - thesis structure
 #### 1.3 Background and terminology of PCLs
 - state of current terminology
+- explain copyleft
 - terms of other interest areas of the thesis
 - why the scope is so narrow
-- acknowledge some other essential but non-focus
+- acknowledge one example of non-focus
+- legal aspect scope
 - state of terminology standardization
 - figure to demonstrate terms
 - free vs open
