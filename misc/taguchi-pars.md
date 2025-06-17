@@ -10,7 +10,7 @@
 - viewpoints
 #### 1.2 Thesis structure
 - thesis structure
-#### 1.3 Background and terminology of PCLs
+#### 1.3 Background and terminology of public licenses
 - state of current terminology
 - explain copyleft
 - terms of other interest areas of the thesis
@@ -18,7 +18,7 @@
 - acknowledge one example of non-focus
 - legal aspect scope
 - state of terminology standardization
-- figure to demonstrate terms
+- FLOSS diagram
 - free vs open
 - define public licenses in se
 - acknowledge the topic is complex
@@ -61,7 +61,7 @@
 
 ### 3 Results
 - information about chapter
-- how many licenses and why
+- note about publication year and literature amount
 - statistical overview with figures (mapping study)
 - how many licenses during each stage (figure)
 - basic statistic on final licenses (figure)
