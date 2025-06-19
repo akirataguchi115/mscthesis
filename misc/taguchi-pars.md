@@ -62,7 +62,8 @@
 ### 3 Results
 - information about chapter
 - note about publication year and literature amount
-- statistical overview with figures (mapping study)
+- statistical overview
+- recap search process
 - how many licenses during each stage (figure)
 - basic statistic on final licenses (figure)
 - essential statistics (figure)
