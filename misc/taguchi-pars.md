@@ -62,17 +62,19 @@
 ### 3 Results
 - information about chapter
 - note about publication year and literature amount
-- statistical overview
+- statistical overview (2 figures)
 - recap search process
-- how many licenses during each stage (figure)
-- basic statistic on final licenses (figure)
-- essential statistics (figure)
-#### 3.1 RQ1
-- figures and study identifier tables
-#### 3.2 RQ2
-- figures and study identifier tables
-#### 3.3 RQ3
-- figures and study identifier tables
+#### 3.1 Five license listing sites and their licenses (RQ1)
+- notable observation on a few different types of licenses
+- the other type of licenses
+- research literature shows in between type
+- some other note and findign about the five listing sites licenses
+#### 3.2 Duplicates in license listing sites (RQ2)
+- note the amount of duplicates per site
+- note some other thing about this particular finding
+#### 3.3 Total amount of public software licenses (RQ3)
+- note the amount of software licenses in appendix c
+- note about some non software licenses
 
 ### 4 Discussion
 - indications
