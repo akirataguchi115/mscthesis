@@ -1,4 +1,7 @@
 ## Diary
+### week 26
+wed: 1,2 done continuing on 3 answering to RQs. then only discussion and conclusions to finish.
+
 ### week 25
 tue: finally edited the diagram on floss. it was such a dreadful task to take on but now its pretty accurate i think.
 
@@ -41,7 +44,7 @@ thu: removed the code from stage2-3.py that removes exceptions i.e. duplicates f
 
 wed: i continue to copy paste manually licenses from the listing cites which are not found in scancode db. 115 licenses to go.
 
-### week 12
+### week 12 (2025)
 tue: i took a break of 4 months from advancing this thesis. now ill have to figure out what was i doing. what should i do next? what needs to be still done? according to my notes stage 1 of literature selection process (2.3) seems to be done. next up stage 2 i guess. it seems like there should be an iteration between with stage 2 and stage 3 but i  might need to somehow make it so that iterations happen only inside one individual stage. i also need to somehow write this diary to latex maybe once im going to be done with 2. Methods. Then I'll write also 1. Introduction anew. Diary in diary.md. Plan in Joplin.
 
 wed: either one is more simpler: removing quasi-duplicates or applying exclusion criteria. stage 2 could be just inclusion and check no good licenses end up in un-included. stage 3 could be remove duplicate licenses from a sorted order and exclude non-software licenses. removing duplicates is a validity threat since thats something this time ill have to do manually by a human.
@@ -184,7 +187,7 @@ wed 24.1 write introduction: didn't manage to write any introduction. instead fo
 tue 23.1 think about research questions: I started taking a model from Nurmivaara's systematic literature review on green software. I now have my first set of 4 research questions.
 
 mon 22.1 think about research questions
-### week 3
+### week 3 (2024)
 fri 19.1 read about slr
 
 thu 18.1 fix latex

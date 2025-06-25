@@ -34,12 +34,14 @@ We observed the number of literature acquired is adequate to gain an representat
 After this overview let us take a look into the specific research questions and their answers.
 
 \section{Five license listing sites and their licenses (RQ1)}
+% spdx gave least headache
+Only license listing site during the first phase of the search process that did not give too much trouble was the SPDX. This could be due to the table format used in that particular license listing site, shortcode identifier being provided inside that table and that it seems that SPDX preserves many of the licenses regardless of legal validity, superseding licenses or voluntary retirement.
 
-% notable observation on a few different types of licenses
-Only license listing site that didnt give headache was spdx
-% the other type of licenses
-% research literature shows in between type
-% some other note and findign about the five listing sites licenses
+% the rest listing sites gave headache
+The four other listing sites were more problematic to scrape. An example of DFSG is that for example for the license ''Licence Art Libre (Free Art License)'' I had to just use the more commonly used shortcode \texttt{FAL} because the shortcode itself was not listed in DFSG. FSF used a Wiki as the base for the license listing site so there was plenty of missing and outdated data. For example the original \texttt{Python} license has the full text of just ''test'' which indicates a pure mistake or a placeholder from the FSF.
+
+% tell more in validity threats
+This is just an example of the level of maintenance in the four other license listing sites and some other examples are brought up later in the next chapter. This is because solving these problems also becomes more of a validity threat of the author regardless of the fact that this kind observation is a relevant result on its own in this thesis.
 \section{Duplicates in license listing sites (RQ2)}
 % note the amount of duplicates per site
 % note some other thing about this particular finding

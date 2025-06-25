@@ -65,10 +65,9 @@
 - statistical overview (2 figures)
 - recap search process
 #### 3.1 Five license listing sites and their licenses (RQ1)
-- notable observation on a few different types of licenses
-- the other type of licenses
-- research literature shows in between type
-- some other note and findign about the five listing sites licenses
+- spdx gave least headache
+- the rest listing sites gave headache
+- tell more in validity threats
 #### 3.2 Duplicates in license listing sites (RQ2)
 - note the amount of duplicates per site
 - note some other thing about this particular finding
