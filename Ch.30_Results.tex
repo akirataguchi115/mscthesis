@@ -35,29 +35,26 @@ After this overview let us take a look into the specific research questions and 
 
 \section{Five license listing sites and their licenses (RQ1)}
 % spdx gave least headache
-Only license listing site during the first phase of the search process that did not give too much trouble was the SPDX. This could be due to the table format used in that particular license listing site, shortcode identifier being provided inside that table and that it seems that SPDX preserves many of the licenses regardless of legal validity, superseding licenses or voluntary retirement.
+Only license listing site during the first phase of the search process that did not give too much trouble was the SPDX. This was mostly be due to the table format used in that particular license listing site, shortcode identifier being provided inside that table and that it seems that SPDX preserves many of the licenses regardless of legal validity, superseding licenses or voluntary retirement.
 
 % the rest listing sites gave headache
-The four other listing sites were more problematic to scrape. An example of DFSG is that for example for the license ''Licence Art Libre (Free Art License)'' I had to just use the more commonly used shortcode \texttt{FAL} because the shortcode itself was not listed in DFSG. FSF used a Wiki as the base for the license listing site so there was plenty of missing and outdated data. For example the original \texttt{Python} license has the full text of just ''test'' which indicates a pure mistake or a placeholder from the FSF.
+The four other listing sites were more problematic to scrape. An example of DFSG is that for example for the license ''Licence Art Libre (Free Art License)'' I had to just use the more commonly used shortcode \texttt{FAL} because the shortcode itself was not listed in DFSG. FSF used a Wiki as the base for the license listing site so there was plenty of missing and outdated data. For example the original \texttt{Python} license has the full text of just ''test'' which indicates a pure mistake or a placeholder from the FSF. OSI had licenses that were retired between the search stages one and two. For example \texttt{cvw} was listed during the initial web scraping of the five listing sites but during the full license text fetching from the public license database of ScanCode the original creator of \texttt{cvw}, MITRE had voluntarily retired their license from the OSI license listing site and was no longer found from the OSI license listing site even though the missing license was noted to be from the OSI in the spreadsheet. The license was found however under the shortcode \texttt{cvwl} from the ScanCode public license database. This specific issue could have been solved by using an internet archiver, which we will discuss further in \hyperref[discussion]{Chapter 4}. GNU for example listed licenses like \texttt{attpubliclicense} which pointed the full license text to reside in and FSF site but the full license text was empty. In this case we had to just use the comments made by GNU as the full license text in this thesis.
 
 % tell more in validity threats
-This is just an example of the level of maintenance in the four other license listing sites and some other examples are brought up later in the next chapter. This is because solving these problems also becomes more of a validity threat of the author regardless of the fact that this kind observation is a relevant result on its own in this thesis.
+These are just individual examples of the level of maintenance appearing in the four other license listing sites and some other examples will be brought up later in the next chapter. This is because solving these problems also becomes more of a validity threat of the author regardless of the fact that this kind observation is a relevant result on its own in this thesis. When we count the amount of license per listing site after search stage one we get 607 licenses from the SPDX, 38 from the DFSG, 200 from the FSF, 96 from the OSI and 116 from GNU. The distribution of licenses from the five listing sites is illustrated in \hyperref[fig:3-3]{Figure 3.4}.
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.76]{figures/figure-3-4.pdf}
+	\caption{Distribution of license across the listing sites}
+	\label{fig:3-4}
+\end{figure}
 \section{Duplicates in license listing sites (RQ2)}
 % note the amount of duplicates per site
+A total of 463 CONTINUE HERE
 % note some other thing about this particular finding
 \section{Total amount of public software licenses (RQ3)}
 % note the amount of software licenses in appendix c
+\textcolor{orange}{the eye-pass of 87 excluded licenses included cal1.0 and cal-combined which seem to need to be included. made inclusions.txt to manually include them although containing the words creative commons, since those license texts were licensed themselves with creative commons. will eyeball the stage-2 shortcodes as well just to see anything i know by heart is not public software license. cc-by-sa-japanese was included so i had to make a manual exclusions.txt to manually mark licenses that are not public software licenses.}
 
 % notable observation on legal validity
 A notable observation regarding the total amount of existing public software licenses is that many of the licenses might not be considered legally valid in any court and many of them do not even try to be legally valid in the court. An example of the former, possibly not court-fireproof software license is the \texttt{MIT}. The breach of the license is not meant to be settled in court but rather just agreeing developer to developer that the distributed software contains MIT -licensed source code. Some examples of the latter include \texttt{Beerware} and \texttt{JSON} from which the former recommends buying a licensor a cold beverage and the latter forbids the use of software to evil purposes. 
-
-
-\textcolor{red}{it's good to note that when bumping into the missing license of attpubliclicense which was from gnu, it turned out that the license listing site doesnt state the license content whatsoever. i had to just put the comment of the license into manual licenses.}
-
-\textcolor{red}{mention how many missing/manual licenses there were. and from which site respectively}
-
-\textcolor{red}{it could be a good idea to mention how many missing licenses came out of which sites. or it could be out of scope. i can just make a validity threat and say with face value that most of them were from FSF, GNU in that order. Python license seems just straight up an accident on FSF's side. scope is not to fix the documentation problems of the 5 organizations though so I'll leave it just like that and mention the possibility of it being just an accident.}
-
-\textcolor{orange}{the eye-pass of 87 excluded licenses included cal1.0 and cal-combined which seem to need to be included. made inclusions.txt to manually include them although containing the words creative commons, since those license texts were licensed themselves with creative commons. will eyeball the stage-2 shortcodes as well just to see anything i know by heart is not public software license. cc-by-sa-japanese was included so i had to make a manual exclusions.txt to manually mark licenses that are not public software licenses.}
-
-\textcolor{orange}{we relaized that we were trying to fix the problem we were trying to give awareness to in the thesis by trying to distinguish automatically what is a public software license in the sea of 600+ licenses.}
