@@ -50,8 +50,22 @@ These are just individual examples of the level of maintenance appearing in the 
 \end{figure}
 \section{Duplicates in license listing sites (RQ2)}
 % note the amount of duplicates per site
-A total of 463 CONTINUE HERE
-% note some other thing about this particular finding
+A total of 277 duplicates compared by exact shortcode after search stage one and 62 more duplicates were found after applying the exclusion criteria after search stage three. The intial 277 duplicates indicates some level of disagreement about the shortcodes between the five license listing sites. This is because these shortcodes are not treated unique across the listing sites. The following citation from GNU \citep{gnu:licenselist} about the \texttt{MIT} license demonstrates clearly the phenomenon affecting all five listing sites:
+\begin{displayquote}
+  Some people call this license 'the MIT License,' but that term is misleading, since MIT has used many licenses for software. It is also ambiguous, since the same people also call the X11 license 'the MIT License,' failing to distinguish them. We recommend not using the term 'MIT License.'
+\end{displayquote}
+\begin{displayquote}
+  The difference between the X11 license and the Expat license is that the X11 license contains an extra paragraph about using the X Consortium's name. It is not a big deal, but it is a real difference.
+\end{displayquote}
+GNU calls the \texttt{MIT} license as the \texttt{Expat} license. A notable observation being here that the \texttt{MIT} license was used in 44.69\% of repositories in 2015 \citep{github:licenseusage} and with 4.8 million unique Git pushers in 2024 with the \texttt{MIT} license used as the license for the source code making the \texttt{MIT} license the most used license in GitHub in all four quarters of 2024 \citep{github:innovation}. The same license was used the most also between the years 2020 and 2023 as can be seen in \hyperref[fig:3-5]{Figure 3.5}.
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.76]{figures/figure-3-5.pdf}
+	\caption{License usage between years 2020 and 2024 in GitHub}
+	\label{fig:3-5}
+\end{figure}
+GNU demonstrates the same phemonemon of shortcode disagreement with the \texttt{GPL-3.0} license being either \texttt{GPL-3.0-only} or \texttt{GPL-3.0-or-later}, disagreeing with any other shortcode staten by the other four listing sites \citep{gnu:licenselist}. The 62 duplicates after search stage three fortifies our result that the unique shortcodes do not provide unique full license text between the license listing sites. We conclude that the FSF, DSFG, SPDX and the OSI share the same problem of disagreement between some license shortcodes.
+
 \section{Total amount of public software licenses (RQ3)}
 % note the amount of software licenses in appendix c
 \textcolor{orange}{the eye-pass of 87 excluded licenses included cal1.0 and cal-combined which seem to need to be included. made inclusions.txt to manually include them although containing the words creative commons, since those license texts were licensed themselves with creative commons. will eyeball the stage-2 shortcodes as well just to see anything i know by heart is not public software license. cc-by-sa-japanese was included so i had to make a manual exclusions.txt to manually mark licenses that are not public software licenses.}
