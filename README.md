@@ -40,7 +40,7 @@ wed: student submits thesis to E-thesis
 - viewpoints
 #### 1.2 Thesis structure
 - thesis structure
-#### 1.3 Background and terminology of PCLs
+#### 1.3 Background and terminology of public software licenses
 - state of current terminology
 - terms of other interest areas of the thesis
 - why the scope is so narrow
@@ -48,7 +48,7 @@ wed: student submits thesis to E-thesis
 - state of terminology standardization
 - figure to demonstrate terms
 - free vs open
-- define PCLs in se
+- define public software licenses in se
 - acknowledge the topic is complex
 ### 2 Methods 8 pages
 - aim of the chapter

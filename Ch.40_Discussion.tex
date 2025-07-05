@@ -1,39 +1,40 @@
 \chapter{Discussion\label{discussion}}
+% indications
+This research indicates that the field of public licenses in software engineering, meaning public software licenses, is at an early stage of development. The review of existing studies reveals a notable absence of common set of definitions and terminology in this field. Consequently, this often leads to work covering the same ground. Furthermore, the variability of terminology across different literature makes it challenging to compare and synthesize results effectively. Addressing this challenge will require the development of common measurement tools and frameworks for evaluating and comparing public licenses in software engineering. Such efforts could lead to the establishment of widely adopted standards for measuring and improving public software licenses.
 
-\textcolor{red}{indications}
+% follow-up observation
+That said, there is clear interest in public license in software engineering. 
 
-\textcolor{red}{follow-up observation}
+% observation 1
+The research in public licenses in software engineering exhibits a notable dichotomy between vague and general ideas where public software licenses should be integrated into the software engineering process or specific and concrete examples of its implementation, rarely seen in a combined fashion.
 
-\textcolor{red}{observation 1}
+% observation 2
+Recent efforts in the industry have led to the development of post-open source not yet noted in the research literature reviewed. 
+% sum-up from those two
+The development of a shared standard and certification system for measuring the environmental impact of software services, similar to those used for hardware, e.g., Energystar(US Government, 2023), could represent an important next step towards enabling comparisons and informed decision-making.
 
-\textcolor{red}{observation 2}
-
-\textcolor{red}{sum-up from those two}
-
+% some other random title
+However, it is important to note that the implementation of such standards and tools alone is not sufficient. Software professionals must be equipped with both the knowledge and tooling necessary to understand and apply well-defined measurements and methods to their work, making the challenge also one of education. Addressing these challenges and increasing overall knowledge about green in software engineering will be critical in enabling effective implementations.
 
 \section{Implications for research}
+% how to improve scientific scene 1
 
-\textcolor{red}{how to improve scientific scene 1}
+% how to improve scientific scene 2
 
-\textcolor{red}{how to improve scientific scene 2}
-
-\textcolor{red}{how to improve scientific scene 3}
-
+% how to improve scientific scene 3
 
 \section{Implications for software engineering professionals}
+% how to improve professional scene 1
 
-\textcolor{red}{how to improve professional scene 1}
+% how to improve professional scene 2
 
-\textcolor{red}{how to improve professional scene 2}
+% how to improve professional scene 3
 
-\textcolor{red}{how to improve professional scene 3}
-
-\textcolor{red}{overall}
-
+% overall implications
 
 \section{Limitations and threats to validity}
 
-\textcolor{red}{PUT THIS HERE OR THE SECTION BELOW Some things must be mentioned about the process of the first stage. First, the FSF outputted a ''license'' named ''other''. This ''license'' included at the time of observation 5282 known programs to FSF whose PCLs were not documented yet by the FSF. Although some of the programs had straightforward PCLs such as GPL-2.0-only we decided to leave these PCLs out of the scope of this thesis due to the large amount of the programs. The second note is about GNU's PCLs. Since we had the most trouble scraping the identifiers automatically from this website we decided to limit the PCLs only to ''Software Licenses'' as defined by the table of contents on the website. }
+\textcolor{red}{PUT THIS HERE OR THE SECTION BELOW Some things must be mentioned about the process of the first stage. First, the FSF outputted a ''license'' named ''other''. This ''license'' included at the time of observation 5282 known programs to FSF whose public software licenses were not documented yet by the FSF. Although some of the programs had straightforward public software licenses such as GPL-2.0-only we decided to leave these public software licenses out of the scope of this thesis due to the large amount of the programs. The second note is about GNU's public software licenses. Since we had the most trouble scraping the identifiers automatically from this website we decided to limit the public software licenses only to ''Software Licenses'' as defined by the table of contents on the website. }
 
 \textcolor{red}{SAME THING HERE approx duplicates were the result of going to the two listing websites that had the approaximately same looking licenses. then i just checked if they were actually some sort of duplicates of one another or if they already exist somewhere else. examples here. this is also a validity threat. problem with focusing software specific licenses is for example wtfpl. it is mostly used in software licensing but it doesn't quite clearly state that it is software specific license. maybe ill have to include the word "public license" and just include stuff that's not actually software specific or maybe ill make some exclusion criteria in order to get less non-software licenses}
 
@@ -67,22 +68,21 @@ As a work of single researcher, there is also a chance of inaccuracy and bias in
 \subsection{Limitations of literature selection for review}
 Efforts were made to ensure the inclusion of comprehensive set of literature in the search process. This was achieved by setting the starting point of PCL lists to the Wikipedia article of the MIT license.
 
-However, as with all systematic literature reviews, a comprehensive manual review of all literature would have been a formidable task. Therefore, additional filtering was conducted. This filtering was carried out in two phases, starting with the application of inclusion/exclusion criteria, followed by a second phase focused on evaluating the nature of the PCLs and conducting a manual review. As a result of this second phase, a set of literature were excluded following a critical appraisal, with documentation and reasoning provided for each section.
+However, as with all systematic literature reviews, a comprehensive manual review of all literature would have been a formidable task. Therefore, additional filtering was conducted. This filtering was carried out in two phases, starting with the application of inclusion/exclusion criteria, followed by a second phase focused on evaluating the nature of the public software licenses and conducting a manual review. As a result of this second phase, a set of literature were excluded following a critical appraisal, with documentation and reasoning provided for each section.
 
-The first phase of filtering has some notable limitations starting with the two PCL listing websites: SPDX and DFSG. Since the material was gathered to a spreadsheet program the duplicates were removed using the short identifier the listing page was using. Let's look at this validity threat using an example. Suppose our spreadsheet program has acquired the PCL with an identifier ''MIT''. The results of phase 1 will not include any other PCL marked with the identifier ''MIT''. In the worst case the identifier ''MIT'' could have actually been ''MIT-DFSG-edition'' but with the identifier of ''MIT''. Since there were so many PCLs in phase 1 it would not have been possible to check the uniqueness of all removed duplicates. One of the reasons why this would not have been feasible is that the listing sites would fetch the PCL contents from another webpage or at the second worst case, from another website. The worst case is that the URl is dead and we get HTTP 404. The amount of PCLs, duplicates and the lack of already existing tools makes this problem multilayered. However this is the integrity level we decided to live with.
+The first phase of filtering has some notable limitations starting with the two PCL listing websites: SPDX and DFSG. Since the material was gathered to a spreadsheet program the duplicates were removed using the short identifier the listing page was using. Let's look at this validity threat using an example. Suppose our spreadsheet program has acquired the PCL with an identifier ''MIT''. The results of phase 1 will not include any other PCL marked with the identifier ''MIT''. In the worst case the identifier ''MIT'' could have actually been ''MIT-DFSG-edition'' but with the identifier of ''MIT''. Since there were so many public software licenses in phase 1 it would not have been possible to check the uniqueness of all removed duplicates. One of the reasons why this would not have been feasible is that the listing sites would fetch the PCL contents from another webpage or at the second worst case, from another website. The worst case is that the URl is dead and we get HTTP 404. The amount of public software licenses, duplicates and the lack of already existing tools makes this problem multilayered. However this is the integrity level we decided to live with.
 
-FSF's PCL listing introduced us to pick another limitation for the scope of this thesis. The license shortcoded as ''other'' was not a PCL but instead a hyperlink to another listing webpage that listed programs that the FSF has no yet managed to document the license which the program uses. Although the one of the programs called ''babl'' was licensed as with ''gplv3'' the amount of undocumented programs was over 5200 at the time of observation. For this reason we are excluding the PCLs found indirectly from the category ''other''.
+FSF's PCL listing introduced us to pick another limitation for the scope of this thesis. The license shortcoded as ''other'' was not a PCL but instead a hyperlink to another listing webpage that listed programs that the FSF has no yet managed to document the license which the program uses. Although the one of the programs called ''babl'' was licensed as with ''gplv3'' the amount of undocumented programs was over 5200 at the time of observation. For this reason we are excluding the public software licenses found indirectly from the category ''other''.
 
 \textcolor{red}{tell about the validity threats of osi literature selection for review}
 
-Lastly, GNU project's listing site allowed us to use a shortcut of sorts which we will document here for the purposes of acknowleding the limitations of it. The table of contents at the listing site marked certain consequtive PCLs as software PCLs. On top of this the PCLs were not organized into easily processable tables but rather in stacked on one another in rich text format. Although we decided to use regex on the HTMl file the included PCLs were only the ones that were simply under the header ''Software licenses''. In the worst case scenario GNU project could have misinterpreted some PCLs as non-software licenses thus making this thesis exclude them with a wrong reason. While from a quick glance and the existence of the other four PCL listing sites, we think it is still worth documenting when it comes to validity and the integrity of this thesis.
+Lastly, GNU project's listing site allowed us to use a shortcut of sorts which we will document here for the purposes of acknowleding the limitations of it. The table of contents at the listing site marked certain consequtive public software licenses as software public software licenses. On top of this the public software licenses were not organized into easily processable tables but rather in stacked on one another in rich text format. Although we decided to use regex on the HTMl file the included public software licenses were only the ones that were simply under the header ''Software licenses''. In the worst case scenario GNU project could have misinterpreted some public software licenses as non-software licenses thus making this thesis exclude them with a wrong reason. While from a quick glance and the existence of the other four PCL listing sites, we think it is still worth documenting when it comes to validity and the integrity of this thesis.
 
-On top of too heavy filters we would also like to document the too light filters in the literature selection for review. We can see from \hyperref[appendix:a]{Appendix A} that for example PCLs with the literature identifiers L777 and L780 are almost the same regarding the shortcoded identifiers: ''ZPL - 2.1'' and ''ZPL-2.1''. The duplicate removal would have been seemingly simple to execute on phase 1. However with the presence of over 700 pieces of literature we decided not to give special treatment to any potential set of duplicates. While it is most possible that OSI's ''ZPL - 2.1'' is equivalent exactly to SPDX's ''ZPL-2.1'' we could not be sure without looking at their contents. This could have resulted duplicate PCLs in the literature selection for review but these type of duplicates are removed in phases 2 and 3 due to the PCLs being read in full.
+On top of too heavy filters we would also like to document the too light filters in the literature selection for review. We can see from \hyperref[appendix:a]{Appendix A} that for example public software licenses with the literature identifiers L777 and L780 are almost the same regarding the shortcoded identifiers: ''ZPL - 2.1'' and ''ZPL-2.1''. The duplicate removal would have been seemingly simple to execute on phase 1. However with the presence of over 700 pieces of literature we decided not to give special treatment to any potential set of duplicates. While it is most possible that OSI's ''ZPL - 2.1'' is equivalent exactly to SPDX's ''ZPL-2.1'' we could not be sure without looking at their contents. This could have resulted duplicate public software licenses in the literature selection for review but these type of duplicates are removed in phases 2 and 3 due to the public software licenses being read in full.
 
 As such we can note that the literature selection was done in a sufficient manner.
 
 \subsection{Limitations in data extraction}
+% importance of data extraction
 
-\textcolor{red}{importance of data extraction}
-
-\textcolor{red}{lack of measurements and tooling}
+% lack of measurements and tooling

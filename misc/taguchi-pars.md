@@ -89,7 +89,7 @@
 - how to improve professional scene 1
 - how to improve professional scene 2
 - how to improve professional scene 3
-- overall
+- overall implication
 #### 4.3 Limitations and threats to validity
 - major limitation
 - possible threats to validity
@@ -107,7 +107,7 @@
 #### 5.1 Future research
 - adopting a clear baseline
 - Docker CLA, SSPL
-- make cla easier maybe with gpg
+- make cla easier maybe with gpg / joplin easy cla sign
 - LICENSE highlighting.js
 - what kind of efforts and why
 - what this thesis has provided
