@@ -78,9 +78,7 @@
 ### 4 Discussion
 - indications
 - follow-up observation
-- observation 1
-- observation 2
-- sum-up from those two
+- notable observation
 #### 4.1 Implications for research
 - how to improve scientific scene 1
 - how to improve scientific scene 2

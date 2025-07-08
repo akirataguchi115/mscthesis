@@ -1,23 +1,16 @@
 \chapter{Discussion\label{discussion}}
 % indications
-This research indicates that the field of public licenses in software engineering, meaning public software licenses, is at an early stage of development. The review of existing studies reveals a notable absence of common set of definitions and terminology in this field. Consequently, this often leads to work covering the same ground. Furthermore, the variability of terminology across different literature makes it challenging to compare and synthesize results effectively. Addressing this challenge will require the development of common measurement tools and frameworks for evaluating and comparing public licenses in software engineering. Such efforts could lead to the establishment of widely adopted standards for measuring and improving public software licenses.
+This research indicates that the field of public licenses in software engineering, meaning public software licenses, is at an early stage of development. The review of existing literature reveals a notable absence of common set of definitions and terminology in this field. Consequently, this often leads to work covering the same ground. Furthermore, the variability of terminology across different literature makes it challenging to compare and synthesize results effectively. Addressing this challenge will require the development of common measurement tools and frameworks for evaluating and comparing public licenses in software engineering. Such efforts could lead to the establishment of widely adopted standards for measuring and improving public software licenses.
 
 % follow-up observation
-That said, there is clear interest in public license in software engineering. 
+That said, there is clear interest in public licenses in software engineering. Although the amount of purely academic literature on public software licenses is limited, the amount of grey literature on public software licenses is ever increasing. This is most likely due to the recent developments in the field regarding proprietarization noted in the \hyperref[intro]{Chapter 1}. 
 
-% observation 1
-The research in public licenses in software engineering exhibits a notable dichotomy between vague and general ideas where public software licenses should be integrated into the software engineering process or specific and concrete examples of its implementation, rarely seen in a combined fashion.
-
-% observation 2
-Recent efforts in the industry have led to the development of post-open source not yet noted in the research literature reviewed. 
-% sum-up from those two
-The development of a shared standard and certification system for measuring the environmental impact of software services, similar to those used for hardware, e.g., Energystar(US Government, 2023), could represent an important next step towards enabling comparisons and informed decision-making.
-
-% some other random title
-However, it is important to note that the implementation of such standards and tools alone is not sufficient. Software professionals must be equipped with both the knowledge and tooling necessary to understand and apply well-defined measurements and methods to their work, making the challenge also one of education. Addressing these challenges and increasing overall knowledge about green in software engineering will be critical in enabling effective implementations.
+% notable observation
+A notable observation of our reserach is that the recent efforts in the industry have led to the development of post-open source not yet noted in the research literature reviewed. Whether or not this paradigm will change the industry like open source and free software did will only be evident over time. The paradigm is explained shortly in \hyperref[conclusions]{Chapter 5}.
 
 \section{Implications for research}
 % how to improve scientific scene 1
+To improve the maturity of research methods employed in the field of public licenses in software engineering, researchers should aim to use more rigorous and comprehensive reserach methods. This may involve using larger and more diverse data sets, developing more sophisticated measurement tools, and conducting experiments that are representative of real-world scenarios.
 
 % how to improve scientific scene 2
 
@@ -44,16 +37,11 @@ However, it is important to note that the implementation of such standards and t
 
 \textcolor{red}{. dejavu and dbg-3.0 were also two other licenses that contained a space. this might indicate that the space is an accident that its simply just not found from a license listing site x. its also good to note that the python script was decided to be an valid approach since many of the licenses were actually found with the shortcode from the licensedb scancode. fetching 700 licenses by hand would have had time and validity issues. wayback machine could have been used to do the actual searching as well. this is unfortunately a validity issue but at least the source is available in wayback machine.}
 
-\textcolor{red}{it seems like i have manually added licenses and invented shortcodes for them AT LEAST in DFSG license listing. FAL is a good example.}
-\textcolor{orange}{many of the validity threats also are presented in 2.methods and 3 results like the fal free art license come upwith the shortcode from fsf and are not mentioned here again for redundant repetition.}
-
 \textcolor{red}{For example licenses like CorkForkPL from FSF are just empty licenses. CorkForkPL is used however in MighTyD project but the license would have to be seen from a downloaded project or something like that. A new scope: only licenses that are one (1) click away from the initial license landing page can be copypasted to the manual licenses. just like the JahiaCSL has a URL on FSF for the license new location although the FSF page is empty.}
 
 \textcolor{red}{licenses like MPL exist on FSF and GNU. it was not easily found from FSF (empty with links to programs using this) so it was gotten from GNU which was labeled as MPL1.1, which the FSF DOES have so i just boldly went with that. threat to validity.}
 
 \textcolor{orange}{its good to note that systematic != automatic. our approach especially uses automation (python) to help the author use their human eye sight otherwise it would be more prone to error due to the large amount of licenses}
-
-\textcolor{orange}{documenting missing licenses amount from their respective site was not possible since the missing licenses were just fetched in the wikipedia order so if SPDX was a hit we would never know if it was missing from the other site i.e. wrong shortcode or completely just missing. most of the missing licenses were by a feel of the author from fsf and gnu in that order. it was a good realization to invent that the goal of the thesis was not to fix the organization issues of the 5 listing sites but rather to, again, point out the madness of having so many open source licenses. same realization goes for the difficulity of making the automation tool}
 
 \textcolor{orange}{\\"(source|software|program|code|module|public(s+)license|ware|(w+)ware)" was the first inc exc regex i used and it caught stuff like gfdl and thats how i ended up using exclusion only. note that documentation is not software but for example font is}
 
@@ -74,8 +62,6 @@ The first phase of filtering has some notable limitations starting with the two 
 
 FSF's PCL listing introduced us to pick another limitation for the scope of this thesis. The license shortcoded as ''other'' was not a PCL but instead a hyperlink to another listing webpage that listed programs that the FSF has no yet managed to document the license which the program uses. Although the one of the programs called ''babl'' was licensed as with ''gplv3'' the amount of undocumented programs was over 5200 at the time of observation. For this reason we are excluding the public software licenses found indirectly from the category ''other''.
 
-\textcolor{red}{tell about the validity threats of osi literature selection for review}
-
 Lastly, GNU project's listing site allowed us to use a shortcut of sorts which we will document here for the purposes of acknowleding the limitations of it. The table of contents at the listing site marked certain consequtive public software licenses as software public software licenses. On top of this the public software licenses were not organized into easily processable tables but rather in stacked on one another in rich text format. Although we decided to use regex on the HTMl file the included public software licenses were only the ones that were simply under the header ''Software licenses''. In the worst case scenario GNU project could have misinterpreted some public software licenses as non-software licenses thus making this thesis exclude them with a wrong reason. While from a quick glance and the existence of the other four PCL listing sites, we think it is still worth documenting when it comes to validity and the integrity of this thesis.
 
 On top of too heavy filters we would also like to document the too light filters in the literature selection for review. We can see from \hyperref[appendix:a]{Appendix A} that for example public software licenses with the literature identifiers L777 and L780 are almost the same regarding the shortcoded identifiers: ''ZPL - 2.1'' and ''ZPL-2.1''. The duplicate removal would have been seemingly simple to execute on phase 1. However with the presence of over 700 pieces of literature we decided not to give special treatment to any potential set of duplicates. While it is most possible that OSI's ''ZPL - 2.1'' is equivalent exactly to SPDX's ''ZPL-2.1'' we could not be sure without looking at their contents. This could have resulted duplicate public software licenses in the literature selection for review but these type of duplicates are removed in phases 2 and 3 due to the public software licenses being read in full.
@@ -86,3 +72,5 @@ As such we can note that the literature selection was done in a sufficient manne
 % importance of data extraction
 
 % lack of measurements and tooling
+
+We still note that because of the lack of common standardized measurements and tooling for them, a considerable amount of personal consideration had to be done to bring the research results of the primary literature into a comparative state.
