@@ -82,11 +82,10 @@
 #### 4.1 Implications for research
 - how to improve scientific scene 1
 - how to improve scientific scene 2
-- how to improve scientific scene 3
+- how to improve scientific academic vs multivocal
 #### 4.2 Implications for software engineering professionals
 - how to improve professional scene 1
 - how to improve professional scene 2
-- how to improve professional scene 3
 - overall implication
 #### 4.3 Limitations and threats to validity
 - major limitation
