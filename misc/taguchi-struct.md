@@ -3,28 +3,21 @@
 - setting
 - thesis objective in short
 - slr guidelines
-
 ### 1.1 background
-- state of current terminology
+- intro to section
+- define public license
+- define public software license
 - explain copyleft
-- terms of other interest areas of the thesis
-- why the scope is so narrow
-- acknowledge one example of non-focus
-- legal aspect scope
-- state of terminology standardization
-- floss diagram
 - free vs open
-- define public licenses in se
-- acknowledge the topic is complex
-
 ### 1.2 lack of license knowledge
-
+- problem
+- easier sub-problem
+- legal aspect scope
 ### 1.3 thesis goal and contributions
-- 
-
+- primary object of this research
+- thesis contribution
 ### 1.4 thesis structure
 - thesis structure
-
 ## 2 methods
 - aim of the chapter
 - explain slr
@@ -60,7 +53,6 @@
 - what was done to answer rq (table data extraction form)
 - third stage how to
 - next chapter presents outcomes
-
 ## 3 results
 - information about chapter
 - note about publication year and literature amount
@@ -76,7 +68,6 @@
 ### 3.3 total amount of public software licenses (rq3)
 - note the amount of software licenses in appendix c
 - note about some non software licenses
-
 ## 4 discussion
 - indications
 - follow-up observation
@@ -99,7 +90,6 @@
 ### 4.3.2 limitations in data extraction
 - importance of data extraction
 - lack of measurements and tooling
-
 ## 5 conclusions
 - primary objective of this study
 - conclusions from each rq

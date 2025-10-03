@@ -46,10 +46,10 @@
 #### 3.5.3 evidence level
 #### 3.5.4 evaluation approach
 #### 3.5.5 summary to answer rq4
-## 3.6 rq5
-## 3.6.1 summary to answer rq5
-## 3.7 rq6
-### 3.7.1 summary to answer rq6
+### 3.6 rq5
+#### 3.6.1 summary to answer rq5
+### 3.7 rq6
+#### 3.7.1 summary to answer rq6
 ## 4 discussion of results
 ### 4.1 main findings
 #### 4.1.1 focus on certain quality attributes
@@ -64,3 +64,8 @@
 #### 4.2.3 deviations from the procedures for systematic reviews
 #### 4.2.4 evaluation of review
 ## 5 conclusions
+- the goal of this thesis
+- results 1
+- results 2
+- contradictory result
+- suggestions
