@@ -21,8 +21,8 @@
 ## 2 methods
 - aim of the chapter
 - explain slr
-- study follows kitchenham 2007
-- how the review process came to be
+- kitchenham 2007
+- how our slr came to be
 - reliability & validity
 ### 2.1 research questions
 - purpose of rqs
