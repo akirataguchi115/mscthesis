@@ -44,11 +44,29 @@ The search process was conducted on five public license listing websites. The se
 \texttt{site:https://directory.fsf.org/wiki/Category:License}. Although the page has been up since 2013, for some reason Google has not crawled the page in 10 years \citep{fsf:licenselist}. This is why this thesis does not include search terms of the initial phase per se but rather inclusion and exclusion strings on the second phase. For the sake of validity the thesis still follows the guidelines presented in \cite{kitchenham2007} with the exception of replacing an academic database search engine with the five license listing sites, web scraping and our own Python script performing the legwork of an academic database search engine in a systematic literature review.
 
 % data extraction process
-The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining the relevant information from the selected literature. The data extraction form used included license shortcode used in the listing site, listing site name, full license text and is available  \hyperref[table:extraction]{Table 2.2}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
+The data extraction process was performed in a standardized and systematic manner, with the aim of obtaining the relevant information from the selected literature. The data extraction form used included license shortcode used in the listing site, listing site name, full license text and is available  \hyperref[table:listing-sites]{Table 2.1}. The extracted data was then used to answer the research questions and perform the data analysis. The results of the data analysis were then reported in a rigorous manner.
+
+\begin{table}[t]
+  \caption{License listing sites chosen}
+	\begin{center}
+		\begin{tabular}{||l||}
+			\hline
+			URL \\
+			\hline
+      https://spdx.org/licenses/ \\
+      https://wiki.debian.org/DFSGLicenses \\
+      https://directory.fsf.org/wiki?title=Category:License \\
+      https://opensource.org/licenses \\
+      https://www.gnu.org/licenses/license-list.html\\
+			\hline
+		\end{tabular}
+		\label{table:listing-sites}
+	\end{center}
+\end{table}
 
 % more on where was search process conducted in
 \subsection{Search method}
-The search was conducted on five license listing websites, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using inclusion and exclusion criteria presented later in this chapter. Manual searching of databases with hundreds of public licenses is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
+The search was conducted on five license listing websites shown \hyperref[table:listinc-sites]{Table 2.1}, as mentioned earlier, to obtain a broad set of multivocal literature. This approach yielded a large number of literature that were processed to a subset of high-relevance literature using inclusion and exclusion criteria presented later in this chapter. Manual searching of databases with hundreds of public licenses is not feasible, and it is prone to researcher bias and may overlook relevant venues from other scientific disciplines. However, a preliminary manual search was performed to reduce the number of iterations required and establish the quasi-gold standard (QGS) mentioned earlier.
 
 % how were search terms determined
 \subsection{Search scope and terms}
@@ -60,9 +78,10 @@ The inclusion and exclusion string was established on a basis of quasi-gold stan
   ^(?!.*\b(documentation\s+license|creative\s+commons|open data)\b).*
 \end{verbatim}
 % web scrape beginning
-In order to run the inclusion and exclusion string that established the quality-gold standard against the literature we had to gather them first. We started defining our search scope from the Wikipedia page of one of the most used open source license \citep{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.1}.
+In order to run the inclusion and exclusion string that established the quality-gold standard against the literature we had to gather them first. We started defining our search scope from the Wikipedia page of one of the most used open source license \citep{github:licenseusage}, the MIT license \citep{wikipedia:mit}. The infobox contained fields in the order shown in \hyperref[table:infobox]{Table 2.2}.
 
 \begin{table}[t]
+  \caption{MIT License Wikipedia page infobox}
 	\begin{center}
 		\begin{tabular}{||c c||}
 			\hline
@@ -78,32 +97,13 @@ In order to run the inclusion and exclusion string that established the quality-
 			Linking from code with a different license & Yes \\
 			\hline
 		\end{tabular}
-		\caption{MIT License Wikipedia page infobox}
 		\label{table:infobox}
 	\end{center}
 \end{table}
 The validity threats regarding this choice are discussed in a later chapter. The publisher, GPL compatibility, copyleft and the linking exception did not result in any meaningful license listing websites. This leaves us with the SPDX, Debian FSG compatibility, FSF and OSI from which all resulted in some sort of license listing websites. Since the fields were roughly as follows: SPDX, FSF, OSI and GNU, after some investigating, we decided to start the search for public software licenses from the following license listing sites:
 
-\begin{table}[t]
-	\begin{center}
-		\begin{tabular}{||l||}
-			\hline
-			URL \\
-			\hline
-      https://spdx.org/licenses/ \\
-      https://wiki.debian.org/DFSGLicenses \\
-      https://directory.fsf.org/wiki?title=Category:License \\
-      https://opensource.org/licenses \\
-      https://www.gnu.org/licenses/license-list.html\\
-			\hline
-		\end{tabular}
-		\caption{License listing sites chosen}
-		\label{table:listing-sites}
-	\end{center}
-\end{table}
-
 % how many results
-The web pages were scraped of the public license shortcodes using the browser's developer tools. These shortcodes were imported into a spreadsheet editor with each shortcode under their corresponding listing site name. This resulted in 1057 public licenses. Because the same public license would sometimes occur in multiple listing sites strictly duplicate shortcodes were removed using the spreadsheet editor resulting in 780 public licenses. Removing the duplicates was not intelligent and left duplicates like ZPL-2.0 and ZPL - 2.0 as unique license shortcodes. The solution to this problem is presented in a later sub-chapter. The table in the state after the strict removal of duplicates is provided in this thesis' repository \citep{mscthesis} under the name of \texttt{stage1-licenses.md}.
+The web pages were scraped of the public license shortcodes using the browser's developer tools. These shortcodes were imported into a spreadsheet editor with each shortcode under their corresponding listing site name. This resulted in over 1000 public licenses. Because the same public license would sometimes occur in multiple listing sites strictly duplicate shortcodes were removed using the spreadsheet editor resulting in 780 public licenses. Removing the duplicates was not intelligent and left duplicates like ZPL-2.0 and ZPL - 2.0 as unique license shortcodes. The solution to this problem is presented in a later sub-chapter. The table in the state after the strict removal of duplicates is provided in this thesis' repository \footnote{\url{https://github.com/akirataguchi115/mscthesis/}} \citep{mscthesis} under the name of \texttt{stage1-licenses.md}.
 
 With the search for the initial license listing websites completed we moved onto the search process itself.
 
@@ -142,9 +142,10 @@ The regular expression string first included some inclusion matching but we soon
 
 % what was done to answer rq (table data extraction form)
 \section{Data collection and data analysis}
-To answer the research questions of this thesis, a thorough examination of the selected primary literature was conducted and the necessary data was collected using data extraction form presented in \hyperref[table:extraction]{Table 2.2}. A record of the full license texts after the third stage was kept for anaysis and is available as a directory called \texttt{stage3-licenses} in the thesis' repository \citep{mscthesis}.
+To answer the research questions of this thesis, a thorough examination of the selected primary literature was conducted and the necessary data was collected using data extraction form presented in \hyperref[table:extraction]{Table 2.3}. A record of the full license texts after the third stage was kept for anaysis and is available as a directory called \texttt{stage3-licenses} in the thesis' repository \citep{mscthesis}.
 
 \begin{table}[t]
+  \caption{Data extraction form}
 	\begin{center}
 		\begin{tabular}{||c c c||} 
 			\hline
@@ -155,7 +156,6 @@ To answer the research questions of this thesis, a thorough examination of the s
 			F3 & Full text &  Documentation\\
 			\hline
 		\end{tabular}
-		\caption{Data extraction form}
 		\label{table:extraction}
 	\end{center}
 \end{table}
