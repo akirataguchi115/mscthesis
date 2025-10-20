@@ -1,4 +1,7 @@
 ## Diary
+### week 43
+mon: oh my dear lord the footnote system used by our university is horrendous :D
+
 ### week 28
 thu: i know i cant say everything i want to regarding software freedom etc. i just want this thesis to be over. honest. surely the people who read the thesis and know about software freedom and know me and my values, will understand that i just needed this thesis to be done with. im not locking away an academic career because of this. i just need to be done with the masters thesis thats all.
 
