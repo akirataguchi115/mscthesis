@@ -112,6 +112,7 @@ With the search for the initial license listing websites completed we moved onto
 % Study selection divided into multiple stages (figure)
 The literature selection process was divided into multiple stages, as outlined in \hyperref[fig:search-process]{Figure 2.2}. The initial step involved the formation of a inclusion and exclusion string through the use of a quasi-gold standard.
 
+% todo make it look more like mah-hez 2013
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.67]{figures/search-process.pdf}
@@ -119,7 +120,7 @@ The literature selection process was divided into multiple stages, as outlined i
 	\label{fig:search-process}
 \end{figure}
 
-% first stage
+% first stage (add tables instead this is exhausting to read)
 In the first stage, the search was conducted using the web pages titled  ''MIT License'' \citep{wikipedia:mit}, ''SPDX License List'' \citep{spdx:licenses}, ''The DFSG and Software Licenses'' \citep{debian:dfsg}, FSF's ''Category:License'' Wiki page \citep{fsf:licenselist}, GNU's ''Various Licenses and Comments about Them'' \citep{gnu:licenselist} and "OSI Approved licenses" \citep{osi:licenselist} focusing, focusing on the license listing site name and shortcode. Then we identified and eliminated any duplicates, producing a preliminary set of potentially relevant literature. The dataset after the first stage of the search process is provided in this thesis' repository\footnotemark[1] under the name of \texttt{stage1-licenses.md}, as mentioned earlier.
 
 %second stage
@@ -162,6 +163,14 @@ To answer the research questions of this thesis, a thorough examination of the s
 		\label{table:extraction}
 	\end{center}
 \end{table}
+
+To enhance transparency of the process, \hyperref[fig:2-3]{Figure 2.3} illustrates the progression of literature through each stage
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.8]{figures/figure-2-3.pdf}
+	\caption{Number of literature per step of data collection}
+	\label{fig:2-3}
+\end{figure}
 
 % third stage how to
 To get the necessary from the remaining literature we decided that the next reasonable step was to remove duplicates from the licenses as systematically as possible. We used Python's \texttt{difflib} library to sort the full license texts. The library itself used the Ratcliff and Obershelp algorithm compare every full license text to every full license text. The time complexity is $O(n^3)$ and $\theta(n^2)$. This took our working computer 68 minutes each time the algorithm ran so we decided to only do one cycle of this type of duplicate removal. The licenses were outputted to \texttt{duplicate-finding} directory with the naming convention of \texttt{n-shortcode.txt} where the n was the sort order given by the Ratcliff and Obershelp algorithm. We then opened these licenses to tabs in our text editor and compared the full license texts by human eyes if they were actually the same license with little to no noise difference in the full license texts. The comparison tool of our text editor was also a helpful automation tool for longer licenses that could not fit into one computer display as whole without scrolling. ''open data'' was also applied in the regular expression string at this stage. While this should have happened in stage 2, we wanted to be honest that this exclusion really did happen in stage 3. At this stage we also manually excluded individual licenses from the final dataset if there was too much noise. For example, GNU listed licenses often as whitespaces or something alike.  Examples of these will be given in \hyperref[results]{Chapter 3}. This ended the third stage of the search process and provided us with the necessary data to answer the research questions.
