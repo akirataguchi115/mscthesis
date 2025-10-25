@@ -4,6 +4,8 @@ Repository for my MSc thesis
 ScanCode LicenseDB data is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0) by nexB Inc. and others.
 
 `stage2.py` is licensed under AGPL-3.0.
+
+The thesis itself is licensed under CC-BY-SA-4.0.
 ## Build instructions
 `sudo apt install texlive-full`
 
