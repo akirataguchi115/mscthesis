@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
   <diagram name="Sivu-1" id="CAYOjzmCB3HU39b_6AZe">
-    <mxGraphModel dx="1432" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,13 +104,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="12eqbwSGON65AYIUoUnC-34" value="Manual search in an effort to gather the first license listing websites&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="12eqbwSGON65AYIUoUnC-34" value="Manual search in an effort to gather the first license listing websites" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="40.09" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12eqbwSGON65AYIUoUnC-35" value="Search based on the public software license opularity" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="12eqbwSGON65AYIUoUnC-35" value="Search based on the public software license popularity (1057)" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="40" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12eqbwSGON65AYIUoUnC-36" value="Record (per search source):&lt;div&gt;&lt;ol&gt;&lt;li&gt;License listing websites&lt;/li&gt;&lt;li&gt;Shortcodes&lt;/li&gt;&lt;li&gt;Number of literature returned&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="12eqbwSGON65AYIUoUnC-36" value="Records (per search source): 780&lt;div&gt;&lt;ol&gt;&lt;li&gt;License listing websites&lt;/li&gt;&lt;li&gt;Shortcodes&lt;/li&gt;&lt;li&gt;Number of literature returned&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="260.09000000000003" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="12eqbwSGON65AYIUoUnC-37" value="Stage 2" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
@@ -138,7 +138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="12eqbwSGON65AYIUoUnC-42" value="Record (per piece of literature):&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Record (in general):&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="12eqbwSGON65AYIUoUnC-42" value="Records (per piece of literature): 656&lt;div&gt;&lt;ol&gt;&lt;li&gt;Exclusion criteria (if met)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Record (in general):&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Metadata of remaining literature&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="520.0899999999999" width="200" height="204.01" as="geometry" />
         </mxCell>
         <mxCell id="12eqbwSGON65AYIUoUnC-43" value="Stage 3" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
@@ -158,7 +158,7 @@
             <mxPoint x="200" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12eqbwSGON65AYIUoUnC-47" value="Record:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded and other than duplicate)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="12eqbwSGON65AYIUoUnC-47" value="Records: 594&lt;div&gt;&lt;ol&gt;&lt;li&gt;Reason for exclusion (if excluded and other than duplicate)&lt;/li&gt;&lt;li&gt;Number of literature remaining&lt;/li&gt;&lt;li&gt;Full content of literature&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="830.15" width="230" height="150.03" as="geometry" />
         </mxCell>
         <mxCell id="12eqbwSGON65AYIUoUnC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="12eqbwSGON65AYIUoUnC-39" target="12eqbwSGON65AYIUoUnC-44" edge="1">
@@ -169,82 +169,82 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fillOpacity=50;" parent="1" vertex="1">
           <mxGeometry x="881" y="114.5" width="129" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillOpacity=50;" parent="1" vertex="1">
           <mxGeometry x="900" y="79" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="40" width="220" height="239" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Other public software licenses&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Other public software licenses&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="925" y="49" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-5" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Public software licenses&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-5" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Public software licenses&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="922.25" y="10" width="135.5" height="19.91" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-6" value="Free software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-6" value="Free software" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="881" y="154" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-7" value="Open source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-7" value="Open source" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="163.9999999999999" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-8" value="FLOSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-8" value="FLOSS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="950" y="163.9999999999999" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-9" value="1057" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-9" value="1057" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="910" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-10" value="780" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-10" value="780" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1109" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1029" y="360" as="sourcePoint" />
             <mxPoint x="1069" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-12" value="656" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-12" value="656" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1309" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1229" y="360" as="sourcePoint" />
             <mxPoint x="1269" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-14" value="594" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-14" value="594" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1509" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1429" y="360" as="sourcePoint" />
             <mxPoint x="1469" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-18" value="Licenses found from the five initial listing sites" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-18" value="Licenses found from the five initial listing sites" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="909" y="458.09" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-20" value="&lt;b&gt;Literature left after the simple removal of duplicates&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-20" value="&lt;b&gt;Literature left after the simple removal of duplicates&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1062.75" y="410" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-21" value="&lt;b&gt;Initial amount of literature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-21" value="&lt;b&gt;Initial amount of literature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="410" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-22" value="A total of 277 licenses were duplicates between the five listing sites" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-22" value="A total of 277 licenses were duplicates between the five listing sites" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1069" y="465.09" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-23" value="&lt;b&gt;Literature left after basic inclusion/exclusion criteria&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-23" value="&lt;b&gt;Literature left after basic inclusion/exclusion criteria&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1262.75" y="410" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-24" value="A total of 124 licenses failed to meet the inclusion/exclusion criteria" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-24" value="A total of 124 licenses failed to meet the inclusion/exclusion criteria" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1269" y="465.09" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-25" value="&lt;b&gt;Final set of literature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-25" value="&lt;b&gt;Final set of literature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1462.75" y="410" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wzXqi4trSM8jhQmcDVi5-26" value="Further 62 licenses were manually excluded for failing to meet quality criteria, resulting in the final set of 594 licenses of which the full text was retrieved, read and data extracted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wzXqi4trSM8jhQmcDVi5-26" value="Further 62 licenses were manually excluded for failing to meet quality criteria, resulting in the final set of 594 licenses of which the full text was retrieved, read and data extracted" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1434" y="450.09" width="230" height="84.91" as="geometry" />
         </mxCell>
       </root>
